@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void TrimToSize ();
 ```
 
@@ -18,7 +18,7 @@ public virtual void TrimToSize ();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the TrimToSize() Method
 using System;
 using System.Collections;
@@ -54,7 +54,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Before trimming the capacity is: 8
 After trimming the capacity is: 6
 
@@ -62,7 +62,7 @@ After trimming the capacity is: 6
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the TrimToSize() Method
 using System;
 using System.Collections;
@@ -143,7 +143,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Before Using TrimToSize Method:
 Count: 6
 Capacity: 8

@@ -19,7 +19,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate local function
 using System;
 
@@ -46,7 +46,7 @@ public class Program {
 
 **输出:**
 
-```
+```cs
 Value of a is: 20
 Value of b is: 40
 Sum of a and b is: 60
@@ -59,7 +59,7 @@ Sum of a and b is: 100
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate local function 
 // accessing the variable of the function 
 // in which they present
@@ -94,7 +94,7 @@ public class Program {
 
 **输出:**
 
-```
+```cs
 Value of a is: 50
 Value of b is: 80
 Value of x is: 40
@@ -115,7 +115,7 @@ Sum: 249
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how to
     // create local generic function
     using System;
@@ -143,7 +143,7 @@ Sum: 249
 
     **输出:**
 
-    ```
+    ```cs
     Value is: 123
     Value is: GeeksforGeeks
     Value is: G
@@ -155,7 +155,7 @@ Sum: 249
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how can we
     // out prarameter in local function
     using System;
@@ -183,7 +183,7 @@ Sum: 249
 
     **输出:**
 
-    ```
+    ```cs
     GeeksforGeeks
     ```
 
@@ -191,7 +191,7 @@ Sum: 249
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how can we
     // pass params in local function
     using System;
@@ -219,7 +219,7 @@ Sum: 249
 
     **输出:**
 
-    ```
+    ```cs
     Geeks
     gfg
     GeeksforGeeks

@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```cs
 public static StartNew ();
 ```
 
@@ -18,7 +18,7 @@ Stop()方法也属于秒表类，用于在一个时间间隔内停止当前测�
 
 **语法:**
 
-```
+```cs
 public void Stop ();
 ```
 
@@ -26,7 +26,7 @@ public void Stop ();
 
 ## C#
 
-```
+```cs
 // C# program to find the execution time of the code
 using System;
 using System.Diagnostics;
@@ -60,7 +60,7 @@ static public void Main()
 
 **Output**
 
-```
+```cs
 GeeksforGeeks
 GeeksforGeeks
 GeeksforGeeks
@@ -75,7 +75,7 @@ The Execution time of the program is 37ms
 
 **语法:**
 
-```
+```cs
 public static long GetTimestamp ();
 ```
 
@@ -83,7 +83,7 @@ public static long GetTimestamp ();
 
 ## C#
 
-```
+```cs
 // C# program to find the execution time of the code
 using System;
 using System.Diagnostics;
@@ -115,7 +115,7 @@ static public void Main()
 
 **Output**
 
-```
+```cs
 GeeksforGeeks
 GeeksforGeeks
 GeeksforGeeks
@@ -130,7 +130,7 @@ Elapsed Time is 343095 ticks
 
 **语法:**
 
-```
+```cs
 public static DateTime Now { get; }
 ```
 
@@ -138,7 +138,7 @@ public static DateTime Now { get; }
 
 ## C#
 
-```
+```cs
 // C# program to find the execution time of the code
 using System;
 
@@ -171,7 +171,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks
 GeeksforGeeks
 GeeksforGeeks

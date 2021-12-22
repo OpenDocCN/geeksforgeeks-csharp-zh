@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void Push (object obj);
 ```
 
@@ -24,7 +24,7 @@ public virtual void Push (object obj);
 
 **例 1:**
 
-```
+```cs
 // C# code to Create a Stack
 // from a collection
 using System;
@@ -76,7 +76,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Stack 1 are : 5
 website
 best
@@ -94,7 +94,7 @@ website
 
 **例 2:**
 
-```
+```cs
 // C# code to Create a Stack
 // from a collection
 using System;
@@ -146,7 +146,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Stack 1 are : 5
 25
 20

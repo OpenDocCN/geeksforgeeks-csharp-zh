@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public T5 Item5;
 ```
 
@@ -14,7 +14,7 @@ public T5 Item5;
 
 **示例 1:** 在下面的代码中，可以看到我们正在访问每个值元组的第五个元素。
 
-```
+```cs
 // C# program to illustrate how to get
 // the fifth element of value tuple
 using System;
@@ -67,7 +67,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 C# Topics:
 Operators
 Switch Statement
@@ -78,7 +78,7 @@ Partial Methods
 
 **例 2:**
 
-```
+```cs
 // C# program to get the hash code of
 // fifth element in a value tuple
 using System;
@@ -106,7 +106,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Favourite programming Language: C#
 Hash Code: -849950870
 

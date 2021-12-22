@@ -20,7 +20,7 @@
 
 **示例 1:** 获取窗口的当前尺寸。
 
-```
+```cs
 // C# program to get the current
 // window width and Height
 using System;
@@ -44,7 +44,7 @@ class Program {
 
 **示例 2:** 设置设置窗口大小的值
 
-```
+```cs
 // C# program to illustrate the
 // Console.SetWindowSize Property
 using System;

@@ -13,7 +13,7 @@
 
 **示例:**
 
-```
+```cs
 Input  : d = 10 / 0.0 
 Output : True
 
@@ -24,7 +24,7 @@ Output : True
 
 **代码:**演示替身。是正定性(双重)方法
 
-```
+```cs
 // C# program to illustrate the
 // Double.IsPositiveInfinity() Method
 using System;

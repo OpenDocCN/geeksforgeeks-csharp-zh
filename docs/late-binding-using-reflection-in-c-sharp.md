@@ -9,7 +9,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to show the Late
 // Binding using Reflection
 using System;
@@ -66,7 +66,7 @@ public class Student {
 
 **Output:** 
 
-```
+```cs
 Student Details : 
 Roll Number - Name 
 1 - Lisa
@@ -84,7 +84,7 @@ Roll Number - Name
 
 ## C#
 
-```
+```cs
 // C# program to show the Late
 // Binding using Reflection
 using System;
@@ -150,7 +150,7 @@ class Program {
 
 **Output:** 
 
-```
+```cs
 Name of the Shape is Quadrilateral
 ```
 

@@ -19,13 +19,13 @@
 
 【IEEERemainder 和余数运算符的区别:两者都用于在除法后返回余数，但它们使用的公式不同。*积分积分法的公式为:* 
 
-```
+```cs
 IEEERemainder = dividend - (divisor * MathF.Round(dividend / divisor))
 ```
 
 *余数运算符*的公式为:
 
-```
+```cs
 Remainder = (MathF.Abs(dividend) - (MathF.Abs(divisor) *  
             (MathF.Floor(MathF.Abs(dividend) / MathF.Abs(divisor))))) *   
              MathF.Sign(dividend)
@@ -35,7 +35,7 @@ Remainder = (MathF.Abs(dividend) - (MathF.Abs(divisor) *
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# Program to illustrate the use of
 // MathF.IEEERemainder(Single, Single)
 // Method
@@ -79,7 +79,7 @@ class Geeks {
 
 **Output:** 
 
-```
+```cs
 IEEERemainder   Remainder Operator
 0 / 1 =                           0                    0
 -4 / 8 =                         -4                   -4

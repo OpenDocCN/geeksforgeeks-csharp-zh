@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 int variable_name = value;
 ```
 
@@ -14,7 +14,7 @@ int variable_name = value;
 
 **示例:**
 
-```
+```cs
 Input: num: -245
 
 Output: num: -245
@@ -30,7 +30,7 @@ Output: Type of num: System.Int32
 
 **例 1:**
 
-```
+```cs
 // C# program for int keyword
 using System;
 using System.Text;
@@ -53,7 +53,7 @@ class geeks {
 
 **输出:**
 
-```
+```cs
 num: -245
 Size of a int variable: 4
 
@@ -61,7 +61,7 @@ Size of a int variable: 4
 
 **例 2:**
 
-```
+```cs
 // C# program for int keyword
 using System;
 using System.Text;
@@ -97,7 +97,7 @@ class geeks {
 
 **输出:**
 
-```
+```cs
 Type of num: System.Int32
 num: 7923645
 Size of a int variable: 4
@@ -108,7 +108,7 @@ Max value of int: 2147483647
 
 **例 3:**
 
-```
+```cs
 // C# program for int keyword
 using System;
 using System.Text;

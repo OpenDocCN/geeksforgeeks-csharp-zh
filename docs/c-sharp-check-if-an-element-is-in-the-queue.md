@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool Contains(object obj);
 
 ```
@@ -26,7 +26,7 @@ public virtual bool Contains(object obj);
 
 **例 1:**
 
-```
+```cs
 // C# code to Check if a Queue
 // contains an element
 using System;
@@ -60,14 +60,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to Check if a Queue
 // contains an element
 using System;
@@ -101,7 +101,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 
 ```

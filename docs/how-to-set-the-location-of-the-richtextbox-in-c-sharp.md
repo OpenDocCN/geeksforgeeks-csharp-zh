@@ -21,7 +21,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式设置 RichTextBox 控件的位置:
 
-```
+```cs
 public System.Drawing.Point Location { get; set; }
 ```
 
@@ -29,7 +29,7 @@ public System.Drawing.Point Location { get; set; }
 
 *   **步骤 1:** 使用 RichTextBox()构造函数创建一个 RichTextBox，该构造函数由 RichTextBox 类提供。
 
-    ```
+    ```cs
     // Creating RichTextBox using RichTextBox class constructor
     RichTextBox rbox = new RichTextBox();
 
@@ -37,7 +37,7 @@ public System.Drawing.Point Location { get; set; }
 
 *   **步骤 2:** 创建完 RichTextBox 后，设置 RichTextBox 类提供的 RichTextBox 的 Location 属性。
 
-    ```
+    ```cs
     // Setting the location of the RichTextBox
     rbox.Location = new Point(236, 97);
 
@@ -45,7 +45,7 @@ public System.Drawing.Point Location { get; set; }
 
 *   **Step 3:** And last add this RichTextBox control to the form using Add() method.
 
-    ```
+    ```cs
     // Add this RichTextBox to the form
     this.Controls.Add(rbox);
 
@@ -53,7 +53,7 @@ public System.Drawing.Point Location { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

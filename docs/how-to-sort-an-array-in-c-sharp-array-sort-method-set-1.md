@@ -24,7 +24,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# Program to illustrate the use 
     // of the Array.Sort<T>(T[]) Method
     using System;
@@ -95,7 +95,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     A
     D
     X
@@ -139,7 +139,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the use of the 
     // Array.Sort<T>(T[], IComparer<T>) method
     using System;
@@ -228,7 +228,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     A
     D
     X
@@ -271,7 +271,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the use of
     // Array.Sort<T>(T[], Int32, Int32) method
     using System;
@@ -330,7 +330,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Original Array :
     AB
     CD
@@ -375,7 +375,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the use of the 
     // Array.Sort<T>(T[ ], Comparison<T>) Method
     using System;
@@ -434,7 +434,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Original Array: 
     Java
     C++

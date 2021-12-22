@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsReadOnly { get; }
 ```
 
@@ -16,7 +16,7 @@ public bool IsReadOnly { get; }
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate
 // IsReadOnly Property of
 // Array class
@@ -45,14 +45,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Result: False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate
 // IsReadOnly Property of
 // Array class
@@ -81,7 +81,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Result: False
 
 ```

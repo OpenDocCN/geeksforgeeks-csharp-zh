@@ -10,7 +10,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to show the difference
 // between Console.Read() and 
 // Console.ReadLine() method
@@ -31,14 +31,14 @@ public class GFG{
 
 **输入:**
 
-```
+```cs
 Geeks
 
 ```
 
 **输出:**
 
-```
+```cs
 Gee
 
 ```
@@ -47,7 +47,7 @@ Gee
 
 ## C#
 
-```
+```cs
 // C# program to show the difference
 // between Console.Read() and 
 // Console.ReadLine() method
@@ -68,7 +68,7 @@ public class GFG{
 
 **输入:**
 
-```
+```cs
 Geeks
 For
 Geeks
@@ -77,7 +77,7 @@ Geeks
 
 **输出:**
 
-```
+```cs
 GeeksForGeeks
 
 ```

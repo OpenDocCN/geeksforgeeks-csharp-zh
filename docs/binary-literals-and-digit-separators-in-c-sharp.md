@@ -8,7 +8,7 @@
 
 **例:**
 
-```
+```cs
 var num = 0b10001
 ```
 
@@ -16,7 +16,7 @@ var num = 0b10001
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the 
 // concept of binary literals.
 using System;
@@ -42,7 +42,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Value of Num1 is: 9
 Value of Num2 is: 67
 Char value of Num2 is: C

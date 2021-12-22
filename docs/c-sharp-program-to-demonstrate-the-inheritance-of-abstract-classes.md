@@ -4,7 +4,7 @@
 
 [抽象](https://www.geeksforgeeks.org/c-sharp-abstraction/)是隐藏内部细节，只显示功能的过程。抽象关键字用在类或方法之前，将类或方法声明为抽象的。[继承](https://www.geeksforgeeks.org/c-sharp-inheritance/)是面向对象的编程方法，通过这种方法，一个类可以继承另一个类的特性(字段和方法)。在 C#中，我们还可以使用:运算符继承抽象类。
 
-```
+```cs
 abstract class Abstract_class
 {
     // Method declaration for abstract class
@@ -28,7 +28,7 @@ class class_name  : Abstract_class
 
 ## C#
 
-```
+```cs
 // C# program to inherit abstract class.
 using System;
 
@@ -80,7 +80,7 @@ public static void Main(String[] args)
 
 **输出:**
 
-```
+```cs
 Abstract method is called
 method-1 is called
 ```

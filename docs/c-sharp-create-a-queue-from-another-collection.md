@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public T[] ToArray ();
 ```
 
@@ -25,7 +25,7 @@ public T[] ToArray ();
 
 **例 1:**
 
-```
+```cs
 // C# code to Create a Queue
 // from a collection
 using System;
@@ -79,7 +79,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Queue 1 are : 5
 GeeksforGeeks
 is
@@ -97,7 +97,7 @@ website
 
 **例 2:**
 
-```
+```cs
 // C# code to Create a Queue
 // from a collection
 using System;
@@ -151,7 +151,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Queue 1 are : 5
 5
 10

@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```cs
 class ClassName : InterfaceName
 {
     returnType InterfaceName.method()
@@ -27,7 +27,7 @@ class ClassName : InterfaceName
 
 ## C#
 
-```
+```cs
 // C# Program to show the use of
 // Explicit interface implementation
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 I1 printMethod
 I2 printMethod
 ```
@@ -87,7 +87,7 @@ I2 printMethod
 
 ## C#
 
-```
+```cs
 // C# Program to show the use of
 // Explicit interface implementation
 using System;
@@ -134,7 +134,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
          *
         ***
        *****
@@ -151,7 +151,7 @@ class GFG {
 
 ## C#
 
-```
+```cs
 // C# Program to show the use of
 // Explicit interface implementation
 using System;
@@ -217,7 +217,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Value of x set using X from I1 is 10
 Value returned by I2.X() is 0
 ```

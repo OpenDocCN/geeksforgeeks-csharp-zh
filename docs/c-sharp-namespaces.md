@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```cs
 namespace name_of_namespace {
 
 // Namespace (Nested Namespaces)
@@ -25,7 +25,7 @@ namespace name_of_namespace {
 
 **示例:**
 
-```
+```cs
 // defining the namespace name1
 namespace name1 
 {
@@ -45,7 +45,7 @@ namespace name1
 
 **语法:**
 
-```
+```cs
 [namespace_name].[member_name]
 
 ```
@@ -58,7 +58,7 @@ namespace name1
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // use of namespaces
 
@@ -117,7 +117,7 @@ class Geeks_2
 
 **输出:**
 
-```
+```cs
 Hello Geeks!
 ```
 
@@ -133,7 +133,7 @@ Hello Geeks!
 
 **语法:**
 
-```
+```cs
 using [namespace_name][.][sub-namespace_name];
 
 ```
@@ -142,7 +142,7 @@ using [namespace_name][.][sub-namespace_name];
 
 **示例:**
 
-```
+```cs
 // predefined namespace name
 using System;
 
@@ -156,7 +156,7 @@ using System.Collections.Generic;
 
 **程序:**
 
-```
+```cs
 // C# program to illustrate the 
 // use of using keyword
 
@@ -206,7 +206,7 @@ class Geeks_2
 
 **输出:**
 
-```
+```cs
 Hello Geeks!
 ```
 
@@ -218,7 +218,7 @@ Hello Geeks!
 
 **语法:**
 
-```
+```cs
 namespace name_of_namespace_1 
 {
 
@@ -237,7 +237,7 @@ namespace name_of_namespace_1
 
 **程序:**
 
-```
+```cs
 // C# program to illustrate use of 
 // nested namespace
 using System;
@@ -290,7 +290,7 @@ class Driver 
 
 **输出:**
 
-```
+```cs
 Nested Namespace Constructor
 
 ```

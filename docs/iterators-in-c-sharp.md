@@ -22,7 +22,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the concept
 // of iterator using list collection
 using System;
@@ -62,7 +62,7 @@ using System.Collections.Generic;
 
 **Output:** 
 
-```
+```cs
 Cat
 Goat
 Dog
@@ -73,7 +73,7 @@ Cow
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the concept
 // of iterator using array
 using System;
@@ -113,7 +113,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Geeks
 geeks123
 1234geeks

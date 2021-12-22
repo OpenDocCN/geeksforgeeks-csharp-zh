@@ -6,7 +6,7 @@ LINQ 被称为语言集成查询，并于 1986 年引入.NET 3.5。它给了。N
 
 **语法:**
 
-```
+```cs
 IEnumerable<int> variable = ((ParallelQuery<int>)ParallelEnumerable.Range(start,
                             stop)).Where(x => x % 2 == 0).Select(i => i);
 ```
@@ -15,7 +15,7 @@ IEnumerable<int> variable = ((ParallelQuery<int>)ParallelEnumerable.Range(start,
 
 **例:**
 
-```
+```cs
 Input : Range(start, stop) = Range(1, 20)
 Output :
 2
@@ -58,7 +58,7 @@ Output :
 
 ## c#
 
-```
+```cs
 // C# program to generate random even numbers
 // using LINQ Parallel Query
 using System;
@@ -88,7 +88,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 12
 14
 16

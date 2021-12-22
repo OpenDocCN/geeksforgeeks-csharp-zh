@@ -5,7 +5,7 @@
 **文件。setlastacesstimeutc(String，DateTime)** 是一个内置的文件类方法，用于设置上次访问指定文件的日期和时间，以协调世界时(Utc)表示。
 **语法:**
 
-```
+```cs
 public static void SetLastAccessTimeUtc (string path, DateTime lastAccessTimeUtc);
 ```
 
@@ -31,7 +31,7 @@ public static void SetLastAccessTimeUtc (string path, DateTime lastAccessTimeUtc
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.SetLastAccessTimeUtc() method
 
@@ -59,7 +59,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The last access date and time in UTC for this file was 5/4/2020 4:05:07 AM.
 ```
 
@@ -67,7 +67,7 @@ The last access date and time in UTC for this file was 5/4/2020 4:05:07 AM.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.SetLastAccessTimeUtc() method
 
@@ -100,6 +100,6 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 The last access date and time in UTC for this file was 5/4/2019 4:05:07 AM.
 ```

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public DateTime Add (TimeSpan value);
 ```
 
@@ -20,7 +20,7 @@ public DateTime Add (TimeSpan value);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.Add(TimeSpan) Method
 using System;
@@ -63,7 +63,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTime before operation: 2010 January 01
 
 DateTime after operation: 2010 February 06
@@ -72,7 +72,7 @@ DateTime after operation: 2010 February 06
 
 **例 2:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.Add(TimeSpan) Method
 using System;
@@ -118,7 +118,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTime before operation: 0001 January 01
 
 The resulting DateTime is less than the MinValue 

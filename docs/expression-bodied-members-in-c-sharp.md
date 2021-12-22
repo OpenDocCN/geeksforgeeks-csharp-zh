@@ -8,7 +8,7 @@
 
 在 C#中，[方法](https://www.geeksforgeeks.org/c-sharp-methods/)是执行给定任务并将结果返回给调用者的语句的集合。通常，方法最终只包含一条语句。例如，考虑以下代码:
 
-```
+```cs
 int GetRectangleArea(int length, int breadth) 
 {
     return length * breadth;
@@ -17,7 +17,7 @@ int GetRectangleArea(int length, int breadth)
 
 上述方法只包含一个返回语句。使用表达式体语法，上述方法可以重写如下:
 
-```
+```cs
 int GetRectangleArea(int length, int breadth) => length * breadth;
 ```
 
@@ -33,7 +33,7 @@ int GetRectangleArea(int length, int breadth) => length * breadth;
 
 ## C#
 
-```
+```cs
 // C# program to illustrate expression bodied method
 using System;
 
@@ -62,7 +62,7 @@ public static void Main()
 
 **Output**
 
-```
+```cs
 10 is even
 ```
 
@@ -70,7 +70,7 @@ public static void Main()
 
 Void 方法是那些不包含*返回*语句并且只包含一条语句的方法，也可以使用表达式体语法。例如，以下方法:
 
-```
+```cs
 void PrintName(string name)
 {
     Console.WriteLine({content}quot;The name is {name}");
@@ -79,7 +79,7 @@ void PrintName(string name)
 
 可以用表达式体语法编写，如下所示:
 
-```
+```cs
 void PrintName(string name) => Console.WriteLine({content}quot;The name is {name}"); 
 ```
 
@@ -91,7 +91,7 @@ void PrintName(string name) => Console.WriteLine({content}quot;The name is {name
 
 只读属性是只有*获取*访问器的属性，如下所示:
 
-```
+```cs
 public int Name 
 { 
     get 
@@ -103,7 +103,7 @@ public int Name
 
 使用表达式体语法，属性可以定义如下:
 
-```
+```cs
 public int Name => "Geeks For Geeks";
 ```
 
@@ -117,7 +117,7 @@ public int Name => "Geeks For Geeks";
 
 ## C#
 
-```
+```cs
 // C# program to illustrate expression bodied properties
 using System;
 
@@ -146,7 +146,7 @@ public static void Main()
 
 **Output**
 
-```
+```cs
 Side is 4
 ```
 
@@ -154,7 +154,7 @@ Side is 4
 
 从 C# 7 开始，非只读属性也可以有表达式体*获取*和*设置*访问器。在下面的 *Person* 类中， *Name* 属性定义了 *get* 和 *set* 访问器，每个访问器只有一个语句:
 
-```
+```cs
 public class Person
 {
     private string name;
@@ -175,7 +175,7 @@ public class Person
 
 这可以通过使用表达式体访问器来简化:
 
-```
+```cs
 public class Person
 {
     private string name;
@@ -206,7 +206,7 @@ public class Person
 
 ## C#
 
-```
+```cs
 // C# program to illustrate expression bodied properties
 using System;
 
@@ -236,7 +236,7 @@ public static void Main()
 
 **Output**
 
-```
+```cs
 Side is 4
 Side is now 10
 ```
@@ -261,7 +261,7 @@ Side is now 10
 
 ## C#
 
-```
+```cs
 // C# program to illustrate expression-bodied 
 // constructors and destructors
 using System;
@@ -290,7 +290,7 @@ public static void Main()
 
 **Output**
 
-```
+```cs
 Side is 4
 Square's Destructor
 ```
@@ -323,7 +323,7 @@ Square's Destructor
 
 ## C#
 
-```
+```cs
 // C# program to illustrate expression-bodied indexers
 using System;
 
@@ -356,7 +356,7 @@ public static void Main()
 
 **Output**
 
-```
+```cs
 C#
 C++
 Python
@@ -376,7 +376,7 @@ Python
 
 ## C#
 
-```
+```cs
 // C# program to illustrate expression-bodied operator functions
 using System;
 
@@ -417,6 +417,6 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 (3) + (2i) + (1) + (2i) = (6) + (4i)
 ```

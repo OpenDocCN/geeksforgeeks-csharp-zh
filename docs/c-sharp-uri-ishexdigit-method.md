@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.IsHexDigit(Char) Method
 using System;
@@ -42,14 +42,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 a is a valid Hexadecimal Digit
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.IsHexDigit(Char) Method
 using System;
@@ -86,7 +86,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 a is a valid Hexadecimal Digit
 . is a not valid Hexadecimal Digit
 1 is a valid Hexadecimal Digit

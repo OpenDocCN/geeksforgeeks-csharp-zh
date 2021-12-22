@@ -25,7 +25,7 @@
 
 ****示例:****
 
-```
+```cs
 // C# program to illustrate the 
 // DrawArc(Pen, Rectangle, Single,
 // Single) Method
@@ -88,7 +88,7 @@ class PrintableForm : Form {
 
 ****例 1:****
 
-```
+```cs
 // C# program to illustrate the 
 // DrawArc(Pen, RectangleF, 
 // Single, Single) Method
@@ -159,7 +159,7 @@ class PrintableForm : Form {
 
 ****例 1:****
 
-```
+```cs
 // C# program to draw a circle
 using System;
 using System.Drawing;
@@ -212,7 +212,7 @@ class PrintableForm : Form {
 
 ****例 2:****
 
-```
+```cs
 // C# program to draw GFG
 using System;
 using System.Drawing;
@@ -290,7 +290,7 @@ class PrintableForm : Form {
 
 ****示例:****
 
-```
+```cs
 // C# program to draw a circle
 using System;
 using System.Drawing;

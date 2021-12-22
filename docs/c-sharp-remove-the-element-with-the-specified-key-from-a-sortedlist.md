@@ -16,7 +16,7 @@ SortedList 类是按键排序的**(键，值)对**的集合。这些对可以通
 
 **语法:**
 
-```
+```cs
 public virtual void Remove (object key);
 
 ```
@@ -32,7 +32,7 @@ public virtual void Remove (object key);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the element
 // with the specified key from a SortedList
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Key = CH
 Key = GER
 Key = IN
@@ -103,7 +103,7 @@ Key = NEW-YORK
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the element
 // with the specified key from a SortedList
 using System;

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void CopyTo (Array array, int index);
 
 ```
@@ -28,7 +28,7 @@ public void CopyTo (Array array, int index);
 
 **例 1:**
 
-```
+```cs
 // C# code to copy the HybridDictionary
 // entries to a one-dimensional Array
 // instance at the specified index.
@@ -70,7 +70,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 A --> Apple
 B --> Banana
 C --> Cat
@@ -82,7 +82,7 @@ F --> Fish
 
 **例 2:**
 
-```
+```cs
 // C# code to copy the HybridDictionary
 // entries to a one-dimensional Array
 // instance at the specified index.

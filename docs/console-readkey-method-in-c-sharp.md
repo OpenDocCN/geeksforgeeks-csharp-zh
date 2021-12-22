@@ -20,7 +20,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // Console.ReadKey Method
     using System;
@@ -54,7 +54,7 @@
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // Console.ReadKey Method
     using System;
@@ -89,7 +89,7 @@
 
     **例 3:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // Console.ReadKey Method
     using System;
@@ -137,7 +137,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // ReadKey(Boolean) Method
     using System;
@@ -172,7 +172,7 @@
 
     **实施例 2:**
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // ReadKey(Boolean) Method
     using System;
@@ -207,7 +207,7 @@
 
     **实施例 3:**
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // ReadKey(Boolean) Method
     using System;

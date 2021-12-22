@@ -46,7 +46,7 @@ Char 结构提供了不同的方法，用于将当前 Char 对象的值转换为
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Char.CompareTo(Char) Method
 using System;
@@ -80,7 +80,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 0
 -31
 -6
@@ -89,7 +89,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // Char.IsWhiteSpace(Char) Method
 using System;
@@ -126,7 +126,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 True
 True
 False

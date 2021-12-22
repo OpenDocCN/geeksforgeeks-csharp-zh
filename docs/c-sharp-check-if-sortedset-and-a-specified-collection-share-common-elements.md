@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 mySortedSet1.Overlaps(mySortedSet2);
 
 ```
@@ -25,7 +25,7 @@ mySortedSet1.Overlaps(mySortedSet2);
 
 **例 1:**
 
-```
+```cs
 // C# code to Check if SortedSet
 // and a specified collection
 // share common elements
@@ -67,14 +67,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to Check if SortedSet
 // and a specified collection
 // share common elements
@@ -116,7 +116,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```

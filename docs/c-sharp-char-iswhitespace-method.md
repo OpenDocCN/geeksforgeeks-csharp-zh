@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool IsWhiteSpace(char ch);
 ```
 
@@ -24,7 +24,7 @@ public static bool IsWhiteSpace(char ch);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Char.IsWhiteSpace(Char) Method
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 True
 False
@@ -74,7 +74,7 @@ False
 
 **语法:**
 
-```
+```cs
 public static bool Char.IsWhiteSpace(string str, int index);
 ```
 
@@ -87,7 +87,7 @@ public static bool Char.IsWhiteSpace(string str, int index);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Char.IsWhiteSpace (String, Int32) Method
 using System;
@@ -118,7 +118,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 True
 

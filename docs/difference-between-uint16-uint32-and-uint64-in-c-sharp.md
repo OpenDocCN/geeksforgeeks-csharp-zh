@@ -8,7 +8,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to show the 
 // UInt16 struct
 using System;
@@ -40,7 +40,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Minimum value of UInt16: 0
 Maximum value of UInt16: 65535
 
@@ -58,7 +58,7 @@ Maximum value of UInt16: 65535
 
 ## C#
 
-```
+```cs
 // C# program to show the 
 // UInt32 struct
 using System;
@@ -90,7 +90,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Minimum value of UInt32: 0
 Maximum value of UInt32: 4294967295
 
@@ -108,7 +108,7 @@ Maximum value of UInt32: 4294967295
 
 ## C#
 
-```
+```cs
 // C# program to show the 
 // UInt64 struct
 using System;
@@ -140,7 +140,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Minimum value of UInt64: 0
 Maximum value of UInt64: 18446744073709551615
 
@@ -166,21 +166,21 @@ Maximum value of UInt64: 18446744073709551615
 | **5。** | UInt16 的范围从 0 到 65535。 | UInt32 范围从 0 到 4294967295。 | UInt64 范围从 0 到 18446744073709551615。 |
 | **6。** | 声明 UInt16 的语法:
 
-```
+```cs
 UInt16 variable_name;
 
 ```
 
  | 声明 UInt32 的语法:
 
-```
+```cs
 UInt32 variable_name;
 
 ```
 
  | 声明 UInt64 的语法:
 
-```
+```cs
 UInt64 variable_name;
 
 ```

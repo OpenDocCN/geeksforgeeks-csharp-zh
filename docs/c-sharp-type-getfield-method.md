@@ -22,7 +22,7 @@
 
 ****例 1:****
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetField(String) Method
 using System;
@@ -69,14 +69,14 @@ public class Student 
 
 ****Output:**
 
-```
+```cs
 FieldInfo is: System.String Name
 
 ```** 
 
 ****示例 2:** 适用于*参数异常***
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetField(String) Method
 using System;
@@ -123,7 +123,7 @@ public class Student 
 
 ****Output:**
 
-```
+```cs
 name is null.
 Exception Thrown: System.ArgumentNullException
 
@@ -148,7 +148,7 @@ Exception Thrown: System.ArgumentNullException
 
 ****例 1:****
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetField(String) Method
 using System;
@@ -201,14 +201,14 @@ public class Student 
 
 ****Output:**
 
-```
+```cs
 FieldInfo is: System.String Name
 
 ```** 
 
 ****示例 2:** 适用于*参数异常***
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetField(String) Method
 using System;
@@ -261,7 +261,7 @@ public class Student 
 
 ****输出:****
 
-```
+```cs
 name is null.
 Exception Thrown: System.ArgumentNullException 
 ```

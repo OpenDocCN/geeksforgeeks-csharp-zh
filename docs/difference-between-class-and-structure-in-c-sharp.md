@@ -6,7 +6,7 @@
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of class
 using System;
@@ -52,7 +52,7 @@ public class Author {
 
 **输出:**
 
-```
+```cs
 The name of the author is :  Ankita
 The name of language is : C#
 Total number of article published  80
@@ -64,7 +64,7 @@ Total number of Improvements: done by author is : 50
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of structure
 using System;
@@ -105,7 +105,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Name of brand: Bugatti
 Model name: Bugatti Veyron EB 16.4
 Color of car: Gray

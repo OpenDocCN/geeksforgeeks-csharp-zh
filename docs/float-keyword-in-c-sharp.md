@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 float variable_name = value;
 ```
 
@@ -14,7 +14,7 @@ float variable_name = value;
 
 **示例:**
 
-```
+```cs
 Input: -3629.4586F
 
 Output: num: -3629.458
@@ -32,7 +32,7 @@ Output: Type of num: System.Single
 
 **例 1:**
 
-```
+```cs
 // C# program for float keyword
 using System;
 using System.Text;
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 num: -3629.458
 Size of a float variable: 4
 
@@ -63,7 +63,7 @@ Size of a float variable: 4
 
 **例 2:**
 
-```
+```cs
 // C# program for float keyword
 using System;
 using System.Text;
@@ -96,7 +96,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Type of num: System.Single
 num: 16345.65
 Size of a float variable: 4

@@ -11,7 +11,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Cbrt(Single) Method
 using System;
@@ -38,14 +38,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Cube root of 27 is 3
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Cbrt(Single) Method
 using System;
@@ -82,7 +82,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Cube root of given numbers are respectively
 Cube root of 8 is 2
 Cube root of 27.8967 is 3.03285

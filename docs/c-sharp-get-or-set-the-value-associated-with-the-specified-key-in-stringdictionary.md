@@ -10,7 +10,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# code to get or set the value
 // associated with the specified key
 // in StringDictionary
@@ -71,7 +71,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 gc Geeks Classes
 c Coding
 n Noida

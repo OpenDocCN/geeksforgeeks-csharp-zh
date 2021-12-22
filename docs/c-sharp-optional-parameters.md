@@ -18,7 +18,7 @@
 
 在上例中，*int age = 20**string branch = " Computer Science "*为可选参数，有默认值。让我们借助一个例子来讨论可选参数的概念。
 
-```
+```cs
 // C# program to illustrate the
 // concept of optional parameters
 using System;
@@ -56,7 +56,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 First name: Ankita
 Last name: Saini
 Age: 20
@@ -80,7 +80,7 @@ Branch: Information Technology
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of optional parameters
 using System;

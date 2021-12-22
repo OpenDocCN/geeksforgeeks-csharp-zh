@@ -9,7 +9,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate
 // the use of @ by using keyword
 // as an identifier
@@ -39,7 +39,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Element of Array: C#
 Element of Array: PHP
 Element of Array: Java
@@ -53,7 +53,7 @@ Element of Array: Python
 
 *   **Case 1:**
 
-    ```
+    ```cs
     // taking a string literal and 
     // try to print double quotes
     string str1 = """";
@@ -70,7 +70,7 @@ Element of Array: Python
 
 *   **Case 2:**
 
-    ```
+    ```cs
     // taking a string literal prefixes
     // with @ and try to print double quotes
     string str1 = @"""";
@@ -85,7 +85,7 @@ Element of Array: Python
 
 *   **案例 3:**
 
-    ```
+    ```cs
     // taking a string in which we are storing 
     // some location of file but \Testing will 
     // interpreted as eascape sequence \T 
@@ -103,7 +103,7 @@ Element of Array: Python
 
 *   **案例 4:**
 
-    ```
+    ```cs
     // taking a string and prefix literal with @ symbol. 
     // Storing some location of file 
     string str1 = @"\\C:\Testing\New\Target";
@@ -116,7 +116,7 @@ Element of Array: Python
 
 **程序:**
 
-```
+```cs
 // C# program to illustrate
 // the use of @ in terms of 
 // escape sequences and new 
@@ -163,7 +163,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 String 2 is: \\welcome \to GeeksforGeeks \ portal \
 String 3 is :This is 
  C# non verbatim string

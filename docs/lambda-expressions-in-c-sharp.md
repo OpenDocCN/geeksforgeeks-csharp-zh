@@ -10,14 +10,14 @@ C#中的 Lambda 表达式像[匿名函数](https://www.geeksforgeeks.org/anonymo
 *   **表达式λ:**由输入和表达式组成。
     *语法:*
 
-```
+```cs
 input => expression;
 ```
 
 *   **语句 Lambda:** 由输入和一组要执行的语句组成。
     *语法:*
 
-```
+```cs
 input => { statements };
 ```
 
@@ -27,7 +27,7 @@ input => { statements };
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // Lambda Expression
 using System;
@@ -82,7 +82,7 @@ class Program {
 
 **Output:** 
 
-```
+```cs
 The list : 36 71 12 15 29 18 27 17 9 34 
 Squares : 1296 5041 144 225 841 324 729 289 81 1156 
 Numbers Divisible by 3 : 36 12 15 18 27 9 
@@ -92,7 +92,7 @@ Numbers Divisible by 3 : 36 12 15 18 27 9
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // Lambda Expression
 using System;
@@ -145,7 +145,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 1 Liza
 4 Stefani
 2 Stewart

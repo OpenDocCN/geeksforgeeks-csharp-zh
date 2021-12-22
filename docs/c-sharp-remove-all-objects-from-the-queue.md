@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void Clear();
 
 ```
@@ -24,7 +24,7 @@ public virtual void Clear();
 
 **例 1:**
 
-```
+```cs
 // C# code to Remove all
 // objects from the Queue
 using System;
@@ -69,7 +69,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Queue are : 6
 Total number of elements in the Queue are : 0
 
@@ -77,7 +77,7 @@ Total number of elements in the Queue are : 0
 
 **例 2:**
 
-```
+```cs
 // C# code to Remove all
 // objects from the Queue
 using System;
@@ -121,7 +121,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Queue are : 5
 Total number of elements in the Queue are : 0
 

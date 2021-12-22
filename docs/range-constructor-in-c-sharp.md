@@ -6,7 +6,7 @@
 例如，我们有一个数组{1，2，3，4，5，6 }，现在我们要打印范围[1..3]，那么它将打印 2、3。它不打印 2、3、4。
 **语法:**
 
-```
+```cs
 public Range(Index start, Index end);
 ```
 
@@ -15,7 +15,7 @@ public Range(Index start, Index end);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate how to
 // use Range(Index, Index) constructor
 using System;
@@ -53,7 +53,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Range: 2..5
 Numbers:  67,  78,  89, 
 ```
@@ -62,7 +62,7 @@ Numbers:  67,  78,  89,
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate how to
 // use Range(Index, Index) constructor
 using System;
@@ -106,7 +106,7 @@ class Program {
 
 **输出:**
 
-```
+```cs
 Range: 0..3
 Sports Name:  Archery  Badminton  Cricket 
 

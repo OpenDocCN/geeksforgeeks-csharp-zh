@@ -10,7 +10,7 @@
 
 **2。**创建三个名为第一接口、第二接口和第三接口的接口，并在其中声明方法。
 
-```
+```cs
 interface firstinterface
 {
     // Declaration of method
@@ -20,7 +20,7 @@ interface firstinterface
 
 **3。**现在我们创建一个 Int_Class，它将实现所有这些接口，如下所示:
 
-```
+```cs
 class Int_Class : firstinterface, secondinterface, thirdinterface
 ```
 
@@ -32,7 +32,7 @@ class Int_Class : firstinterface, secondinterface, thirdinterface
 
 ## c#
 
-```
+```cs
 // C# program to implement multiple interfaces 
 // in the same class.
 using System;
@@ -108,7 +108,7 @@ public static void Main(String[] args)
 
 **输出:**
 
-```
+```cs
 Hello! i am method of firstinterface
 Hello! i am method of secondinterface
 Hello! i am method of thirdinterface

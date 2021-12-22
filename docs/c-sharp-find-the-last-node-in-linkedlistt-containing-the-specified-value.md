@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.Generic.LinkedListNode<T> FindLast (T value);
 
 ```
@@ -21,7 +21,7 @@ public System.Collections.Generic.LinkedListNode<T> FindLast (T value);
 
 **例 1:**
 
-```
+```cs
 // C# code to find the last node
 // that contains the specified value
 using System;
@@ -54,14 +54,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 D
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to find the last node
 // that contains the specified value
 using System;

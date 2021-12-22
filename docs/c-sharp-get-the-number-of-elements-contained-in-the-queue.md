@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 myQueue.Count 
 
 ```
@@ -26,7 +26,7 @@ myQueue.Count
 
 **例 1:**
 
-```
+```cs
 // C# code to Get the number of
 // elements contained in the Queue
 using System;
@@ -60,14 +60,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Queue are : 6
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to Get the number of
 // elements contained in the Queue
 using System;
@@ -96,7 +96,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Queue are : 0
 
 ```

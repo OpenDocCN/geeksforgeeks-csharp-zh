@@ -21,13 +21,13 @@
 
 **第一步:**包含系统。借助使用关键字的*在程序中收集命名空间:*
 
-```
+```cs
 using System.Collections;
 ```
 
 **步骤 2:** 使用哈希表类创建哈希表，如下所示:
 
-```
+```cs
 Hashtable hashtable_name = new Hashtable();
 ```
 
@@ -37,7 +37,7 @@ Hashtable hashtable_name = new Hashtable();
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how
 // to create a hashtable
 using System;
@@ -90,7 +90,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Key and Value pairs from my_hashtable1:
 A3 and GeeksforGeeks 
 A2 and to 
@@ -113,7 +113,7 @@ Key and Value pairs from my_hashtable2:
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how
 // remove elements from the hashtable
 using System;
@@ -162,7 +162,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Key and Value pairs :
 A3 and GeeksforGeeks 
 A1 and Welcome 
@@ -182,7 +182,7 @@ Total number of elements present in my_hashtable:0
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how
 // to check key/value present
 // in the hashtable or not
@@ -230,7 +230,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 True
 False
 

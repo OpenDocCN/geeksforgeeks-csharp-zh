@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```cs
 public static void Reverse ();
 ```
 
 **例:**
 
-```
+```cs
 Input  : ["mumbai", "pune", "bangalore", "hyderabad"]
 Output : ["hyderabad", "bangalore", "pune", "mumbai"] 
 
@@ -25,13 +25,13 @@ Output : ["delhi", "vizag", "chennai"]
 > *   使用数组列表定义城市列表。
 > *   使用 reverse()方法反转城市列表。
 > 
-> ```
+> ```cs
 > cities.Reverse();
 > ```
 > 
 > *   最后，使用 foreach 循环打印结果数组。
 > 
-> ```
+> ```cs
 > foreach (var city in cities)
 > {
 >     Console.Write(city + " ");
@@ -40,7 +40,7 @@ Output : ["delhi", "vizag", "chennai"]
 
 ## c#
 
-```
+```cs
 using System;
 using System.Linq;
 using System.Collections.Generic;
@@ -66,6 +66,6 @@ class geek
 
 **输出**
 
-```
+```cs
 The Reversed list = [ bangalore pune hyderabad mumbai  ]
 ```

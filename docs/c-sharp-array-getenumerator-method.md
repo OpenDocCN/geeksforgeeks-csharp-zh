@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.IEnumerator GetEnumerator ();
 ```
 
@@ -16,7 +16,7 @@ public System.Collections.IEnumerator GetEnumerator ();
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // GetEnumerator() method
 using System;
@@ -77,7 +77,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Initial Array: Sun Mon Tue Thu 
 
 Enumerated value: 
@@ -90,7 +90,7 @@ Enumerated value:
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate
 // GetEnumerator() method
 // For int value
@@ -152,7 +152,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Initial Array: 10 20 30 40 
 
 Enumerated value: 

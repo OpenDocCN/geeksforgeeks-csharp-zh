@@ -22,7 +22,7 @@ ThenBy 运算符用于实现升序的二级排序。运算符支持多重排序�
 
 **例 1:**
 
-```
+```cs
 // C# program to print the employees
 // names and their gender in the 
 // ascending order
@@ -108,7 +108,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Employee Name: Anil Gender: Male
 Employee Name: Anjita Gender: Female
 Employee Name: Anju Gender: Female
@@ -120,7 +120,7 @@ Employee Name: Supriya Gender: Female
 
 **例 2:**
 
-```
+```cs
 // C# program to print the employees
 // names and their salary in the 
 // ascending order
@@ -205,7 +205,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Employee Name: Anil Salary: 40000
 Employee Name: Anjita Salary: 20000
 Employee Name: Anju Salary: 50000

@@ -19,7 +19,7 @@
 
 ## c#
 
-```
+```cs
 // C# program to find the logical drives of 
 // current computer system. Using the
 // Environment class
@@ -47,7 +47,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Logical Drives of this computer:
 C:\
 D:\

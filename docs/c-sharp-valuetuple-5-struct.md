@@ -27,7 +27,7 @@ ValueTuple <t1>结构用于创建五元组或五值 Tuple。它表示存储五�
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to
 // access the element of ValueTuple<T1, 
 // T2, T3, T4, T5>
@@ -57,7 +57,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Book Details: 
 Book Id: 3456
 Book Name: The Guide
@@ -78,7 +78,7 @@ Gener: Philosophical novel
 
 **示例:**
 
-```
+```cs
 // C# program to check the given value
 // tuples are equal or not
 using System;
@@ -111,7 +111,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Incorrect Code...!!
 
 ```

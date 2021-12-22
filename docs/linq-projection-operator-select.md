@@ -17,7 +17,7 @@ select 运算符返回 IEnumerator 集合，该集合保存基于转换函数的
 
 **示例:**
 
-```
+```cs
 // C# program to find the name 
 // of the employee
 using System;
@@ -87,7 +87,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Employee Name: Anjita
 Employee Name: Soniya
 Employee Name: Rohit
@@ -101,7 +101,7 @@ Employee Name: Anju
 
 **示例:**
 
-```
+```cs
 // C# program to find the name 
 // and id of the employee
 using System;
@@ -171,7 +171,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Employee Name : Anjita  Employee ID : 209
 Employee Name : Soniya  Employee ID : 210
 Employee Name : Rohit  Employee ID : 211

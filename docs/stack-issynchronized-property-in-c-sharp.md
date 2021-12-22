@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool IsSynchronized { get; }
 ```
 
@@ -16,7 +16,7 @@ public virtual bool IsSynchronized { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to illustrate the
 // Stack.IsSynchronized Property
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 myStack is Not Synchronized.
 ss is Synchronized.
 
@@ -63,7 +63,7 @@ ss is Synchronized.
 
 **例 2:**
 
-```
+```cs
 // C# code to illustrate the
 // Stack.IsSynchronized Property
 using System;
@@ -94,7 +94,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```

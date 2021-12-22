@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input : [("m"), ("srav"), ("a"), ("gopi"), ("bai")("sai")]
 Output : [("m"), ("a"), ("bai"), ("sai")]
 
@@ -28,7 +28,7 @@ Output : No Output
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the use of
 // the method as a condition in the 
 // LINQ where() method of the list collection
@@ -79,7 +79,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Name of the Employees are: 
 m
 a

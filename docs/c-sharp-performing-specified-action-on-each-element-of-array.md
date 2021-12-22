@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static void ForEach<T> (T[] array, Action<T> action);
 ```
 
@@ -21,7 +21,7 @@ public static void ForEach<T> (T[] array, Action<T> action);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Array.ForEach(T[], Action<T>)
 // Method
@@ -86,7 +86,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Initial Array: 2 3 4 5 
 
 2 squared = 4
@@ -99,7 +99,7 @@ Initial Array: 2 3 4 5
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Array.ForEach(T[], Action<T>)
 // Method
@@ -159,7 +159,7 @@ public class GFG {
 
 **Output:** 
 
-```
+```cs
 Trying to perform action on a null Array
 
 Exception Thrown: System.ArgumentNullException

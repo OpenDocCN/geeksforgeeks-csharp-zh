@@ -8,7 +8,7 @@
 
 **程序:**获取标准误差输出流
 
-```
+```cs
 // C# program to illustrate the
 // Console.Error Property
 using System;

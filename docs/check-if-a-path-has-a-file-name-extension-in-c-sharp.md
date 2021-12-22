@@ -7,7 +7,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool HasExtension (string path);
 ```
 
@@ -19,7 +19,7 @@ public static bool HasExtension (string path);
 
 **示例:**
 
-```
+```cs
 Input : 
 string strPath1 = "C:// myfiles//ref//file1.txt";
 string strPath2 = "C:// myfiles//ref//file2";
@@ -35,7 +35,7 @@ false
 
 ```
 
-```
+```cs
 // C# program to check whether
 // a file have an extension or not
 using System;
@@ -75,7 +75,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 C:// myfiles// ref// file1.txt have an extension...
 C:// myfiles// ref// file2 don't have an extension...
 

@@ -8,7 +8,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate
 // how to create a readonly field
 using System;
@@ -46,7 +46,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Display value of string 1 GeeksforGeeks, and string 2 GFG
 ```
 
@@ -56,7 +56,7 @@ Display value of string 1 GeeksforGeeks, and string 2 GFG
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how 
 // to create a readonly structure
 using System;
@@ -92,7 +92,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Author name: Rohit
 Total articles: 67
 Branch name: CSE
@@ -103,7 +103,7 @@ Branch name: CSE
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how 
 // to create a readonly member
 using System;
@@ -141,7 +141,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Customer name: Sumit
 Product: Mobile Phone
 Price: 2398

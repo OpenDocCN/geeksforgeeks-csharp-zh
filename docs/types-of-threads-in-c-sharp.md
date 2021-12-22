@@ -11,7 +11,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // concept of foreground thread
 using System;
@@ -44,7 +44,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Main Thread Ends!!
 mythread is in progress!!
 mythread is in progress!!
@@ -63,7 +63,7 @@ mythread ends!!
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // concept of Background thread
 using System;
@@ -107,7 +107,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 In progress thread is: Mythread
 Main Thread Ends!!
 ```

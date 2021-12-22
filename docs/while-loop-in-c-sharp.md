@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 while (boolean condition)
 {
    loop statements...
@@ -22,7 +22,7 @@ while (boolean condition)
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate while loop
 using System;
 
@@ -45,7 +45,7 @@ class whileLoopDemo {
 
 **Output:**
 
-```
+```cs
 GeeksforGeeks
 GeeksforGeeks
 GeeksforGeeks
@@ -55,7 +55,7 @@ GeeksforGeeks
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate while loop
 using System;
 
@@ -78,7 +78,7 @@ class whileLoopDemo {
 
 **Output:**
 
-```
+```cs
 Value 10
 Value 9
 Value 8

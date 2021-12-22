@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Acos(Single) Method
 using System;
@@ -39,14 +39,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Angle is 1.047198
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Acos(Single) Method
 using System;
@@ -81,7 +81,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Acos(0.19) will be 1.379634
 Acos(NaN) will be NaN
 Acos(-Infinity) will be NaN

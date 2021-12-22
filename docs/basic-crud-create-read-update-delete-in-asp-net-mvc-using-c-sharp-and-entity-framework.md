@@ -36,7 +36,7 @@ ASP.NET 是一个服务器端的网络应用程序框架，由微软创建，运
 
 **1。创建**现在要在数据库中创建新记录，请在新创建的控制器中编写以下代码。
 
-```
+```cs
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -91,7 +91,7 @@ namespace CRUDDemo.Controllers
 
 **2。阅读:**现在要查看屏幕上添加的数据，请遵循下面给出的代码
 
-```
+```cs
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -125,7 +125,7 @@ https://localhost:port _ number/Controller _ name/Action _ Method _ name
 
 **3。更新:**现在，按照下面给出的代码更新现有记录
 
-```
+```cs
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -190,7 +190,7 @@ namespace CRUDDemo.Controllers
 
 **4。删除**现在，按照下面给出的代码从数据库中删除一条记录
 
-```
+```cs
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -6,7 +6,7 @@
 
 **语法**:
 
-```
+```cs
 Array.BinarySearch(array_name, (Object)element)
 ```
 
@@ -14,7 +14,7 @@ Array.BinarySearch(array_name, (Object)element)
 
 **示例:**
 
-```
+```cs
 Input:
 Array size: 5
 Elements: {3, 4, 5, 2, 1}
@@ -43,7 +43,7 @@ Present in 0 th position
 
 ## C#
 
-```
+```cs
 // C# program to search elements in the
 // array using predefined functions
 using System;
@@ -89,7 +89,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 Enter the size of array 
 5
 Enter data :

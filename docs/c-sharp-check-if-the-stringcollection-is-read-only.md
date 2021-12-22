@@ -7,7 +7,7 @@ T5】string collection。IsReadOnly 属性用于获取一个值，该值指示 S
 
 **语法:**
 
-```
+```cs
 public bool IsReadOnly { get; }
 
 ```
@@ -21,7 +21,7 @@ public bool IsReadOnly { get; }
 
 **示例:**
 
-```
+```cs
 // C# code to check if the
 // StringCollection is read-only
 using System;
@@ -53,7 +53,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 
 ```

@@ -8,7 +8,7 @@
 
 **语法** :
 
-```
+```cs
 bool Environment.HasShutdownStarted
 ```
 
@@ -18,7 +18,7 @@ bool Environment.HasShutdownStarted
 
 ## c#
 
-```
+```cs
 // C# program to check whether the CLR is shutdown or not
 // Using Environment class
 using System;
@@ -47,6 +47,6 @@ class GFG
 
 **输出:**
 
-```
+```cs
 No! CLR is not shutting down
 ```

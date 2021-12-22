@@ -16,7 +16,7 @@
 
 **示例:**
 
-```
+```cs
 public ADD (int a, float b);
 public ADD (string a, int b);
 
@@ -25,7 +25,7 @@ public ADD (string a, int b);
 这里类的名字是 **ADD** 。第一个构造函数有两个参数，第一个是 **int** 另一个是 **float** ，第二个构造函数也有两个参数，第一个是 **string** 类型，另一个是 **int** 类型。
 这里的构造函数名称相同，但参数类型不同，类似于方法重载的概念。
 
-```
+```cs
 // C# program to Demonstrate the overloading of 
 // constructor when the types of arguments 
 // are different
@@ -94,7 +94,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 1st constructor (int + float): 30.2 
 2nd constructor (int + string): Roll No. is 10
 

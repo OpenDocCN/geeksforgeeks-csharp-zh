@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public void CopyTo (Array arr, int index);
 
 ```
@@ -35,7 +35,7 @@ public void CopyTo (Array arr, int index);
 
 **例 1:**
 
-```
+```cs
 // C# code to copy BitArray to Array,
 // starting at the specified index
 // of the target array
@@ -78,7 +78,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 False
 False
@@ -92,7 +92,7 @@ False
 
 **例 2:**
 
-```
+```cs
 // C# code to copy BitArray to Array,
 // starting at the specified index
 // of the target array

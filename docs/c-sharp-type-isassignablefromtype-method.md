@@ -18,7 +18,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.IsAssignableFrom() Method
 using System;
@@ -55,14 +55,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Instance of a specified type can be assigned to a variable of the current type.
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.IsAssignableFrom() Method
 using System;
@@ -95,7 +95,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Instance of a specified type can't be assigned to a variable of the current type.
 
 ```

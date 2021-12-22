@@ -12,7 +12,7 @@
 
 ## c#
 
-```
+```cs
 // taking an integer array
 // declaring and initializing
 // the array
@@ -26,7 +26,7 @@ Result(arr);
 
 **示例 2:** 在单行代码中声明、初始化数组并将数组传递给方法。
 
-```
+```cs
 Result(new int[] {1, 2, 3, 4});
 ```
 
@@ -34,7 +34,7 @@ Result(new int[] {1, 2, 3, 4});
 
 ## C#
 
-```
+```cs
 // C# program for passing the 1-D
 // array to method as argument
 using System;
@@ -67,7 +67,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Array Element: 1
 Array Element: 2
 Array Element: 3
@@ -83,7 +83,7 @@ Array Element: 5
 
 ## c#
 
-```
+```cs
 // declaring and initializing
 // the 2-D array
 int[,] arr = { {1, 2, 3, 4}, {5, 6, 7, 8} };
@@ -96,7 +96,7 @@ Result(arr);
 
 **示例 2:** 在单行代码中声明、初始化二维数组并将其传递给方法。
 
-```
+```cs
 Result(new int[,] { {1, 2, 3, 4}, {5, 6, 7, 8} });
 ```
 
@@ -104,7 +104,7 @@ Result(new int[,] { {1, 2, 3, 4}, {5, 6, 7, 8} });
 
 ## c#
 
-```
+```cs
 // C# program for finding the transpose
 // of matrix(2-D array) by using array
 // as function arguments
@@ -177,7 +177,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Matrix Before Transpose: 
 1 2 3 4 
 5 6 7 8 

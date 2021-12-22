@@ -7,7 +7,7 @@ T5】string collection。Insert(Int32，String) 方法用于将字符串插入�
 
 **语法:**
 
-```
+```cs
 public void Insert (int index, string value);
 
 ```
@@ -29,7 +29,7 @@ public void Insert (int index, string value);
 
 **例 1:**
 
-```
+```cs
 // C# code to insert a string into
 // the StringCollection at the
 // specified index
@@ -66,7 +66,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 A
 B
 F
@@ -78,7 +78,7 @@ Z
 
 **例 2:**
 
-```
+```cs
 // C# code to insert a string into
 // the StringCollection at the
 // specified index

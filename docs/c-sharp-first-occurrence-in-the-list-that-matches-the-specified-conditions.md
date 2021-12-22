@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public T Find (Predicate<T> match);
 
 ```
@@ -29,7 +29,7 @@ public T Find (Predicate<T> match);
 
 **例 1:**
 
-```
+```cs
 // C# Program to get the first occurrence
 // of the element that match the specified
 // conditions defined by the predicate
@@ -85,7 +85,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Elements Present in List:
 
 2
@@ -102,7 +102,7 @@ Result: 2
 
 **例 2:**
 
-```
+```cs
 // C# Program to get the first occurrence
 // of the element that match the specified
 // conditions defined by the predicate
@@ -159,7 +159,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Elements Present in List:
 
 5

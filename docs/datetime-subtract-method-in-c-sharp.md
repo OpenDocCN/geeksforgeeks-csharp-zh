@@ -21,7 +21,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.Subtract(DateTime)
 // Method
@@ -63,14 +63,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TimeSpan between date1 and date2 is 365.00:00:00
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.Subtract(DateTime)
 // Method
@@ -111,7 +111,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.ArgumentOutOfRangeException
 
 ```
@@ -130,7 +130,7 @@ Exception Thrown: System.ArgumentOutOfRangeException
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.Subtract(TimeSpan)
 // Method
@@ -173,14 +173,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTime between date and ts is 12/30/2010 15:44:59
 
 ```
 
 **例 2:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.Subtract(TimeSpan)
 // Method
@@ -221,7 +221,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.ArgumentOutOfRangeException
 
 ```

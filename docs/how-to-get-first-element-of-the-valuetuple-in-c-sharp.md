@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public T1 Item1;
 ```
 
@@ -14,7 +14,7 @@ public T1 Item1;
 
 **示例:**在下面的代码中，可以看到我们正在访问每个值元组的第一个元素。
 
-```
+```cs
 // C# program to illustrate how to get
 // the first element of value tuple
 using System;
@@ -102,7 +102,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 C# Topics: 
 Variables
 Array

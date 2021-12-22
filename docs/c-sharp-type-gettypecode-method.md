@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetTypeCode() Method
 using System;
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode is Int32
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetTypeCode() Method
 using System;
@@ -82,7 +82,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode of System.Int32 is Int32
 TypeCode of System.Decimal is Decimal
 TypeCode of System.Double is Double

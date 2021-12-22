@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public void Reverse ();
     ```
 
@@ -20,7 +20,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# Program to reverse the order of
     // the elements in the entire List<T>
     using System;
@@ -67,7 +67,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Elements Present in List:
     1
     2
@@ -86,7 +86,7 @@
 
     **例 2:**
 
-    ```
+    ```cs
     // C# Program to reverse the order of
     // the elements in the entire List<T>
     using System;
@@ -134,7 +134,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Elements Present in List:
     Geeks
     C#
@@ -155,7 +155,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public void Reverse (int index, int count);
     ```
 
@@ -174,7 +174,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# Program to reverse the order of
     // sub range in the List<T>
     using System;
@@ -228,7 +228,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Elements Present in List:
     1st
     2nd
@@ -251,7 +251,7 @@
 
     **例 2:**
 
-    ```
+    ```cs
     // C# Program to reverse the order of
     // sub range in the List<T>
     using System;

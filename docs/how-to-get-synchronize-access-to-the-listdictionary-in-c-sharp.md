@@ -19,7 +19,7 @@
 
 **示例 1:** 在这段代码中，我们使用 SyncRoot 来获得名为*lisdict*的 listdict 的 Synchronized 访问，这不是一个线程安全的过程，可能会导致异常。所以为了避免异常，我们在枚举期间锁定集合。
 
-```
+```cs
 // C# program to illustrate the
 // use of SyncRoot property of
 // the ListDictionary class
@@ -62,7 +62,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 10 ---- JQUERY
 20 ---- HTML
 30 ---- CSS
@@ -74,7 +74,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of SyncRoot property of
 // the ListDictionary class
@@ -116,7 +116,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 1 ----> Ram
 2 ----> Shyam
 3 ----> Mohan

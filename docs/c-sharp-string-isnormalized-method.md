@@ -19,7 +19,7 @@
 此方法用于检查给定的字符串是否为 Unicode 规范化形式 C。如果字符串是 Unicode 规范化形式，则此方法返回 true，否则返回 false。
 **语法:**
 
-```
+```cs
 public bool IsNormalized ();
 ```
 
@@ -29,7 +29,7 @@ public bool IsNormalized ();
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // IsNormalized() method
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 String is : Hello, Geeks!
 Is str1 string is in normalized form?: True
 ```
@@ -73,7 +73,7 @@ Is str1 string is in normalized form?: True
 此方法用于检查给定字符串是否采用指定的 Unicode 规范化形式。如果给定的字符串是指定的 Unicode 规范化形式，则此方法将返回 true，否则返回 false。
 **语法:**
 
-```
+```cs
 public bool IsNormalized (NormalizationForm nform);
 ```
 
@@ -84,7 +84,7 @@ public bool IsNormalized (NormalizationForm nform);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // IsNormalized(NormalizationForm) method
 using System;
@@ -119,7 +119,7 @@ class Sample {
 
 **Output:** 
 
-```
+```cs
 Is string str1 is normalized to form C - True
 Is string str1 is normalized to form D - True
 Is string str1 is normalized to form KC - True

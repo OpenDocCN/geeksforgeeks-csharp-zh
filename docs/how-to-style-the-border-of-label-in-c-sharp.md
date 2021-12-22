@@ -25,7 +25,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以在给定语法的帮助下以编程方式设置标签控件的边框样式:
 
-```
+```cs
 public virtual System.Windows.Forms.BorderStyle BorderStyle { get; set; }
 ```
 
@@ -33,7 +33,7 @@ public virtual System.Windows.Forms.BorderStyle BorderStyle { get; set; }
 
 *   **步骤 1:** 使用标签类提供的标签()构造函数创建标签。
 
-    ```
+    ```cs
     // Creating label using Label class
     Label mylab = new Label();
 
@@ -41,7 +41,7 @@ public virtual System.Windows.Forms.BorderStyle BorderStyle { get; set; }
 
 *   **步骤 2:** 创建标签后，设置标签类提供的标签的 BorderStyle 属性。
 
-    ```
+    ```cs
     // Set BorderStyle property of the label
     mylab.BorderStyle = BorderStyle.FixedSingle;
 
@@ -49,7 +49,7 @@ public virtual System.Windows.Forms.BorderStyle BorderStyle { get; set; }
 
 *   **Step 3:** And last add this Label control to form using Add() method.
 
-    ```
+    ```cs
     // Add this label to the form
     this.Controls.Add(mylab);
 
@@ -57,7 +57,7 @@ public virtual System.Windows.Forms.BorderStyle BorderStyle { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

@@ -21,7 +21,7 @@
 
 *   **步骤 1:** 使用标签类提供的标签()构造函数创建标签。
 
-    ```
+    ```cs
     // Creating label using Label class
     Label mylab = new Label();
 
@@ -29,7 +29,7 @@
 
 *   **步骤 2:** 创建标签后，设置标签类提供的标签属性。
 
-    ```
+    ```cs
     // Set the text in Label
     mylab.Text = "GeeksforGeeks";
 
@@ -52,7 +52,7 @@
 
 *   **Step 3:** And last add this Label control to form using Add() method.
 
-    ```
+    ```cs
     // Add this label to the form
     this.Controls.Add(mylab);
 
@@ -60,7 +60,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void RemoveAt (int index);
 
 ```
@@ -31,7 +31,7 @@ public virtual void RemoveAt (int index);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the element at
 // the specified index of ArrayList
 using System;
@@ -74,7 +74,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The elements in ArrayList initially are:
 A
 B
@@ -93,7 +93,7 @@ F
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the element at
 // the specified index of ArrayList
 using System;

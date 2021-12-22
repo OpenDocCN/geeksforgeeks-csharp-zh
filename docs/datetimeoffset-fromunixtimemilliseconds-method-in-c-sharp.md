@@ -16,7 +16,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTimeOffset.FromUnixTimeMilliseconds(Int64)
 // Method
@@ -53,14 +53,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTimeOffset is 01/01/1970 00:01:40 +00:00
 
 ```
 
 **例 2:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTimeOffset.FromUnixTimeMilliseconds(Int64)
 // Method
@@ -96,7 +96,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.ArgumentOutOfRangeException
 
 ```

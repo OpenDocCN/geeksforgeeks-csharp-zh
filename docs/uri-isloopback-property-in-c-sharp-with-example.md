@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsLoopback { get; } 
 
 ```
@@ -21,7 +21,7 @@ public bool IsLoopback { get; }
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the  
 // Uri.IsLoopback property  
 using System;  
@@ -49,7 +49,7 @@ class GFG {  
 
 **输出:**
 
-```
+```cs
 Given Uri is not reference of localhost
 
 ```
@@ -58,7 +58,7 @@ Given Uri is not reference of localhost
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the  
 // Uri.IsLoopback property  
 using System;  
@@ -86,7 +86,7 @@ class GFG {  
 
 **输出:**
 
-```
+```cs
 Given Uri is a reference of localhost
 
 ```

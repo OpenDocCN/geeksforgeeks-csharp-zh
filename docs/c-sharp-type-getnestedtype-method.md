@@ -24,7 +24,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetNestedType(String, 
     // BindingFlags) Method
@@ -84,14 +84,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     NestedType of current type is:  Person+Student
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetNestedType(String, 
     // BindingFlags) Method
@@ -154,7 +154,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     name is null.
     Exception Thrown: System.ArgumentNullException
 
@@ -173,7 +173,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetNestedType(String) Method
     using System;
@@ -234,14 +234,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     NestedType of current type is:  Person+Teacher
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetNestedType(String) 
     // Method
@@ -303,7 +303,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     name is null.
     Exception Thrown: System.ArgumentNullException
 

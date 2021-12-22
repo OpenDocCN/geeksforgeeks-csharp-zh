@@ -18,7 +18,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetFields() Method
     using System;
@@ -68,14 +68,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     Fields of current type is as Follow:  System.Int32 id
 
     ```
 
     **例 2:** 对于*如果没有定义公共字段*
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetFields(String) Method
     using System;
@@ -125,7 +125,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Public Fields of current type is as follow: No public fields are defined for the current Type.
 
     ```
@@ -143,7 +143,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the 
     // Type.GetField(String) 
     // Method 
@@ -196,14 +196,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     FieldInfo is - System.String Name
 
     ```
 
     **示例 2:** 适用于*参数异常*
 
-    ```
+    ```cs
     // C# program to demonstrate the 
     // Type.GetFields(String) 
     // Method 
@@ -255,7 +255,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     FieldInfo is - System.String Name
 
     ```

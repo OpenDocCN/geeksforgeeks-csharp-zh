@@ -26,7 +26,7 @@ C#中的匿名类型是没有名称的类型，或者你可以说创建了新的
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how a 
     // method accept anonymous type as 
     // a parameter using dynamic type
@@ -60,7 +60,7 @@ C#中的匿名类型是没有名称的类型，或者你可以说创建了新的
 
     **输出:**
 
-    ```
+    ```cs
     134
     Siya
     Ruby
@@ -71,7 +71,7 @@ C#中的匿名类型是没有名称的类型，或者你可以说创建了新的
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of anonymous types
 using System;
@@ -97,7 +97,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Student id: 109
 Student name: Sohan
 Language: C#
@@ -110,7 +110,7 @@ Language: C#
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of nested anonymous types
 using System;
@@ -136,7 +136,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Student id: 149
 Student name: Soniya
 Language: C#
@@ -150,7 +150,7 @@ Email: soniya45@gmail.com
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // concept of anonymous type in LINQ
 using System;
@@ -199,7 +199,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Author id = 123
 Author name = Shilpa
 Language = C#

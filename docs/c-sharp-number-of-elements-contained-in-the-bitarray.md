@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public int Count { get; }
 
 ```
@@ -23,7 +23,7 @@ public int Count { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get the number of 
 // elements contained in the BitArray
 using System;
@@ -47,14 +47,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 32
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to get the number of
 // elements contained in the BitArray
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 8
 
 ```

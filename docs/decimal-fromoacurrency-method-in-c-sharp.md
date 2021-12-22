@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.FromOACurrency() Method
 using System;
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Equivalent decimal value is 922337203685477.5807
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.FromOACurrency() Method
 using System;
@@ -83,7 +83,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Equivalent decimal value are respectively
 922337203685477.5807
 -922337203685477.5808

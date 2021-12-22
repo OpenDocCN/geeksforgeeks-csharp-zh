@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool IsLower(char ch);
 ```
 
@@ -24,7 +24,7 @@ public static bool IsLower(char ch);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Char.IsLower(Char) Method
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 False
 
@@ -67,7 +67,7 @@ False
 
 **语法:**
 
-```
+```cs
 public static bool IsLower(string str, int index);
 ```
 
@@ -85,7 +85,7 @@ public static bool IsLower(string str, int index);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Char.IsLower(String, Int32) Method
 using System;
@@ -116,7 +116,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 False
 

@@ -6,7 +6,7 @@ Int16 结构的**最小值**属性或字段用于表示 Int16 的最小可能值
 
 **语法:**
 
-```
+```cs
 public const short MinValue = -32768;
 ```
 
@@ -14,7 +14,7 @@ public const short MinValue = -32768;
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Int16.MinValue field
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Minimum Value is: -32768
 Not Possible
 Not Possible

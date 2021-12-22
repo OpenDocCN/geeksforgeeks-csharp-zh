@@ -23,7 +23,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to find the union 
 // of the given sequence
 using System;
@@ -69,7 +69,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Sequence 1 is: 
 m
 q
@@ -101,7 +101,7 @@ z
 
 **例 2:**
 
-```
+```cs
 // C# program to find the common 
 // languages known by the employees
 using System;
@@ -196,7 +196,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Common Languages: 
 C#
 C

@@ -18,7 +18,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Multiply(Decimal,
 // Decimal) Method
@@ -55,7 +55,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Result of multiplication : 8.0802
 ```
 
@@ -63,7 +63,7 @@ Result of multiplication : 8.0802
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Multiply(Decimal,
 // Decimal) Method
@@ -101,6 +101,6 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Exception Thrown: System.OverflowException
 ```

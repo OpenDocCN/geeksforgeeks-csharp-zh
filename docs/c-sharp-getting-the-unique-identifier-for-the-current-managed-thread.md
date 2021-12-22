@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public int ManagedThreadId { get; }
 ```
 
@@ -14,7 +14,7 @@ public int ManagedThreadId { get; }
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // use of ManagedThreadId property
 using System;
@@ -41,14 +41,14 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 The unique id of the main thread is: 1 
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the 
 // use of ManagedThreadId property
 using System;
@@ -89,7 +89,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 ManagedThreadId of thread 1 is: 3
 ManagedThreadId of thread 2 is: 4
 ManagedThreadId of thread 3 is: 5

@@ -25,7 +25,7 @@ CheckBox 控件是 windows 窗体中用于接收用户输入的部分。或者�
 
 **2。运行时:**这是一个比上一个稍微复杂一点的方法。在此方法中，您可以使用以下语法以编程方式设置 CheckBox 的 Padding 属性:
 
-```
+```cs
 public System.Windows.Forms.Padding Padding { get; set; }
 ```
 
@@ -33,21 +33,21 @@ public System.Windows.Forms.Padding Padding { get; set; }
 
 *   **步骤 1:** 使用 checkbox 类提供的 CheckBox()构造函数创建一个 CheckBox。
 
-```
+```cs
 // Creating checkbox
 CheckBox Mycheckbox = new CheckBox();
 ```
 
 *   **步骤 2:** 创建 CheckBox 后，设置 CheckBox 类提供的 CheckBox 的 Padding 属性。
 
-```
+```cs
 // Set the Padding property of the CheckBox
 Mycheckbox.Padding = new Padding(3);
 ```
 
 *   **第 3 步:**最后使用 add()方法将该复选框控件添加到表单中。
 
-```
+```cs
 // Add this checkbox to form
 this.Controls.Add(Mycheckbox);
 ```
@@ -56,7 +56,7 @@ this.Controls.Add(Mycheckbox);
 
 ## C#
 
-```
+```cs
 using System.Data;
 using System.Drawing;
 using System.Linq;

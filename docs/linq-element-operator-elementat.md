@@ -28,7 +28,7 @@ ElementAt 运算符用于从给定集合或序列的特定索引中返回元素�
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of ElementAt operator
 using System;
@@ -63,7 +63,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Sequence is: 
 Dog
 Cat
@@ -76,7 +76,7 @@ Element is: Goat
 
 **例 2:**
 
-```
+```cs
 // C# program to find the 
 // ID of the employee
 using System;
@@ -155,7 +155,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Employee ID: 210
 
 ```

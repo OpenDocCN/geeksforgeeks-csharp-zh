@@ -13,7 +13,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate
 // Single.IsNaN(Single) method
 using System;
@@ -53,7 +53,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Infinity is not NaN
 NaN is NaN
 

@@ -23,7 +23,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate
 // ThreadStart constructor
 using System;
@@ -62,7 +62,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 My Thread is in progress...!!
 My Thread is in progress...!!
 
@@ -88,7 +88,7 @@ My Thread is in progress...!!
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to
 // set and get the priority of threads
 using System;
@@ -134,7 +134,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The priority of Thread 1 is: Normal
 The priority of Thread 2 is: Lowest
 The priority of Thread 3 is: AboveNormal
@@ -184,7 +184,7 @@ The priority of Thread 3 is: AboveNormal
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of Join() method
 using System;
@@ -229,7 +229,7 @@ public class ThreadExample {
 
 **输出:**
 
-```
+```cs
 1nd thread is Working..!!
 2nd thread is Working..!!
 

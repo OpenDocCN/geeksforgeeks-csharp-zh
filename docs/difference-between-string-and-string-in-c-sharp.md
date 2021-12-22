@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 String variable = "my string";
 ```
 
@@ -14,7 +14,7 @@ String variable = "my string";
 
 ## C#
 
-```
+```cs
 // C# program to illustrate String
 using System;
 
@@ -34,7 +34,7 @@ public static void Main()
 
 **输出**:
 
-```
+```cs
 Geeks
 ```
 
@@ -42,7 +42,7 @@ Geeks
 
 **语法:**
 
-```
+```cs
 string variable = "my string";
 ```
 
@@ -50,7 +50,7 @@ string variable = "my string";
 
 ## C#
 
-```
+```cs
 // C# program to illustrate string
 using System;
 
@@ -70,7 +70,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks
 ```
 

@@ -29,14 +29,14 @@ CheckBox 控件是 windows 窗体的一部分，用于接受用户的输入。�
 
 *   **步骤 1:** 使用 checkbox 类提供的 CheckBox()构造函数创建一个 CheckBox。
 
-```
+```cs
 // Creating checkbox
 CheckBox Mycheckbox = new CheckBox();
 ```
 
 *   **步骤 2:** 创建 CheckBox 后，设置 CheckBox 类提供的 CheckBox 的属性。
 
-```
+```cs
 // Set height of the checkbox
  Mycheckbox.Height = 50;
 
@@ -55,7 +55,7 @@ Mycheckbox.Font = new Font("Bradley Hand ITC", 12);
 
 *   **第 3 步:**最后使用 add()方法将该复选框控件添加到表单中。
 
-```
+```cs
 // Add this checkbox to form
 this.Controls.Add(Mycheckbox);
 ```
@@ -64,7 +64,7 @@ this.Controls.Add(Mycheckbox);
 
 ## C#
 
-```
+```cs
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

@@ -15,7 +15,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToInt16(Decimal) Method
 using System;
@@ -60,7 +60,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Int16 value is : 21564
 The Int16 value is : 32767
 
@@ -68,7 +68,7 @@ The Int16 value is : 32767
 
 **例 2:** 适用于*飞越异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToInt16(Decimal) Method
 using System;
@@ -107,7 +107,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.OverflowException
 
 ```

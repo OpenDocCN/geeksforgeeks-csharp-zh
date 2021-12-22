@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate hwo to use
 // a string in switch statement
 using System;
@@ -46,13 +46,13 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 It is 1
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate hwo to use
 // a string in switch statement
 using System;
@@ -86,7 +86,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Subject is C#
 
 ```

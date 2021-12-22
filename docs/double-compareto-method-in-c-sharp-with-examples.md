@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public int CompareTo (double value);
     ```
 
@@ -28,7 +28,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Double.CompareTo(Double)
     // Method
@@ -66,14 +66,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     10 is less than 20
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Double.CompareTo(Double)
     // Method
@@ -117,7 +117,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     5 is less than 7
     5.5 is greater than 4.5
     10 is less than 20
@@ -131,7 +131,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public int CompareTo (object value);
     ```
 
@@ -149,7 +149,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Double.CompareTo(object)
     // Method
@@ -197,14 +197,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     10 is less than 20
 
     ```
 
     **示例 2:** 适用于*参数异常*
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Double.CompareTo(object)
     // Method
@@ -253,7 +253,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     value2 must be double
     Exception Thrown: System.ArgumentException
 

@@ -16,7 +16,7 @@ MSIL 被 [JIT 编译器](https://www.geeksforgeeks.org/what-is-just-in-time-jit-
 
 **示例:**MSIL 是由特定于语言的编译器根据下面给出的源代码生成的。为了详细了解 MSIL，打印“ *GeeksforGeeks* 的类 Demo 的简单 C#源代码如下:
 
-```
+```cs
 using System;
 
 public class Demo {
@@ -29,7 +29,7 @@ public class Demo {
 
 C#编译器为上面提供的代码创建的 MSIL 如下所示:
 
-```
+```cs
 // =============== CLASS MEMBERS DECLARATION ===================
 
 .class public auto ansi beforefieldinit Demo

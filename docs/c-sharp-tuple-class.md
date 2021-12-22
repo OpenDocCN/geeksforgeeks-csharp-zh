@@ -15,7 +15,7 @@
 
 **例:**
 
-```
+```cs
 // C# program to create tuple 
 // using tuple constructor.
 using System;
@@ -45,7 +45,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Element 1: 22
 Element 2: 334
 Element 3: 54

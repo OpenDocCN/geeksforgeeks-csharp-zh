@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 mySet1.IsProperSubsetOf(mySet2);
 
 ```
@@ -21,7 +21,7 @@ mySet1.IsProperSubsetOf(mySet2);
 
 **例 1:**
 
-```
+```cs
 // C# code to Check if a HashSet is a proper
 // subset of the specified collection
 using System;
@@ -60,14 +60,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to Check if a HashSet is a proper
 // subset of the specified collection
 using System;
@@ -106,7 +106,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```

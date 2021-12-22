@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static double Pow(double base, double power)
 
 ```
@@ -21,7 +21,7 @@ public static double Pow(double base, double power)
 
 **示例:**
 
-```
+```cs
 Input  : base = 8, power =2 
 Output : 64
 
@@ -32,7 +32,7 @@ Output : 15.625
 
 **程序:**演示数学。Pow()
 
-```
+```cs
 // C# program to illustrate the 
 // Math.Pow() function
 using System;
@@ -69,7 +69,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 36
 42.875
 1664966416

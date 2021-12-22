@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 mySet1.IsProperSupersetOf(mySet2);
 
 ```
@@ -27,7 +27,7 @@ mySet1.IsProperSupersetOf(mySet2);
 
 **例 1:**
 
-```
+```cs
 // C# code to Check if a SortedSet is a
 // proper superset of the specified collection
 using System;
@@ -67,14 +67,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to Check if a SortedSet is a
 // proper superset of the specified collection
 using System;
@@ -116,7 +116,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 
 ```

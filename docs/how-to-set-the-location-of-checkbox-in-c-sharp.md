@@ -25,7 +25,7 @@ CheckBox 控件是 windows 窗体的一部分，用于接受用户的输入。�
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以使用以下语法以编程方式设置 CheckBox 的 Location 属性:
 
-```
+```cs
 public System.Drawing.Point Location { get; set; }
 ```
 
@@ -33,21 +33,21 @@ public System.Drawing.Point Location { get; set; }
 
 *   **步骤 1:** 使用 checkbox 类提供的 CheckBox()构造函数创建一个 CheckBox。
 
-```
+```cs
 // Creating checkbox
 CheckBox Mycheckbox = new CheckBox();
 ```
 
 *   **步骤 2:** 创建 CheckBox 后，设置 CheckBox 类提供的 CheckBox 的位置属性。
 
-```
+```cs
 // Set the Location property of the CheckBox
 Mycheckbox.Location = new Point(229, 136);
 ```
 
 *   **第 3 步:**最后使用 add()方法将该复选框控件添加到表单中。
 
-```
+```cs
 // Add this checkbox to form
 this.Controls.Add(Mycheckbox);
 ```
@@ -56,7 +56,7 @@ this.Controls.Add(Mycheckbox);
 
 ## C#
 
-```
+```cs
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

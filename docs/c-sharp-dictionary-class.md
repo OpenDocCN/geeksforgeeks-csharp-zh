@@ -33,7 +33,7 @@ C#中的*字典< TKey，TValue >类*是键和值的集合。它是系统中的�
 
 ## C#
 
-```
+```cs
 // C# code to create a Dictionary
 using System;
 using System.Collections.Generic;
@@ -76,7 +76,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 
 The key/value pairs in myDict are : 
@@ -106,7 +106,7 @@ Key = 6, Value = HTML
 
 ## C#
 
-```
+```cs
 // C# code to get the keys
 // in the Dictionary
 using System;
@@ -152,7 +152,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 Key = 1
 Key = 2
@@ -166,7 +166,7 @@ Key = 6
 
 ## C#
 
-```
+```cs
 // C# code to get the values
 // in the Dictionary
 using System;
@@ -212,7 +212,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 Value = C
 Value = C++
@@ -251,7 +251,7 @@ Value = HTML
 
 ## C#
 
-```
+```cs
 // C# code to remove all entries
 //  from Dictionary
 using System;
@@ -292,7 +292,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 Total key/value pairs in myDict after Clear() operation are : 0
 ```
@@ -301,7 +301,7 @@ Total key/value pairs in myDict after Clear() operation are : 0
 
 ## C#
 
-```
+```cs
 // C# code to remove the entry with
 // the specified key from the Dictionary
 using System;
@@ -344,7 +344,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 Total key/value pairs in myDict after Remove() operation are : 6
 ```

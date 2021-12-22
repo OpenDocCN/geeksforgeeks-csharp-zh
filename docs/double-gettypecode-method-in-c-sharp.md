@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Double.GetTypeCode()
 // Method
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode is Double
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Double.GetTypeCode()
 // Method
@@ -82,7 +82,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode is Double
 TypeCode is Double
 TypeCode is Double

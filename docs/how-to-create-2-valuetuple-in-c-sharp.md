@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```cs
 public ValueTuple (T1 item1, T2 item2);
 ```
 
@@ -24,7 +24,7 @@ public ValueTuple (T1 item1, T2 item2);
 
 **示例:**
 
-```
+```cs
 // C# program to create a pair ValueTuple
 // using value tuple constructor
 using System;
@@ -48,7 +48,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Component 1: Geeks
 Component 2: GFG
 
@@ -60,7 +60,7 @@ Component 2: GFG
 
 **语法:**
 
-```
+```cs
 public static ValueTuple<T1, T2> Create<T1, T2> (T1 item1, T2 item2);
 ```
 
@@ -78,7 +78,7 @@ public static ValueTuple<T1, T2> Create<T1, T2> (T1 item1, T2 item2);
 
 **示例:**
 
-```
+```cs
 // C# program to create a pair value tuple
 // using Create<T1, T2>(T1, T2) method
 using System;
@@ -101,7 +101,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Component 1: Geeks123
 Component 2: gfg
 

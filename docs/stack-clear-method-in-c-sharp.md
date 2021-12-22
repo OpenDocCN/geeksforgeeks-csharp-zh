@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void Clear ();
 ```
 
@@ -14,7 +14,7 @@ public virtual void Clear ();
 
 **例 1:**
 
-```
+```cs
 // C# code to illustrate the
 // Stack.Clear Method
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total number of elements in the Stack are : 6
 Total number of elements in the Stack are : 0
 

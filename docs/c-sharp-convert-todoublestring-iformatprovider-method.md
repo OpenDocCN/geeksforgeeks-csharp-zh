@@ -24,7 +24,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToDouble() Method
 using System;
@@ -91,14 +91,14 @@ public static void get(string s,
 
 **Output:**
 
-```
+```cs
 Converted decimal value of specified strings:  123456789,  123456789,  12345.6789,
 
 ```
 
 **例 2:** 为*格式异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToDouble() Method
 using System;
@@ -175,7 +175,7 @@ public static void get(string s,
 
 **Output:**
 
-```
+```cs
 Converted double value of specified strings:  123456789,  123456789,  12345.6789, 
 
 format of s is invalid 
@@ -185,7 +185,7 @@ Exception Thrown: System.FormatException
 
 **例 3:** 适用于*飞越异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToDouble() Method
 using System;
@@ -260,7 +260,7 @@ public static void get(string s,
 
 **Output:**
 
-```
+```cs
 Converted decimal value of specified strings:  123456789,  123456789,  12345.6789, 
 
 s is less than the MaxValue

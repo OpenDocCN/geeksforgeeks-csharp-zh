@@ -13,7 +13,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // the Capacity() Property
 using System;
@@ -51,7 +51,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
  Capacity of StringBuilder = 16
 StringBuilder = Geek
 Current Capacity of StringBuilder = 16
@@ -61,7 +61,7 @@ Current Capacity of StringBuilder = 16
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // the Capacity() Property
 using System;
@@ -89,7 +89,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 StringBuilder = WelcomeGeeks
 Capacity of StringBuilder = 16
 ```

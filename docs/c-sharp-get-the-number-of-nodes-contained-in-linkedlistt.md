@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public int Count { get; }
 
 ```
@@ -19,7 +19,7 @@ public int Count { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get the number
 // of nodes actually contained
 // in the LinkedList
@@ -54,14 +54,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 4
 
 ```
 
 **例 2 :**
 
-```
+```cs
 // C# code to get the number
 // of nodes actually contained
 // in the LinkedList
@@ -89,7 +89,7 @@ class GFG {
 
 输出:
 
-```
+```cs
 LinkedList is empty
 
 ```

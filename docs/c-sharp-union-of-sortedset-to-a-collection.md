@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 mySortedSet1.UnionWith(mySortedSet2);
 
 ```
@@ -25,7 +25,7 @@ mySortedSet1.UnionWith(mySortedSet2);
 
 **例 1:**
 
-```
+```cs
 // C# code to get the Union of 2 SortedSets
 using System;
 using System.Collections.Generic;
@@ -71,7 +71,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The union of mySortedSet1 and mySortedSet2 is: 
 2
 4
@@ -86,7 +86,7 @@ The union of mySortedSet1 and mySortedSet2 is:
 
 **例 2:**
 
-```
+```cs
 // C# code to get the Union of 2 SortedSets
 using System;
 using System.Collections.Generic;
@@ -132,7 +132,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The union of mySortedSet1 and mySortedSet2 is: 
 C++
 Data Structures

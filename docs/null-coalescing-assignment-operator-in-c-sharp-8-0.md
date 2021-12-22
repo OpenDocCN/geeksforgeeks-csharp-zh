@@ -6,7 +6,7 @@ C# 8.0 引入了一个新的运算符，称为空值合并赋值运算符(**？�
 
 **语法:**
 
-```
+```cs
 p ??= q
 ```
 
@@ -21,7 +21,7 @@ p ??= q
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how to use 
     // ??= operator with value types and 
     // reference types
@@ -72,7 +72,7 @@ p ??= q
 
     **输出:**
 
-    ```
+    ```cs
     Value of item_1 is: GeeksforGeeks
     Value of item_6 is:GFG
     Value of ele_1 is 40
@@ -83,7 +83,7 @@ p ??= q
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how to use
     // ??= operator to remove if statements
     using System;
@@ -114,12 +114,12 @@ p ??= q
 
     **输出:**
 
-    ```
+    ```cs
     Element is null. So the new element is: 400
 
     ```
 
-    ```
+    ```cs
     // C# program to illustrate how to use
     // ??= operator to remove if statements
     using System;
@@ -143,7 +143,7 @@ p ??= q
 
     **输出:**
 
-    ```
+    ```cs
     Element is: 400
     ```
 
@@ -151,7 +151,7 @@ p ??= q
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate 
     // how to nest ??= operator
     using System;
@@ -179,6 +179,6 @@ p ??= q
 
     **输出:**
 
-    ```
+    ```cs
     Element is: 45
     ```

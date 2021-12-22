@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 mySet1.IsSubsetOf(mySet2);
 
 ```
@@ -25,7 +25,7 @@ mySet1.IsSubsetOf(mySet2);
 
 **例 1:**
 
-```
+```cs
 // C# code to Check if a SortedSet is a
 // subset of the specified collection
 using System;
@@ -66,14 +66,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to Check if a SortedSet is a
 // subset of the specified collection
 using System;
@@ -115,7 +115,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 
 ```

@@ -6,7 +6,7 @@
 
 ![](img/17a17da8fdbb51c29023a41bd1fbe200.png)
 
-```
+```cs
 sin θ = perpendicular / hypotenuse
 ```
 
@@ -41,7 +41,7 @@ sin θ = perpendicular / hypotenuse
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how we can 
 // calculate the value of sin(x)
 // using Sin() method
@@ -106,7 +106,7 @@ static void Main()
 
 **Output**
 
-```
+```cs
 The value of sin(0) = 0 
 The value of sin(45) = 0.707106781186547 
 The value of sin(90) = 1 
@@ -117,7 +117,7 @@ The value of sin(135) = 0.707106781186548
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how we can 
 // calculate the value of sin(x)
 // using Sin() method
@@ -154,7 +154,7 @@ static public void Main()
 
 **输出**
 
-```
+```cs
 Sine of angle1: NaN
 Sine of angle2: NaN
 Sine of angle3: NaN
@@ -164,7 +164,7 @@ Sine of angle3: NaN
 
 我们可以用麦克劳林展开法计算一个角度的正弦值。所以辛(x)的麦克劳林级数展开式是:
 
-```
+```cs
 sin(x) = x - x3 / 3! + x5 / 5! - x7 / 7! + ....
 ```
 
@@ -186,7 +186,7 @@ sin(x) = x - x3 / 3! + x5 / 5! - x7 / 7! + ....
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how we can 
 // calculate the value of sin(x)
 // using Maclaurin's method
@@ -279,7 +279,7 @@ static public void Main()
 
 **Output**
 
-```
+```cs
 The value of sin(45) = 0.707106781186547
 The value of sin(90) = 1
 The value of sin(135) = 0.707106781186548

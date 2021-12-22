@@ -30,7 +30,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to create a 8-ValueTuple
 // using ValueTuple constructor
 using System;
@@ -66,7 +66,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Student 1: Rohan
 Student 2: Sumit
 Student 3: Soniya
@@ -112,7 +112,7 @@ Student 8: (Nayan)
 
 **示例:**
 
-```
+```cs
 // C# program to create a 8-ValueTuple
 // using Create Method
 using System;
@@ -143,7 +143,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Component 1: 45.67
 Component 2: 67.78
 Component 3: 56.8

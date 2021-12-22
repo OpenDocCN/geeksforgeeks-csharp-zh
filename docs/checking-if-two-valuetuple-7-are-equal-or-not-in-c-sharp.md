@@ -18,7 +18,7 @@ Equals(ValueTuple <t1 t2="" t3="" t4="" t5="" t6="" t7="">)方法用于检查两
 
 **语法:**
 
-```
+```cs
 public bool Equals (ValueTuple<T1, T2, T3, T4, T5, T6, T7>);
 ```
 
@@ -26,7 +26,7 @@ public bool Equals (ValueTuple<T1, T2, T3, T4, T5, T6, T7>);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // Equals(ValueTuple<T1, T2, T3,
 // T4, T5, T6, T7>) Method
@@ -60,7 +60,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Result 1: True
 Result 2: False
 Result 3: True
@@ -77,7 +77,7 @@ Result 3: True
 
 **语法:**
 
-```
+```cs
 public override bool Equals (object obj);
 ```
 
@@ -87,7 +87,7 @@ public override bool Equals (object obj);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // use of Equals(Object) method
 using System;
@@ -120,7 +120,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Both value tuples are equal
 
 ```

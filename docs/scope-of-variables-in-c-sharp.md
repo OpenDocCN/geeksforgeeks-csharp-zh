@@ -18,7 +18,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // Class Level Scope of variables
     using System;
@@ -51,7 +51,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // Method Level Scope of variables
     using System;
@@ -98,7 +98,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# code to illustrate the Block
     // Level scope of variables
     using System;

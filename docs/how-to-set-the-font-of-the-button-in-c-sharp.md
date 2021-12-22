@@ -19,7 +19,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式设置按钮的字体属性:
 
-```
+```cs
 public virtual System.Drawing.Font Font { get; set; }
 ```
 
@@ -27,7 +27,7 @@ public virtual System.Drawing.Font Font { get; set; }
 
 *   **步骤 1:** 使用 button 类提供的 Button()构造函数创建按钮。
 
-    ```
+    ```cs
     // Creating Button using Button class
     Button MyButton = new Button();
 
@@ -35,7 +35,7 @@ public virtual System.Drawing.Font Font { get; set; }
 
 *   **第二步:**创建按钮后，设置按钮类提供的按钮的字体属性。
 
-    ```
+    ```cs
     // Set the font of the button
     Mybutton.Font = new Font("French Script MT", 18);
 
@@ -43,7 +43,7 @@ public virtual System.Drawing.Font Font { get; set; }
 
 *   **Step 3:** And last add this button control to form using Add() method.
 
-    ```
+    ```cs
     // Add this Button to form
     this.Controls.Add(Mybutton);
 
@@ -51,7 +51,7 @@ public virtual System.Drawing.Font Font { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

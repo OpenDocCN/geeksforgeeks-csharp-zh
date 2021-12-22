@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTimeOffset.ToUnixTimeMilliseconds()
 // Method
@@ -42,14 +42,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Returns the number of seconds : 1496321700
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTimeOffset.ToUnixTimeSeconds()
 // Method
@@ -79,7 +79,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Returns the number of seconds : 1496321700
 
 ```

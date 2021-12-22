@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```cs
 public static property Index End { Index get(); };
 ```
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate how 
 // to get the End index
 using System;
@@ -44,7 +44,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Index: ^1
 Index: 3
 End Index: ^0
@@ -53,7 +53,7 @@ End Index: ^0
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of the End index
 using System;
@@ -91,6 +91,6 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The given index is beyond the last element
 ```

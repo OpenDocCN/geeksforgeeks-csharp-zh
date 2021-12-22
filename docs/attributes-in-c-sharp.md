@@ -38,7 +38,7 @@
 
     **例 1:** 这里，它不会给出任何警告消息，代码编译成功。
 
-    ```
+    ```cs
     // C# program to demonstrate CLSCompliantAttribute
     using System;
 
@@ -57,14 +57,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     GeeksForGeeks
 
     ```
 
     **示例 2:** 这段代码将由编译器给出一条警告消息。
 
-    ```
+    ```cs
     // C# program to demonstrate CLSCompliantAttribute
     // giving a warning message
     using System;
@@ -97,7 +97,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate FlagsAttribute
     using System;
 
@@ -128,7 +128,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     3
     Red, Blue
 
@@ -140,7 +140,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate ObsoleteAttribute
     using System;
 
@@ -182,7 +182,7 @@
 
         **示例:**
 
-        ```
+        ```cs
         // C# program to demonstrate Custom Attributes
         using System;
 
@@ -232,7 +232,7 @@
 
         **Output:**
 
-        ```
+        ```cs
         Roll Number: 1001
         Name: Lily Adams
 

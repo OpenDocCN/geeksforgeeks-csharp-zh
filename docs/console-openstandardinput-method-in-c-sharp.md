@@ -12,13 +12,13 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static System.IO.Stream OpenStandardInput ();
     ```
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // OpenStandardInput() Method
     using System;
@@ -58,7 +58,7 @@
     > 
     > **异常:**如果*缓冲区*小于等于零，此方法将给出**argumentout of range Exception**。
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // OpenStandardInput(Int32) Method
     using System;

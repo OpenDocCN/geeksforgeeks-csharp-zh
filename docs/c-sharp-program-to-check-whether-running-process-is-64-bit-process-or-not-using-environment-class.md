@@ -16,7 +16,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to determine whether the given 
 // process is 64-bit process or not. Using 
 // Is64BitProcess process of Environment Class
@@ -45,7 +45,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 The current process is 64-bit process
 ```
 
@@ -55,7 +55,7 @@ The current process is 64-bit process
 
 ## C#
 
-```
+```cs
 // C# program to determine whether the given 
 // process is 64-bit process or not. Using 
 // Is64BitProcess process of Environment Class
@@ -84,6 +84,6 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 The current process is not 64-bit process
 ```

@@ -18,7 +18,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.MakeRelativeUri() Method
 using System;
@@ -49,14 +49,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 relative uri is : index.htm?date=today
 
 ```
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.MakeRelativeUri() Method
 using System;
@@ -96,7 +96,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 uri should not be null
 Exception Thrown: System.ArgumentNullException
 
@@ -104,7 +104,7 @@ Exception Thrown: System.ArgumentNullException
 
 **例 3:** 为*尿酸异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.MakeRelativeUri() Method
 using System;
@@ -145,7 +145,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 uri should be in correct format
 Exception Thrown: System.UriFormatException
 

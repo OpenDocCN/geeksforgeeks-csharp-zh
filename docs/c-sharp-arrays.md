@@ -32,7 +32,7 @@ C#中关于数组需要记住的要点
 
 **语法:**
 
-```
+```cs
 < Data Type > [ ] < Name_Array >
 
 ```
@@ -44,7 +44,7 @@ C#中关于数组需要记住的要点
 
 **示例:**
 
-```
+```cs
 int[] x;  // can store int values
 string[] s; // can store string values
 double[] d; // can store double values
@@ -62,7 +62,7 @@ Student[] stud1; // can store instances of Student class which is custom class
 
 **语法:**
 
-```
+```cs
 type [ ] < Name_Array > = new < datatype > [size];
 
 ```
@@ -73,7 +73,7 @@ type [ ] < Name_Array > = new < datatype > [size];
 
 **例 1 :**
 
-```
+```cs
 // defining array with size 5\. 
 // But not assigns values
 int[] intArray1 = new int[5]; 
@@ -84,7 +84,7 @@ int[] intArray1 = new int[5];
 
 **例 2 :**
 
-```
+```cs
 // defining array with size 5 and assigning
 // values at the same time
 int[] intArray2 = new int[5]{1, 2, 3, 4, 5};
@@ -95,7 +95,7 @@ int[] intArray2 = new int[5]{1, 2, 3, 4, 5};
 
 **例 3 :**
 
-```
+```cs
 // defining array with 5 elements which 
 // indicates the size of an array
 int[] intArray3 = {1, 2, 3, 4, 5};
@@ -138,7 +138,7 @@ int[] intArray3 = {1, 2, 3, 4, 5};
 在初始化时，我们可以赋值。但是，我们也可以在声明和初始化之后，使用数组的索引随机分配数组的值。我们可以通过索引来访问数组值，将元素的索引放在方括号内，数组名为
 **示例:**
 
-```
+```cs
 //declares & initializes int type array
 int[] intArray = new int[5];
 
@@ -165,7 +165,7 @@ intArray[2];  //returns 30
 
 **实现:** **使用不同的循环访问数组元素**
 
-```
+```cs
 // C# program to illustrate creating an array
 // of integers, puts some values in the array,
 // and prints each value to standard output.
@@ -237,7 +237,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 For loop : 10 20 30 40 50
 For-each loop : 10 20 30 40 50
 while loop : 10 20 30 40 50
@@ -251,7 +251,7 @@ Do-while loop : 10 20 30 40 50
 
 在这个数组中只包含一行用于存储值。该数组的所有值从 0 到数组大小连续存储。例如，声明 5 个整数的一维数组:
 
-```
+```cs
 int[] arrayint = new int[5];
 
 ```
@@ -260,7 +260,7 @@ int[] arrayint = new int[5];
 
 **示例:**
 
-```
+```cs
 // C# program to creating an array
 // of the string as week days, store 
 // day values in the weekdays,
@@ -291,7 +291,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Sun Mon Tue Wed Thu Fri Sat 
 
 ```
@@ -302,7 +302,7 @@ Sun Mon Tue Wed Thu Fri Sat
 
 多维数组包含多行来存储值。它在 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中也被称为**矩形阵列**，因为它的每行长度都是相同的。可以是 **2D 阵**或 **3D 阵**或更多。要存储和访问数组的值，需要嵌套循环。多维数组的声明、初始化和访问如下:
 
-```
+```cs
 // creates a two-dimensional array of 
 // four rows and two columns.
 int[, ] intarray = new int[4, 2];
@@ -314,7 +314,7 @@ int[,, ] intarray1 = new int[4, 2, 3];
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate creating
 // an multi- dimensional array
 // puts some values in the array,
@@ -394,7 +394,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 2DArray[0][0] : 1
 2DArray[0][1] : 2
 2DArray[1][1] : 4
@@ -418,7 +418,7 @@ one two three four five six seven eight
 
 **示例:**
 
-```
+```cs
 // C# program to single-dimensional jagged array
 // that contains two single-dimensional array
 // elements of different sizes.
@@ -470,7 +470,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Element [0] Array: 1 3 5 7 9 
 Element [1] Array: 2 4 6 8 
 Another Array
@@ -482,7 +482,7 @@ Element [1] Array: 2 4 6 8
 交错数组和多维数组可以混合使用。交错数组是数组的数组，因此它的元素是引用类型，并且被初始化为 null。
 **示例:**声明并初始化包含三个不同大小的二维数组元素的一维交错数组。
 
-```
+```cs
 // C# program to single-dimensional jagged array
 // that contains three two-dimensional array
 // elements of different sizes.
@@ -520,7 +520,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
  arr[0][0, 0]:1  arr[0][0, 1]:3 
  arr[0][1, 0]:5  arr[0][1, 1]:7 
 

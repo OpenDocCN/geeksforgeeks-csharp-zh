@@ -22,13 +22,13 @@
 
 **来源(第一):**
 
-```
+```cs
 Hello Geeks welcome to c#.
 ```
 
 **目的地(最后一个):**
 
-```
+```cs
 Hello Geeks welcome to java/php.
 ```
 
@@ -38,20 +38,20 @@ Hello Geeks welcome to java/php.
 
 > ***   Declare variables*   Use the ReadAllText () method to read the source file and the target file.**
 > 
->  **```
+> ```cs
 > file = File.ReadAllText("first/sai.TXT");
 > file = File.ReadAllText("last/sai.TXT");
 > ```
 > 
 > *   Copy the file by overwriting the source file (first one) with the copy () method.
 > 
-> ```
+> ```cs
 >  File.Copy("first/sai.TXT", "last/sai.TXT",true);
 > ```
 > 
 > *   Use the ReadAllText () method to read the source and target files and display them.
 > 
-> ```
+> ```cs
 > file = File.ReadAllText("first/sai.TXT");
 > file = File.ReadAllText("last/sai.TXT");
 > ```**
@@ -60,7 +60,7 @@ Hello Geeks welcome to java/php.
 
 ## **C#**
 
-```
+```cs
 // C# program to copy the data of one file to 
 // another file by overwriting the same file name
 using System;
@@ -98,7 +98,7 @@ static void Main()
 
 ****输出:****
 
-```
+```cs
 Before copy:
 
 data in first:

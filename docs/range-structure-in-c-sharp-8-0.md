@@ -6,7 +6,7 @@ C# 8.0 引入了一种新的预定义结构，称为范围结构。此结构用�
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how to create ranges
 using System;
 
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Marks List 1:  45  67  88  99 
 Marks List 2:  27  67 
 Marks List 3:  67  88 

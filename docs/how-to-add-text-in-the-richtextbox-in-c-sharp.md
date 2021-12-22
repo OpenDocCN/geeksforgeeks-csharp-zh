@@ -19,7 +19,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式在 RichTextBox 控件中添加文本:
 
-```
+```cs
 public override string Text { get; set; }
 ```
 
@@ -27,7 +27,7 @@ public override string Text { get; set; }
 
 *   **步骤 1:** 使用 RichTextBox()构造函数创建一个 RichTextBox，该构造函数由 RichTextBox 类提供。
 
-    ```
+    ```cs
     // Creating RichTextBox using RichTextBox class constructor
     RichTextBox rbox = new RichTextBox();
 
@@ -35,7 +35,7 @@ public override string Text { get; set; }
 
 *   **步骤 2:** 创建完 RichTextBox 后，设置 RichTextBox 类提供的 RichTextBox 的 Text 属性。
 
-    ```
+    ```cs
     // Adding text in the control box
     rbox.Text = "!..Welcome to GeeksforGeeks..!";
 
@@ -43,7 +43,7 @@ public override string Text { get; set; }
 
 *   **Step 3:** And last add this RichTextBox control to the form using Add() method.
 
-    ```
+    ```cs
     // Add this RichTextBox to the form
     this.Controls.Add(rbox);
 
@@ -51,7 +51,7 @@ public override string Text { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

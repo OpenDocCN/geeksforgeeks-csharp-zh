@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public int Compare (object a, object b);
     ```
 
@@ -29,7 +29,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the use of
     // StringComparer.Compare(Object, Object)
     // Method
@@ -81,7 +81,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Original array:
     A
     E
@@ -111,7 +111,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public abstract int Compare (string a, string b);
     ```
 
@@ -128,7 +128,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the use of 
     // StringComparer.Compare(String, String)
     // Method
@@ -155,7 +155,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     -1
 
     ```

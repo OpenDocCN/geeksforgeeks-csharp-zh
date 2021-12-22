@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public T FindLast (Predicate<T> match);
 
 ```
@@ -29,7 +29,7 @@ public T FindLast (Predicate<T> match);
 
 **例 1:**
 
-```
+```cs
 // C# Program to get the last occurrence
 // of the element that match the specified
 // conditions defined by the predicate
@@ -90,7 +90,7 @@ public static void Main(String[] args)
 
 **Output:**
 
-```
+```cs
 Elements Present in List:
 
 At Position 0: 4
@@ -108,7 +108,7 @@ Element is: 4
 
 **例 2:**
 
-```
+```cs
 // C# Program to get the last occurrence
 // of the element that match the specified
 // conditions defined by the predicate
@@ -170,7 +170,7 @@ public static void Main(String[] args)
 
 **Output:**
 
-```
+```cs
 Elements Present in List:
 
 At Position 0: 17

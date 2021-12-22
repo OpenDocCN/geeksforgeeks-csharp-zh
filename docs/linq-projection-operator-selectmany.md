@@ -17,7 +17,7 @@ SelectMany 运算符返回基于转换函数的值序列，然后将它们组合
 
 **示例:**
 
-```
+```cs
 // C# program to find the languages
 // known by the employee
 using System;
@@ -90,7 +90,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Languages known by all the employees are:
 C#
 VB
@@ -111,7 +111,7 @@ Perl
 
 **示例:**
 
-```
+```cs
 // C# program to find the languages
 // known by the employee
 using System;
@@ -181,7 +181,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Languages known by all the employees are:
 C#
 VB

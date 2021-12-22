@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```cs
 public void Start ();
 ```
 
@@ -24,7 +24,7 @@ public void Start ();
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // use of Start() method
 using System;
@@ -62,7 +62,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 0
 1
 2
@@ -76,7 +76,7 @@ public class GFG {
 
 **语法:**
 
-```
+```cs
 public void Start (object parameter);
 ```
 
@@ -90,7 +90,7 @@ public void Start (object parameter);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // use of Start(Object) method
 using System;
@@ -131,7 +131,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Data of Thread 1 is: 1
 Data of Thread 2 is: Hello
 

@@ -36,7 +36,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the working of
 // String.Equals() method to compare two strings
 using System;
@@ -90,7 +90,7 @@ static public void Main()
 
 **Output**
 
-```
+```cs
 GeeksforGeeks and Geeks are different.
 GeeksforGeeks and GeeksforGeeks are same.
 Geeks and GeeksforGeeks are different.
@@ -116,7 +116,7 @@ Geeks and GeeksforGeeks are different.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the working of
 // String.Compare() method to compare two strings
 using System;
@@ -191,7 +191,7 @@ static public void Main()
 
 **Output**
 
-```
+```cs
 GeeksforGeeks is lexicographically greater than Geeks.
 GeeksforGeeks and GeeksforGeeks are same.
 Geeks is lexicographically smaller than GeeksforGeeks.
@@ -217,7 +217,7 @@ Geeks is lexicographically smaller than GeeksforGeeks.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the working of
 // CompareTo() method to compare two strings
 using System;
@@ -292,7 +292,7 @@ static public void Main()
 
 **Output**
 
-```
+```cs
 GeeksforGeeks is lexicographically greater than Geeks.
 GeeksforGeeks is lexicographically greater than GeeksforGeeks.
 Geeks is lexicographically greater than GeeksforGeeks.
@@ -320,7 +320,7 @@ Geeks is lexicographically greater than GeeksforGeeks.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the working of Compare() method
 // of StringComparer class to compare two strings
 using System;
@@ -401,7 +401,7 @@ static public void Main()
 
 **Output**
 
-```
+```cs
 GeeksforGeeks is lexicographically greater than Geeks.
 GeeksforGeeks and GeeksforGeeks are same.
 Geeks is lexicographically smaller than GeeksforGeeks.
@@ -423,7 +423,7 @@ Geeks is lexicographically smaller than GeeksforGeeks.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the working of
 // custom Compare() method to compare two strings
 using System;
@@ -535,7 +535,7 @@ static public void Main()
 
 **Output**
 
-```
+```cs
 GeeksforGeeks is lexicographically greater than Geeks.
 GeeksforGeeks and GeeksforGeeks are same.
 Geeks is lexicographically smaller than GeeksforGeeks.

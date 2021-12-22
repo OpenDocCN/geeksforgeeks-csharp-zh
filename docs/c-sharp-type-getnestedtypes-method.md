@@ -16,7 +16,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetNestedTypes() Method
 using System;
@@ -77,7 +77,7 @@ public class Person {
 
 **Output:** 
 
-```
+```cs
 NestedType of current type is: 
 Person+Student 
 Person+Teacher
@@ -87,7 +87,7 @@ Person+Teacher
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetNestedTypes() Method
 using System;
@@ -163,7 +163,7 @@ public class Animal {
 
 **Output**
 
-```
+```cs
 NestedType of current type is: 
  Animal+Cat
  Animal+Dog
@@ -184,7 +184,7 @@ NestedType of current type is:
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetNestedTypes() Method
 using System;
@@ -260,7 +260,7 @@ public class Animal {
 
 **Output:** 
 
-```
+```cs
 NestedType of current type is: 
  Animal+Empty
 ```
@@ -269,7 +269,7 @@ NestedType of current type is:
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetNestedTypes() Method
 using System;
@@ -331,7 +331,7 @@ public class Person {
 
 **Output:** 
 
-```
+```cs
 NestedType of current type is: 
  Person+Student
  Person+Teacher

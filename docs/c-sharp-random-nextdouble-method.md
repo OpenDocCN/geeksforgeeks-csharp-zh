@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual double NextDouble();
 ```
 
@@ -16,7 +16,7 @@ public virtual double NextDouble();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // Random.NextDouble() Method
 using System;
@@ -39,7 +39,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Printing 10 random floating point numbers
 0 -> 0.0227202852362396
 1 -> 0.624568469647583
@@ -56,7 +56,7 @@ Printing 10 random floating point numbers
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the 
 // Random.NextDouble() Method
 using System;
@@ -89,7 +89,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Printing 10 random floating point numbers
 0 -> 0.853536825558886
 1 -> 0.741455778359182

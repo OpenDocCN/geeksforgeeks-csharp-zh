@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // MathF.Sin(Single) Method
 using System;
@@ -50,7 +50,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 0.2923717
 0.7313538
 0.9945219
@@ -59,7 +59,7 @@ class GFG {
 
 **例 2:** 展示 MathF 的工作原理。Sin(Single)方法当自变量是 *NaN 或无穷大*时。
 
-```
+```cs
 // C# program to illustrate the
 // MathF.Sin(Single) Method
 using System;
@@ -98,7 +98,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 NaN
 NaN
 NaN

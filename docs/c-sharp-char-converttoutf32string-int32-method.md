@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static int ConvertToUtf32 (string s, int index);
 ```
 
@@ -28,7 +28,7 @@ public static int ConvertToUtf32 (string s, int index);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // Char.ConvertToUtf32(String, Int32)
 // Method
@@ -69,14 +69,14 @@ public static void Main()
 
 **Output:**
 
-```
+```cs
 value is 0xF42
 
 ```
 
 **例 2:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate
 // Char.ConvertToUtf32(String, Int32)
 // Method
@@ -118,7 +118,7 @@ public static void Main()
 
 **Output:**
 
-```
+```cs
 index is not a position within s.
 Exception Thrown: System.ArgumentOutOfRangeException
 
@@ -126,7 +126,7 @@ Exception Thrown: System.ArgumentOutOfRangeException
 
 **例 3:** 为***ArgumentNullException***
 
-```
+```cs
 // C# program to demonstrate
 // Char.ConvertToUtf32(String, Int32)
 // Method
@@ -177,7 +177,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 string value is null
 Exception Thrown: System.ArgumentNullException
 

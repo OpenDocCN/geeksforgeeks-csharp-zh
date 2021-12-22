@@ -35,7 +35,7 @@
 
 ## **c sharp . c sharp . c sharp . c sharp**
 
-```
+```cs
 using System;
 
 public class Demo {
@@ -51,7 +51,7 @@ public class Demo {
 
 ****Output:** 
 
-```
+```cs
 The number of generations are: 2
 ```** 
 
@@ -65,7 +65,7 @@ The number of generations are: 2
 
 ## **c sharp . c sharp . c sharp . c sharp**
 
-```
+```cs
 using System;
 
 public class Demo {
@@ -81,7 +81,7 @@ public class Demo {
 
 ****Output:** 
 
-```
+```cs
 The generation number of object obj is: 0
 ```** 
 
@@ -90,7 +90,7 @@ The generation number of object obj is: 0
 
 ## **c sharp . c sharp . c sharp . c sharp**
 
-```
+```cs
 using System;
 
 public class Demo {
@@ -111,7 +111,7 @@ public class Demo {
 
 ****Output:** 
 
-```
+```cs
 Total Memory:4197120
 The generation number of object obj is: 0
 Total Memory:4204024
@@ -123,7 +123,7 @@ T3】GC。Collect()方法:可以使用 *GC 在系统中强制进行垃圾收集�
 
 ## **c sharp . c sharp . c sharp . c sharp**
 
-```
+```cs
 using System;
 
 public class Demo {
@@ -139,7 +139,7 @@ public class Demo {
 
 ****Output:** 
 
-```
+```cs
 Garbage Collection in Generation 0 is: 1
 ```** 
 

@@ -12,7 +12,7 @@
 
 *示例:*
 
-```
+```cs
 ic["username"] = "user12";  
 ic["password"] = "12345";  
 
@@ -20,7 +20,7 @@ ic["password"] = "12345";
 
 这将比下面给出的代码更具可读性。
 
-```
+```cs
 ic[0] = "user12";  
 ic[1] = "12345";  
 
@@ -28,7 +28,7 @@ ic[1] = "12345";
 
 **语法:**
 
-```
+```cs
 [access_modifier] [return_type] this [argument_list]
 {
  get  
@@ -54,7 +54,7 @@ ic[1] = "12345";
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the Indexers 
 // Using String as an Index 
 using System; 
@@ -134,7 +134,7 @@ class Program { 
 
 **输出:**
 
-```
+```cs
 Printing values stored in objects used as arrays
 UserName = user12
 Password = 12345

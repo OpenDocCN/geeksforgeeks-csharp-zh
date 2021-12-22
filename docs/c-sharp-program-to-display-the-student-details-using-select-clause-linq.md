@@ -10,7 +10,7 @@ LINQ 被称为语言集成查询，它是在年引入的。NET 3.5。它赋予�
 
 **示例:**
 
-```
+```cs
 Input :
 { stu_id = 101, stu_name = "bobby", 
   stu_dept = "cse", stu_salary = 8900 },
@@ -47,7 +47,7 @@ Output:
 
 ## C#
 
-```
+```cs
 // C# program to print the list of students
 // details using select clause
 
@@ -109,7 +109,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 ID  Name  Department Semester
 +++++++++++++++++++++++++++
 101 bobby CSE 2

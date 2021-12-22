@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Insert (int index, object key, object value);
 ```
 
@@ -27,7 +27,7 @@ public void Insert (int index, object key, object value);
 
 **例 1:**
 
-```
+```cs
 // C# code to add a new entry into the
 // OrderedDictionary collection with
 // the specified key and value at the
@@ -73,7 +73,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Before Updation: 
 key1 --> value1
 key2 --> value2
@@ -93,7 +93,7 @@ key6 --> value6
 
 **例 2:**
 
-```
+```cs
 // C# code to add a new entry into the
 // OrderedDictionary collection with
 // the specified key and value at the

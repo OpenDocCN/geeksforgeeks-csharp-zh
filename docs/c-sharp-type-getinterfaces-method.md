@@ -13,7 +13,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetInterfaces() Method
 using System;
@@ -42,7 +42,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Interface present in type System.Int32
  System.IFormattable
  System.IComparable

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static short Parse (string str);
 ```
 
@@ -24,7 +24,7 @@ public static short Parse (string str);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // Int16.Parse(String) Method
 using System;
@@ -67,7 +67,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 '14321' parsed as 14321
 Can't Parsed '15,784'
 '-4589' parsed as -4589
@@ -77,7 +77,7 @@ Can't Parsed '15,784'
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // Int16.Parse(String) Method
 // for ArgumentNullException
@@ -124,7 +124,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.ArgumentNullException
 
 ```

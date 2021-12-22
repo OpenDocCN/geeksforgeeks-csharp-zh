@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public override int GetHashCode ();
 ```
 
@@ -14,7 +14,7 @@ public override int GetHashCode ();
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // Enum.GetHashCode() Method
 using System;
@@ -43,7 +43,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 HashCode of Enum Constant Blue : 0
 Hashcode of Enum Constant Black : 1
 

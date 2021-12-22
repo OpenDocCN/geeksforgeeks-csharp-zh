@@ -12,7 +12,7 @@ C#中的线程在任何时间点都处于以下任何一种状态。线程在任
 
 1.  **未启动状态:**当线程类的一个实例被创建时，它处于未启动状态，意味着当线程处于这种状态时，线程还没有开始运行。或者换句话说 *Start()* 方法不叫。
 
-```
+```cs
 Thread thr = new Thread(); 
 ```
 
@@ -32,13 +32,13 @@ Thread thr = new Thread();
 在 C#中，要获取线程的当前状态，使用 thread 类提供的 *ThreadState* 或 *IsAlive* 属性。
 **语法:**
 
-```
+```cs
 public ThreadState ThreadState{ get; }
 ```
 
 **或**T2
 
-```
+```cs
 public bool IsAlive { get; }
 ```
 
@@ -55,7 +55,7 @@ public bool IsAlive { get; }
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // states of the thread
 using System;
@@ -109,7 +109,7 @@ public class ThreadExample {
 
 **输出:**
 
-```
+```cs
 ThreadState: Unstarted
 ThreadState: Running
 ThreadState: SuspendRequested

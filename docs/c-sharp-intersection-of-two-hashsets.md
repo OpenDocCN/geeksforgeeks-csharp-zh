@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 mySet1.IntersectWith(mySet2)
 ```
 
@@ -18,7 +18,7 @@ mySet1.IntersectWith(mySet2)
 
 **例 1:**
 
-```
+```cs
 // C# code to find Intersection 
 //of two HashSets
 using System;
@@ -73,7 +73,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Elements in Set 1 :
 0
 2
@@ -91,7 +91,7 @@ Elements in Set 2 :
 
 **例 2:**
 
-```
+```cs
 // C# code to find Intersection
 // of two HashSets
 using System;
@@ -139,7 +139,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Geeks
 GeeksforGeeks
 

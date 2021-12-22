@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public object this[object key] { get; set; }
 
 ```
@@ -21,7 +21,7 @@ public object this[object key] { get; set; }
 
 **示例:**
 
-```
+```cs
 // C# code to get or set the value
 // associated with the specified key
 using System;
@@ -84,7 +84,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Australia Canberra
 Belgium Brussels
 Netherlands Amsterdam

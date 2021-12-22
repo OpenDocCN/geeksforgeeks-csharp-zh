@@ -15,7 +15,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // TimeSpan.FromTicks() Method
 using System;
@@ -35,14 +35,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Timespan is : 00:00:00.0001234
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // TimeSpan.FromTicks() Method
 using System;
@@ -63,7 +63,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Timespan is : 00:00:00.0999999
 
 ```

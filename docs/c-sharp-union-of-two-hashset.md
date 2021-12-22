@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 firstSet.UnionWith(secondSet)
 ```
 
@@ -16,7 +16,7 @@ firstSet.UnionWith(secondSet)
 
 **例 1:**
 
-```
+```cs
 // C# code to find Union of two HashSet
 using System;
 using System.Collections.Generic;
@@ -62,7 +62,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 0
 2
 4
@@ -78,7 +78,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# code to find Union of two HashSet
 using System;
 using System.Collections.Generic;
@@ -123,7 +123,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Hello
 GeeksforGeeks
 You

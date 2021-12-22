@@ -8,7 +8,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to show the
 // difference between Int16
 // and UInt16
@@ -42,7 +42,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Minimum value of Int16: -32768
 Maximum value of Int16: 32767
 
@@ -60,7 +60,7 @@ Maximum value of Int16: 32767
 
 ## C#
 
-```
+```cs
 // C# program to show the 
 // difference between Int16 
 // and UInt16
@@ -94,7 +94,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Minimum value of UInt16: 0
 Maximum value of UInt16: 65535
 
@@ -118,14 +118,14 @@ Maximum value of UInt16: 65535
 | **5。** | Int16 的范围是从 -32768 到+32767。 | UInt16 的范围从 0 到 65535。 |
 | **6。** | 声明 Int16 的语法:
 
-```
+```cs
 Int16 variable_name;
 
 ```
 
  | 声明 UInt16 的语法:
 
-```
+```cs
 UInt16 variable_name;
 
 ```

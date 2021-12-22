@@ -6,7 +6,7 @@ Int64 Struct 的 MaxValue 字段或属性用于表示 Int64 的最大值。该�
 
 **语法:**
 
-```
+```cs
 public const long MaxValue = 9223372036854775807;
 ```
 
@@ -14,7 +14,7 @@ public const long MaxValue = 9223372036854775807;
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // Int64.MaxValue Field
 using System;
@@ -50,7 +50,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Maximum Value is: 9223372036854775807
 Not equal..!!
 Type of var1 is: Int64

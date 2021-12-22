@@ -18,7 +18,7 @@
 
 ## c#
 
-```
+```cs
 // C# program to find the number of processors of 
 // the current machine using Environment class
 using System;
@@ -45,6 +45,6 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Total number of processors in current process is 4
 ```

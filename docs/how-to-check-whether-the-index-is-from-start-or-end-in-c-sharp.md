@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```cs
 public property bool IsFromEnd { bool get(); };
 ```
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of the IsFromEnd property
 using System;
@@ -52,7 +52,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Index:^1 Start from end?: True
 Index:^2 Start from end?: True
 Index:1 Start from end?: False
@@ -62,7 +62,7 @@ Index:2 Start from end?: False
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of the IsFromEnd property
 using System;
@@ -97,6 +97,6 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The given index is from end and the value is: Ahnyounghaseyo
 ```

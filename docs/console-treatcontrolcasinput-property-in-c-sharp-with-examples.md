@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool TreatControlCAsInput { get; set; }
 ```
 
@@ -18,7 +18,7 @@ public static bool TreatControlCAsInput { get; set; }
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the use of
 // Console.TreatControlCAsInput Property
 using System;
@@ -58,7 +58,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the use of
 // Console.TreatControlCAsInput Property
 using System;
@@ -108,7 +108,7 @@ class GFG {
 
 当**为假时**
 
-```
+```cs
 using System;
 
 class GFG {
@@ -141,7 +141,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Press any key with combination of CTL, ALT, and SHIFT or Press the Esc to quit:
 
 a - pressed key is A

@@ -15,7 +15,7 @@
 
 **例:**
 
-```
+```cs
 // C# program to find the name of the 
 // employees whose id less than equals
 // to 211
@@ -100,7 +100,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Employee Name: Anjita
 Employee Name: Soniya
 Employee Name: Rohit

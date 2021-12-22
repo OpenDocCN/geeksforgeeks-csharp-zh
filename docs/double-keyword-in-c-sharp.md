@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 double variable_name = value;
 ```
 
@@ -16,7 +16,7 @@ double variable_name = value;
 
 **示例:**
 
-```
+```cs
 Input: num: 1234.5678
 
 Output: num: 1234.5678
@@ -32,7 +32,7 @@ Output: Type of num: System.Double
 
 **例 1:**
 
-```
+```cs
 // C# program for the double keyword
 using System;
 using System.Text;
@@ -55,7 +55,7 @@ class geeks {
 
 **输出:**
 
-```
+```cs
 num: 1234.5678
 Size of a double variable: 8
 
@@ -63,7 +63,7 @@ Size of a double variable: 8
 
 **例 2:**
 
-```
+```cs
 // C# program for the double keyword
 using System;
 using System.Text;
@@ -99,7 +99,7 @@ class geeks {
 
 **输出:**
 
-```
+```cs
 Type of num: System.Double
 num: -67895.4322
 Size of a double variable: 8

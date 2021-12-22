@@ -5,7 +5,7 @@
 此方法用于搜索与指定谓词定义的条件相匹配的元素，**返回整个数组中的第一个匹配项**。
 **语法:**
 
-```
+```cs
 public static T Find (T[] array, Predicate<T> match);
 ```
 
@@ -22,7 +22,7 @@ public static T Find (T[] array, Predicate<T> match);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Array.Find(T[], Predicate<T>)
 // Method
@@ -83,7 +83,7 @@ public class GFG {
 
 **Output:** 
 
-```
+```cs
 Initial Array:
 Sun
 Mon

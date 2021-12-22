@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public int Length { get; }
 ```
 
@@ -18,7 +18,7 @@ public int Length { get; }
 
 **例 1:**
 
-```
+```cs
 // C# program to find the
 // the total number of
 // elements in 1-D Array
@@ -53,7 +53,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Sun Mon Tue Wed Thu Fri Sat 
 Total Number of Elements: 7
 
@@ -61,7 +61,7 @@ Total Number of Elements: 7
 
 **例 2:**
 
-```
+```cs
 // C# program to find the total
 // number of elements in the
 // multidimensional Arrays
@@ -126,7 +126,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total Number of Elements in intarray: 8
 Total Number of Elements in intarray_d: 8
 Total Number of Elements in intarray3D: 12

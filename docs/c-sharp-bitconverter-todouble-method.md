@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static double ToDouble (byte[] value, int startIndex);
 ```
 
@@ -27,7 +27,7 @@ public static double ToDouble (byte[] value, int startIndex);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToDouble(Byte[], Int32)
 // Method
@@ -111,7 +111,7 @@ public static void PrintIndexAndValues(byte[] myArr)
 
 **输出:**
 
-```
+```cs
 Initial Array: 
 0 0 1 2 7 126 78 55 255 78 45 198 200 1 1 1 1 255 
 255 2 4 4 77 77 77 77 77 0 1 
@@ -126,7 +126,7 @@ index     Array elements                  double values
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToDouble(Byte[], Int32)
 // Method
@@ -231,7 +231,7 @@ public static void PrintIndexAndValues(byte[] myArr)
 
 **输出:**
 
-```
+```cs
 Initial Array: 
 0 0 1 2 7 126 78 55 255 78 45 198 200 1 1 1 1 255 
 255 2 4 4 77 77 77 77 77 0 1 0 0 1 2 7 126 78 55 
@@ -258,7 +258,7 @@ Exception Thrown: System.ArgumentException
 
 **例 3:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToDouble(Byte[], Int32)
 // Method
@@ -343,7 +343,7 @@ public static void PrintIndexAndValues(byte[] myArr)
 
 **输出:**
 
-```
+```cs
 Initial Array: 
 0 0 1 2 7 126 78 55 255 78 45 198 200 1 1 1 1 255 
 255 2 4 4 77 77 77 77 77 0 1 0 0 1 2 7 126 78 55 
@@ -358,7 +358,7 @@ Exception Thrown: System.ArgumentOutOfRangeException
 
 **示例 4:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToDouble(Byte[], Int32)
 // Method
@@ -424,7 +424,7 @@ public static void PrintIndexAndValues(byte[] myArr)
 
 **输出:**
 
-```
+```cs
 array bytes is null
 Exception Thrown: System.ArgumentNullException
 

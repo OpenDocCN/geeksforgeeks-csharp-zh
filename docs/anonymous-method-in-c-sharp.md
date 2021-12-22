@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 delegate(parameter_list){
     // Code..
 };
@@ -15,7 +15,7 @@ delegate(parameter_list){
 
 **例:**
 
-```
+```cs
 // C# program to illustrate how to 
 // create an anonymous function
 using System;
@@ -41,7 +41,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 My favorite pet is: Dog
 
 ```
@@ -54,7 +54,7 @@ My favorite pet is: Dog
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how an 
     // anonymous function access variable
     // defined in outer method
@@ -88,7 +88,7 @@ My favorite pet is: Dog
 
     **输出:**
 
-    ```
+    ```cs
     My favorite pet is Dog.
     And I like Rabbit also.
 
@@ -98,7 +98,7 @@ My favorite pet is: Dog
 
     **例:**
 
-    ```
+    ```cs
     // C# program to illustrate how an 
     // anonymous method passed as a parameter
     using System;
@@ -131,7 +131,7 @@ My favorite pet is: Dog
 
     **输出:**
 
-    ```
+    ```cs
     The color of my dog is  BlackWhite
 
     ```
@@ -146,7 +146,7 @@ My favorite pet is: Dog
 
     **例:**
 
-    ```
+    ```cs
     // C# program to illustrate how an 
     // anonymous method use as a 
     // event handler

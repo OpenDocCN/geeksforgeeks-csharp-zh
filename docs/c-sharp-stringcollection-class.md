@@ -18,7 +18,7 @@ StringCollection 类是。表示字符串集合的. NET Framework 类库。在 *
 
 **示例:**
 
-```
+```cs
 // C# code to create a StringCollection
 using System;
 using System.Collections;
@@ -51,7 +51,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 A
 B
 C
@@ -71,7 +71,7 @@ E
 
 **示例:**
 
-```
+```cs
 // C# code to illustrate the StringCollection
 // Class Properties
 using System;
@@ -112,7 +112,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 Number of strings in myCol are : 5
 
@@ -139,7 +139,7 @@ Number of strings in myCol are : 5
 
 **示例:**
 
-```
+```cs
 // C# code to copy StringCollection to array,
 // starting at the specified index of
 // the target array
@@ -180,7 +180,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 A
 B
 C
@@ -191,7 +191,7 @@ E
 
 **示例:**
 
-```
+```cs
 // C# code to insert a string into
 // the StringCollection at the
 // specified index
@@ -238,7 +238,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Initially elements in StringCollection are: 
 Hello
 Geeks

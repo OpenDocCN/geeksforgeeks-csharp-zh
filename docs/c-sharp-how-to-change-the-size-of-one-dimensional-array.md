@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static void Resize<T> (ref T[] array, int newSize);
 ```
 
@@ -23,7 +23,7 @@ public static void Resize<T> (ref T[] array, int newSize);
 
 **例 1:**
 
-```
+```cs
 // C# program to resize the
 // elements of the 1-D array
 using System;
@@ -72,7 +72,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Original Array:
 C#
 Java
@@ -93,7 +93,7 @@ Python
 
 **例 2:**
 
-```
+```cs
 // C# program to resize the 
 // elements of the 1-D array
 using System;
@@ -146,7 +146,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Original Array:
 C#
 C++

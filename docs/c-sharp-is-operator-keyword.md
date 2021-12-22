@@ -6,7 +6,7 @@
 是运算符，用于检查对象的运行时类型是否与给定类型兼容。如果给定对象是同一类型，则返回*真*，否则返回*假*。对于*空*对象，也返回*假*。
 **语法:**
 
-```
+```cs
 expression is type
 ```
 
@@ -15,7 +15,7 @@ expression is type
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // use of 'is' operator keyword
 using System;
@@ -91,7 +91,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Is a is Author? : True
 Is w is Author? : False
 Is a is Author? : False
@@ -101,7 +101,7 @@ Is a is Author? : False
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // use of is operator keyword
 using System;
@@ -176,7 +176,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 True
 True
 True

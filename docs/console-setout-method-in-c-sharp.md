@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static System.IO.TextWriter Out { get; }
                 or
 public static void SetOut (System.IO.TextWriter newOut);
@@ -24,7 +24,7 @@ public static void SetOut(TextWriter newOut)
 
 **例 1:**
 
-```
+```cs
 // C# code to demonstrate the use 
 // of Console.SetOut method
 using System;
@@ -65,7 +65,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# code to demonstrate the use 
 // of Console.SetOut method
 using System;

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void CopyTo (Array array, int index);
 ```
 
@@ -22,7 +22,7 @@ public void CopyTo (Array array, int index);
 
 **例 1:**
 
-```
+```cs
 // C# code to copy OrderedDictionary to
 // Array instance at the specified index
 using System;
@@ -62,7 +62,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 key3-->value3
 key4-->value4
 key5-->value5
@@ -73,7 +73,7 @@ key1-->value1
 
 **例 2:**
 
-```
+```cs
 // C# code to copy OrderedDictionary to
 // Array instance at the specified index
 // that give ArgumentOutOfRangeException

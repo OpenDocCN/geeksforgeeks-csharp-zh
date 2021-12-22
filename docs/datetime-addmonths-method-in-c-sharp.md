@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public DateTime AddMonths (int months);
 ```
 
@@ -20,7 +20,7 @@ public DateTime AddMonths (int months);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.AddMonths(Int32) Method
 using System;
@@ -62,7 +62,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 04/17/2018
 05/17/2018
 06/17/2018
@@ -81,7 +81,7 @@ In Leap Years:
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.AddMonths(Int32) Method
 using System;

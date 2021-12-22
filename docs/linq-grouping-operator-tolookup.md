@@ -26,7 +26,7 @@ ToLookup 运算符用于基于键选择器功能将元素放入查找<tkey telem
 
 **示例:**
 
-```
+```cs
 // C# program to divide the employees in 
 // groups according to their gender
 using System;
@@ -116,7 +116,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Group By Gender: Female
 Employee Name: Anjita
 Employee Name: Soniya

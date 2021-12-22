@@ -23,7 +23,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以在给定语法的帮助下，以编程方式在 GroupBox 控件中添加文本:
 
-```
+```cs
 public override string Text { get; set; }
 ```
 
@@ -31,7 +31,7 @@ public override string Text { get; set; }
 
 *   **步骤 1:** 使用 GroupBox 类提供的 GroupBox()构造函数创建一个 GroupBox。
 
-    ```
+    ```cs
     // Creating a GroupBox
     GroupBox gbox = new GroupBox(); 
 
@@ -39,7 +39,7 @@ public override string Text { get; set; }
 
 *   **第二步:**创建完 GroupBox 后，设置 GroupBox 类提供的 GroupBox 的 Text 属性。
 
-    ```
+    ```cs
     // Adding text
     gbox.Text = "Select Gender";
 
@@ -47,7 +47,7 @@ public override string Text { get; set; }
 
 *   **Step 3:** And last add this GroupBox control to the form and also add other controls on the GroupBox using the following statements:
 
-    ```
+    ```cs
     // Adding groupbox in the form
     this.Controls.Add(gbox);
 
@@ -60,7 +60,7 @@ public override string Text { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

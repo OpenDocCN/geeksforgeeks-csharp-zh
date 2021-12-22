@@ -6,7 +6,7 @@
 
 > **语法:**
 > 
-> ```
+> ```cs
 > public static bool Exists (string path);
 > ```
 > 
@@ -18,7 +18,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Exists(String) method
 
@@ -43,7 +43,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Specified file exists.
 ```
 
@@ -51,7 +51,7 @@ Specified file exists.
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Exists(String) method
 
@@ -76,6 +76,6 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Specified file does not exist in the current directory.
 ```

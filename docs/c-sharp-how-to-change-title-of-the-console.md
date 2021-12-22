@@ -8,7 +8,7 @@
 
 **程序 1:** 查找默认标题
 
-```
+```cs
 // C# program to illustrate the
 // Console.Title Property
 using System;
@@ -38,7 +38,7 @@ class Program {
 
 **程序 2:** 将标题改为 100
 
-```
+```cs
 // C# program to illustrate the
 // Console.Title Property
 using System;

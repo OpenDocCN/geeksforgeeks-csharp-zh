@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public void AddRange (System.Collections.Generic.IEnumerable<T> collection);
 
 ```
@@ -29,7 +29,7 @@ public void AddRange (System.Collections.Generic.IEnumerable<T> collection);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // List.AddRange Method
 using System;
@@ -79,7 +79,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Before AddRange Method
 
 Geeks
@@ -102,7 +102,7 @@ Tutorials
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // List.AddRange Method
 using System;
@@ -155,7 +155,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Before AddRange Method
 
 Geeks

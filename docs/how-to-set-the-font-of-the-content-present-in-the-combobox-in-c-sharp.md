@@ -19,7 +19,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以在给定语法的帮助下，以编程方式设置组合框中元素的字体:
 
-```
+```cs
 public virtual System.Drawing.Font Font { get; set; }
 ```
 
@@ -27,7 +27,7 @@ public virtual System.Drawing.Font Font { get; set; }
 
 *   **步骤 1:** 使用组合框类提供的组合框()构造函数创建组合框。
 
-    ```
+    ```cs
     // Creating ComboBox using ComboBox class
     ComboBox mybox = new ComboBox();
 
@@ -35,7 +35,7 @@ public virtual System.Drawing.Font Font { get; set; }
 
 *   **第二步:**创建组合框后，设置组合框元素的字体。
 
-    ```
+    ```cs
     // Set the font of the combobox elements
     mybox.Font = new Font("Chiller", 12);
 
@@ -43,7 +43,7 @@ public virtual System.Drawing.Font Font { get; set; }
 
 *   **Step 3:** And last add this combobox control to form using Add() method.
 
-    ```
+    ```cs
     // Add this ComboBox to form
     this.Controls.Add(mybox);
 
@@ -51,7 +51,7 @@ public virtual System.Drawing.Font Font { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

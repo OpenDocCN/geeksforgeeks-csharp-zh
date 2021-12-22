@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void Remove (object obj);
 
 ```
@@ -28,7 +28,7 @@ public virtual void Remove (object obj);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the first 
 // occurrence of a specific 
 // object from the ArrayList
@@ -73,7 +73,7 @@ class GFG { 
 
 **输出:**
 
-```
+```cs
 The elements in ArrayList initially are :
 C
 C#
@@ -92,7 +92,7 @@ C#
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the first 
 // occurrence of a specific 
 // object from the ArrayList
@@ -139,7 +139,7 @@ class GFG { 
 
 **输出:**
 
-```
+```cs
 The elements in ArrayList initially are :
 Geeks
 Noida

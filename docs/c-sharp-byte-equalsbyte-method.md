@@ -5,7 +5,7 @@
 此方法用于返回一个值，该值指示此实例和指定的字节对象是否表示相同的值。
 **语法:**
 
-```
+```cs
 public bool Equals (byte obj);
 ```
 
@@ -16,7 +16,7 @@ public bool Equals (byte obj);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Byte.Equals(byte) Method
 using System;
@@ -50,7 +50,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 val2 is not equal to val1
 ```
 
@@ -58,7 +58,7 @@ val2 is not equal to val1
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Byte.Equals(byte) Method
 using System;
@@ -99,7 +99,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 10 is not equal to 20
 30 is not equal to 20
 10 is equal to 10

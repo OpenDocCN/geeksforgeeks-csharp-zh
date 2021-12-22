@@ -5,7 +5,7 @@
 **阵列。GetLength(Int32)方法**用于查找数组指定维度中存在的元素总数。
 **语法:**
 
-```
+```cs
 public int GetLength (int dimension);
 ```
 
@@ -17,7 +17,7 @@ public int GetLength (int dimension);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // use of GetLength() method
 using System;
@@ -48,7 +48,7 @@ public class GFG {
 
 **Output:** 
 
-```
+```cs
 The elements of myarray :
 445
 44
@@ -64,7 +64,7 @@ Total Elements: 7
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to check arrays contain
 // same number of elements or not
 using System;
@@ -99,7 +99,7 @@ public class GFG {
 
 **Output:** 
 
-```
+```cs
 myarray1 and myarray2: False
 myarray1 and myarray3: True
 ```

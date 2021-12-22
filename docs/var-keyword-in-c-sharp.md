@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```cs
 var variable_name = value;
 ```
 
 **示例:**
 
-```
+```cs
 Input: a = 637
        b = -9721087085262
 
@@ -32,7 +32,7 @@ Output: value of c 120.23, type System.Single
 
 **例 1:**
 
-```
+```cs
 // C# program for var keyword
 using System;
 using System.Text;
@@ -54,7 +54,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 value of a 637, type System.Int32
 value of b -9721087085262, type System.Int64
 
@@ -62,7 +62,7 @@ value of b -9721087085262, type System.Int64
 
 **例 2:**
 
-```
+```cs
 // C# program for var keyword
 using System;
 using System.Text;
@@ -94,7 +94,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 value of c 120.23, type System.Single
 value of d 150.23, type System.Decimal
 value of e G, type System.Char

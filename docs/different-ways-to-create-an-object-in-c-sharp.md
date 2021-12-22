@@ -6,7 +6,7 @@
 **1)使用‘new’运算符:**类是引用类型，在运行时，引用类型的任何对象都被赋予空值，除非它是使用新运算符声明的。新运算符仅在运行时将内存中的空间分配给对象，这意味着分配是动态的。
 **语法:**
 
-```
+```cs
 // The className() is a call
 // to the constructor
 className ObjectName = new className();   
@@ -17,7 +17,7 @@ className ObjectName = new className();
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# Program to show the use
 // of the new Operator
 using System;
@@ -66,14 +66,14 @@ class Program {
 
 **Output:** 
 
-```
+```cs
 The area of the Rectangle is 120
 ```
 
 **2)创建对现有对象的引用:**引用只能用类名和引用名声明。引用不能独立存在。它必须被分配给同一个类的一个已经存在的对象。引用中所做的任何更改都将保存到它所引用的对象中。有点像化名。
 **语法:**
 
-```
+```cs
 className RefName;
 RefName = objectName;
 ```
@@ -82,7 +82,7 @@ RefName = objectName;
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# Program to show the use
 // of references
 using System;
@@ -139,7 +139,7 @@ class Program {
 
 **Output:** 
 
-```
+```cs
 Area of tri1 is 0
 Area of tri1 is 17.5
 ```
@@ -147,13 +147,13 @@ Area of tri1 is 17.5
 **3)创建对象数组:**如果需要多个相同类别的对象，可以创建一个对象数组。这将要求您首先声明数组，然后初始化每个元素{在这种情况下是对象}。您可以使用 for 循环进行初始化。
 **语法:**
 
-```
+```cs
 className[] arrayName = new className[size];
 ```
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# Program to illustrate how to
 // create the array of objects
 using System;
@@ -214,7 +214,7 @@ class Program {
 
 **Output:** 
 
-```
+```cs
 Area of circle with radius 1 is 3.14
 Area of circle with radius 2 is 12.56
 ```

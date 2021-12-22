@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 String.Join(",", array_name)
 ```
 
@@ -14,7 +14,7 @@ String.Join(",", array_name)
 
 **示例:**
 
-```
+```cs
 Input: {"sireesha", "priyank", "ojaswi", "gnanesh"}
 Output: sireesha,priyank,ojaswi,gnanesh
 
@@ -27,7 +27,7 @@ Output: sireesha,priyank
 *   声明字符串数组。
 *   使用 string join()函数获取逗号分隔的字符串。
 
-```
+```cs
 String.Join(",", names)
 ```
 
@@ -37,7 +37,7 @@ String.Join(",", names)
 
 ## C#
 
-```
+```cs
 // C# program to display the comma separated
 // string from an array 
 using System;
@@ -63,7 +63,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 sireesha,priyank,ojaswi,gnanesh
 ```
 
@@ -75,7 +75,7 @@ sireesha,priyank,ojaswi,gnanesh
 *   在主方法中声明 MyEmployee 的对象数组。
 *   使用 string join()函数获取逗号分隔的字符串。
 
-```
+```cs
 String.Join(",", e.Select(m => m.First_Name));
 ```
 
@@ -87,7 +87,7 @@ String.Join(",", e.Select(m => m.First_Name));
 
 ## C#
 
-```
+```cs
 // C# program to display the comma separated
 // string from an array 
 using System;
@@ -124,6 +124,6 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 Final String:Sumi,Mohan,Sumit
 ```

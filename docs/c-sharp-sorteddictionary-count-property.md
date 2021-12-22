@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public int Count { get; }
 
 ```
@@ -17,7 +17,7 @@ public int Count { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to count the number of
 // key/value pairs in SortedDictionary
 using System;
@@ -49,14 +49,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total key/value pairs in myDict are : 4
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to count the number of
 // key/value pairs in  SortedDictionary
 using System;
@@ -90,7 +90,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 
 ```

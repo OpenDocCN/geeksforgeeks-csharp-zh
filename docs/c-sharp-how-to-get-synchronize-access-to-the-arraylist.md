@@ -17,7 +17,7 @@
 
 **示例 1:** 在这段代码中，我们使用 SyncRoot 来获得名为 *arrlist* 的 ArrayList 的 Synchronized 访问，这不是一个线程安全的过程，可能会导致异常。所以为了避免异常，我们锁定集合。
 
-```
+```cs
 // C# program to illustrate the
 // use of SyncRoot property of
 // the ArrayList
@@ -58,7 +58,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 1
 2
 3
@@ -69,7 +69,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of SyncRoot property of
 // the ArrayList
@@ -110,7 +110,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 C
 C++
 Java

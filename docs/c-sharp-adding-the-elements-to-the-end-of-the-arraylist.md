@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void AddRange (System.Collections.ICollection c);
 ```
 
@@ -21,7 +21,7 @@ public virtual void AddRange (System.Collections.ICollection c);
 
 **例 1:**
 
-```
+```cs
 // C# code to add the elements of an
 // ICollection to the end of the ArrayList
 using System;
@@ -73,7 +73,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Before AddRange Method
 
 A
@@ -102,7 +102,7 @@ F
 
 **例 2:**
 
-```
+```cs
 // C# code to add the elements of an
 // ICollection to the end of the ArrayList
 using System;
@@ -155,7 +155,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Before AddRange Method
 
 Geeks

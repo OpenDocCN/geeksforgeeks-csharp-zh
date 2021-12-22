@@ -8,7 +8,7 @@
 
 **语法**:
 
-```
+```cs
 public static void SetEnvironmentVariable (string varstr, string? val);
 ```
 
@@ -24,7 +24,7 @@ public static void SetEnvironmentVariable (string varstr, string? val);
 
 **语法:**
 
-```
+```cs
 public static void SetEnvironmentVariable (string varstr, string? val, EnvironmentVariableTarget t);
 ```
 
@@ -40,7 +40,7 @@ public static void SetEnvironmentVariable (string varstr, string? val, Environme
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the use of 
 // SetEnvironmentVariable() method 
 using System;
@@ -73,6 +73,6 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 In environment variable, the value is stored
 ```

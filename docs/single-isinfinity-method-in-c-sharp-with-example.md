@@ -13,7 +13,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Single.IsInfinity(Single) 
 // Method
@@ -64,7 +64,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Infinity
 True
 Infinity

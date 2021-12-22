@@ -20,7 +20,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static long Abs (long val);
     ```
 
@@ -34,7 +34,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# Program to illustrate the
     // Math.Abs(Int64) Method
     using System;
@@ -60,7 +60,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Absolute value of 9223372036854775807 = 9223372036854775807
     Absolute value of 78345482 = 78345482
     Absolute value of -4687985 = 4687985
@@ -74,7 +74,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static sbyte Abs (sbyte val);
     ```
 
@@ -88,7 +88,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# Program to illlustrate the
     // Math.Abs(SByte) Method
     using System;
@@ -114,7 +114,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Absolute value of 127 = 127
     Absolute value of 45 = 45
     Absolute value of -41 = 41
@@ -128,7 +128,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static float Abs (float val);
     ```
 
@@ -145,7 +145,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# Program to illlustrate the
     // Math.Abs(Single) Method
     using System;
@@ -174,7 +174,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Absolute value of -3.402823E+38 = 3.402823E+38
     Absolute value of 127.58 = 127.58
     Absolute value of 0 = 0

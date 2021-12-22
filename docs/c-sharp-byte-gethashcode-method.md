@@ -5,7 +5,7 @@
 此方法用于返回给定字节的哈希代码。
 **语法:**
 
-```
+```cs
 public override int GetHashCode ();
 ```
 
@@ -15,7 +15,7 @@ public override int GetHashCode ();
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Byte.GetHashCode Method
 using System;
@@ -47,7 +47,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Hashcode: 223
 Hashcode: 71
 Hashcode: 1
@@ -62,7 +62,7 @@ Hashcode: 0
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Byte.GetHashCode Method
 using System;
@@ -139,7 +139,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 long hashcode:- 95 33 0 0 0 0 0 0 
 int Hashcode: 95 33 0 0 
 byte hashcode:- 85 0

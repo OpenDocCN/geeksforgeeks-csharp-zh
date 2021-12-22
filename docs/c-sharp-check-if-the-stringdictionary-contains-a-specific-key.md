@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool ContainsKey (string key);
 
 ```
@@ -21,7 +21,7 @@ public virtual bool ContainsKey (string key);
 
 **例 1:**
 
-```
+```cs
 // C# code to check if the
 // StringDictionary contains
 // a specific key
@@ -57,14 +57,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 StringDictionary myDict contains the key
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if the
 // StringDictionary contains
 // a specific key

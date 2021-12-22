@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```cs
 data.Where(employee => employee.Length < 4)
 ```
 
 **示例:**
 
-```
+```cs
 Input : [("m"),("srav"),("a"),("gopi"),("bai")("sai")]
 Output : [("m"),("a"),("bai"),("sai")]
 
@@ -33,7 +33,7 @@ Output : No Output
 
 ## C#
 
-```
+```cs
 // C# program display those employee's name 
 // that contains less than 4 characters in their name
 using System;
@@ -74,7 +74,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Name of the Employees are: 
 m
 a

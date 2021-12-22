@@ -19,7 +19,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int32.Equals(Int32) Method
     using System;
@@ -52,14 +52,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     4562 is not equal to 2563
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int32.Equals(Int32) Method
     using System;
@@ -98,7 +98,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     455 is not equal to 578
     445 is equal to 445
     10 is not equal to 20
@@ -119,7 +119,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int32.Equals(Object) Method
     using System;
@@ -152,14 +152,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     10 is not equal to 0
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int32.Equals(Object) Method
     using System;
@@ -199,7 +199,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     547 is not equal to 585
     555 is not equal to 489
     100 is equal to 100

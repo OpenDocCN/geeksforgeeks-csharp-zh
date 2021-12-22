@@ -9,7 +9,7 @@
 
 **算法:**
 
-```
+```cs
 printReverse(head)
   1\. call print reverse for head->next
   2\. print head->data
@@ -19,7 +19,7 @@ printReverse(head)
 
 ## C#
 
-```
+```cs
 // C# program to print reverse 
 // of a linked list
 using System;
@@ -89,7 +89,7 @@ public class LinkedList
 
 **输出:**
 
-```
+```cs
 4 3 2 1
 ```
 

@@ -24,7 +24,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Char.GetUnicodeCategory(String,
 // Int32) Method
@@ -72,7 +72,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 the letter present at index 3 is DecimalDigitNumber 
 the letter present at index 0 is UppercaseLetter 
 the letter present at index 2 is LowercaseLetter
@@ -81,7 +81,7 @@ the letter present at index 2 is LowercaseLetter
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Char.GetUnicodeCategory(String,
 // Int32) Method
@@ -130,7 +130,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 the letter present at index 3 is DecimalDigitNumber 
 the letter present at index 0 is UppercaseLetter 
 the letter present at index 2 is LowercaseLetter 
@@ -142,7 +142,7 @@ Exception Thrown: System.ArgumentNullException
 
 **例 3:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // Char.GetUnicodeCategory(String,
 // Int32) Method
@@ -191,7 +191,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 the letter present at index 3 is DecimalDigitNumber 
 the letter present at index 0 is UppercaseLetter 
 the letter present at index 2 is LowercaseLetter 

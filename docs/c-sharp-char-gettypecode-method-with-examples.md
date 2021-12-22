@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public TypeCode GetTypeCode ();
 ```
 
@@ -16,7 +16,7 @@ public TypeCode GetTypeCode ();
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Char.GetTypeCode() Method
 using System;
@@ -50,7 +50,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 TypeCode of val1 is Char
 TypeCode of val2 is Boolean
 ```
@@ -59,7 +59,7 @@ TypeCode of val2 is Boolean
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Char.GetTypeCode() Method
 using System;
@@ -113,7 +113,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 TypeCode of a is Char
 TypeCode of 20 is Single
 ```

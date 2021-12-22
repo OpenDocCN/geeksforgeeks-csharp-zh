@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.HasElementTypeImpl() Method
 using System;
@@ -84,14 +84,14 @@ public class MyClass : TypeDelegator {
 
 **Output:**
 
-```
+```cs
 myArray is not an array, pointer, or reference type.
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.HasElementTypeImpl() Method
 using System;
@@ -166,7 +166,7 @@ public class MyClass : TypeDelegator {
 
 **Output:**
 
-```
+```cs
 The type of System.Int32[,,,,,,] is array.
 
 ```

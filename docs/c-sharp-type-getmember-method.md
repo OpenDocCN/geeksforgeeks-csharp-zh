@@ -21,7 +21,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetMember(String) Method
     using System;
@@ -69,7 +69,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Members of current type is as Follow: 
      System.String Name
 
@@ -77,7 +77,7 @@
 
     **示例 2:** 适用于*参数异常*
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetMember(String) Method
     using System;
@@ -125,7 +125,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     name is null.
     Exception Thrown: System.ArgumentNullException
 
@@ -149,7 +149,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetMember(String, BindingFlags) 
     // Method
@@ -199,7 +199,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Members of current type is as Follow: 
      System.String Name
 
@@ -207,7 +207,7 @@
 
     **示例 2:** 适用于*参数异常*
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetMember(String, BindingFlags) Method
     using System;
@@ -256,7 +256,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     name is null.
     Exception Thrown: System.ArgumentNullException
 
@@ -281,7 +281,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetMember(String, MemberTypes,
     // BindingFlags) Method
@@ -333,7 +333,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Members of current type is as Follow: 
      Void returnNull()
 
@@ -341,7 +341,7 @@
 
     **示例 2:** 适用于*参数异常*
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetMember(String, MemberTypes,
     // BindingFlags) Method
@@ -393,7 +393,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     name is null.
     Exception Thrown: System.ArgumentNullException
 

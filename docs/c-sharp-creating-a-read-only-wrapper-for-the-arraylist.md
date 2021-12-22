@@ -18,7 +18,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# code to create a read-only
 // wrapper for the ArrayList
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 myList ArrayList is not read-only.
 myList2 ArrayList is read-only.
 
@@ -69,7 +69,7 @@ myList2 ArrayList is read-only.
 
 **例 2:**
 
-```
+```cs
 // C# code to create a read-only 
 // wrapper for the ArrayList
 using System; 
@@ -122,7 +122,7 @@ class GFG { 
 
 **输出:**
 
-```
+```cs
 Before Wrapping: 
 C
 C++

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual System.Collections.IEnumerator GetEnumerator ();
 ```
 
@@ -14,7 +14,7 @@ public virtual System.Collections.IEnumerator GetEnumerator ();
 
 **例 1:**
 
-```
+```cs
 // C# code to illustrate the 
 // Queue.GetEnumerator Method 
 using System;
@@ -56,7 +56,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 A
 B
 C

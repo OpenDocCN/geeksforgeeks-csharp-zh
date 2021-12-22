@@ -17,7 +17,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // TimeSpan.Subtract(TimeSpan) Method
 using System;
@@ -49,14 +49,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Timespan is : 2.11:20:17
 
 ```
 
 **例 2:** *为溢出异常*
 
-```
+```cs
 // C# program to demonstrate the
 // TimeSpan.Subtract(TimeSpan) Method
 using System;
@@ -88,7 +88,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.OverflowException
 
 ```

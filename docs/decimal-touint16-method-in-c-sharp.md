@@ -15,7 +15,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToUInt16(Decimal) Method
 using System;
@@ -57,7 +57,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The UInt16 value is : 65535
 The UInt16 value is : 32768
 
@@ -65,7 +65,7 @@ The UInt16 value is : 32768
 
 **例 2:** 适用于*飞越异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToUInt16(Decimal) Method
 using System;
@@ -103,7 +103,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.OverflowException
 
 ```

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 File.Copy(file1, file2);
 ```
 
@@ -29,7 +29,7 @@ File.Copy(file1, file2);
 
 **语法:**
 
-```
+```cs
 File.Copy(file1, file2, owrite);
 ```
 
@@ -64,7 +64,7 @@ File.Copy(file1, file2, owrite);
 
 ## C#
 
-```
+```cs
 // C# program to copy data from one file to another
 using System;
 using System.IO;

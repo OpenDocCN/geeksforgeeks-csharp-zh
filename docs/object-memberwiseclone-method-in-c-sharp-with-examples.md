@@ -9,7 +9,7 @@
 
 **语法:**
 
-```
+```cs
 protected object MemberwiseClone ();
 ```
 
@@ -17,7 +17,7 @@ protected object MemberwiseClone ();
 
 **例 1:**
 
-```
+```cs
 // C# program to clone a object
 // using MemberwiseClone() method
 using System;
@@ -88,7 +88,7 @@ class Geek {
 
 **输出:**
 
-```
+```cs
 Value: 3
 cloned value: 3
 

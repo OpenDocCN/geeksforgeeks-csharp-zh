@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public int Length { get; set; }
 
 ```
@@ -27,7 +27,7 @@ public int Length { get; set; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get or set the
 // number of elements in the BitArray
 using System;
@@ -51,14 +51,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 32
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to get or set the
 // number of elements in the BitArray
 using System;
@@ -82,7 +82,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 0
 
 ```

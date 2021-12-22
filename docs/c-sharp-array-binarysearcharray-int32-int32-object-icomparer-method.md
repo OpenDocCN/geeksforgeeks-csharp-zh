@@ -26,7 +26,7 @@
 
 **示例 1:** 在本例中，数组存储一些字符串值，并在对数组进行排序后找到一些字符串值。
 
-```
+```cs
 // C# program to demonstrate the
 // Array.BinarySearch(Array, 
 // Int32, Int32, Object, 
@@ -101,7 +101,7 @@ public static void display(string[] arr)
 
 **Output:**
 
-```
+```cs
 The original Array
 ABCD
 IJKL
@@ -126,7 +126,7 @@ The object ABCD is at index 0
 
 **示例 2:** 在本例中，我们使用“ *CreateInstance()* 方法创建一个*类型的*数组，并存储一些整数值，对数组进行排序后搜索一些值。
 
-```
+```cs
 //C# program to demonstrate the 
 // Array.BinarySearch(Array, 
 // Int32, Int32, Object, 
@@ -210,7 +210,7 @@ public static void display(Array arr)
 
 **Output:**
 
-```
+```cs
 The original Array
 20
 10

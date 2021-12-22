@@ -24,7 +24,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式设置 NumericUpDown 控件的最小值:
 
-```
+```cs
 public decimal Minimum { get; set; }
 ```
 
@@ -32,21 +32,21 @@ public decimal Minimum { get; set; }
 
 *   **第 1 步:**使用 numericpdown()构造函数创建 numericpdown，该构造函数由 numericpdown 类提供。
 
-```
+```cs
 // Creating a NumericUpDown
 NumericUpDown n = new NumericUpDown();
 ```
 
 *   **第二步:**创建 numericpdown 后，设置 numericpdown 类提供的 numericpdown 的 Minimum 属性。
 
-```
+```cs
 // Setting the minimum value
 n.Minimum = 18;
 ```
 
 *   **第 3 步:**最后使用以下语句将 NumericUpDown 控件添加到表单中:
 
-```
+```cs
 // Adding NumericUpDown control on the form
 this.Controls.Add(n);
 ```
@@ -55,7 +55,7 @@ this.Controls.Add(n);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

@@ -22,7 +22,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to illustrate Exit() method 
 // of Environment class
 using System;
@@ -44,7 +44,7 @@ static public void Main()
 
 **输出**:
 
-```
+```cs
 Code before Exit() function
 ```
 
@@ -52,7 +52,7 @@ Code before Exit() function
 
 ## C#
 
-```
+```cs
 // C# program to illustrate Exit() method 
 // of Environment class
 using System;
@@ -88,7 +88,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Code Before Exit() function will work
 Sum: 20
 Subtract: -2

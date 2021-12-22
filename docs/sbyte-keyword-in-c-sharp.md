@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 sbyte variable_name = value;
 ```
 
@@ -16,7 +16,7 @@ sbyte variable_name = value;
 
 **示例:**
 
-```
+```cs
 Input: -109
 
 Output: num: -109
@@ -32,7 +32,7 @@ Output: Type of num: System.SByte
 
 **例 1:**
 
-```
+```cs
 // C# program for sbyte keyword
 using System;
 using System.Text;
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 num: -109
 Size of a sbyte variable: 1
 
@@ -63,7 +63,7 @@ Size of a sbyte variable: 1
 
 **例 2:**
 
-```
+```cs
 // C# program for sbyte keyword
 using System;
 using System.Text;
@@ -95,7 +95,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Type of num: System.SByte
 num: 110
 Size of a sbyte variable: 1
@@ -104,7 +104,7 @@ Size of a sbyte variable: 1
 
 **例 3:**
 
-```
+```cs
 // C# program for sbyte keyword
 using System;
 using System.Text;

@@ -7,7 +7,7 @@ C#包含一种特殊的方法称为分部方法，它包含一个分部类中的
 
 **语法:**
 
-```
+```cs
 partial void method_name
 {
     // Code
@@ -30,7 +30,7 @@ partial void method_name
 
 **大约 1.cs**
 
-```
+```cs
 public partial class Circle {
 
     // This file only contains
@@ -46,7 +46,7 @@ public partial class Circle {
 
 **大约 2.cs**
 
-```
+```cs
 public partial class Circle {
 
     public void newarea(int a)
@@ -68,7 +68,7 @@ public partial class Circle {
 
 **圆**
 
-```
+```cs
 public class Circle {
 
     public void Display()

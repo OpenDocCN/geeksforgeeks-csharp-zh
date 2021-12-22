@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsFixedSize { get; }
 
 ```
@@ -17,7 +17,7 @@ public bool IsFixedSize { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to check whether the
 // HybridDictionary has a fixed size.
 using System;
@@ -50,14 +50,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check whether the
 // HybridDictionary has a fixed size.
 using System;
@@ -88,7 +88,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 
 ```

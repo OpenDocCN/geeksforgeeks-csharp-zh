@@ -12,7 +12,7 @@
 。
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // use of CurrentThread property
 using System;
@@ -37,13 +37,13 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Name of current running thread: Main thread
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of CurrentThread property
 using System;
@@ -77,7 +77,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Thread Id: 3
 Thread Id: 8
 Thread Id: 9

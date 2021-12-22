@@ -28,7 +28,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to calculate the area
 // of a square using the concept of
 // data abstraction
@@ -88,7 +88,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Area of Square: 16
 ```
 

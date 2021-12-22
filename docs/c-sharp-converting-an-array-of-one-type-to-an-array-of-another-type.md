@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static TOutput[] ConvertAll<TInput,TOutput> (TInput[] array, 
 Converter<TInput,TOutput> converter);
 ```
@@ -26,7 +26,7 @@ Converter<TInput,TOutput> converter);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // Array.ConvertAll() Method
 using System;
@@ -102,7 +102,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Initial Array:
 10
 20
@@ -119,7 +119,7 @@ Converted Array:
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate
 // Array.ConvertAll() Method
 using System;
@@ -174,7 +174,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.ArgumentNullException
 
 ```

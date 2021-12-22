@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static System.IO.FileStream OpenWrite (string path);
 ```
 
@@ -29,7 +29,7 @@ public static System.IO.FileStream OpenWrite (string path);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.OpenWrite(String) method
 
@@ -70,7 +70,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 GFG is a computer science portal.
 ```
 
@@ -86,7 +86,7 @@ GFG is a computer science portal.
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.OpenWrite(String) method
 
@@ -128,6 +128,6 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 GFG is a CS portal.
 ```

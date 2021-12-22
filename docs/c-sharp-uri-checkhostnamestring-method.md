@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.CheckHostName(string) Method
 using System;
@@ -38,14 +38,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Host type is: Dns
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.CheckHostName(string) Method
 using System;
@@ -70,7 +70,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Host type is: Unknown
 
 ```

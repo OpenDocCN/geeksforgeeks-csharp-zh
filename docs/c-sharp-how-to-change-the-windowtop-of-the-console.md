@@ -8,7 +8,7 @@
 
 **程序 1:** 获取窗口顶部的值
 
-```
+```cs
 // C# program to illustrate the
 // Console.WindowTop Property
 using System;
@@ -38,7 +38,7 @@ class Program {
 
 **程序 2:** 设置窗口顶部的值
 
-```
+```cs
 // C# program to illustrate the
 // Console.WindowTop Property
 using System;

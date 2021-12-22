@@ -12,7 +12,7 @@
 
 **程序 1:** 显示使用清除方法前的内容
 
-```
+```cs
 // C# program to illustrate the use
 // of Console.Clear Method 
 using System;
@@ -40,7 +40,7 @@ class Program {
 
 **Output:**
 
-```
+```cs
 GeeksForGeeks
 A Computer Science Portal
 For Geeks
@@ -49,7 +49,7 @@ For Geeks
 
 **程序 2:** 使用 clear()方法清除控制台
 
-```
+```cs
 // C# program to illustrate the use
 // of Console.Clear Method 
 using System;

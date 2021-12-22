@@ -10,7 +10,7 @@
 
 ****输出参数申报:****
 
-```
+```cs
 // No need to initialize 
 // the variable here
 data_type variable_name;
@@ -29,7 +29,7 @@ Method_Name(out data_type variable_name);
 
 ## **C#**
 
-```
+```cs
 // C# program to illustrate the
 // concept of out parameter
 using System;
@@ -65,7 +65,7 @@ class GFG {
 
 ****Output:** 
 
-```
+```cs
 The addition of the value is: 60
 ```** 
 
@@ -75,7 +75,7 @@ The addition of the value is: 60
 
 ## **c#**
 
-```
+```cs
 // C# program to illustrate the
 // concept of multiple out parameter
 using System;
@@ -114,7 +114,7 @@ class GFG {
 
 ****输出:**
 
-```
+```cs
 The addition of the value is: 60
 The addition of the value is: 80
 ```** 
@@ -131,7 +131,7 @@ The addition of the value is: 80
 
 ## **c#**
 
-```
+```cs
 // C# program to illustrate the
 // concept of out parameter
 using System;
@@ -170,7 +170,7 @@ class GFG
 
 ****输出:****
 
-```
+```cs
 Length of the rectangle is  : 30
 Width of the rectangle is : 40
 Area of the rectangle is : 1200

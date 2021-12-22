@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public void RemoveRange (int index, int count);
 ```
 
@@ -31,7 +31,7 @@ public void RemoveRange (int index, int count);
 
 **例 1:**
 
-```
+```cs
 // C# Program to remove a range of
 // elements from the List
 using System;
@@ -84,7 +84,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Elements in List:
 
 Geeks
@@ -108,7 +108,7 @@ GeeksforGeeks
 
 **例 2:**
 
-```
+```cs
 // C# Program to remove a range of
 // elements from the List
 using System;
@@ -161,7 +161,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Elements in List:
 
 1

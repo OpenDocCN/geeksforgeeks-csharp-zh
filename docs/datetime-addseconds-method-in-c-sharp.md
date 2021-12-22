@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public DateTime AddSeconds (double value);
 ```
 
@@ -20,7 +20,7 @@ public DateTime AddSeconds (double value);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.AddSeconds(Double) Method
 using System;
@@ -55,7 +55,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 Original date: 09/07/2018 07:00:00
 After Using Method: 09/07/2018 07:00:30
 
@@ -63,7 +63,7 @@ After Using Method: 09/07/2018 07:00:30
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.AddSeconds(Double) Method
 using System;

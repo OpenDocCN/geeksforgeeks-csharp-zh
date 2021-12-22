@@ -11,7 +11,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // MathF.Floor(Single) Method
 using System;
@@ -53,7 +53,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Input Value = 37
 Floor value = 37
 Input Value = 99.99

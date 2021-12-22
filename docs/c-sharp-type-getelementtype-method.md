@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetElementType() Method
 using System;
@@ -38,14 +38,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 ElementType is: System.Int32
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetElementType() Method
 using System;
@@ -72,7 +72,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Element type of GFG is null
 
 ```

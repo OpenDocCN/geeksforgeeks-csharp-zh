@@ -6,7 +6,7 @@ UInt64 Struct 的 MaxValue 字段用于表示 64 位无符号长整数的最大�
 
 **语法:**
 
-```
+```cs
 public const ulong MaxValue = 18446744073709551615;
 ```
 
@@ -14,7 +14,7 @@ public const ulong MaxValue = 18446744073709551615;
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // UInt64.MaxValue Field
 using System;
@@ -50,7 +50,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Maximum Value is: 18446744073709551615
 Not equal..!!
 Type of var1 is: UInt64

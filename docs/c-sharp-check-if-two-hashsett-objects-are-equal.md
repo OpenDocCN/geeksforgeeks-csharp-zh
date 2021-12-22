@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool Equals (object obj);
 ```
 
@@ -18,7 +18,7 @@ public virtual bool Equals (object obj);
 
 **例 1:**
 
-```
+```cs
 // C# program to if a HashSet object
 // is equal to another HashSet object
 using System;
@@ -48,14 +48,14 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to if a HashSet object
 // is equal to another HashSet object
 using System;
@@ -103,7 +103,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 False
 True
 

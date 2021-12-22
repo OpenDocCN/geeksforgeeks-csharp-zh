@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public T4 Item4 { get; }
 ```
 
@@ -14,7 +14,7 @@ public T4 Item4 { get; }
 
 **示例:**在下面的代码中，可以看到我们正在访问每个元组的第四个元素。
 
-```
+```cs
 // C# program to illustrate how to get 
 // the fourth element of the tuple
 using System;
@@ -58,7 +58,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Student-4 Year: 2015
 Student-5 Year: 2017
 Student-6 Year: 2015

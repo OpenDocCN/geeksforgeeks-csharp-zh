@@ -8,7 +8,7 @@ LINQ 被称为语言集成查询，它是在年引入的。NET 3.5。它提供�
 
 **语法**:
 
-```
+```cs
 data1.Intersect(data2)
 ```
 
@@ -18,7 +18,7 @@ data1.Intersect(data2)
 
 **语法**:
 
-```
+```cs
 data1.OrderBy(i => i)
 ```
 
@@ -26,7 +26,7 @@ data1.OrderBy(i => i)
 
 现在，我们将 intersect()和 OrderBy()方法结合起来，首先使用 intersect()函数获取公共元素，然后从结果中使用 OrderBy()函数以升序获取数据，并使用迭代器显示数据。为此，我们使用以下查询:
 
-```
+```cs
 data1.Intersect(data2).OrderBy(i => i);
 ```
 
@@ -34,7 +34,7 @@ data1.Intersect(data2).OrderBy(i => i);
 
 **例**:
 
-```
+```cs
 Input: { 10, 20, 30, 40, 50, 60, 70 }
        { 50, 60, 70, 80, 90, 100 }
 Output:
@@ -54,13 +54,13 @@ No Output
 
 **2。**现在我们使用下面的查询从这些列表中找到公共元素，然后按升序排序。
 
-```
+```cs
 final = data1.Intersect(data2).OrderBy(i => i);
 ```
 
 **3。**使用 foreach 循环迭代结果。
 
-```
+```cs
 foreach (var j in final)
 {
     Console.WriteLine(j + " ");
@@ -71,7 +71,7 @@ foreach (var j in final)
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how to use Intersect() method
 // with OrderBy() method in LINQ
 using System;
@@ -107,7 +107,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Final Result is: 
 50 
 60 

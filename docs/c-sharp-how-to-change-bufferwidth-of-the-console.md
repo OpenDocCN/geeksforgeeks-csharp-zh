@@ -10,7 +10,7 @@
 
 **程序 1:** 查找默认缓冲区宽度
 
-```
+```cs
 // C# program to demonstrate the 
 // Console.BufferWidth Property
 using System;
@@ -41,7 +41,7 @@ class Program {
 
 **程序 2:** 将缓冲区宽度更改为 100
 
-```
+```cs
 // C# program to demonstrate the 
 // Console.BufferWidth Property
 using System;

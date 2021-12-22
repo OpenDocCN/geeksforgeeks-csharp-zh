@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```cs
 public static property Index Start { Index get(); };
 ```
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of the start index
 using System;
@@ -44,7 +44,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Index: ^1
 Index: 3
 Start Index: 0
@@ -53,7 +53,7 @@ Start Index: 0
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of the start index
 using System;
@@ -92,6 +92,6 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The given index is start index and the element is Hello
 ```

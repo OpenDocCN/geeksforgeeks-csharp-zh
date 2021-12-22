@@ -16,7 +16,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToUInt32(Decimal) Method
 using System;
@@ -57,7 +57,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The UInt32 value is : 2147483647
 The UInt32 value is : 4294967295
 
@@ -65,7 +65,7 @@ The UInt32 value is : 4294967295
 
 **例 2:** 适用于*飞越异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToUInt32(Decimal) Method
 using System;
@@ -101,7 +101,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.OverflowException
 
 ```

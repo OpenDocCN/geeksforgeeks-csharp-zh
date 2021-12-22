@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Clear ();
 
 ```
@@ -15,7 +15,7 @@ public void Clear ();
 
 **例 1:**
 
-```
+```cs
 // C# code to remove all pairs
 // from SortedDictionary
 using System;
@@ -58,7 +58,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 After clear operation
 Total key/value pairs in myDict  are : 0

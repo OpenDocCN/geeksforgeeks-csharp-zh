@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public StringBuilder (int capacity);
 ```
 
@@ -16,7 +16,7 @@ public StringBuilder (int capacity);
 
 **例 1:**
 
-```
+```cs
 // C# Program to illustrate how
 // to create a StringBuilder having
 // specified initial capacity
@@ -47,14 +47,14 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 Capacity of StringBuilder: 10
 
 ```
 
 **例 2:** 为*argumentout of range exception*
 
-```
+```cs
 // C# Program to illustrate how
 // to create a StringBuilder having
 // specified initial capacity

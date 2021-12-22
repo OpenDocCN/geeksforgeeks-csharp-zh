@@ -11,7 +11,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Min(Single, Single) method
 using System;
@@ -34,7 +34,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 56.48
 -785.2
 

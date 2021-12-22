@@ -6,7 +6,7 @@
 
 ***语法:***
 
-```
+```cs
 public static bool operator != (Uri uri1, Uri uri2);
 
 ```
@@ -25,7 +25,7 @@ public static bool operator != (Uri uri1, Uri uri2);
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the 
 // Uri.Inequality() Operator
 
@@ -54,7 +54,7 @@ class GFG { 
 
 **输出:**
 
-```
+```cs
 address1 is Equals to address2
 
 ```
@@ -63,7 +63,7 @@ address1 is Equals to address2
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the 
 // Uri.Inequality() Operator
 
@@ -99,7 +99,7 @@ class GFG { 
 
 **输出:**
 
-```
+```cs
 http://www.gfg.com/ is Equals to http://www.gfg.com/
 http://www.abcd.com/ is not Equals to https://www.geeksforgeeks.org/
 

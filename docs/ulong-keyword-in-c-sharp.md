@@ -8,13 +8,13 @@
 
 **语法:**
 
-```
+```cs
 ulong variable_name = value;
 ```
 
 **示例:**
 
-```
+```cs
 Input: num: 223
 
 Output: num: 223
@@ -31,20 +31,20 @@ Output: Type of num: System.UInt64
 
 *   如果我们输入超出范围的数字，它会显示错误-
 
-    ```
+    ```cs
     Integral constant is too large
     ```
 
 *   如果我们为 eg-34 输入了错误的值，它会显示错误-
 
-    ```
+    ```cs
     Constant value `-34' cannot be converted to a `ulong'
 
     ```
 
 **Example 1:**
 
-```
+```cs
 // C# program for ulong keyword 
 using System; 
 using System.Text; 
@@ -67,7 +67,7 @@ class Prog {
 
 **输出:**
 
-```
+```cs
 num: 223
 Size of a ulong variable: 8
 
@@ -75,7 +75,7 @@ Size of a ulong variable: 8
 
 **例 2:**
 
-```
+```cs
 // C# program for ulong keyword
 using System;
 using System.Text;
@@ -111,7 +111,7 @@ class Prog {
 
 **输出:**
 
-```
+```cs
 Type of num: System.UInt64
 num: 0
 Size of a ulong variable: 8

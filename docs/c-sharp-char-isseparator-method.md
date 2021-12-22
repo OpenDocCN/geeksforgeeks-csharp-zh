@@ -12,7 +12,7 @@
 此方法用于检查指定的 Unicode 字符是否与任何分隔符匹配。如果匹配，则返回真，否则返回假。
 **语法:**
 
-```
+```cs
 public static bool IsSeparator(char ch);
 ```
 
@@ -25,7 +25,7 @@ public static bool IsSeparator(char ch);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // Char.IsSeparator(Char) Method
 using System;
@@ -56,7 +56,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 True
 False
 ```
@@ -66,7 +66,7 @@ False
 此方法用于检查指定位置的指定字符串是否与任何分隔符匹配。如果匹配，则返回真，否则返回假。
 **语法:**
 
-```
+```cs
 public static bool IsSeparator(string str, int index);
 ```
 
@@ -85,7 +85,7 @@ public static bool IsSeparator(string str, int index);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // Char.IsSeparator(String, Int32) Method
 using System;
@@ -116,7 +116,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 False
 True
 ```

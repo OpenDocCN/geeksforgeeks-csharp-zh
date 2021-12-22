@@ -15,7 +15,7 @@
 
 ****语法:****
 
-```
+```cs
 public static string ToBase64String (byte[] inArray, int offset, int length);
 ```
 
@@ -36,7 +36,7 @@ public static string ToBase64String (byte[] inArray, int offset, int length);
 
 ****例 1:****
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToBase64String() Method
 using System;
@@ -93,7 +93,7 @@ public static void get(byte[] bytes, string str)
 
 ****Output:**
 
-```
+```cs
 For byte1
 converted string: AgQGCAoMDhASFA==
 
@@ -104,7 +104,7 @@ converted string: ChQeKDI=
 
 ****示例 2:** 适用于*参数异常***
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToBase64String() Method
 using System;
@@ -165,7 +165,7 @@ public static void get(byte[] bytes, string str)
 
 ****Output:**
 
-```
+```cs
 For byte1
 converted string: AgQGCAoMDhASFA==
 
@@ -176,7 +176,7 @@ Exception Thrown: System.ArgumentNullException
 
 ****例 3:** 为*argumentout of range exception***
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToBase64String() Method
 using System;
@@ -237,7 +237,7 @@ public static void get(byte[] bytes, string str)
 
 ****Output:**
 
-```
+```cs
 For byte1
 converted string: AgQGCAoMDhASFA==
 

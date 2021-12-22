@@ -21,7 +21,7 @@
 
 **示例:**
 
-```
+```cs
 // C# code to create a HybridDictionary
 // with the specified initial size
 // and case sensitivity.
@@ -59,7 +59,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 III third
 V fifth
 II second
@@ -83,7 +83,7 @@ IV fourth
 
 **例 1:**
 
-```
+```cs
 // C# code to get the number of key/value
 // pairs contained in the HybridDictionary.
 using System;
@@ -116,14 +116,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check whether the
 // HybridDictionary is read-only.
 using System;
@@ -156,7 +156,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```
@@ -178,7 +178,7 @@ False
 
 **例 1:**
 
-```
+```cs
 // C# code to copy the HybridDictionary
 // entries to a one-dimensional Array
 // instance at the specified index.
@@ -219,7 +219,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 A --> Apple
 B --> Banana
 C --> Cat
@@ -231,7 +231,7 @@ F --> Fish
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the entry
 // with the specified key from
 // the HybridDictionary.
@@ -275,7 +275,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number of key/value pairs in myDict are : 6
 Number of key/value pairs in myDict are : 5
 

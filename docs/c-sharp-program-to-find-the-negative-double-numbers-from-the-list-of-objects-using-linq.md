@@ -16,7 +16,7 @@
 
 **示例:**
 
-```
+```cs
 Input  : ["sai", 100, "mohan", -18.0, -30.2, 200, "rajesh"]
 Output : [-18.0, -32.2]
 
@@ -28,19 +28,19 @@ Output : [-345.0, -18.0, -32.2]
 
 > *   Create an object list.
 > 
-> ```
+> ```cs
 > List<object> objList = new List<object>()
 > ```
 > 
 > *   Now use the type () method and the Where () method to select a double value less than zero, that is, a negative double value.
 > 
-> ```
+> ```cs
 > List<double> result = objList.OfType<double>().Where(n => n < 0).ToList();
 > ```
 > 
 > *   Use foreach loop to print double negative numbers.
 > 
-> ```
+> ```cs
 > foreach (double negative in result)
 > {
 >     Console.Write(negative + "  ");
@@ -49,7 +49,7 @@ Output : [-345.0, -18.0, -32.2]
 
 ## C#
 
-```
+```cs
 // C# program to find the negative double
 // numbers from the given list of objects
 using System;
@@ -82,6 +82,6 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Negative numbers are:-345  -18  -30.2  
 ```

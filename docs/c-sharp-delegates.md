@@ -20,7 +20,7 @@
 委托类型可以使用**委托**关键字来声明。一旦声明了委托，委托实例将引用并调用那些返回类型和参数列表与委托声明匹配的方法。
 **语法:**
 
-```
+```cs
 [modifier] delegate [return_type] [delegate_name] ([parameter_list]);
 ```
 
@@ -32,7 +32,7 @@
 
 **例:**
 
-```
+```cs
 // "public" is the modifier
 // "int" is return type
 // "GeeksForGeeks" is delegate name
@@ -47,13 +47,13 @@ public delegate int GeeksForGeeks(int G, int F, int G);
 声明委托后，借助 **new** 关键字创建委托对象。一旦委托被实例化，对该委托的方法调用就由该委托传递给该方法。由调用方传递给委托的参数被传递给方法，方法的返回值(如果有的话)由委托返回给调用方。这被称为调用委托。
 **语法:**
 
-```
+```cs
 [delegate_name]  [instance_name] = new [delegate_name](calling_method_name);
 ```
 
 **例:**
 
-```
+```cs
 GeeksForGeeks GFG = new GeeksForGeeks (Geeks);
        // here,
        // "GeeksForGeeks" is delegate name. 
@@ -65,7 +65,7 @@ GeeksForGeeks GFG = new GeeksForGeeks (Geeks);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the use of Delegates
 using System;
 namespace GeeksForGeeks {
@@ -122,7 +122,7 @@ public static void Main(String []args)
 
 **输出:**
 
-```
+```cs
 (100 + 40) = 140
 (100 - 60) = 40
 ```
@@ -144,7 +144,7 @@ public static void Main(String []args)
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // Multicasting of Delegates
 using System;
@@ -206,7 +206,7 @@ public static void Main(String []args)
 
 **输出:**
 
-```
+```cs
 Area is: 26.46
 Perimeter is: 21 
 

@@ -11,7 +11,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# Program to illustrate the use
 // of Default Constructor
 using System;
@@ -49,7 +49,7 @@ public static void Main() {
 
 **输出:**
 
-```
+```cs
 10
 5
 The result of multiplication is: 50
@@ -58,7 +58,7 @@ The result of multiplication is: 50
 
 **示例 2:** 在本例中，Person 类没有任何构造函数，在这种情况下，会自动提供默认构造函数，并将字段初始化为默认值。
 
-```
+```cs
 // C# Program to illustrate the use
 // of Default Constructor
 using System;
@@ -86,7 +86,7 @@ static void Main() {
 
 **输出:**
 
-```
+```cs
 Name: , Age: 0
 
 ```

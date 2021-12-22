@@ -33,7 +33,7 @@
 
 ![gfg.txt](img/df93c06d595786137600a809b9478f9c.png)
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.AppendAllLines() method
 
@@ -71,7 +71,7 @@ class GfG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 All lines are appended
@@ -86,7 +86,7 @@ All lines are appended
 
 ![file.txt](img/99502728214e1ddab12eb5e36239054e.png)
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.AppendAllLines() method
 
@@ -127,7 +127,7 @@ class GfG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 All lines are appended

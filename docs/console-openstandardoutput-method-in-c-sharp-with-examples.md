@@ -17,7 +17,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Console.OpenStandardOutput()
 // method
@@ -44,7 +44,7 @@ class GFG
 
 **输出:**
 
-```
+```cs
 Geeksforgeeks
 ```
 
@@ -62,7 +62,7 @@ Geeksforgeeks
 
 **示例:**它用制表符替换字符串中的 2 个连续空格字符。
 
-```
+```cs
 // C# program to illustrate the 
 // Console.OpenStandardOutput(int32) method
 using System;
@@ -126,6 +126,6 @@ public class GFG
 
 **输出:**
 
-```
+```cs
 Geeks for Geeks
 ```

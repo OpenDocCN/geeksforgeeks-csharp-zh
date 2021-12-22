@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public static int LastIndexOf<T>(T[] array, T value);
 ```
 
@@ -24,7 +24,7 @@ public static int LastIndexOf<T>(T[] array, T value);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Array.LastIndexOf<T>(T[], value<T>)
 // Method
@@ -70,7 +70,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Elements of Array: 
 
 C
@@ -91,7 +91,7 @@ Last Occurrence of C++: 6
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Array.LastIndexOf<T>(T[], value<T>)
 // Method

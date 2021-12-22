@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static uint Parse (string str);
 ```
 
@@ -24,7 +24,7 @@ public static uint Parse (string str);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // UInt32.Parse(String) Method
 using System;
@@ -70,7 +70,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 '4294967295' parsed as 4294967295
 Can't Parsed '14244, 784'
 Can't Parsed '-457589'
@@ -80,7 +80,7 @@ Can't Parsed '-457589'
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // UInt32.Parse(String) Method
 // for ArgumentNullException
@@ -125,7 +125,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.ArgumentNullException
 
 ```

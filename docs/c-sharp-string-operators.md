@@ -13,7 +13,7 @@
 该运算符用于检查给定的字符串是否包含相同的值。如果两个字符串相等，则返回 true。否则，返回 false。
 **语法:**
 
-```
+```cs
 public static bool operator == ( string x, string y );
 ```
 
@@ -27,7 +27,7 @@ public static bool operator == ( string x, string y );
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // Equality operator
 using System;
@@ -59,7 +59,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 s1 is equal to s2: True 
 s1 is equal to s3: False 
 ```
@@ -68,7 +68,7 @@ s1 is equal to s3: False
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate
 // the Equality operator
 using System;
@@ -104,7 +104,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 String 1: geeks
 String 2:  GEEKS
 Comparison of string 1 and string 2: False
@@ -121,7 +121,7 @@ Comparison of string 1 and string 2: False
 该运算符用于检查给定的字符串是否包含不同的值。如果两个字符串彼此不同，则返回 true。否则，返回 false。
 **语法:**
 
-```
+```cs
 public static bool operator != ( string x, string y );
 ```
 
@@ -136,7 +136,7 @@ public static bool operator != ( string x, string y );
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // Inequality operator
 using System;
@@ -168,7 +168,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 s1 is different from s3: True 
 s1 is different from s2: False
 ```
@@ -177,7 +177,7 @@ s1 is different from s2: False
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the concept
 // of Inequality operator
 using System;
@@ -212,7 +212,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 string 1: geeks
 string 2:  GEEKS
 Comparison of string 1 and string 2: True

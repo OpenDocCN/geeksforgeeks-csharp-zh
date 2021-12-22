@@ -27,7 +27,7 @@
 
 *   **步骤 1:** 使用 masketextbox()构造函数创建一个 masketextbox 控件，该构造函数由 masketextbox 类提供。
 
-    ```
+    ```cs
     // Creating a MaskedTextBox control
     MaskedTextBox mbox = new MaskedTextBox(); 
 
@@ -35,7 +35,7 @@
 
 *   **步骤 2:** 创建 masketextbox 控件后，设置 masketextbox 类提供的 masketextbox 控件的属性。
 
-    ```
+    ```cs
     // Setting the properties 
     // of MaskedTextBox
     mbox.Location = new Point(374, 137); 
@@ -48,7 +48,7 @@
 
 *   **Step 3:** And last add this MaskedTextBox control to the form using the following statement:
 
-    ```
+    ```cs
     // Adding MaskedTextBox 
     // control on the form 
     this.Controls.Add(mbox); 
@@ -57,7 +57,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

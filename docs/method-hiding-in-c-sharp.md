@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of method hiding
 using System;
@@ -51,7 +51,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Name: Rakesh, Age: 40 
 Name: Somya, Age: 39 
 Name: Rohan, Age: 20 
@@ -64,7 +64,7 @@ Name: Rohan, Age: 20
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of method hiding
 // without using the new keyword
@@ -111,7 +111,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Name: Rakesh, Age: 40 
 Name: Somya, Age: 39 
 Name: Rohan, Age: 20 
@@ -126,7 +126,7 @@ Name: Rohan, Age: 20
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how
     // to access hidden method
     using System;
@@ -171,7 +171,7 @@ Name: Rohan, Age: 20
 
     **输出:**
 
-    ```
+    ```cs
     Total number of family members: 3
     Name: Rakesh, Age: 40 
     Name: Somya, Age: 39 
@@ -183,7 +183,7 @@ Name: Rohan, Age: 20
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how
     // to access hidden method
     using System;
@@ -225,7 +225,7 @@ Name: Rohan, Age: 20
 
     **输出:**
 
-    ```
+    ```cs
     Total number of family members: 2
 
     ```
@@ -234,7 +234,7 @@ Name: Rohan, Age: 20
 
     **注意:**如果试图使用以下语法调用隐藏方法，
 
-    ```
+    ```cs
     My_Member obj = new My_Family();
     ```
 
@@ -242,7 +242,7 @@ Name: Rohan, Age: 20
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how
     // to access hidden method
     using System;
@@ -281,7 +281,7 @@ Name: Rohan, Age: 20
 
     **输出:**
 
-    ```
+    ```cs
     Total number of family members: 2
 
     ```

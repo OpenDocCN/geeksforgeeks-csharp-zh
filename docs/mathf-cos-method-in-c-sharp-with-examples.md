@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // MathF.Cos(Single) Method
 using System;
@@ -51,7 +51,7 @@ class GFG{
 
 **Output:**
 
-```
+```cs
 0.7071068
 0.5877852
 0.34202
@@ -60,7 +60,7 @@ class GFG{
 
 **例 2:** 展示 MathF 的工作原理。当参数为 *NaN 或【无限】T3 时，Cos()方法。*
 
-```
+```cs
 // C# program to illustrate the
 // MathF.Cos(Single) method 
 using System;
@@ -99,7 +99,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 NaN
 NaN
 NaN

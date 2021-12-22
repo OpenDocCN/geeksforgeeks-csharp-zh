@@ -28,7 +28,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Type.FindMembers(MemberTypes,
 // BindingFlags, MemberFilter,
@@ -103,7 +103,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Result of FindMembers -  Boolean Equals(System.Object)
 Result of FindMembers -  Boolean Equals(System.String)
 Result of FindMembers -  Boolean Equals(System.String, System.StringComparison)

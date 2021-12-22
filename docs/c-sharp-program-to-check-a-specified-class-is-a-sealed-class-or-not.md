@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsSealed { get; }
 ```
 
@@ -16,7 +16,7 @@ public bool IsSealed { get; }
 
 ## C#
 
-```
+```cs
 // C# program to check if the given 
 // class is sealed or not
 using System;
@@ -56,7 +56,7 @@ public static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 False
 True
 ```
@@ -65,7 +65,7 @@ True
 
 ## C#
 
-```
+```cs
 // C# program to check if the given 
 // class is sealed or not
 using System;
@@ -102,6 +102,6 @@ public static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 The given class is a sealed class
 ```

@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToLocalTime()
 // Method
@@ -41,14 +41,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 local time is 01/01/2011 04:00:15
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToLocalTime()
 // Method
@@ -76,7 +76,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 local time is 02/11/2019 05:13:37
 
 ```

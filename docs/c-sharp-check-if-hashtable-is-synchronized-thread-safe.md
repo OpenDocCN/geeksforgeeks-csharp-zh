@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool IsSynchronized { get; }
 ```
 
@@ -16,7 +16,7 @@ public virtual bool IsSynchronized { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to check if Hashtable
 // Is Synchronized or not
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 has1 is Not Synchronized.
 smyTable is Synchronized.
 
@@ -63,7 +63,7 @@ smyTable is Synchronized.
 
 **例 2:**
 
-```
+```cs
 // C# code to check if Hashtable
 // Is Synchronized or not
 using System;
@@ -93,7 +93,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```

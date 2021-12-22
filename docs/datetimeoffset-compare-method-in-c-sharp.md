@@ -20,7 +20,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTimeOffset.Compare(DateTimeOffset, 
 // DateTimeOffset) Method
@@ -62,14 +62,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 offset1 is later than offset2
 
 ```
 
 **例 2:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTimeOffset.Compare(DateTimeOffset,
 // DateTimeOffset) Method
@@ -111,7 +111,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 offset1 is equal to offset2
 
 ```

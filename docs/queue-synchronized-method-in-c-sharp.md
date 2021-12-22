@@ -16,7 +16,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# code to illustrate the
 // Queue.Synchronized() Method
 using System;
@@ -56,7 +56,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 myQueue is Not Synchronized.
 sq is Synchronized.
 
@@ -64,7 +64,7 @@ sq is Synchronized.
 
 **例 2:**
 
-```
+```cs
 // C# code to illustrate the
 // Queue.Synchronized() Method
 using System;

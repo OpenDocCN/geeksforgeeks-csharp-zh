@@ -22,7 +22,7 @@ ThenByDescending 运算符用于以降序实现二级排序。通过*然后通�
 
 **例 1:**
 
-```
+```cs
 // C# program to print the employees
 // name and their salary
 using System;
@@ -108,7 +108,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Employee Name: Supriya  Salary: 40000
 Employee Name: Soniya  Salary: 30000
 Employee Name: Rohit  Salary: 40000
@@ -120,7 +120,7 @@ Employee Name: Anil  Salary: 40000
 
 **例 2:**
 
-```
+```cs
 // C# program to print the employees
 // IDs and their salary
 using System;
@@ -206,7 +206,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Employee ID: 209 Salary: 20000
 Employee ID: 210 Salary: 30000
 Employee ID: 211 Salary: 40000

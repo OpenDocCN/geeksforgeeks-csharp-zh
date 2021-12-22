@@ -35,7 +35,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to delete the empty directory
 // Using Delete(string) method
 using System;
@@ -56,7 +56,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Deleted
 ```
 
@@ -66,7 +66,7 @@ Deleted
 
 ## C#
 
-```
+```cs
 // C# program to delete the empty directory
 // Using Delete(string) method
 using System;
@@ -87,7 +87,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Deleted
 ```
 
@@ -117,7 +117,7 @@ Deleted
 
 ## C#
 
-```
+```cs
 // C# program to delete the empty directory
 // Using Delete(String, Boolean) method
 using System;
@@ -138,7 +138,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Deleted
 ```
 
@@ -148,7 +148,7 @@ Deleted
 
 ## C#
 
-```
+```cs
 // C# program to delete the non-empty directory
 // Using Delete(String, Boolean) method
 using System;
@@ -169,6 +169,6 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Deleted
 ```

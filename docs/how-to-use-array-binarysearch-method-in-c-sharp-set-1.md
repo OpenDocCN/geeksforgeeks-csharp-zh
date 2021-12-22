@@ -51,7 +51,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // Array.BinarySearch(Array, Object)
 // Method
@@ -128,7 +128,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The elements of Sorted Array: 1 2 3 4 5 6 7 
 The element to search for (8) is not found.
 The element to search for (4) is at index 3.
@@ -138,7 +138,7 @@ The element to search for (4) is at index 3.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // Array.BinarySearch(Array, Object)
 // Method
@@ -181,7 +181,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The elements of Sorted Array: 1 2 3 4 5 6 7 
 Index of 9 is: -8
 ```
@@ -214,7 +214,7 @@ Index of 9 is: -8
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // Array.BinarySearch(Array,
 // Object, IComparer) Method
@@ -292,7 +292,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The original Array
 20
 10
@@ -344,7 +344,7 @@ Next larger object is at index 5
 
 ## C#
 
-```
+```cs
 // C# Program to illustrate the use of
 // Array.BinarySearch(Array, Int32,
 // Int32, Object) Method
@@ -406,7 +406,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 1 
 5 
 7 
@@ -440,7 +440,7 @@ Index of 44 is :-7
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // Array.BinarySearch(Array,
 // Int32, Int32, Object,
@@ -522,7 +522,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The original Array
 20
 10

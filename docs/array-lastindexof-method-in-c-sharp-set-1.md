@@ -32,7 +32,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Array.LastIndexOf(Array, 
 // Object) method
@@ -65,7 +65,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 First Index of 6 search from end found at 4
 First Index of 2 search from end found at 5
 
@@ -73,7 +73,7 @@ First Index of 2 search from end found at 5
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Array.LastIndexOf(Array, 
 // Object) method
@@ -116,7 +116,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 First Index of C# search from end found at 5
 First Index of C++ search from end found at 6
 
@@ -143,7 +143,7 @@ First Index of C++ search from end found at 6
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Array.LastIndexOf(Array, Object,
 // Int32) method
@@ -176,7 +176,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 First Index of 6 search from index 3 found at 2
 First Index of 2 search from index 2 found at 1
 
@@ -184,7 +184,7 @@ First Index of 2 search from index 2 found at 1
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Array.LastIndexOf(Array, Object, 
 // Int32) method
@@ -233,7 +233,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 First Index of C# search from index 4 found at 1
 First Index of C++ search from index 3 found at 2
 
@@ -261,7 +261,7 @@ First Index of C++ search from index 3 found at 2
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Array.LastIndexOf(Array, 
 // Object, Int32, Int32) method
@@ -299,7 +299,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 First Index of 6 search from index 5 found at 4
 First Index of 2 search from index 4 found at 3
 
@@ -307,7 +307,7 @@ First Index of 2 search from index 4 found at 3
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Array.LastIndexOf(Array, Object,
 // Int32, Int32) method
@@ -362,7 +362,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 First Index of C# search from index 6 found at 5
 First Index of C++ search from index 5 found at 4
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public override int GetHashCode ();
 ```
 
@@ -16,7 +16,7 @@ public override int GetHashCode ();
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // Char.GetHashCode() Method
 using System;
@@ -42,14 +42,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Hashcode :- 4325442
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate
 // Char.GetHashCode() Method
 using System;
@@ -85,7 +85,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Hashcode of a :- 6357089
 Hashcode of b :- 6422626
 Hashcode of c :- 6488163

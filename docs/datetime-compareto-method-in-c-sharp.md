@@ -13,7 +13,7 @@
 
 ****语法:****
 
-```
+```cs
 public int CompareTo (DateTime value);
 ```
 
@@ -27,7 +27,7 @@ public int CompareTo (DateTime value);
 
 ****示例:****
 
-```
+```cs
 // C# code to demonstrate
 // CompareTo(DateTime) function
 using System;
@@ -65,7 +65,7 @@ public class GFG {
 
 ****Output:**
 
-```
+```cs
 12/31/2018 16:00:00 is earlier than 12/31/2018 20:00:00
 
 ```** 
@@ -76,7 +76,7 @@ public class GFG {
 
 ****语法:****
 
-```
+```cs
 public int CompareTo (object value);
 ```
 
@@ -92,7 +92,7 @@ public int CompareTo (object value);
 
 ****示例:****
 
-```
+```cs
 // C# code to demonstrate
 // CompareTo(Object) function
 using System;
@@ -130,7 +130,7 @@ public class GFG {
 
 ****输出:****
 
-```
+```cs
 12/31/2018 16:00:00 is earlier than 01/21/2019 00:00:00
 ```
 

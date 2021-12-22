@@ -6,7 +6,7 @@ UInt32 Struct 的 MaxValue 字段用于表示 32 位无符号整数的最大值�
 
 **语法:**
 
-```
+```cs
 public const uint MaxValue = 4294967295;
 ```
 
@@ -14,7 +14,7 @@ public const uint MaxValue = 4294967295;
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // UInt32.MaxValue field
 using System;
@@ -60,7 +60,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Maximum Value is: 4294967295
 Conversion is Possible.
 Conversion is Possible.

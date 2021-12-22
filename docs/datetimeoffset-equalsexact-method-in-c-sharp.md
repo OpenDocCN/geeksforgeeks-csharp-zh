@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTimeOffset.EqualsExact(DateTimeOffset)
 // Method
@@ -51,14 +51,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 offset1 is not same as offset2
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTimeOffset.EqualsExact(DateTimeOffset)
 // Method
@@ -96,7 +96,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 offset1 is same as offset2
 
 ```

@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public int FindLastIndex (Predicate <T> match);
     ```
 
@@ -24,7 +24,7 @@
 
     **示例 1:** 在本例中，创建一个名为“PC”的列表，其中包含一些元素。我们的任务是找到一个名为“Computer”的元素并打印它的索引。
 
-    ```
+    ```cs
     // C# Program to illustrate the 
     // FindLastIndex(Predicate<T>)
     // Method
@@ -69,14 +69,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     3
 
     ```
 
     **例 2:** 本例是上例的扩展形式。在本例中，我们使用一个 XML 文件搜索一个项目，并打印该项目的索引。如果没有找到该项目，则打印“-1”，如果找到，则打印索引。物品是“极客巧克力”。
 
-    ```
+    ```cs
     // C# Program to illustrate the 
     // FindLastIndex(Predicate<T>)
     // Method
@@ -129,7 +129,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     -1
 
     ```

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public string this[int index] { get; set; }
 ```
 
@@ -20,7 +20,7 @@ public string this[int index] { get; set; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get or set the element at
 // the specified index in StringCollection
 using System;
@@ -66,7 +66,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 A
 B
 C
@@ -85,7 +85,7 @@ E
 
 **例 2:**
 
-```
+```cs
 // C# code to get or set the element at
 // the specified index in StringCollection
 using System;

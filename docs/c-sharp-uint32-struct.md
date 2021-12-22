@@ -12,7 +12,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // fields of UInt32 struct
 using System;
@@ -45,7 +45,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Equal to MaxValue!
 
 ```
@@ -63,7 +63,7 @@ Equal to MaxValue!
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to get the
 // hash code of the 32-bit Unsigned integer
 using System;
@@ -87,7 +87,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The hash code of myval is: 33453242
 
 ```

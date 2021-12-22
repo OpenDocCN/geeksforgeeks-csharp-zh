@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public int CompareTo (uint value);
     ```
 
@@ -28,7 +28,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt32.CompareTo(UInt32) Method
     using System;
@@ -64,14 +64,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     1231 is less than 5123
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt32.CompareTo(UInt32) Method
     using System;
@@ -112,7 +112,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     34425 is greater than 7343
     340 is less than 67520
     7810 is greater than 2890
@@ -126,7 +126,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public int CompareTo (object value);
     ```
 
@@ -144,7 +144,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt32.CompareTo(Object) Method
     using System;
@@ -191,14 +191,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     11220 is greater than 2347
 
     ```
 
     **示例 2:** 适用于*参数异常*
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt32.CompareTo(Object) Method
     using System;
@@ -246,7 +246,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     value2 must be null or an instance of UInt32
     Exception Thrown: System.ArgumentException
 

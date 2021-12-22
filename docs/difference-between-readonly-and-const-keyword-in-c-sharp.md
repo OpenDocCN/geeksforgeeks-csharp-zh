@@ -7,7 +7,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // use of const keyword
 using System;
@@ -31,7 +31,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The value of myvar: 10
 The value of str: GeeksforGeeks
 ```
@@ -41,7 +41,7 @@ The value of str: GeeksforGeeks
 
 ## **c sharp . c sharp . c sharp . c sharp**
 
-```
+```cs
 // C# program to illustrate the use
 // of the readonly keyword
 using System;
@@ -74,7 +74,7 @@ class GFG {
 
 ****输出:**** 
 
-```
+```cs
 Display value of myvar1 100, and myvar2 200
 ```
 

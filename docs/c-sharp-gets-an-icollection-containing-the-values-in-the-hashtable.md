@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual System.Collections.ICollection Values { get; }
 ```
 
@@ -23,7 +23,7 @@ public virtual System.Collections.ICollection Values { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get an ICollection containing
 // the values in the Hashtable.
 using System;
@@ -56,7 +56,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 data structures
 c++
 quiz
@@ -66,7 +66,7 @@ geeks
 
 **例 2:**
 
-```
+```cs
 // C# code to get an ICollection containing
 // the values in the Hashtable.
 using System;
@@ -99,7 +99,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 City
 Country
 Country

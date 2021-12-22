@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static DateTime GetCreationTime (string path);
 ```
 
@@ -30,7 +30,7 @@ public static DateTime GetCreationTime (string path);
 
 ![file.txt](img/e30364ee2029737d20ae9f2d8b5c234a.png)
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.GetCreationTime(String) method
 
@@ -53,7 +53,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 File created on: 4/19/2020 4:02:54 AM
 
 ```
@@ -64,7 +64,7 @@ File created on: 4/19/2020 4:02:54 AM
 
 ![gfg.txt](img/439537cf05f01bd02011003122e87175.png)
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.GetCreationTime(String) method
 
@@ -89,7 +89,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 File created on: 4/19/2020 4:02:54 AM
 File created on: 4/19/2020 4:07:02 AM
 

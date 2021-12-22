@@ -22,7 +22,7 @@
 
 *   **步骤 1:** 使用工具提示类提供的*工具提示()*构造函数创建工具提示控件。
 
-    ```
+    ```cs
     // Creating a ToolTip control
     ToolTip t_Tip = new ToolTip(); 
 
@@ -30,7 +30,7 @@
 
 *   **Step 2:** After creating ToolTip control, set the property of the ToolTip control provided by the ToolTip class.
 
-    ```
+    ```cs
     // Seting the properties of ToolTip
     t_Tip.Active = true; 
     t_Tip.AutoPopDelay = 4000; 
@@ -44,7 +44,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

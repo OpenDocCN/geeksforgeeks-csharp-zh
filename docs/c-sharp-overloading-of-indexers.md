@@ -8,7 +8,7 @@
 
 **示例 1:** 在下面的程序中 ***int*** 和 ***float*** 类型用于重载索引器。这里，“ *Hello* ”这个词是使用 *int* 索引器分配的，而 float 参数是用来给字符串赋予值“ *Geeks* ”。
 
-```
+```cs
 // C# Program to illustrate 
 // the overloading of indexers
 using System;
@@ -82,14 +82,14 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Hello Geeks
 
 ```
 
 **示例 2:** 在下面的程序中，我们在启用只读模式的重载索引器中仅使用 get 访问器。意味着我们不能修改给定值。这里 ***int*** 和 ***string*** 类型用来重载索引器。*公共字符串此[字符串标志]* 仅包含启用只读模式的 get 访问器。
 
-```
+```cs
 // C# program to illustrate the concept
 // of indexer overloading by taking 
 // only get accessor in overloaded indexer
@@ -148,7 +148,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 This is C# Indexers Overloading.
 
 ```

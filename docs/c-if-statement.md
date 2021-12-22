@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```cs
 if(condition)
 {
     then statement;
@@ -28,7 +28,7 @@ if(condition)
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // if statement
 using System;
@@ -59,7 +59,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Both strings are equal..!!
 
 ```
@@ -70,7 +70,7 @@ Both strings are equal..!!
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate nested
 // if statement 
 using System;
@@ -109,7 +109,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Not Eligible
 
 ```
@@ -118,7 +118,7 @@ Not Eligible
 
 ## C#
 
-```
+```cs
 // C# program to illustrate if statement 
 // Using AND, OR, NOT operators
 using System;
@@ -159,7 +159,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Enter group B
 Enter group C
 

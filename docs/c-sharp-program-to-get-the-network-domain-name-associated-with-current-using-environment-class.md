@@ -16,7 +16,7 @@
 
 ## c#
 
-```
+```cs
 // C# program to find the network domain name 
 // associated with current user. Using the 
 // Environment Class
@@ -43,6 +43,6 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Network domain name: Check
 ```

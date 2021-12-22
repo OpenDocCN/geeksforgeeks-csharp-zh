@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.GetHashCode() Method
 using System;
@@ -38,14 +38,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode is : 2065713268
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.GetHashCode() Method
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode is : 2014
 HashCode is : 1498
 

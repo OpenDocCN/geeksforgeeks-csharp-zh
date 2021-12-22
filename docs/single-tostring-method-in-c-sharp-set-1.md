@@ -24,7 +24,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Single.ToString(String) Method
 using System;
@@ -61,14 +61,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String value is 5.6600E+005
 
 ```
 
 **例 2:** 为*格式异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Single.ToString(String) Method
 using System;
@@ -105,7 +105,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Format is invalid.
 Exception Thrown: System.FormatException
 
@@ -123,7 +123,7 @@ Exception Thrown: System.FormatException
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Single.ToString() Method
 using System;
@@ -148,14 +148,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String value is 7.927594E+08
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Single.ToString() Method
 using System;
@@ -189,7 +189,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String value is 3.402823E+38
 String value is -3.402823E+38
 String value is 40

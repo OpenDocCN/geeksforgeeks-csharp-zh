@@ -16,7 +16,7 @@ SortedList 类是按键排序的**(键，值)对**的集合。这些对可以通
 
 **语法:**
 
-```
+```cs
 public virtual void RemoveAt (int index);
 
 ```
@@ -32,7 +32,7 @@ public virtual void RemoveAt (int index);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the element at
 // the specified index of a SortedList
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Key = CE
 Key = CS
 Key = DS
@@ -103,7 +103,7 @@ Key = Electrical Engineering
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the element at
 // the specified index of a SortedList
 using System;

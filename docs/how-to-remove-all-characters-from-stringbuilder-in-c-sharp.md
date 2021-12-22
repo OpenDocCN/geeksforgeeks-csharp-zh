@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Text.StringBuilder Clear ();
 ```
 
@@ -19,7 +19,7 @@ public System.Text.StringBuilder Clear ();
 
 **例:**
 
-```
+```cs
 // C# program to demonstrate
 // the Clear() Method
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The String is: GeeksforGeeks 
 Total characters -- 13
 The String is:  

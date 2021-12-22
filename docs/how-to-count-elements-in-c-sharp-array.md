@@ -20,7 +20,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the above concept
 using System;
 using System.Linq;
@@ -49,7 +49,7 @@ static public void Main()
 
 **Output**
 
-```
+```cs
 6
 ```
 
@@ -57,7 +57,7 @@ static public void Main()
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the above concept
 using System;
 using System.Linq;
@@ -85,7 +85,7 @@ static public void Main()
 
 **Output**
 
-```
+```cs
 16
 ```
 
@@ -95,7 +95,7 @@ static public void Main()
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the above concept
 using System;
 using System.Linq;
@@ -124,6 +124,6 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 3
 ```

@@ -8,7 +8,7 @@
 
 **语法**:
 
-```
+```cs
 Stream object = new FileStream(path, FileMode.Open)
 ```
 
@@ -18,7 +18,7 @@ Stream object = new FileStream(path, FileMode.Open)
 
 **语法:**
 
-```
+```cs
 FileStream_object.ReadByte()
 ```
 
@@ -35,7 +35,7 @@ FileStream_object.ReadByte()
 > *   Use FileStream to read the file named "file.txt" with the specified path.
 > *   Use the ReadByte () method to read the data in the file byte by byte until the end of the file is reached.
 > 
-> ```
+> ```cs
 > while ((obj = s.ReadByte()) != -1)
 > {
 > 
@@ -46,13 +46,13 @@ FileStream_object.ReadByte()
 > 
 > *   Use Casting to char to display file data as characters.
 > 
-> ```
+> ```cs
 > (char)obj
 > ```
 
 ## C#
 
-```
+```cs
 // C# program to read the data from stream
 // and cast data to chars 
 using System;
@@ -84,6 +84,6 @@ public static void Main()
 
 **输出**:
 
-```
+```cs
 T H I S  I S  F I L E  D E M O
 ```

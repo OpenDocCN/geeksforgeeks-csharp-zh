@@ -26,7 +26,7 @@ SkipWhile 运算符用于根据谓词函数跳过元素，直到给定序列中�
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of SkipWhile operator
 using System;
@@ -58,7 +58,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Sequence: 
 67
 67
@@ -69,7 +69,7 @@ Sequence:
 
 **例 2:**
 
-```
+```cs
 // C# program to find the names of the
 // employees whose length is less than 4
 using System; 
@@ -130,7 +130,7 @@ public class GFG{ 
 
 **Output:**
 
-```
+```cs
 Employee Name: Anu
 Employee Name: Anil
 Employee Name: Anju

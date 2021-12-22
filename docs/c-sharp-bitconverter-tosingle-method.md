@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static float ToSingle (byte[] value, int startIndex);
 ```
 
@@ -27,7 +27,7 @@ public static float ToSingle (byte[] value, int startIndex);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToSingle(Byte[], Int32)
 // Method
@@ -105,7 +105,7 @@ public static void PrintIndexAndValues(byte[] myArr)
 
 **输出:**
 
-```
+```cs
 Initial Array: 0 128 63 0 0 112 65 0 255 127 71 0 0 128 59 0 0 128 47 73 70 131 5 75 6 158 63 
 
 index     Array elements       float values
@@ -121,7 +121,7 @@ index     Array elements       float values
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToSingle(Byte[], Int32)
 // Method
@@ -212,7 +212,7 @@ public static void PrintIndexAndValues(byte[] myArr)
 
 **输出:**
 
-```
+```cs
 Initial Array: 0 128 63 0 0 112 65 0 255 127 71 0 0 128 59 0 0 128 47 73 70 131 5 75 6 158 63 
 
 index     Array elements       float values
@@ -231,7 +231,7 @@ Exception Thrown: System.ArgumentException
 
 **例 3:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToSingle(Byte[], Int32)
 // Method
@@ -319,7 +319,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Initial Array: 0 128 63 0 0 112 65 0 255 127 71 0 
                0 128 59 0 0 128 47 73 70 131 5 75
                6 158 63 24 
@@ -341,7 +341,7 @@ Exception Thrown: System.ArgumentOutOfRangeException
 
 **示例 4:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToSingle(Byte[], Int32)
 // Method
@@ -385,7 +385,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Exception Thrown: System.ArgumentNullException
 ```
 

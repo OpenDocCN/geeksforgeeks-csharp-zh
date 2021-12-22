@@ -23,7 +23,7 @@ C#中的泛型集合是在`System.Collection.Generic`命名空间中定义的。
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the concept 
 // of generic collection using List<T>
 using System;
@@ -55,7 +55,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 15
 18
 21
@@ -76,7 +76,7 @@ C#中的非泛型集合是在`System.Collections`命名空间中定义的。它�
 
 **示例:**
 
-```
+```cs
 // C# to illustrate the concept
 // of non-generic collection using Queue
 using System;
@@ -112,7 +112,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements present in the Queue are: 5
 Beginning Item is: C#
 

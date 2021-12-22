@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // SByte.GetTypeCode() Method
 using System;
@@ -39,14 +39,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for SByte is: SByte
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // SByte.GetTypeCode() Method
 using System;
@@ -77,7 +77,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for -128 is SByte
 TypeCode for 127 is SByte
 

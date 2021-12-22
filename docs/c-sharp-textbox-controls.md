@@ -18,7 +18,7 @@
 
 *   **步骤 1 :** 使用文本框类提供的*文本框()构造函数*创建一个文本框。
 
-    ```
+    ```cs
     // Creating textbox
     TextBox Mytextbox = new TextBox();
 
@@ -26,7 +26,7 @@
 
 *   **步骤 2 :** 创建文本框后，设置文本框类提供的文本框的属性。
 
-    ```
+    ```cs
 
     // Set location of the textbox
     Mytextbox.Location = new Point(187, 51);
@@ -47,7 +47,7 @@
 
 *   **Step 3 :** And last add this textbox control to from using *Add() method*.
 
-    ```
+    ```cs
     // Add this textbox to form
     this.Controls.Add(Mytextbox);
 
@@ -55,7 +55,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

@@ -32,7 +32,7 @@ SingleOrDefault 运算符用于返回集合或序列的单个元素。基本上�
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the use
 // of SingleOrDefault operator
 using System;
@@ -74,7 +74,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Element: 777
 Element: 2
 Element: 0
@@ -83,7 +83,7 @@ Element: 0
 
 **例 2:**
 
-```
+```cs
 // C# program to find the name the employee
 // whose salary is equal to 50000
 using System;
@@ -164,7 +164,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Employee name: Anupriya
 
 ```

@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public static int CompareOrdinal(
     string strA, string strB)
 ```
@@ -25,7 +25,7 @@ public static int CompareOrdinal(
 
 **示例:**
 
-```
+```cs
 Input: 
               string s1 = "GFG";    
               string s2 = "GFG"; 
@@ -52,7 +52,7 @@ Output: -5
 
 **程序:**说明 CompareOrdinal(字符串 strA，字符串 strB)方法。
 
-```
+```cs
 // C# program to demonstrate the 
 // CompareOrdinal(string strA, string strB)
 using System;
@@ -79,7 +79,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 0
 -33
 5
@@ -94,7 +94,7 @@ class Geeks {
 
 **语法:**
 
-```
+```cs
 public static int CompareOrdinal(
     string strA,
     int indexA,
@@ -117,7 +117,7 @@ public static int CompareOrdinal(
 
 **程序:**为了说明比较关系(字符串 strA，int indexA，字符串 strB，int indexB，int length):
 
-```
+```cs
 // C# program to illustrate the 
 // CompareOrdinal(String, Int32, 
 // String, Int32, Int32) method
@@ -154,7 +154,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Result is: 0
 
 ```

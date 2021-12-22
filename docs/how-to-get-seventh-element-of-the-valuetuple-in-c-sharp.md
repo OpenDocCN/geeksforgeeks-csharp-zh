@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public T7 Item7;
 ```
 
@@ -14,7 +14,7 @@ public T7 Item7;
 
 **示例 1:** 在下面的代码中，可以看到我们正在访问每个值元组的第七个元素。
 
-```
+```cs
 // C# program to illustrate how to get
 // the seventh element of value tuple
 using System;
@@ -51,7 +51,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 C# Topics:
 this keyword
 Delegates
@@ -60,7 +60,7 @@ Delegates
 
 **例 2:**
 
-```
+```cs
 // C# program to get the hash code of
 // seventh element in a value tuple
 using System;
@@ -90,7 +90,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Birth Date: 3-7-1993
 Hash Code: -1761317527
 

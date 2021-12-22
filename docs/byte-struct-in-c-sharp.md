@@ -12,7 +12,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of MaxValue and MinValue fields in Byte
 using System;
@@ -36,7 +36,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 The minimum value of Byte: 0
 The maximum value of Byte: 255
 
@@ -57,7 +57,7 @@ The maximum value of Byte: 255
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of CompareTo(Byte) method in Byte
 using System;
@@ -92,7 +92,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Comparison 1: -8
 Comparison 2: 30
 Comparison 3: 0

@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool Equals (DateTime t1, DateTime t2);
 ```
 
@@ -31,7 +31,7 @@ public static bool Equals (DateTime t1, DateTime t2);
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.Equals(DateTime,
 //  DateTime) Method
@@ -66,7 +66,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 date1 is not equals to date2.
 ```
 
@@ -74,7 +74,7 @@ date1 is not equals to date2.
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.Equals(DateTime,
 // DateTime) Method
@@ -116,7 +116,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 1/3/2010 is not equals to 1/4/2010\. 
 1/5/2010 is not equals to 1/4/2010\. 
 1/5/2010 is equals to 1/5/2010\. 
@@ -128,7 +128,7 @@ class GFG {
 
 **语法:**
 
-```
+```cs
 public bool Equals (DateTime value);
 ```
 
@@ -142,7 +142,7 @@ public bool Equals (DateTime value);
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.Equals(DateTime) Method
 using System;
@@ -176,7 +176,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 date1 is not equals to date2\. 
 ```
 
@@ -184,7 +184,7 @@ date1 is not equals to date2\.
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.Equals(DateTime) Method
 using System;
@@ -227,7 +227,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 01/03/2010 is not equals to 01/04/2010\. 
 01/05/2010 is not equals to 01/04/2010\. 
 01/05/2010 is equals to 01/05/2010\. 
@@ -239,7 +239,7 @@ class GFG {
 
 **语法:**
 
-```
+```cs
 public override bool Equals (object value);
 ```
 
@@ -253,7 +253,7 @@ public override bool Equals (object value);
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.Equals(DateTime) Method
 using System;
@@ -288,7 +288,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 date1 is not equals to date2\. 
 ```
 
@@ -296,7 +296,7 @@ date1 is not equals to date2\.
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.Equals(DateTime) Method
 using System;
@@ -340,7 +340,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
  01/03/2010 is not equals to 01/04/2010\. 
  01/05/2010 is not equals to 01/04/2010\. 
  01/05/2010 is equals to 01/05/2010\. 

@@ -19,7 +19,7 @@
 
 ## c#
 
-```
+```cs
 // C# program to illustrate the
 // concept of a static class
 using System;
@@ -47,7 +47,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Topic name is : Static class 
 ```
 
@@ -59,7 +59,7 @@ Topic name is : Static class
 
 ## c#
 
-```
+```cs
 // C# program to illustrate the
 // concept of static variable
 using System;
@@ -88,7 +88,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Color of XY model is  : Black 
 ```
 
@@ -100,7 +100,7 @@ Color of XY model is  : Black
 
 ## c#
 
-```
+```cs
 // C# program to illustrate the
 // concept of static method
 using System;
@@ -134,7 +134,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Total number of national parks present in India is :104
 ```
 
@@ -153,7 +153,7 @@ Total number of national parks present in India is :104
 
 ## c#
 
-```
+```cs
 // C# Program to illustrate calling
 // a Static constructor
 using System;
@@ -205,7 +205,7 @@ class G1 {
 
 **输出:**
 
-```
+```cs
 Example of Static Constructor
 Instance Constructor 1
 Name: Sunil Branch: CSE

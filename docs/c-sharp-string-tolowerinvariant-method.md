@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public string ToLowerInvariant ();
 ```
 
@@ -18,7 +18,7 @@ public string ToLowerInvariant ();
 
 ## C#
 
-```
+```cs
 // C# program to illustrate
 // ToLowerInvariant() method
 using System;
@@ -51,7 +51,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 String before ToLowerInvariant:
 WelCome tO GeeKSfOrGeeKs
 
@@ -63,7 +63,7 @@ welcome to geeksforgeeks
 
 ## C#
 
-```
+```cs
 // C# program to illustrate
 // ToLowerInvariant() Method
 using System;
@@ -97,7 +97,7 @@ public class GFG {
 
 **Output:** 
 
-```
+```cs
 String 1:  GEeks
 String 2:  geeks
 String 1:  geeks

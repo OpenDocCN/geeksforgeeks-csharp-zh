@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTimeOffset.GetHashCode()
 // Method
@@ -42,14 +42,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode for DateTimeOffset is: 981031011
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTimeOffset.GetHashCode()
 // Method
@@ -84,7 +84,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode for DateTimeOffset is: 981031011
 HashCode for DateTimeOffset is: 1633960685
 

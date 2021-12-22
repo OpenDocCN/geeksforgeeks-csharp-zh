@@ -29,7 +29,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以在给定语法的帮助下，以编程方式设置 MaskedTextBox 控件中文本的对齐方式:
 
-```
+```cs
 public System.Windows.Forms.HorizontalAlignment TextAlign { get; set; }
 ```
 
@@ -37,7 +37,7 @@ public System.Windows.Forms.HorizontalAlignment TextAlign { get; set; }
 
 *   **步骤 1:** 使用 masketextbox()构造函数创建一个 masketextbox，该构造函数由 masketextbox 类提供。
 
-    ```
+    ```cs
     // Creating a MaskedTextBox
     MaskedTextBox m = new MaskedTextBox();
 
@@ -45,7 +45,7 @@ public System.Windows.Forms.HorizontalAlignment TextAlign { get; set; }
 
 *   **步骤 2:** 创建 masketextbox 后，设置 masketextbox 类提供的 masketextbox 的 TextAlign 属性。
 
-    ```
+    ```cs
     // Setting the text
     m.TextAlign = HorizontalAlignment.Right;
 
@@ -53,7 +53,7 @@ public System.Windows.Forms.HorizontalAlignment TextAlign { get; set; }
 
 *   **Step 3:** And last add this MaskedTextBox control to the form using the following statement:
 
-    ```
+    ```cs
     // Adding MaskedTextBox 
     // control on the form
     this.Controls.Add(m);
@@ -62,7 +62,7 @@ public System.Windows.Forms.HorizontalAlignment TextAlign { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

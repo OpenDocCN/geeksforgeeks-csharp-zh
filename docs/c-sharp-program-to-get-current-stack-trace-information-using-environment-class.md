@@ -14,7 +14,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to find the current stack trace information
 using System;
 
@@ -37,7 +37,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Current Stack Trace Details: 
   at System.Environment.get_StackTrace () [0x00000] in <a1ae6166591d4020b810288d19af38d4>:0 
   at GFG.Main () [0x00000] in <ec0c23afce674aedba9f00d218402cf6>:0
@@ -47,7 +47,7 @@ Current Stack Trace Details:
 
 ## C#
 
-```
+```cs
 // C# program to find the current stack trace information
 using System;
 
@@ -70,7 +70,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Current Stack Trace Details: 
   at System.Environment.get_StackTrace () [0x00000] in <a1ae6166591d4020b810288d19af38d4>:0 
   at GFG.Main () [0x00000] in <092e5ea1577d4af6be34040e9472afab>:0 

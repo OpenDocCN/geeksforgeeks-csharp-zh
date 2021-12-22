@@ -25,7 +25,7 @@ DefaultIfEmpty 运算符用于将空集合或序列替换为缺省值的单例�
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of DefaultIfEmpty operator
 using System;
@@ -65,7 +65,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 0
 Geek
 Geeks123
@@ -75,7 +75,7 @@ GeeksforGeeks
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the 
 // use of DefaultIfEmpty operator
 using System;
@@ -153,7 +153,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Anjita
 Soniya
 Rohit

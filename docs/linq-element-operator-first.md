@@ -32,7 +32,7 @@ First 运算符用于返回给定集合或序列的第一个元素。或者也�
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // use of First operator
 using System;
@@ -68,14 +68,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 112
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to find the name 
 // of the first employee
 using System;
@@ -153,7 +153,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Employee Name: Anjita
 
 ```

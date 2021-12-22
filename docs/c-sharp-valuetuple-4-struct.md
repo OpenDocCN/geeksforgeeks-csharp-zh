@@ -27,7 +27,7 @@ ValueTuple <t1>结构用于创建一个四元组或 4 值 Tuple。它表示一�
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to
 // access the element of ValueTuple<T1,
 // T2, T3, T4>
@@ -56,7 +56,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Book Details: 
 Book Id: 3456
 Book Name: The Guide
@@ -76,7 +76,7 @@ Publication date: 1958
 
 **示例:**
 
-```
+```cs
 // C# program to check the given value
 // tuples are equal or not
 using System;
@@ -109,7 +109,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Incorrect Code...!!
 
 ```

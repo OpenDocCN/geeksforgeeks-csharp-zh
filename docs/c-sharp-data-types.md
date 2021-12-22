@@ -47,7 +47,7 @@
 
         **示例:**
 
-        ```
+        ```cs
         // C# program to demonstrate 
         // the above data types
         using System;
@@ -115,7 +115,7 @@
 
         **输出:**
 
-        ```
+        ```cs
         char: G
         integer: 89
         short: 56
@@ -131,7 +131,7 @@
 
         **示例:**
 
-        ```
+        ```cs
         // C# program to demonstrate the Sbyte
         // signed integral data type
         using System;
@@ -168,7 +168,7 @@
 
         **输出:**
 
-        ```
+        ```cs
         126
         127
         -128
@@ -178,7 +178,7 @@
 
         **示例:**
 
-        ```
+        ```cs
         // C# program to demonstrate 
         // the byte data type
         using System;
@@ -216,7 +216,7 @@
 
         **输出:**
 
-        ```
+        ```cs
         0
         1
         255
@@ -232,7 +232,7 @@
 
         **示例:**
 
-        ```
+        ```cs
         // C# program to demonstrate the
         // boolean data type
         using System;
@@ -255,7 +255,7 @@
 
         **输出:**
 
-        ```
+        ```cs
         Hi Geek
 
         ```
@@ -264,7 +264,7 @@
     *   **字符串:**代表一系列 Unicode 字符，其类型名为**系统。弦**。所以，字符串和 string 是等价的。
         **例:**
 
-        ```
+        ```cs
         string s1 = "hello"; // creating through string keyword  
         String s2 = "welcome"; // creating through String class  
 
@@ -274,7 +274,7 @@
 
         **示例:**
 
-        ```
+        ```cs
         // C# program to demonstrate 
         // the Reference data types
         using System;
@@ -309,7 +309,7 @@
 
         **输出:**
 
-        ```
+        ```cs
         GeeksforGeeks
         20
         System.Int32
@@ -322,14 +322,14 @@
     ***asterisk (*)*:** It also known as Indirection Operator. It is used to access the value of an address.
     **Syntax :**
 
-    ```
+    ```cs
     type* identifier;
 
     ```
 
     **示例:**
 
-    ```
+    ```cs
     int* p1, p;   // Valid syntax
     int *p1, *p;   // Invalid 
 
@@ -337,7 +337,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // Note: This program will not work on
     // online compiler
     // Error: Unsafe code requires the `unsafe' 

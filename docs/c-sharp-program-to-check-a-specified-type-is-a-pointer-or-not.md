@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsPointer{ get; }
 ```
 
@@ -14,7 +14,7 @@ public bool IsPointer{ get; }
 
 ## C#
 
-```
+```cs
 // C# program to check whether
 // the given type is pointer or not
 using System;
@@ -41,7 +41,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 False
 False
 False
@@ -51,7 +51,7 @@ False
 
 ## C#
 
-```
+```cs
 // C# program to check whether
 // the given type is pointer or not
 using System;
@@ -81,6 +81,6 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 The given type is not a pointer
 ```

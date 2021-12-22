@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public void Clear ();
 ```
 
@@ -20,7 +20,7 @@ public void Clear ();
 
 **例 1:**
 
-```
+```cs
 // C# program to remove all the
 // elements from a List
 using System;
@@ -66,7 +66,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Number of elements in the List Before Removing: 5
 Number of elements in the List After Removing: 0
 
@@ -74,7 +74,7 @@ Number of elements in the List After Removing: 0
 
 **例 2:**
 
-```
+```cs
 // C# program to remove all the
 // elements from a List
 using System;
@@ -122,7 +122,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Number of elements in the List Before Removing: 7
 Number of elements in the List After Removing: 0
 

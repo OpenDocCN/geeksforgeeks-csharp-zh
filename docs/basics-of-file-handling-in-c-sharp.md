@@ -23,7 +23,7 @@ StreamWriter 类实现了文本编写器，用于以特定格式向流中写入�
 
 **示例:**
 
-```
+```cs
 // C# program to write user input 
 // to a file using StreamWriter Class
 using System;
@@ -91,7 +91,7 @@ StreamReader 类实现了文本阅读器，用于以特定格式从流中读取�
 
 **示例:**
 
-```
+```cs
 // C# program to read from a file
 // using StreamReader Class
 using System;

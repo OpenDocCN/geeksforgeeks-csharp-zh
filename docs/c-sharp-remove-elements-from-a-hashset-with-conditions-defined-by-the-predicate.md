@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```cs
 public int RemoveWhere (Predicate<T> match);
 
 ```
@@ -25,7 +25,7 @@ public int RemoveWhere (Predicate<T> match);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove elements from a HashSet
 // with conditions defined by the predicate
 using System;
@@ -83,7 +83,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The elements in HashSet are : 
 0
 1
@@ -108,7 +108,7 @@ Number of elements are : 5
 
 **例 2:**
 
-```
+```cs
 // C# code to remove elements from a HashSet
 // with conditions defined by the predicate
 using System;
@@ -151,7 +151,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number of elements are : 20
 Number of elements are : 16
 

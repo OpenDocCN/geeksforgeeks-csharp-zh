@@ -8,7 +8,7 @@
 
 **例:**
 
-```
+```cs
 Input: 
 {id = 101, Name = Rohit, Salary = 50000, Department = HR}
 {id = 104, Name = Rohit, Salary = 10000, Department = Development}
@@ -27,13 +27,13 @@ Output:
 
 **2。**现在使用 OrderBy()方法根据员工的工资对员工列表进行排序。
 
-```
+```cs
 var result_set = Geeks.OrderBy(sal => sal.Emp_Salary);
 ```
 
 或者我们也可以使用 LINQ 的 OrderBy 子句
 
-```
+```cs
 var result_set = from emp in Geeks orderby emp.Emp_Salary select emp;
 ```
 
@@ -45,7 +45,7 @@ var result_set = from emp in Geeks orderby emp.Emp_Salary select emp;
 
 ## c#
 
-```
+```cs
 // C# program to sort a list of employees
 // based on salary. Using OrderBy() method
 using System;
@@ -96,7 +96,7 @@ static void Main(string[] args)
 
 **输出**
 
-```
+```cs
 104 Ram    20000 DEF
 103 krishna 45000 ABC
 101 arjun   50000 ABC
@@ -109,7 +109,7 @@ static void Main(string[] args)
 
 ## c#
 
-```
+```cs
 // C# program to sort a list of employees
 // based on salary. Using OrderBy() method
 using System;
@@ -158,7 +158,7 @@ static void Main(string[] args)
 
 **输出**
 
-```
+```cs
 204 Sonam 20000 DEF
 203 Mohit 45000 ABC
 201 Sumit 50000 ABC

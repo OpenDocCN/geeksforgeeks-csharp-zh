@@ -5,7 +5,7 @@
 在 C# 8.0 中引入了[范围结构](https://www.geeksforgeeks.org/range-structure-in-c-sharp-8-0/)。它表示一个有开始和结束索引的范围。在范围结构提供的**全部属性**的帮助下，您可以找到从开始索引到结束的所有范围对象。该属性始终返回 *0..^0* 系列。
 **语法:**
 
-```
+```cs
 public static property Range All { Range get(); };
 ```
 
@@ -14,7 +14,7 @@ public static property Range All { Range get(); };
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the use of the
 // All property of the Range struct
 using System;
@@ -42,7 +42,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 0..^0
 ```
 
@@ -50,7 +50,7 @@ class GFG {
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate how to use
 // All property of the Range struct
 using System;
@@ -85,7 +85,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Range: 0..^0
 Numbers:
 23,  45,  67,  78,  89,  34,  89,  43,  67,  89, 

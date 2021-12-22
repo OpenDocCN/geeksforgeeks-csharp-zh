@@ -27,7 +27,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.FromBase64String(String) 
 // Method
@@ -102,7 +102,7 @@ public static void get(byte[] bytes, string str)
 
 **Output:**
 
-```
+```cs
 For byte1
 Total no of bytes: 16
 base64CharArray: AgQGCAoMDhASFA==
@@ -115,7 +115,7 @@ base64CharArray: ChQeKDI=
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.FromBase64String(String)
 // Method
@@ -194,7 +194,7 @@ public static void get(byte[] bytes, string str)
 
 **Output:**
 
-```
+```cs
 For byte1
 Total no of bytes: 16
 base64CharArray: AgQGCAoMDhASFA==
@@ -206,7 +206,7 @@ Exception Thrown: System.ArgumentNullException
 
 **例 3:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.FromBase64String(String)
 // Method
@@ -287,7 +287,7 @@ public static void get(byte[] bytes, string str)
 
 **Output:**
 
-```
+```cs
 For byte1
 Total no of bytes: 16
 base64CharArray: AgQGCAoMDhASFA==

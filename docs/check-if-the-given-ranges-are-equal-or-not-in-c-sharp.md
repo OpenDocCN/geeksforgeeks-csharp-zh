@@ -8,13 +8,13 @@
 
 **语法:**
 
-```
+```cs
 public override bool Equals(System::Object ^ value);
 ```
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to 
 // check the given ranges is equal or not
 // Using Equals(object) method of Range struct
@@ -53,7 +53,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Both ranges are not equal
 ```
 
@@ -61,7 +61,7 @@ Both ranges are not equal
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to 
 // check the given ranges is equal or not
 // Using Equals(Range) method of Range struct
@@ -98,6 +98,6 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Both ranges are equal
 ```

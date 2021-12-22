@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsSerializable { get; }
 ```
 
@@ -14,7 +14,7 @@ public bool IsSerializable { get; }
 
 ## C#
 
-```
+```cs
 // C# program to check whether the given
 // class is serializable class or not
 using System;
@@ -55,7 +55,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Is Geeks1 class is serializable or not?:True
 Is Geeks2 class is serializable or not?:False
 ```
@@ -64,7 +64,7 @@ Is Geeks2 class is serializable or not?:False
 
 ## C#
 
-```
+```cs
 // C# program to check whether the given
 // class is serializable class or not
 using System;
@@ -101,6 +101,6 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 The given class is serializable
 ```

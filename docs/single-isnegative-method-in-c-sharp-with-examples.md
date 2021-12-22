@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Single.IsNegative() Method
 using System;
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 1011.562 is not Negative
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Single.IsNegative() Method
 using System;
@@ -75,7 +75,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 -10.651 is Negative
 
 ```

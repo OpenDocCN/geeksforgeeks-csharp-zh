@@ -13,7 +13,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetArrayRank() Method
 using System;
@@ -51,7 +51,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 ArrayRank is:  6
 ```
 
@@ -59,7 +59,7 @@ ArrayRank is:  6
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetArrayRank() Method
 using System;
@@ -97,7 +97,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The current type is not an Array
 Exception Thrown: System.ArgumentException
 ```

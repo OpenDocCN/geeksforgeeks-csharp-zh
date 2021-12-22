@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool IsHighSurrogate (string s, int index);
 ```
 
@@ -27,7 +27,7 @@ public static bool IsHighSurrogate (string s, int index);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Char.IsHighSurrogate(String, 
 // Int32) Method
@@ -85,7 +85,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String '1234' does't contain any HighSurrogate value at index 3
 String 'Tsunami' does't contain any HighSurrogate value at index 3
 String 'psyc0lo' does't contain any HighSurrogate value at index 4
@@ -95,7 +95,7 @@ String 'að??z' contains High Surrogate value at index 1
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate the 
 // Char.IsHighSurrogate(String, 
 // Int32) Method
@@ -155,7 +155,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String '1234' does't contain any HighSurrogate value at index 3
 String 'Tsunami' does't contain any HighSurrogate value at index 3
 String 'psyc0lo' does't contain any HighSurrogate value at index 4
@@ -167,7 +167,7 @@ Exception Thrown: System.ArgumentNullException
 
 **例 3:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the 
 // Char.IsHighSurrogate(String, 
 // Int32) Method
@@ -227,7 +227,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String '1234' does't contain any HighSurrogate value at index 3
 String 'Tsunami' does't contain any HighSurrogate value at index 3
 String 'að??z' contains High Surrogate value at index 1 

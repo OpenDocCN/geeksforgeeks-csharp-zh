@@ -9,7 +9,7 @@
 
 **语法:**
 
-```
+```cs
 public static string IsInterned (string strA);
 ```
 
@@ -25,7 +25,7 @@ public static string IsInterned (string strA);
 
 ## C#
 
-```
+```cs
 // C# program to check if the given
 // string is in intern pool or not
 using System;
@@ -64,7 +64,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Tuesday: Yes
 Wednesday: Yes
 Thursday: Yes
@@ -75,7 +75,7 @@ Monday-day: No
 
 ## C#
 
-```
+```cs
 // C# program to check if the given
 // string is in intern pool or not
 using System;

@@ -11,13 +11,13 @@
 
 **语法:**
 
-```
+```cs
 PointerName->memberName;
 ```
 
 **示例:**
 
-```
+```cs
 // C# Program to show the use of 
 // pointers to access struct members
 using System;
@@ -86,13 +86,13 @@ class Program {
 
 **语法:**
 
-```
+```cs
 (*PointerName).MemberName;
 ```
 
 **示例:**
 
-```
+```cs
 // C# Program to illustrate the use 
 // of dereferencing operator
 using System;

@@ -8,7 +8,7 @@
 
 **程序:**
 
-```
+```cs
 // C# program to demonstrate the
 // Console.IsOutputRedirected Property
 using System;

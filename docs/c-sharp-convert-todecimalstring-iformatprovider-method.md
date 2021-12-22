@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static decimal ToDecimal (string value, IFormatProvider provider);
 ```
 
@@ -26,7 +26,7 @@ T3】例 1:
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToDecimal() Method
 using System;
@@ -86,7 +86,7 @@ public static void get(string s,
 
 **Output:** 
 
-```
+```cs
 Converted decimal value of specified strings: 
  123456789,  12345.6789,  123456789.0123, 
 ```
@@ -95,7 +95,7 @@ Converted decimal value of specified strings:
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToDecimal() Method
 using System;
@@ -165,7 +165,7 @@ public static void get(string s,
 
 **Output:** 
 
-```
+```cs
 Converted decimal value of specified strings: 
  123456789,  12345.6789,  123456789.0123, 
 
@@ -177,7 +177,7 @@ Exception Thrown: System.FormatException
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToDecimal() Method
 using System;
@@ -244,7 +244,7 @@ public static void get(string s,
 
 **Output:** 
 
-```
+```cs
 Converted decimal value of specified strings: 
  123456789,  12345.6789,  123456789.0123, 
 

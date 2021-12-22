@@ -11,7 +11,7 @@ LINQ 查询满足了这个要求，使用 LINQ 查询可以访问任何类型的
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the 
 // Simple query example
 using System;
@@ -44,7 +44,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 C#
 C++
 C
@@ -54,7 +54,7 @@ C
 
 1.  **Get data source:** In the above example, the data source is an array.
 
-    ```
+    ```cs
     string[]language = {"C#", "VB", "Java", "C++", "C", "Perl", "Ruby", "Python"};
     ```
 
@@ -63,7 +63,7 @@ C
 2.  **Create Query:** Now the next step is to create a query. With the help of the query, you can get the information from the data source. The query is stored in the query variable and which is initialized with the query expression. The query expression contains the operation that you want to perform on the data source, generally, query expression contains three clauses, i.e, from, where, and select. The from clause is used to specify the data source, where clause applies the filter and select clause provides the type of the returned items. 
     **Example:**
 
-    ```
+    ```cs
     var result = from lang in language
                         where lang.Contains('C')
                         select lang;
@@ -74,7 +74,7 @@ C
 
 3.  **执行查询:**查询变量存储查询表达式的结果。但是，当您使用 foreach 循环迭代查询变量以显示查询结果时，就会执行查询。当您使用 foreach 循环执行查询时，它被称为*延迟执行*。在上面的例子中，我们使用了延迟执行。
 
-    ```
+    ```cs
     foreach(var l in result){
 
             Console.WriteLine(l);

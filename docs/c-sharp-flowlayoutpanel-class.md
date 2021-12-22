@@ -21,7 +21,7 @@
 
 *   **步骤 1:** 使用由 FlowLayoutPanel 类提供的 **FlowLayoutPanel()** 构造函数创建 FlowLayoutPanel。
 
-    ```
+    ```cs
     // Creating a FlowLayoutPanel
     FlowLayoutPanel fl = new FlowLayoutPanel(); 
 
@@ -29,7 +29,7 @@
 
 *   **步骤 2:** 创建完 FlowLayoutPanel 后，设置 FlowLayoutPanel 类提供的 FlowLayoutPanel 的属性。
 
-    ```
+    ```cs
     // Setting the location of the FlowLayoutPanel
      fl.Location = new Point(380, 124); 
 
@@ -58,7 +58,7 @@
 
 *   **Step 3:** And last add this FlowLayoutPanel control to the form and also add other controls on the FlowLayoutPanel using the following statements:
 
-    ```
+    ```cs
     // Adding a FlowLayoutPanel
     // control to the form
     this.Controls.Add(fl);
@@ -72,7 +72,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

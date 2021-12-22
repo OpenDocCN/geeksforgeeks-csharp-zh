@@ -17,7 +17,7 @@
 
 **语法:**
 
-```
+```cs
 float_value = Single.Parse(Console.ReadLine());
 
 ```
@@ -26,7 +26,7 @@ float_value = Single.Parse(Console.ReadLine());
 
 ## C#
 
-```
+```cs
 // C# program to Take input 
 // of a float value using 
 // Single.Parse() Method
@@ -53,14 +53,14 @@ public class GFG{
 
 **控制台输入:**
 
-```
+```cs
 12.34
 
 ```
 
 **输出:**
 
-```
+```cs
 Value = 12.34
 
 ```
@@ -74,7 +74,7 @@ Value = 12.34
 
 **语法:**
 
-```
+```cs
 float_value = float.Parse(Console.ReadLine());
 
 ```
@@ -83,7 +83,7 @@ float_value = float.Parse(Console.ReadLine());
 
 ## C#
 
-```
+```cs
 // C# program to Take input 
 // of a float value using 
 // float.Parse() Method
@@ -110,14 +110,14 @@ public class GFG{
 
 **控制台输入:**
 
-```
+```cs
 12.34
 
 ```
 
 **输出:**
 
-```
+```cs
 Value = 12.34
 
 ```
@@ -131,7 +131,7 @@ Value = 12.34
 
 **语法:**
 
-```
+```cs
 float_value = Convert.ToSingle(Console.ReadLine());
 
 ```
@@ -140,7 +140,7 @@ float_value = Convert.ToSingle(Console.ReadLine());
 
 ## C#
 
-```
+```cs
 // C# program to Take input 
 // of a float value using 
 // Convert.ToSingle() method
@@ -167,14 +167,14 @@ public class GFG{
 
 **控制台输入:**
 
-```
+```cs
 12.34
 
 ```
 
 **输出:**
 
-```
+```cs
 Value = 12.34
 
 ```

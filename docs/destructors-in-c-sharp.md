@@ -17,7 +17,7 @@ C#中的析构函数是类内的方法，用于在不再需要时销毁[类](htt
 
 **语法:**
 
-```
+```cs
 class Example
 { 
     // Rest of the class
@@ -35,7 +35,7 @@ class Example
 
 **例 1:**
 
-```
+```cs
 // C# Program to illustrate how 
 // a destructor works
 using System;
@@ -112,7 +112,7 @@ class Program {
 
 **输出:**
 
-```
+```cs
 Real = 2
 Imaginary = 3
 Destructor was called

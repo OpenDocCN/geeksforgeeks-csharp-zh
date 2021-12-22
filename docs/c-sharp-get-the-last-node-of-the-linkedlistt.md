@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.Generic.LinkedListNode Last { get; }
 
 ```
@@ -17,7 +17,7 @@ public System.Collections.Generic.LinkedListNode Last { get; }
 
 ****例 1:****
 
-```
+```cs
 // C# code to get the last
 // node of the LinkedList
 using System;
@@ -50,13 +50,13 @@ class GFG {
 
 ****输出:****
 
-```
+```cs
 E 
 ```
 
 ****例 2:****
 
-```
+```cs
 // C# code to get the last
 // node of the LinkedList
 using System;
@@ -82,7 +82,7 @@ class GFG {
 
 ****输出:****
 
-```
+```cs
 LinkedList is empty 
 ```
 

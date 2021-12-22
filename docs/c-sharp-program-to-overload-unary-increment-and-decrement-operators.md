@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```cs
 public static GFG operator --(GFG obj)
 {
     obj.value = --obj.value;
@@ -20,7 +20,7 @@ public static GFG operator --(GFG obj)
 
 **示例:**
 
-```
+```cs
 Input  : 50
 Output : 49
 
@@ -32,7 +32,7 @@ Output : 78
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate overloading decrement operator
 using System;
 
@@ -80,7 +80,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Values : 49
 ```
 
@@ -90,7 +90,7 @@ Values : 49
 
 **语法:**
 
-```
+```cs
 public static GFG operator ++(GFG obj)
 {
     obj.value = ++obj.value;
@@ -100,7 +100,7 @@ public static GFG operator ++(GFG obj)
 
 **示例:**
 
-```
+```cs
 Input  : 50
 Output : 51
 
@@ -112,7 +112,7 @@ Output : 80
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate overloading
 // increment operator
 using System;
@@ -163,6 +163,6 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Values : 51
 ```

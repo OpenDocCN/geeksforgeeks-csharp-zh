@@ -16,7 +16,7 @@
 
 ****语法:****
 
-```
+```cs
 public static string Join(string separator, IEnumerable L1) 
 ```
 
@@ -32,7 +32,7 @@ public static string Join(string separator, IEnumerable L1)
 
 ****示例:**在下面的程序中，使用内置的列表集合创建了一个**单词列表**。因此，**同一个列表集合**的对象在 join()方法中与分隔符一起传递，结果，用户得到结果字符串。**
 
-```
+```cs
 // C# program to demonstrate the 
 // Join(String, IEnumerable <string> L1 )
 using System;
@@ -85,7 +85,7 @@ class Geeks {
 
 ****Output:**
 
-```
+```cs
 The value of the string is Hello--Geeks--How--are--you?
 
 ```** 
@@ -96,7 +96,7 @@ The value of the string is Hello--Geeks--How--are--you?
 
 ****语法:****
 
-```
+```cs
 public static string Join(string separator, IEnumerable T1) 
 ```
 
@@ -112,7 +112,7 @@ public static string Join(string separator, IEnumerable T1)
 
 ****示例:**在下面的代码中，首先创建了一个用户定义的**项类**，结果各种项名**被添加到构造器**中。此外，**列表将保存类“项目”类型的对象。**结果，在主方法中，包含类项目类型的对象的列表与**分隔符“/”**一起传递，以获得输出字符串值。**
 
-```
+```cs
 // C# program to demonstrate the 
 // Join(String, IEnumerable <T > T1)
 using System;
@@ -173,7 +173,7 @@ class Geeks {
 
 ****Output:**
 
-```
+```cs
 The value of the string is fans--Bulb--Windows--table--chair
 
 ```**

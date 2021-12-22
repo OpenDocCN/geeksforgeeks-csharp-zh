@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public int GetLowerBound (int dimension);
 ```
 
@@ -26,7 +26,7 @@ public int GetLowerBound (int dimension);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the GetLowerBound(Int32)
 // method in 1-D array
 using System;
@@ -52,14 +52,14 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Index: 0
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the GetLowerBound(Int32)
 // method when the array is empty
 using System;
@@ -85,7 +85,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Index: 0
 
 ```

@@ -7,7 +7,7 @@
 
 **语法:**
 
-```
+```cs
 myStack.Count 
 
 ```
@@ -18,7 +18,7 @@ myStack.Count
 
 **例 1:**
 
-```
+```cs
 // C# code to Get the number of
 // elements contained in the Stack
 using System;
@@ -52,14 +52,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Stack are : 6
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to Get the number of
 // elements contained in the Stack
 using System;
@@ -88,7 +88,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Stack are : 0
 
 ```

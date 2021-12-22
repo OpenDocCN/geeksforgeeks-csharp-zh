@@ -6,7 +6,7 @@
 
 **例:**
 
-```
+```cs
 // C# program to demonstrate the Arrays
 using System;
 
@@ -36,7 +36,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 47
 77
 87
@@ -50,7 +50,7 @@ class GFG {
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the ArrayList
 using System;
 using System.Collections;
@@ -79,7 +79,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Ajay
 Ankit
 10

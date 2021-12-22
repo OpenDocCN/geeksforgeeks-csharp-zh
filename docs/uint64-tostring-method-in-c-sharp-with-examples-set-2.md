@@ -14,7 +14,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public override string ToString ();
     ```
 
@@ -22,7 +22,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // UInt64.ToString() Method
     using System;
@@ -60,7 +60,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The String values are: 
     The Corresponding String Value is: 18446744073709551615
     The Corresponding String Value is: 0
@@ -75,7 +75,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public string ToString (string format);
     ```
 
@@ -87,7 +87,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt64.ToString(String) Method
     using System;
@@ -124,7 +124,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The value of string is 1.32E+007
 
     ```

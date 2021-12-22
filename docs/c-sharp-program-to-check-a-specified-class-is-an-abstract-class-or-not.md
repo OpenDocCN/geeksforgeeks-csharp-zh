@@ -6,7 +6,7 @@
 
 **语法**:
 
-```
+```cs
 public bool IsAbstract { get; }
 ```
 
@@ -14,7 +14,7 @@ public bool IsAbstract { get; }
 
 ## C#
 
-```
+```cs
 // C# program to check a specified class is
 // an abstract class or not
 using System;
@@ -50,7 +50,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 This is abstract
 ```
 
@@ -58,7 +58,7 @@ This is abstract
 
 ## C#
 
-```
+```cs
 // C# program to check a specified class is
 // an abstract class or not
 using System;
@@ -117,7 +117,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Is Geeks1 class is abstract class?True
 Is Geeks2 class is abstract class?False
 Is Geeks3 class is abstract class?False

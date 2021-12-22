@@ -13,7 +13,7 @@ StringBuilder 类的 EnsureCapacity(Int32)方法帮助我们确保容量至少�
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // the EnsureCapacity Method
 using System;
@@ -46,7 +46,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Before EnsureCapacity method capacity = 16
 After EnsureCapacity method capacity = 18
 
@@ -54,7 +54,7 @@ After EnsureCapacity method capacity = 18
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate
 // the EnsureCapacity Method
 using System;
@@ -87,7 +87,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Before EnsureCapacity method capacity = 16
 After EnsureCapacity method capacity = 44
 

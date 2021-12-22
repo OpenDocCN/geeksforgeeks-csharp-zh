@@ -6,7 +6,7 @@
 
 **语法**:
 
-```
+```cs
 public static System.Reflection.Assembly GetExecutingAssembly ();
 ```
 
@@ -16,7 +16,7 @@ public static System.Reflection.Assembly GetExecutingAssembly ();
 
 ## C#
 
-```
+```cs
 // C# program to display the current assembly name 
 using System;
 using System.Reflection;
@@ -36,7 +36,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Current assembly contains:
 main, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 ```
@@ -45,7 +45,7 @@ main, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 
 ## C#
 
-```
+```cs
 // C# program to display the current assembly name 
 using System;
 using System.Reflection;
@@ -66,6 +66,6 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 main, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
 ```

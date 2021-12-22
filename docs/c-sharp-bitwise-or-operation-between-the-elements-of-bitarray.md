@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.BitArray Or (System.Collections.BitArray value);
 
 ```
@@ -32,7 +32,7 @@ public System.Collections.BitArray Or (System.Collections.BitArray value);
 
 **例 1:**
 
-```
+```cs
 // C# code to do bitwise
 // OR between BitArray
 using System;
@@ -79,7 +79,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 True
 True
@@ -89,7 +89,7 @@ True
 
 **例 2:**
 
-```
+```cs
 // C# code to do bitwise
 // OR between BitArray
 using System;

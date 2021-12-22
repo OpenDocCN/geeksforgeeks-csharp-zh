@@ -19,7 +19,7 @@
 
 **示例:**
 
-```
+```cs
 // C# code to create a Stack
 using System;
 using System.Collections;
@@ -65,7 +65,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total number of elements in the Stack are : 6
 Element at the top is : 6th Element
 Element at the top is : 6th Element
@@ -82,7 +82,7 @@ Total number of elements in the Stack are : 6
 
 **示例:**
 
-```
+```cs
 // C# code to Get the number of
 // elements contained in the Stack
 using System;
@@ -116,7 +116,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total number of elements in the Stack are : 6
 
 ```
@@ -142,7 +142,7 @@ Total number of elements in the Stack are : 6
 
 **示例:**
 
-```
+```cs
 // C# code to Remove all
 // objects from the Stack
 using System;
@@ -187,7 +187,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Stack are : 6
 Total number of elements in the Stack are : 0
 
@@ -195,7 +195,7 @@ Total number of elements in the Stack are : 0
 
 **示例:**
 
-```
+```cs
 // C# code to Check if a Stack
 // contains an element
 using System;
@@ -229,7 +229,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 
 ```

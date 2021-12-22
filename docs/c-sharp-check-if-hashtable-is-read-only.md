@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool IsReadOnly { get; }
 ```
 
@@ -16,7 +16,7 @@ public virtual bool IsReadOnly { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to check if Hashtable
 // is read-only or not
 using System;
@@ -46,14 +46,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if Hashtable
 // is read-only or not
 using System;
@@ -84,7 +84,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```

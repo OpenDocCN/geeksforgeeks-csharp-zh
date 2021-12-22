@@ -10,7 +10,7 @@
 
 **示例:**
 
-```
+```cs
 Input: double = 3452.234
 Output: 3452 
 
@@ -24,7 +24,7 @@ Output: 98 
 
 ## C#
 
-```
+```cs
 // C# program for type conversion from double to int
 using System;
 using System.IO;
@@ -47,7 +47,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 3452
 
 ```
@@ -56,7 +56,7 @@ class Geeks {
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // Math.Round(Double) method
 using System;
@@ -75,7 +75,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 3452
 
 ```
@@ -84,7 +84,7 @@ class Geeks {
 
 ## C#
 
-```
+```cs
 // C# program to convert Double to Integer
 using System;
 public
@@ -100,7 +100,7 @@ public
 
 **输出:**
 
-```
+```cs
 3452
 
 ```

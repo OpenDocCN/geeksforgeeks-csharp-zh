@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // Int32.GetTypeCode() Method
 using System;
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for Int32 is: Int32
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // Int32.GetTypeCode() Method
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for -2147483648 is Int32
 TypeCode for 2147483647 is Int32
 

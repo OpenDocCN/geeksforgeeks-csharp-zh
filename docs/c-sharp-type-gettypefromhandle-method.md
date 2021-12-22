@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetTypeFromHandle() Method
 using System;
@@ -47,7 +47,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Type referenced is System.RuntimeType
 Attributes are: AutoLayout, AnsiClass, Class, SequentialLayout, Serializable, BeforeFieldInit
 
@@ -55,7 +55,7 @@ Attributes are: AutoLayout, AnsiClass, Class, SequentialLayout, Serializable, Be
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetTypeFromHandle() Method
 using System;
@@ -92,7 +92,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Type referenced is System.RuntimeType
 Attributes are: AutoLayout, AnsiClass, Class, SequentialLayout, Serializable, BeforeFieldInit
 

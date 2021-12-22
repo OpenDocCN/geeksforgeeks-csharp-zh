@@ -11,7 +11,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Abs(Single)  Method
 using System;
@@ -38,14 +38,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Absolute float value is 4.5
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Abs(Single) Method
 using System;
@@ -79,7 +79,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Float value is 20
 Float value is 30.5
 Float value is 40.5

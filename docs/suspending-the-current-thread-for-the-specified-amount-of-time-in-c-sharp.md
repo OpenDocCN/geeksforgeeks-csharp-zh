@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```cs
 public static void Sleep (int millisecondsTimeout);
 ```
 
@@ -21,7 +21,7 @@ public static void Sleep (int millisecondsTimeout);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of Sleep(Int32) method
 using System;
@@ -74,7 +74,7 @@ public class ThreadExample {
 
 **输出:**
 
-```
+```cs
 Thread1 is working
 Thread2 is working
 Thread2 is working
@@ -90,7 +90,7 @@ Thread1 is working
 
 **语法:**
 
-```
+```cs
 public static void Sleep (TimeSpan timeout);
 ```
 
@@ -98,7 +98,7 @@ public static void Sleep (TimeSpan timeout);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of Sleep(TimeSpan)
 using System;
@@ -129,7 +129,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Thread is sleeping for 3 seconds.
 Thread is sleeping for 3 seconds.
 Thread is sleeping for 3 seconds.

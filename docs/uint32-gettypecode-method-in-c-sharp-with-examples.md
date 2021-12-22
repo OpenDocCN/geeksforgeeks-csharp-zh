@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // UInt32.GetTypeCode() Method
 using System;
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for UInt32 is: UInt32
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // UInt32.GetTypeCode() Method
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for 0 is UInt32
 TypeCode for 4294967295 is UInt32
 

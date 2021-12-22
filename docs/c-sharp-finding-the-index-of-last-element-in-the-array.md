@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public int GetUpperBound (int dimension);
 ```
 
@@ -22,7 +22,7 @@ public int GetUpperBound (int dimension);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the GetUpperBound(Int32)
 // method in 1-D array
 using System;
@@ -48,14 +48,14 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Index: 6
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to find last index 
 // value and rank of 2-D array
 using System;
@@ -82,7 +82,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Dimension: 2
 Index: 4
 

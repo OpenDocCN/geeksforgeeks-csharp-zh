@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void InsertRange (int index, ICollection element);
 ```
 
@@ -25,7 +25,7 @@ public virtual void InsertRange (int index, ICollection element);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the 
 // ArrayList.InsertRange(Int32, 
 // ICollection) Method
@@ -85,7 +85,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The ArrayList initially has:
    A   D   E   F
 The collection initially has:
@@ -97,7 +97,7 @@ After insert the collection in the ArrList:
 
 **例 2:** +
 
-```
+```cs
 // C# program to demonstrate the 
 // ArrayList.InsertRange(Int32, 
 // ICollection) Method
@@ -163,7 +163,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The ArrayList initially has:
  A D E G
 The collection initially has:

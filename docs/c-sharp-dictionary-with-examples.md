@@ -26,13 +26,13 @@
 
 **语法:**
 
-```
+```cs
 using System.Collection.Generics; 
 ```
 
 **步骤 2:** 使用字典<创建字典，如下所示的 TKey，TValue >类:
 
-```
+```cs
 Dictionary dictionary_name = new Dictionary();
 ```
 
@@ -44,7 +44,7 @@ Dictionary dictionary_name = new Dictionary();
 
     **示例:**
 
-    ```
+    ```cs
     for(int x=0; i< My_dict1.Count; x++)
     {
         Console.WriteLine("{0} and {1}", My_dict1.Keys.ElementAt(x), 
@@ -56,7 +56,7 @@ Dictionary dictionary_name = new Dictionary();
 
     **示例:**
 
-    ```
+    ```cs
     Console.WriteLine("Value is:{0}", My_dicti[1123]);
     Console.WriteLine("Value is:{0}", My_dicti[1125]);
     ```
@@ -65,7 +65,7 @@ Dictionary dictionary_name = new Dictionary();
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how 
 // to create a dictionary
 using System;
@@ -115,7 +115,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 1123 and Welcome
 1124 and to
 1125 and GeeksforGeeks
@@ -135,7 +135,7 @@ a.3 and Pig
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how 
 // remove key/value pairs from 
 // the dictionary
@@ -189,7 +189,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 1123 and Welcome
 1124 and to
 1125 and GeeksforGeeks
@@ -210,7 +210,7 @@ Total number of key/value pairs present in My_dict:0
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how
 // to  check the given key or 
 // value present in the dictionary
@@ -263,7 +263,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Key is not found...!!
 Value is found...!!
 

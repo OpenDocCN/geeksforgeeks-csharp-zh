@@ -25,7 +25,7 @@ C#中的预处理器指令告诉编译器在程序的实际编译开始之前处
 
 **示例 1:使用#define、#if、#else 和#endif** 让我们用几个例子来理解这个概念。在下面给出的代码中，我们使用*#定义*来定义一个名为*形状*的符号。所以这意味着“*形状*评估为真。在主菜单中，我们使用 *#if* 检查*形状*是否存在。因为它确实存在，并且编译器事先知道它，所以部分 *#else* 将永远不会被执行，并且被编译器视为注释。 *#endif* 用于指示 if 终止。
 
-```
+```cs
 // C# Program to show the use of
 // preprocessor directives
 
@@ -60,13 +60,13 @@ class Program {
 
 **输出:**
 
-```
+```cs
 Shape Exists
 ```
 
 **例 2:使用#warning 和#define** 再考虑一个例子。在下面给出的代码中，我们特意删除了符号*形状*和*形状 _* 的定义。因为编译器找不到这些，所以它执行 *#else* 指令。在这里，我们生成用户定义的警告和错误。
 
-```
+```cs
 // C# program to show the Removal of
 // definition of shape and shape_
 
@@ -116,7 +116,7 @@ namespace preprocessor2
 
 **示例 3:使用#region 和#endregion** *#region* 将一组指令定义为一个代码块，编译器会一次性编译该代码块。 *#endregion* 标志着区块的结束。下面的程序描述了同样的情况。
 
-```
+```cs
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -148,14 +148,14 @@ namespace preprocessor3
 
 **Output:**
 
-```
+```cs
 Value of ch is 'y'
 
 ```
 
 **示例 4:使用#pragma 警告和#pragma 校验和**在下面的代码中，我们使用 *#pragma* 警告禁用来禁用所有警告。在 main 内部，我们生成一个用户定义的警告来检查它是否已经被禁用。并且 *#pragma* 校验和用于帮助文件的调试。
 
-```
+```cs
 // C# program to Disables all warnings
 
 #pragma warning disable

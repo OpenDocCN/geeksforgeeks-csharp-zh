@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public Thread(ParameterizedThreadStart start);
 ```
 
@@ -16,7 +16,7 @@ public Thread(ParameterizedThreadStart start);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // use of Thread(ParameterizedThreadStart)
 // constructor with non-static method
@@ -55,7 +55,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 My thread is in progress...!!
 My thread is in progress...!!
 My thread is in progress...!!
@@ -65,7 +65,7 @@ My thread is in progress...!!
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the use of
 // Thread(ParameterizedThreadStart)
 // constructor with static method
@@ -99,7 +99,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 My thread is in progress...!!
 0
 1

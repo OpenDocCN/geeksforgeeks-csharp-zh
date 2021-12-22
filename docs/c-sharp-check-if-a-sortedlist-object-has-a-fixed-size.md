@@ -15,7 +15,7 @@ SortedList 类是按键排序的**(键，值)对**的集合。这些对可以通
 
 **语法:**
 
-```
+```cs
 public virtual bool IsFixedSize { get; }
 
 ```
@@ -24,7 +24,7 @@ public virtual bool IsFixedSize { get; }
 
 **例:**
 
-```
+```cs
 // C# code to check if a SortedList
 // object has a fixed size
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 
 ```

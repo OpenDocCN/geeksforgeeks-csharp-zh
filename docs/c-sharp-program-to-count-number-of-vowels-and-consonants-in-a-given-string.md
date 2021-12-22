@@ -6,7 +6,7 @@ C#是一种通用编程语言，用于创建移动应用程序、桌面应用程
 
 **示例:**
 
-```
+```cs
 Input: geeksforgeeks
 Output: Total number of vowels = 5
 Total number of consonants = 8
@@ -30,7 +30,7 @@ Total number of consonants = 6
 
 ## C#
 
-```
+```cs
 // C# program to print the total number of Vowels
 // and consonants from a given string
 using System;  
@@ -82,7 +82,7 @@ public static void Main() 
 
 **Output**
 
-```
+```cs
 count of vowel = 5
 count of consonant = 8
 ```
@@ -91,7 +91,7 @@ count of consonant = 8
 
 ## C#
 
-```
+```cs
 // C# program to print the total number of Vowels
 // and consonants from a given string
 using System;  
@@ -152,7 +152,7 @@ public static void Main() 
 
 **输出:**
 
-```
+```cs
 Please enter the length of the string:
 6
 Enter string:

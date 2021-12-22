@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     int Count<TSource>();
     ```
 
@@ -20,7 +20,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     int Count<TSource>(Func<TSource, bool> predicate);
     ```
 
@@ -28,7 +28,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to find total number of
 // elements present in the given array
 using System;
@@ -63,7 +63,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The sequence is: 
 6
 455
@@ -81,7 +81,7 @@ Total number of Elements: 10
 
 **例 2:**
 
-```
+```cs
 // C# program to count the total
 // number of the employees
 using System;
@@ -149,7 +149,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of Employees: 6
 
 ```

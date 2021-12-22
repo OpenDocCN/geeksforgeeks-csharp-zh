@@ -25,14 +25,14 @@ Hello World 程序是任何编程语言中最基础的程序。它在屏幕上�
 
 **2。**这个方法后面跟一个 BeginWrite()方法，取整数 Bytes。
 
-```
+```cs
 BeginWrite(new byte[] { 072, 101, 108, 108, 111, 032, 087, 111, 
                         114, 108, 100, 0 }, 0, 12, null, null)
 ```
 
 **3。**最后我们用的是 AsyncWaitHandle。WaitOne()方法后跟 BeginWrite()方法。
 
-```
+```cs
 BeginWrite(new byte[] { 072, 101, 108, 108, 111, 032, 087, 111, 
                         114, 108, 100, 0 }, 0, 12, null, 
                         null).AsyncWaitHandle.WaitOne()) 
@@ -42,7 +42,7 @@ BeginWrite(new byte[] { 072, 101, 108, 108, 111, 032, 087, 111,
 
 ## c#
 
-```
+```cs
 // C# program to display Hello World without
 // using WriteLine() method
 using System;
@@ -64,6 +64,6 @@ static void Main(string[] args)
 
 **输出** :
 
-```
+```cs
 Hello World
 ```

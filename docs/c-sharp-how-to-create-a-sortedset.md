@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 SortedSet<T> mySortedSet = new SortedSet<T>();
 
 ```
@@ -23,7 +23,7 @@ SortedSet<T> mySortedSet = new SortedSet<T>();
 
 **例 1:**
 
-```
+```cs
 // C# code to create a SortedSet
 using System;
 using System.Collections.Generic;
@@ -56,7 +56,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The elements in mySortedSet are : 
 3
 5
@@ -69,7 +69,7 @@ The elements in mySortedSet are :
 
 **例 2:**
 
-```
+```cs
 // C# code to create a SortedSet
 using System;
 using System.Collections.Generic;
@@ -104,7 +104,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The elements in mySortedSet are : 
 E
 H

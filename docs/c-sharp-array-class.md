@@ -15,7 +15,7 @@ Array 类给出了创建、操作、搜索和排序数组的方法。数组类�
 
 ## C#
 
-```
+```cs
 // C# program to creating an array
 // of the string as coffee name, store
 // coffee name in the store,
@@ -49,7 +49,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Different types of coffee: 
 
 Americano,  
@@ -80,7 +80,7 @@ Macchiato
 
 ## C#
 
-```
+```cs
 // C# program to illustrate
 // Length property of Array class
 using System;
@@ -117,7 +117,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Topic of C#:
 
 Length of the array: 6
@@ -133,7 +133,7 @@ Operators
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // Rank property of Array class
 using System;
@@ -171,7 +171,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Topic of C#:
 
 Rank of the array: 1
@@ -233,7 +233,7 @@ Operators
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the Reverse() Method
 using System;
 namespace geeksforgeeks {
@@ -280,7 +280,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Topic of C# before reverse:
 
 Array,  
@@ -304,7 +304,7 @@ Array,
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the Sort() Method
 using System;
 namespace geeksforgeeks {
@@ -351,7 +351,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Topic of C# before reverse:
 
 Array,  

@@ -4,7 +4,7 @@
 
 我们已经给出了一个字符数组 **arr** ，任务是将字符数组转换为 C# 中的字符串 **str** 。
 
-```
+```cs
 Input: arr = [s, t, r, i, n, g]  
 Output: string
 
@@ -21,7 +21,7 @@ Output: GeeksForGeeks
 
 **语法:**
 
-```
+```cs
 string str = new string(character_array);
 
 ```
@@ -30,7 +30,7 @@ string str = new string(character_array);
 
 ## C#
 
-```
+```cs
 // C# program to convert the
 // char array to string
 using System;
@@ -67,7 +67,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 GeeksForGeeks
 
 ```
@@ -78,7 +78,7 @@ GeeksForGeeks
 
 **语法:**
 
-```
+```cs
 string str = string.Join("", character_array);
 
 ```
@@ -87,7 +87,7 @@ string str = string.Join("", character_array);
 
 ## C#
 
-```
+```cs
 // C# program to convert the
 // char array to string
 using System;
@@ -124,7 +124,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 GeeksForGeeks
 
 ```
@@ -135,7 +135,7 @@ GeeksForGeeks
 
 **语法:**
 
-```
+```cs
 string str = string.Concat(character_array);
 
 ```
@@ -144,7 +144,7 @@ string str = string.Concat(character_array);
 
 ## C#
 
-```
+```cs
 // C# program to convert the
 // char array to string
 using System;
@@ -181,7 +181,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 GeeksForGeeks
 
 ```

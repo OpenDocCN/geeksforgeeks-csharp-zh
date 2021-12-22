@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void RemoveFirst ();
 
 ```
@@ -17,7 +17,7 @@ public void RemoveFirst ();
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the node at
 // the start of the LinkedList
 using System;
@@ -63,7 +63,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The elements in LinkedList are : 
 A
 B
@@ -80,7 +80,7 @@ E
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the node at
 // the start of the LinkedList
 using System;

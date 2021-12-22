@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static double Acos(double num)
 
 ```
@@ -21,7 +21,7 @@ public static double Acos(double num)
 
 **例:**
 
-```
+```cs
 Input  : Math.Acos(2)
 Output : NaN
 
@@ -44,7 +44,7 @@ Output : NaN
 
 **程序:**说明数学。Acos()方法
 
-```
+```cs
 // C# program to demonstrate working
 // of Math.Acos() method
 using System;
@@ -100,7 +100,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 NaN
 NaN
 1.20424285296577

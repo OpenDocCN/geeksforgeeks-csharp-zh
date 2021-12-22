@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 class Geek
 {   
   .......
@@ -47,7 +47,7 @@ Geek obj = new Geek();
 
 ## C#
 
-```
+```cs
 // C# Program to illustrate calling
 // a Default constructor
 using System;
@@ -88,7 +88,7 @@ class Geek {
 
 **输出:**
 
-```
+```cs
 Constructor Called
 
 0
@@ -97,7 +97,7 @@ Constructor Called
 
 **注意:**这也会显示如下一些警告:
 
-```
+```cs
 prog.cs(8, 6): warning CS0649: Field `DefaultConstructorExample.Geek.num' is never assigned to, and will always have its default value `0'
 prog.cs(9, 9): warning CS0649: Field `DefaultConstructorExample.Geek.name' is never assigned to, and will always have its default value `null'
 
@@ -111,7 +111,7 @@ prog.cs(9, 9): warning CS0649: Field `DefaultConstructorExample.Geek.name' is ne
 
 ## C#
 
-```
+```cs
 // C# Program to illustrate calling of
 // parameterized constructor.
 using System;
@@ -149,7 +149,7 @@ class Geek {
 
 **输出:**
 
-```
+```cs
 GeekName = GFG and GeekId = 1 
 
 ```
@@ -162,7 +162,7 @@ GeekName = GFG and GeekId = 1
 
 ## C#
 
-```
+```cs
 // C# Program to illustrate calling
 // a Copy constructor
 using System;
@@ -215,7 +215,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Month: June
 Year: 2018
 
@@ -235,7 +235,7 @@ Year: 2018
 
 ## C#
 
-```
+```cs
 // C# Program to illustrate calling
 // a Private constructor
 using System;
@@ -287,7 +287,7 @@ public class Geeks {
 
 **输出:**
 
-```
+```cs
 100
 101
 
@@ -308,7 +308,7 @@ public class Geeks {
 
 ## C#
 
-```
+```cs
 // C# Program to illustrate calling
 // a Static constructor
 using System;
@@ -362,7 +362,7 @@ class geeks {
 
 **输出:**
 
-```
+```cs
 Static Constructor
 Instance Constructor 1
 Name:GFG id:1

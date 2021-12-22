@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 continue;
 
 ```
@@ -19,7 +19,7 @@ continue;
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the use
 // of continue statement in for loop
 using System;
@@ -48,7 +48,7 @@ static public void Main ()
 
 **输出:**
 
-```
+```cs
 2
 3
 4
@@ -66,7 +66,7 @@ static public void Main ()
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the use
 // of continue statement in while loop
 using System;
@@ -97,7 +97,7 @@ static public void Main ()
 
 **输出:**
 
-```
+```cs
 2
 3
 4

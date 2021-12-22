@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void NextBytes (byte[] buffer);
 ```
 
@@ -18,7 +18,7 @@ public virtual void NextBytes (byte[] buffer);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of Random.NextBytes Method
 using System;
@@ -48,7 +48,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Printing random numbers in the byte array
 0 -> 63
 1 -> 166
@@ -65,7 +65,7 @@ Printing random numbers in the byte array
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of Random.NextBytes Method
 using System;
@@ -95,7 +95,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Printing random numbers in the byte array
 98
 68

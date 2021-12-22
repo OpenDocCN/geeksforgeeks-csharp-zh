@@ -38,7 +38,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the constructor
 // and property of Tuple<T1,T2> Class
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Value of the First Component: 79
 Value of the Second Component: 80
 ```
@@ -83,7 +83,7 @@ Value of the Second Component: 80
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to determine whether
 // the given tuples are equal or not
 using System;
@@ -115,7 +115,7 @@ public class GFG {
 
 **Output:** 
 
-```
+```cs
 Tuple not matched..
 ```
 

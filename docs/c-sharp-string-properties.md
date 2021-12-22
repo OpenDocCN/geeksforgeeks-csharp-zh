@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public char this[int index] 
 { 
       get; 
@@ -30,7 +30,7 @@ public char this[int index]
 
 *   **程序 1:** 字符串中的每个 Char 对象都可以通过使用如下代码来访问。。
 
-    ```
+    ```cs
     // C# program to demonstrate the 
     // Chars property of String class
     using System;
@@ -48,14 +48,14 @@ public char this[int index]
 
     **输出:**
 
-    ```
+    ```cs
     G e e k s f o r G e e k s
 
     ```
 
 *   **程序 2:** 在例程中使用该索引器来验证字符串。
 
-    ```
+    ```cs
     // C# program to check the whether the 
     // character is number or character
     using System;
@@ -79,7 +79,7 @@ public char this[int index]
 
     **输出:**
 
-    ```
+    ```cs
     1 is a Number.
     1 is a Number.
     G is a character.
@@ -108,7 +108,7 @@ Length 属性返回此实例中字符对象的数量，而不是 Unicode 字符�
 
 **语法:**
 
-```
+```cs
 public int Length 
 { 
     get;
@@ -124,7 +124,7 @@ public int Length
 
 *   **程序 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the 
     // Length property
     using System;
@@ -145,14 +145,14 @@ public int Length
 
     **输出:**
 
-    ```
+    ```cs
     10
 
     ```
 
 *   **程序二:**
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // Length property of String class
     using System;
@@ -182,7 +182,7 @@ public int Length
 
     **输出:**
 
-    ```
+    ```cs
     'GeeksforGeeks' length : 13
     'GEEKS' length : 5
     'GeeksforGeeks' length : 13

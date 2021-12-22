@@ -13,7 +13,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to illustrate
 // infinite loop
 using System;
@@ -38,7 +38,7 @@ static public void Main ()
 
 **输出:**
 
-```
+```cs
 Hey! GeeksforGeeks
 Hey! GeeksforGeeks
 Hey! GeeksforGeeks
@@ -57,7 +57,7 @@ Hey! GeeksforGeeks
 
 ## C#
 
-```
+```cs
 // C# program to illustrate
 // infinite loop
 using System;
@@ -80,7 +80,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 Welcome GFG!!
 Welcome GFG!!
 Welcome GFG!!

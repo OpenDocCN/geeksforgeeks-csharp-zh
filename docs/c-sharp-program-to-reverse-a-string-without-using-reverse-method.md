@@ -14,6 +14,6 @@ C#有一个反转字符串的内置函数。首先，使用 ToCharArray()将字�
 
 T0】**输出**
 
-```
+```cs
 skeeGroFskeeG
 ```

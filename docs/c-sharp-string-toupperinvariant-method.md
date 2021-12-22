@@ -5,7 +5,7 @@
 **弦。ToUpperInvariant 方法**用于获取使用不变区域性的大小写规则转换为大写的字符串对象的副本。这里的“不变区域性”代表一种对区域性不敏感的区域性。
 **语法:**
 
-```
+```cs
 public string ToUpperInvariant ();
 ```
 
@@ -15,7 +15,7 @@ public string ToUpperInvariant ();
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate
 // ToUpperInvariant() method
 using System;
@@ -48,7 +48,7 @@ public class GFG {
 
 **Output:** 
 
-```
+```cs
 String before ToUpperInvariant:
 WelCome tO GeeKSfOrGeeKs
 
@@ -60,7 +60,7 @@ WELCOME TO GEEKSFORGEEKS
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate
 // ToUpperInvariant() Method
 using System;
@@ -95,7 +95,7 @@ public class GFG {
 
 **Output:** 
 
-```
+```cs
 string 1:  GEeks
 string 2:  GEEKS
 string 1:  geeks

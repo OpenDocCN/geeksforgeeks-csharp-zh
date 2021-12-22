@@ -26,7 +26,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how to use FailFast() method 
 // of Environment Class
 using System;
@@ -51,7 +51,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Before termination
 CLR: Managed code called FailFast, saying "Stop the program"
 
@@ -70,7 +70,7 @@ used by your application.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how to use FailFast() method 
 // of Environment Class
 using System;
@@ -103,7 +103,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Sum:30
 Before termination
 CLR: Managed code called FailFast, saying "Stop the program"

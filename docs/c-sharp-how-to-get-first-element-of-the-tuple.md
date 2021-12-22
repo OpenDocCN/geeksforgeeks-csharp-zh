@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public T1 Item1 { get; }
 ```
 
@@ -14,7 +14,7 @@ public T1 Item1 { get; }
 
 **示例:**在下面的代码中，可以看到我们正在访问每个元组的第一个元素。
 
-```
+```cs
 // C# program to illustrate how to get 
 // the first element of the tuple
 using System;
@@ -70,7 +70,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Student-1 Name: Mohan
 Student-2 Name: Sohan
 Student-3 Name: Soniya

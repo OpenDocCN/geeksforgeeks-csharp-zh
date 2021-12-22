@@ -11,7 +11,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Atan(Single)  Method
 using System;
@@ -37,14 +37,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Angle is 0.4636476
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Atan(Single) Method
 using System;
@@ -80,7 +80,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Angle(in radian) are respectively
 Angle of Atan(0.19) will be 0.1877619
 Angle of Atan(0.23) will be 0.2260684

@@ -12,7 +12,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // fields of UInt16 struct
 using System;
@@ -47,7 +47,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Not equal
 
 ```
@@ -65,7 +65,7 @@ Not equal
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to get the hash 
 // code of the 16-bit Unsigned integer
 using System;
@@ -90,7 +90,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The hash code of myval is: 545
 
 ```

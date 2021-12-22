@@ -12,13 +12,13 @@
 
     **语法:**
 
-    ```
+    ```cs
     public const sbyte MaxValue = 127;
     ```
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the SByte.MaxValue
     // Field by checking whether the given +ve long
     // value can be converted to sbyte value or not
@@ -54,7 +54,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Conversion is not Possible
     ```
 
@@ -64,13 +64,13 @@
 
     **语法:**
 
-    ```
+    ```cs
     public const sbyte MinValue = -128;
     ```
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the SByte.Min Value
     // Field by checking whether the given -ve long
     // value can be converted to sbyte value or not
@@ -106,7 +106,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Converted long integer value to -128
     ```
 

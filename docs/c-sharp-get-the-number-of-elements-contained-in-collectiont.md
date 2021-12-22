@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public int Count { get; }
 
 ```
@@ -17,7 +17,7 @@ public int Count { get; }
 
 ****例 1:****
 
-```
+```cs
 // C# code to get the number of
 // elements contained in the Collection
 using System;
@@ -53,7 +53,7 @@ class GFG {
 
 ****输出:****
 
-```
+```cs
 Count : 5
 A
 B
@@ -64,7 +64,7 @@ E
 
 ****例 2:****
 
-```
+```cs
 // C# code to get the number of
 // elements contained in the Collection
 using System;
@@ -99,7 +99,7 @@ class GFG {
 
 ****输出:****
 
-```
+```cs
 Count : 4
 2
 3

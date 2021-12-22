@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool ContainsValue (TValue value);
 
 ```
@@ -19,7 +19,7 @@ public bool ContainsValue (TValue value);
 
 **例 1:**
 
-```
+```cs
 // C# code to check if a value
 // is present or not in a 
 // SortedDictionary.
@@ -58,14 +58,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Value : India is not present.
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if a value
 // is present or not in a 
 // SortedDictionary.
@@ -103,7 +103,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Value : Moscow is present
 
 ```

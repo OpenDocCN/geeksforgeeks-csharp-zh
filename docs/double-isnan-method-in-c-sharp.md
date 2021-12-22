@@ -13,7 +13,7 @@
 
 **示例:**
 
-```
+```cs
 Input  : d = 0.0 / 0.0 
 Output : True
 
@@ -24,7 +24,7 @@ Output : False
 
 **代码:**演示替身。IsNaN(Double)方法。
 
-```
+```cs
 // C# code to demonstrate 
 // Double.IsNaN(Double) method 
 using System;
@@ -62,7 +62,7 @@ class GFG { 
 
 **Output:**
 
-```
+```cs
 Infinity is not NaN
 NaN is NaN
 

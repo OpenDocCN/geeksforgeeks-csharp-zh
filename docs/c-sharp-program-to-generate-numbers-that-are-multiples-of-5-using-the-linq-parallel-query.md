@@ -12,7 +12,7 @@
 
 **示例:**
 
-```
+```cs
 Input  : Range(3, 20)
 Output :
 10
@@ -32,7 +32,7 @@ Output :
 
 ## C#
 
-```
+```cs
 // C# program to generate numbers that 
 // are multiples of 5 
 using System;
@@ -64,7 +64,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Numbers are:
 10
 15

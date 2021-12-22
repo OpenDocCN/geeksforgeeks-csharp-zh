@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.ICollection Keys { get; }
 
 ```
@@ -19,7 +19,7 @@ public System.Collections.ICollection Keys { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get an ICollection containing
 // the keys in the HybridDictionary.
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 A
 B
 C
@@ -73,7 +73,7 @@ F
 
 **例 2:**
 
-```
+```cs
 // C# code to get an ICollection containing
 // the keys in the HybridDictionary.
 using System;
@@ -114,7 +114,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 I
 II
 III

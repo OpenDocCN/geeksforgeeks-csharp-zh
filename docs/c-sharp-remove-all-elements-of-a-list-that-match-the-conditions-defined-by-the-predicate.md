@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public int RemoveAll (Predicate<T> match);
 ```
 
@@ -30,7 +30,7 @@ public int RemoveAll (Predicate<T> match);
 
 **例 1:**
 
-```
+```cs
 // C# Program to remove all elements of
 // a List that match the conditions
 // defined by the predicate
@@ -92,7 +92,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Elements Present in List:
 
 1
@@ -119,7 +119,7 @@ Remaining Elements in List:
 
 **例 2:**
 
-```
+```cs
 // C# Program to remove all elements of
 // a List that match the conditions
 // defined by the predicate
@@ -182,7 +182,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Elements Present in List:
 
 13

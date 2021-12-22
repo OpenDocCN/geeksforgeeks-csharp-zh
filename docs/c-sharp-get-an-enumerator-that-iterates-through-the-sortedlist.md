@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual System.Collections.IDictionaryEnumerator GetEnumerator ();
 ```
 
@@ -16,7 +16,7 @@ public virtual System.Collections.IDictionaryEnumerator GetEnumerator ();
 
 **例 1:**
 
-```
+```cs
 // C# code to get IDictionaryEnumerator object
 // that iterates through a SortedList object
 using System;
@@ -56,7 +56,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 1 --> C++
 2 --> Java
 3 --> DSA
@@ -67,7 +67,7 @@ class Geeks {
 
 **例 2:**
 
-```
+```cs
 // C# code to get IDictionaryEnumerator object
 // that iterates through a SortedList object
 using System;
@@ -108,7 +108,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 Australia --> Canberra
 Belgium --> Brussels
 China --> Beijing

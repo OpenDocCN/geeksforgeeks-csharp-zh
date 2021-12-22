@@ -8,7 +8,7 @@ C#程序打印给定工作日号码(0-6)的工作日名称。一个 **[开关语
 
 **示例:**
 
-```
+```cs
 Input: 2
 
 Output: Tuesday
@@ -21,7 +21,7 @@ Output: Saturday
 
 **例 1:**
 
-```
+```cs
 // C# program to input weekday number 
 // print the weekday
 using System;
@@ -75,13 +75,13 @@ namespace Geeks
 
 **输出:**当我们输入(0-6)之间的数字时。
 
-```
+```cs
 Enter weekday number (0-6): It is WEDNESDAY
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to input weekday number 
 // print the weekday
 using System;
@@ -139,6 +139,6 @@ namespace Geeks
 
 **输出:**当我们输入超出范围(0-6)的数字时。
 
-```
+```cs
 Enter weekday number (0-6): It is wrong input
 ```

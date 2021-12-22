@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual object this[int index] { get; set; }
 ```
 
@@ -20,7 +20,7 @@ public virtual object this[int index] { get; set; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get or set the element at
 // the specified index in ArrayList
 using System;
@@ -67,7 +67,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 A
 B
 C
@@ -86,7 +86,7 @@ F
 
 **例 2:**
 
-```
+```cs
 // C# code to get or set the element at
 // the specified index in ArrayList
 using System;

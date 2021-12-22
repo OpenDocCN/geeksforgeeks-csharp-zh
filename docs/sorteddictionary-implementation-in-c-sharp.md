@@ -37,7 +37,7 @@
 
 **第一步:**包含*系统。集合。泛型*命名空间在你的程序中借助*使用*关键字。
 
-```
+```cs
 using System.Collection.Generics;
 ```
 
@@ -51,7 +51,7 @@ using System.Collection.Generics;
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how 
 // to create sorted dictionary
 using System;
@@ -112,7 +112,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Top Search Engines:
 Rank: 1 and Name: Google
 Rank: 2 and Name: Bing
@@ -137,7 +137,7 @@ Rank:5 and Name: Swift
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to
 // Remove key/value pair from the 
 // SortedDictionary
@@ -183,7 +183,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Key/Value pair: 5
 Key/Value pair: 4
 Key/Value pair: 0
@@ -199,7 +199,7 @@ Key/Value pair: 0
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to
 // check the given key/value pair 
 // is exists or not in SortedDictionary
@@ -252,7 +252,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Key Found..
 Value Not Found..
 

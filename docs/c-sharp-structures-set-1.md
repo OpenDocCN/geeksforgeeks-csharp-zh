@@ -7,7 +7,7 @@
 
 *   **语法:**
 
-```
+```cs
 Access_Modifier struct structure_name
 {
 
@@ -26,7 +26,7 @@ Access_Modifier struct structure_name
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // Declaration of structure
 using System;
@@ -69,7 +69,7 @@ class Geeks {
 
 **Output:** 
 
-```
+```cs
 Data Stored in P1 is Keshav Gupta, age is 21 and weight is 80
 ```
 
@@ -79,7 +79,7 @@ Data Stored in P1 is Keshav Gupta, age is 21 and weight is 80
 
 *   **语法:**
 
-```
+```cs
 Structure_object_destination = structure_object_source;
 ```
 
@@ -87,7 +87,7 @@ Structure_object_destination = structure_object_source;
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate copy the structure
 using System;
 namespace ConsoleApplication {
@@ -142,7 +142,7 @@ class Geeks {
 
 **Output:** 
 
-```
+```cs
 Values Stored in P1
 Name: Keshav Gupta
 Age: 21
@@ -162,7 +162,7 @@ Weight: 80
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate Nesting of structures
 using System;
 namespace ConsoleApplication {
@@ -221,7 +221,7 @@ class Geeks {
 
 **Output:** 
 
-```
+```cs
 Values Stored in p1
 Name: Raman
 Age: 12

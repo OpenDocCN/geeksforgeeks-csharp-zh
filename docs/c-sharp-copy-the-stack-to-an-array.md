@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public void CopyTo (T[] array, int arrayIndex);
 
 ```
@@ -33,7 +33,7 @@ public void CopyTo (T[] array, int arrayIndex);
 
 ****例 1:****
 
-```
+```cs
 // C# code to Copy the Stack to an Array
 using System;
 using System.Collections.Generic;
@@ -71,7 +71,7 @@ class GFG {
 
 ****Output:**
 
-```
+```cs
 GeeksforGeeks
 Data Structures
 Noida
@@ -82,7 +82,7 @@ Geeks
 
 ****例 2:****
 
-```
+```cs
 // C# code to Copy the Stack to an Array
 using System;
 using System.Collections.Generic;
@@ -120,7 +120,7 @@ class GFG {
 
 ****Output:**
 
-```
+```cs
 6
 5
 4

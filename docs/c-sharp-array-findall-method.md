@@ -5,7 +5,7 @@
 此方法用于**检索所有与指定谓词定义的条件相匹配的元素**。
 **语法:**
 
-```
+```cs
 public static T[] FindAll (T[] array, Predicate match);
 ```
 
@@ -22,7 +22,7 @@ public static T[] FindAll (T[] array, Predicate match);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // FindAll() method
 using System;
@@ -81,7 +81,7 @@ public static void PrintIndexAndValues(String[] myArr)
 
 **Output:** 
 
-```
+```cs
 Initial Array:
 Sun
 Mon

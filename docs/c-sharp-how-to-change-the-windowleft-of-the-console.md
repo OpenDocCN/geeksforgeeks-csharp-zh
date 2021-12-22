@@ -8,7 +8,7 @@
 
 **程序 1:** 获取 WindowLeft 的值
 
-```
+```cs
 // C# program to illustrate the
 // Console.WindowLeft Property
 using System;
@@ -38,7 +38,7 @@ class Program {
 
 **程序 2:** 设置窗口左侧的值
 
-```
+```cs
 // C# program to illustrate the
 // Console.WindowLeft Property
 using System;

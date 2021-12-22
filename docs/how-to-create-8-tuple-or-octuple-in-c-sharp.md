@@ -32,7 +32,7 @@
 
 ****示例:****
 
-```
+```cs
 // C# program to create 8-tuple
 // using the tuple constructor
 using System;
@@ -65,7 +65,7 @@ public class GFG {
 
 ****Output:**
 
-```
+```cs
 Element 1: 22
 Element 2: 33
 Element 3: 44
@@ -111,7 +111,7 @@ Element 8: 77
 
 ****示例:****
 
-```
+```cs
 // C# program to create 8-tuple
 // using create method
 using System;
@@ -141,7 +141,7 @@ public class GFG {
 
 ****Output:**
 
-```
+```cs
 Element 1: C
 Element 2: C++
 Element 3: Ruby

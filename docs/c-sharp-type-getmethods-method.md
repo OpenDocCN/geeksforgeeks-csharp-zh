@@ -20,7 +20,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetMethods() Method
     using System;
@@ -64,7 +64,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Methods of current type is as Follow: 
      Boolean Equals(System.Object)
      Int32 GetHashCode()
@@ -75,7 +75,7 @@
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetMethods() Method
     using System;
@@ -116,7 +116,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Methods of current type is as Follow: 
      Int32 Parse(System.String)
      Int32 Parse(System.String, System.Globalization.NumberStyles)
@@ -139,7 +139,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetMethods() Method
     using System;
@@ -183,7 +183,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Methods of current type is as Follow: 
      Boolean Equals(System.Object)
      Int32 GetHashCode()
@@ -194,7 +194,7 @@
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetMethods() Method
     using System;
@@ -268,7 +268,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Methods of current type is as Follow: 
      System.String getName()
      Int32 getRoll()

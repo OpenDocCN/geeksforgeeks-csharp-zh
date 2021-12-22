@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public override int GetHashCode ();
 ```
 
@@ -14,7 +14,7 @@ public override int GetHashCode ();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // use of GetHashCode method
 using System;
@@ -43,7 +43,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode for tu1: 712149
 HashCode for tu2: 1103
 HashCode for tu3: 1582758
@@ -53,7 +53,7 @@ HashCode for tu4: 45300
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the use 
 // of the GetHashCode method
 using System;
@@ -87,7 +87,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode for t1: 78746
 HashCode for t2: 83573
 HashCode for t3: 47540

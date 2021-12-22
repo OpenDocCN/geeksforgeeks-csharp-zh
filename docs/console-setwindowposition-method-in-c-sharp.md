@@ -17,7 +17,7 @@
 
 **示例:**
 
-```
+```cs
 // C# Program to illustrate the use of 
 // Console.WindowPosition() method
 using System;

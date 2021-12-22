@@ -14,7 +14,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# code to get the keys
 // in the SortedDictionary
 using System;
@@ -62,7 +62,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 Key = Australia
 Key = Belgium
@@ -75,7 +75,7 @@ Key = Russia
 
 **例 2:**
 
-```
+```cs
 // C# code to get the keys
 // in the SortedDictionary
 using System;
@@ -121,7 +121,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total key/value pairs in myDict are : 4
 Key = 1
 Key = 3

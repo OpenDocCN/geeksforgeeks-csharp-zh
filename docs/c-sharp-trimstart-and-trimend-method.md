@@ -8,13 +8,13 @@
 
 【TrimStart()方法的语法:
 
-```
+```cs
 public string TrimStart(params char[] trimChars)
 ```
 
 **曲美()方法的语法:**
 
-```
+```cs
 public string TrimEnd(params char[] trimChars)
 ```
 
@@ -26,7 +26,7 @@ public string TrimEnd(params char[] trimChars)
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // TrimStart() method
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Before:
 *****0000abc000****
   abc
@@ -96,7 +96,7 @@ forGeeks
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // TrimEnd() method
 using System;
@@ -149,7 +149,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Before:
 *****0000abc000****
 abc  

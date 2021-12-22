@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 myTable.Clear()
 
 ```
@@ -17,7 +17,7 @@ myTable.Clear()
 
 **示例:**
 
-```
+```cs
 // C# code to remove all elements
 // from the Hashtable
 using System;
@@ -70,7 +70,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total number of entries in Hashtable : 4
 Total number of entries in Hashtable : 0
 Total number of entries in Hashtable : 3

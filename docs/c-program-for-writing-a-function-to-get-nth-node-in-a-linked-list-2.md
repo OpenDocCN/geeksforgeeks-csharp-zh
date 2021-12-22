@@ -6,7 +6,7 @@
 
 **例:**
 
-```
+```cs
 Input:  1->10->30->14,  index = 2
 Output: 30  
 The node at index 2 is 30
@@ -14,7 +14,7 @@ The node at index 2 is 30
 
 **算法:**
 
-```
+```cs
 1\. Initialize count = 0
 2\. Loop through the link list
      a. If count is equal to the passed index then return current
@@ -27,7 +27,7 @@ The node at index 2 is 30
 
 ## C#
 
-```
+```cs
 // C# program to find n'th node 
 // in linked list
 using System;
@@ -113,7 +113,7 @@ class LinkedList 
 
 **输出:**
 
-```
+```cs
 Element at index 3 is 4
 ```
 
@@ -125,7 +125,7 @@ Element at index 3 is 4
 
 **算法:**
 
-```
+```cs
 getnth(node, n)
 1\. Initialize count = 0
 2\. if count==n
@@ -138,7 +138,7 @@ getnth(node, n)
 
 ## c#
 
-```
+```cs
 // C# program to find n'th node in
 // linked list using recursion
 using System;
@@ -219,6 +219,6 @@ class GFG 
 
 **输出:**
 
-```
+```cs
 Element at index 3 is 4
 ```

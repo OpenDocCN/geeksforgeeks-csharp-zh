@@ -26,7 +26,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式设置 DateTimePicker 控件的字体:
 
-```
+```cs
 public virtual System.Drawing.Font Font { get; set; }
 ```
 
@@ -34,7 +34,7 @@ public virtual System.Drawing.Font Font { get; set; }
 
 *   **步骤 1:** 使用 DateTimePicker 类提供的 DateTimePicker()构造函数创建一个 DateTimePicker。
 
-    ```
+    ```cs
     // Creating a DateTimePicker
     DateTimePicker dt = new DateTimePicker();
 
@@ -42,7 +42,7 @@ public virtual System.Drawing.Font Font { get; set; }
 
 *   **步骤 2:** 创建日期选择器后，设置由日期选择器类提供的日期选择器的字体属性。
 
-    ```
+    ```cs
     // Setting the font
     dt.Font = new Font("Comic Sans MS", 12);
 
@@ -50,7 +50,7 @@ public virtual System.Drawing.Font Font { get; set; }
 
 *   **第 3 步:**最后使用下面的语句将这个 DateTimePicker 控件添加到表单中:
 
-    ```
+    ```cs
     // Adding this control to the form
     this.Controls.Add(dt);
 
@@ -58,7 +58,7 @@ public virtual System.Drawing.Font Font { get; set; }
 
 **示例:**
 
-```
+```cs
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

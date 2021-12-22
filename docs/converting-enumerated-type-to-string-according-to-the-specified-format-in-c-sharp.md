@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static string Format (Type enumType, object value, string format);
 ```
 
@@ -29,7 +29,7 @@ public static string Format (Type enumType, object value, string format);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // Enum.Format(Type, Object,
 // String) Method
@@ -66,7 +66,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 My favorite Animal is Cat.
 The value of my favorite Animal is 1.
 The hex value of my Animal  is 00000001.
@@ -75,7 +75,7 @@ The hex value of my Animal  is 00000001.
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // Enum.Format(Type, Object,
 // String) Method

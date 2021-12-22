@@ -17,7 +17,7 @@ StringCollection 类是。表示字符串集合的. NET Framework 类库。在 *
 
 **例 1:**
 
-```
+```cs
 // C# code to get or set the element at the
 // specified index in StringCollection
 using System;
@@ -48,14 +48,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 E
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to get or set the element at the
 // specified index in StringCollection
 using System;
@@ -92,7 +92,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 11
 8
 

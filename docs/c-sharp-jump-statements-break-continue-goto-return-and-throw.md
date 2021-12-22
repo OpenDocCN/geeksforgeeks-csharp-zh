@@ -16,7 +16,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // use of break statement
     using System;
@@ -42,7 +42,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     GeeksforGeeks
     GeeksforGeeks
 
@@ -56,7 +56,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // use of continue statement
     using System;
@@ -85,7 +85,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     1
     2
     3
@@ -106,7 +106,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // use of goto statement
     using System;
@@ -142,7 +142,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     case 20
     case 5
 
@@ -154,7 +154,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // use of return statement
     using System;
@@ -187,7 +187,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The addition is 4
 
     ```
@@ -198,7 +198,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# Program to illustrate the use 
     // of throw keyword
     using System;
@@ -240,7 +240,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Exception Message
 
     ```**

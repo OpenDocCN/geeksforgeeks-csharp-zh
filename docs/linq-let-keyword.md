@@ -6,7 +6,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of the let keyword
 using System;
@@ -38,7 +38,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 178
 190
 
@@ -48,7 +48,7 @@ class GFG {
 
 **例:2**
 
-```
+```cs
 // C# program to print the name of those
 // employees whose name contain more
 // than 4 characters in lowercase
@@ -136,7 +136,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Employee Name: rohit
 Employee Name: supriya
 

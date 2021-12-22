@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public static string? GetEnvironmentVariable (string varstring);
 ```
 
@@ -25,7 +25,7 @@ public static string? GetEnvironmentVariable (string varstring);
 
 **语法:**
 
-```
+```cs
 public static string? GetEnvironmentVariable (string varstr, EnvironmentVariableTarget t);
 ```
 
@@ -43,7 +43,7 @@ public static string? GetEnvironmentVariable (string varstr, EnvironmentVariable
 
 ## c#
 
-```
+```cs
 // C# program to illustrate how to find the 
 // environment variables Using Environment Class
 using System;
@@ -68,7 +68,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 USER:priya
 GOPATH:/Users/priya/Documents/go
 rvm_stored_umask:022

@@ -29,7 +29,7 @@ GroupBy 运算符的工作类似于 SQL GroupBy 子句。它用于从给定的�
 
 **例 1:**
 
-```
+```cs
 // C# program to divide the employees
 // in groups according to their salary
 using System;
@@ -124,7 +124,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Group By Salary: 20000
 Employee Name: Anjita
 Group By Salary: 30000
@@ -140,7 +140,7 @@ Employee Name: Anju
 
 **例 2:**
 
-```
+```cs
 // C# program to divide the employees
 // in the groups according to their
 // language
@@ -239,7 +239,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Group By Language: Ruby
 Employee Name: Anjita
 Group By Language: Java

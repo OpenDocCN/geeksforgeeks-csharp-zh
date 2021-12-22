@@ -23,14 +23,14 @@
 
 *   **步骤 1:** 使用 button 类提供的 Button()构造函数创建按钮。
 
-```
+```cs
 // Creating Button using Button class
 Button MyButton = new Button();
 ```
 
 *   **第二步:**创建按钮后，设置按钮类提供的按钮属性。
 
-```
+```cs
 // Set the location of the button
 Mybutton.Location = new Point(225, 198);
 
@@ -52,7 +52,7 @@ Mybutton.Font = new Font("French Script MT", 18);
 
 *   **第 3 步:**最后使用 add()方法将该按钮控件添加到表单中。
 
-```
+```cs
 // Add this Button to form
 this.Controls.Add(Mybutton);
 ```
@@ -61,7 +61,7 @@ this.Controls.Add(Mybutton);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

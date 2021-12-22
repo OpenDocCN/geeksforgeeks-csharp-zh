@@ -6,7 +6,7 @@ Int32 结构的**最小值**属性或字段用于表示 Int32 的最小可能值
 
 **语法:**
 
-```
+```cs
 public const int MinValue = -2147483648;
 ```
 
@@ -14,7 +14,7 @@ public const int MinValue = -2147483648;
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Int32.MinValue field
 using System;
@@ -56,7 +56,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Minimum Value is: -2147483648
 Conversion is Possible.
 Conversion is Possible.

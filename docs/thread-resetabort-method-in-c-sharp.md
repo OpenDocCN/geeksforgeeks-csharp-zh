@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static void ResetAbort ();
 ```
 
@@ -19,7 +19,7 @@ public static void ResetAbort ();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of ResetAbort method
 using System;
@@ -73,7 +73,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 My Thread is working..!
 Aborting thread
 Caught ThreadAbortException and reset
@@ -86,7 +86,7 @@ Main thread ends
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of ResetAbort method
 using System;

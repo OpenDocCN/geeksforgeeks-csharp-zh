@@ -23,7 +23,7 @@ C#中的类型系统统一意味着 C#中的所有数据类型都直接或间接
 
 **示例:**在下面的程序中，值数据类型(如 int、char、bool)被用作对象，因为类型系统与返回表示该特定对象的字符串的方法 ToString()相统一。
 
-```
+```cs
 // C# implementation of Type 
 // System Unification
 using System;
@@ -47,7 +47,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 1
 A
 True
@@ -62,7 +62,7 @@ True
 
 **示例:**
 
-```
+```cs
 // C# implementation of Boxing
 using System;
 
@@ -85,7 +85,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 val = 8
 obj = 8
 
@@ -95,7 +95,7 @@ obj = 8
 
 **示例:**
 
-```
+```cs
 // C# implementation of Unboxing
 using System;
 
@@ -122,7 +122,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 val1 = 8
 obj = 8
 val2 = 8

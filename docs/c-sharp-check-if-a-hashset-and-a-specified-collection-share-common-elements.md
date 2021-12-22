@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 mySet1.Overlaps(mySet2);
 
 ```
@@ -19,7 +19,7 @@ mySet1.Overlaps(mySet2);
 
 **例 1:**
 
-```
+```cs
 // C# code to Check if a HashSet and a
 // specified collection share common elements
 using System;
@@ -58,14 +58,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to Check if a HashSet and a
 // specified collection share common elements
 using System;
@@ -104,7 +104,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 
 ```

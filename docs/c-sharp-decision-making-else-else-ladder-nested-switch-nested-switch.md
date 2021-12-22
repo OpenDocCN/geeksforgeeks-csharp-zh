@@ -17,7 +17,7 @@
 IF 语句检查给定的条件。如果条件评估为真，则代码/语句块将执行，否则不执行。
 **语法:**
 
-```
+```cs
 if(condition)
      {  
          //code to be executed  
@@ -27,7 +27,7 @@ if(condition)
 **注意:**如果花括号{ }不与 if 语句一起使用，则仅将其旁边的语句视为与 If 语句相关联。
 **例:**
 
-```
+```cs
 if (condition)
    statement 1;
 statement 2;
@@ -42,7 +42,7 @@ statement 2;
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate if statement
 using System;
 
@@ -60,7 +60,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 GeeksForGeeks
 ```
 
@@ -68,7 +68,7 @@ GeeksForGeeks
 IF 语句在条件为真的情况下评估代码，但是如果条件不为真，该怎么办呢，else 语句来了。它告诉代码当 if 条件为假时该做什么。
 **语法:**
 
-```
+```cs
     if(condition)
     {  
       // code if condition is true  
@@ -88,7 +88,7 @@ IF 语句在条件为真的情况下评估代码，但是如果条件不为真�
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate
 // if-else statement
 using System;
@@ -110,7 +110,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Geeks
 ```
 
@@ -118,7 +118,7 @@ Geeks
 If-else-If 梯形语句执行多个语句中的一个条件。执行从顶部开始，并检查每个 if 条件。将执行 if 块的语句，该语句的计算结果为真。如果 If 条件都不为真，则计算最后一个 else 块。
 **语法:**
 
-```
+```cs
         if(condition1)
         {  
             // code to be executed if condition1 is true  
@@ -147,7 +147,7 @@ If-else-If 梯形语句执行多个语句中的一个条件。执行从顶部开
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate
 // if-else-if ladder
 using System;
@@ -172,7 +172,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 i is 20
 ```
 
@@ -180,7 +180,7 @@ i is 20
 **if 语句在 If 语句**中被称为嵌套 If。在这种情况下，if 语句是另一个 if 或 else 语句的目标。当不止一个条件需要为真并且其中一个条件是父条件的子条件时，可以使用嵌套 if。
 **语法:**
 
-```
+```cs
         if (condition1) 
         {
              // code to be executed 
@@ -201,7 +201,7 @@ i is 20
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate
 // nested-if statement
 using System;
@@ -228,7 +228,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 i is smaller than 12 too
 ```
 
@@ -236,7 +236,7 @@ i is smaller than 12 too
 Switch 语句是长 if-else-if 梯子的替代语句。检查表达式的不同情况，并执行一个匹配。 **break** 语句用于移出开关。如果不使用中断，控制将流向其下的所有情况，直到找到中断或切换结束。切换结束时有**默认案例(可选)**，如果没有匹配的案例，则执行默认案例。
 **语法:**
 
-```
+```cs
 switch (expression)
  {
 case value1: // statement sequence
@@ -260,7 +260,7 @@ default: // default statement sequence
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# example for switch case
 using System;
 
@@ -286,7 +286,7 @@ public class GFG
 
 **输出:**
 
-```
+```cs
 case 30
 ```
 
@@ -296,7 +296,7 @@ case 30
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# example for nested switch case
 using System;
 
@@ -334,7 +334,7 @@ public class GFG
 
 **输出:**
 
-```
+```cs
 5
 4
 3

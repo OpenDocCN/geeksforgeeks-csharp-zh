@@ -17,7 +17,7 @@
 
 最终结果是 00100。
 
-```
+```cs
 // C# program to illustrate the 
 // RightShift(Int32) Method
 using System;
@@ -57,7 +57,7 @@ class GeeksforGeeks {
 
 **Output:**
 
-```
+```cs
 False
 False
 True
@@ -72,7 +72,7 @@ False
 
 最终结果是 011000。
 
-```
+```cs
 // C# program to illustrate the 
 // RightShift(Int32) Method
 using System;
@@ -112,7 +112,7 @@ class GeeksforGeeks {
 
 **Output:**
 
-```
+```cs
 False
 True
 True

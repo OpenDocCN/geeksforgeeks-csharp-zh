@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 protected virtual int GetHash(Object Key);
 
 ```
@@ -17,7 +17,7 @@ protected virtual int GetHash(Object Key);
 
 **例 1:**
 
-```
+```cs
 // C# Program to illustrate the 
 // Hashtable.GetHash(Object) method
 using System;
@@ -64,7 +64,7 @@ class HashCode : Hashtable {
 
 **Output:**
 
-```
+```cs
 1002 : Deshmuk Narayan
 1002 : 985757554
 1001 : Parek Shetty
@@ -76,7 +76,7 @@ class HashCode : Hashtable {
 
 **例 2:**
 
-```
+```cs
 // C# Program to illustrate the 
 // Hashtable.GetHash(Object) method
 using System;
@@ -105,7 +105,7 @@ class HashCode : Hashtable {
 
 **Output:**
 
-```
+```cs
 HashCode: 4390979
 
 ```

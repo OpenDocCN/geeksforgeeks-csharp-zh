@@ -5,7 +5,7 @@
 **文件。ReadAllLines(String)** 是一个内置的 File 类方法，用于打开一个文本文件，然后将文件的所有行读入一个字符串数组，然后关闭文件。
 **语法:**
 
-```
+```cs
 public static string[] ReadAllLines (string path);
 ```
 
@@ -33,7 +33,7 @@ public static string[] ReadAllLines (string path);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.ReadAllLines(String) method
 
@@ -63,7 +63,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 GFG
 Geeks
 GeeksforGeeks
@@ -73,7 +73,7 @@ GeeksforGeeks
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.ReadAllLines(String) method
 
@@ -107,6 +107,6 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 GFG is a CS portal.
 ```

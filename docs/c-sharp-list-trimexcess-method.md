@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void TrimExcess ();
 ```
 
@@ -22,7 +22,7 @@ public void TrimExcess ();
 
 **例 1:**
 
-```
+```cs
 // C# code to set the capacity to the
 // actual number of elements in the List
 using System;
@@ -64,7 +64,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 8
 5
 5
@@ -74,7 +74,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# code to set the capacity to the
 // actual number of elements in the List
 using System;
@@ -129,7 +129,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 16
 9
 9

@@ -15,7 +15,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.HexEscape() Method
 using System;
@@ -43,7 +43,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Hexadecimal Equivalent is: %63
 
 ```

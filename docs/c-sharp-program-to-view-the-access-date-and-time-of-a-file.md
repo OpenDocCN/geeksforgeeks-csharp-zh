@@ -34,19 +34,19 @@
 > 
 > 2.使用 CreationTime 属性声明用于访问文件时间详细信息的日期时间变量。
 > 
-> ```
+> ```cs
 > DateTime createdtime = path.CreationTime
 > ```
 > 
 > 3.使用 last access time 属性获取文件的上次访问时间。
 > 
-> ```
+> ```cs
 > createdtime = path.LastAccessTime
 > ```
 > 
 > 4.使用 LastWriteTime 属性获取文件最后写入的时间。
 > 
-> ```
+> ```cs
 > createdtime = path.LastWriteTime
 > ```
 
@@ -58,7 +58,7 @@
 
 ## C#
 
-```
+```cs
 // C# Program to display the date 
 // and time of access of a file 
 using System;
@@ -94,7 +94,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 File is created at: 10/23/2021 10:02:10 AM
 File is accessed at lastly: 10/23/2021 10:20:00 AM
 File is lastly written on: 10/23/2021 10:17:03 AM

@@ -5,7 +5,7 @@
 **类型。GetEnumValues()方法**用于返回当前枚举类型中常量值的数组。
 **语法:**
 
-```
+```cs
 public virtual Array GetEnumValues ();
 ```
 
@@ -16,7 +16,7 @@ public virtual Array GetEnumValues ();
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetEnumValues() Method
 using System;
@@ -71,7 +71,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Values of the constants is : GFG+ABC[] 
 ```
 
@@ -79,7 +79,7 @@ Values of the constants is : GFG+ABC[]
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetEnumValues() Method
 using System;
@@ -134,7 +134,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The current type is not an enumeration.
 Exception Thrown: System.ArgumentException
 ```

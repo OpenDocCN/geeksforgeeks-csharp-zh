@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // UInt16.GetHashCode() Method
 using System;
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode for UInt16 is: 124
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // UInt16.GetHashCode() Method
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode for 0 is 0
 HashCode for 65535 is 65535
 

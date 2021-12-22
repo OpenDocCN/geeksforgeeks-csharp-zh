@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void Add(object key, object value);
 
 ```
@@ -27,7 +27,7 @@ public virtual void Add(object key, object value);
 
 **例 1 :**
 
-```
+```cs
 // C# code for adding an element with the
 // specified key and value into the Hashtable
 using System;
@@ -60,7 +60,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 d: data structures
 c: c++
 q: quiz
@@ -70,7 +70,7 @@ g: geeks
 
 **例 2:**
 
-```
+```cs
 // C# code for adding an element with the
 // specified key and value into the Hashtable
 using System;
@@ -103,7 +103,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 5: Odd and Prime
 9: Odd
 2: Even and Prime

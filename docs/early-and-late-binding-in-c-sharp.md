@@ -12,7 +12,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // concept of early binding
     using System;
@@ -68,7 +68,7 @@
 
     **示例:**在下面的程序中， *obj* 保存整数类型数据， *obj1* 保存双类型数据。但是编译器不会在编译时解决这些问题。在运行时，这些动态对象被检测并分别转换成`System.Int32`和`System.Double`。这就是为什么运行时解析过程被称为后期绑定。
 
-    ```
+    ```cs
     // C# program to illustrate the
     // concept of late binding
     using System;
@@ -93,7 +93,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     The type of the objects are :
     System.Int32
     System.Double

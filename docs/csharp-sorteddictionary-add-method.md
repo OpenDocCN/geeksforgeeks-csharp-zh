@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Add (TKey key, TValue value);
 
 ```
@@ -25,7 +25,7 @@ public void Add (TKey key, TValue value);
 
 **例 1:**
 
-```
+```cs
 // C# code to add the specified key
 // and value into the SortedDictionary
 using System;
@@ -71,7 +71,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 The key/value pairs in myDict are : 
 Key = Australia, Value = Canberra
@@ -85,7 +85,7 @@ Key = Russia, Value = Moscow
 
 **例 2:**
 
-```
+```cs
 // C# code to add the specified key
 // and value into the SortedDictionary
 using System;
@@ -129,7 +129,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 An element with Key = "Russia" already exists.
 
 ```

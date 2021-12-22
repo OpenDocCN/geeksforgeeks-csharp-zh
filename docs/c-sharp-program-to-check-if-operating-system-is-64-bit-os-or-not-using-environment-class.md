@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 Environment.Is64BitOperatingSystem
 ```
 
@@ -16,7 +16,7 @@ Environment.Is64BitOperatingSystem
 
 ## c#
 
-```
+```cs
 // C# program to check whether the given
 // OS is 64-bit Os or not. Using the
 // Environment class
@@ -49,12 +49,12 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Operating System is based 64-bit architecture
 ```
 
 当我们在 32 位系统中运行相同的代码时，输出将是:
 
-```
+```cs
 Operating System is not based 64-bit architecture
 ```

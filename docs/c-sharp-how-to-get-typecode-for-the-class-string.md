@@ -7,7 +7,7 @@
 
 **语法:**
 
-```
+```cs
 public TypeCode GetTypeCode ();
 ```
 
@@ -17,7 +17,7 @@ public TypeCode GetTypeCode ();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // GetTypeCode() Method
 using System;
@@ -45,7 +45,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The TypeCode for Geeksforgeeks': String
 The TypeCode for '12': Int32
 
@@ -53,7 +53,7 @@ The TypeCode for '12': Int32
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the 
 // GetTypeCode() Method
 using System;
@@ -77,7 +77,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 TypeCode for 'Geeks': 18, Which means it represents a String.
 ```
 

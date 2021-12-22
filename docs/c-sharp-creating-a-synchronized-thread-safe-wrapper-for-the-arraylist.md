@@ -18,7 +18,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# code to check if ArrayList
 // Is Synchronized or not
 using System;
@@ -58,7 +58,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 myList is Not Synchronized.
 smyList is Synchronized.
 
@@ -66,7 +66,7 @@ smyList is Synchronized.
 
 **例 2:**
 
-```
+```cs
 // C# code to check if ArrayList
 // Is Synchronized or not
 using System;

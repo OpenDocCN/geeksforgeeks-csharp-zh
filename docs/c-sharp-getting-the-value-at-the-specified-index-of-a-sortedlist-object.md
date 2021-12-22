@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual object GetByIndex (int index);
 ```
 
@@ -20,7 +20,7 @@ public virtual object GetByIndex (int index);
 
 **例 1:**
 
-```
+```cs
 // C# code to get the value at the specified
 // index of a SortedList object.
 using System;
@@ -55,14 +55,14 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Value at index 4 is C#
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to get the value at the specified
 // index of a SortedList object.
 using System;

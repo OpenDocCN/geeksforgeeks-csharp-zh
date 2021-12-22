@@ -10,7 +10,7 @@
 
 **示例 1:** 让我们看一个不使用 Clone()方法，而是使用赋值运算符“=”直接复制队列的示例。在下面的代码中，我们可以看到，即使我们将()元素从 myQueue2 中出列，myQueue 的内容也会发生变化。这是因为“=”只是将我的队列的引用分配给了我的队列 2，并没有创建任何新的队列。但是 Clone()会创建一个新的队列。
 
-```
+```cs
 // C# program to Copy a Queue using 
 // the assignment operator
 using System;
@@ -49,7 +49,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Class
 Noida
 UP

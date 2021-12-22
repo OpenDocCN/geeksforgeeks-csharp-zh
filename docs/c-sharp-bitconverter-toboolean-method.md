@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool ToBoolean (byte[] value, int startIndex);
 ```
 
@@ -26,7 +26,7 @@ public static bool ToBoolean (byte[] value, int startIndex);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToBoolean(bytes, index));
 // Method
@@ -86,7 +86,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Initial Array: 0 1 2 4 8 16 32 64 
 
 index     element           bool
@@ -110,7 +110,7 @@ index     element           bool
 
 **例 2:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToBoolean(bytes, index));
 // Method
@@ -165,7 +165,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Initial Array: 0 1 2 4 8 16 32 64 
 
 startindex in less than zero
@@ -175,7 +175,7 @@ Exception Thrown: System.ArgumentOutOfRangeException
 
 **示例 3:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToBoolean(bytes, index));
 // Method
@@ -212,7 +212,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 byte array is null
 Exception Thrown: System.ArgumentNullException
 

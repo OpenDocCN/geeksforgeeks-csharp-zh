@@ -16,7 +16,7 @@
 
 **1。** [**使用 else** **语句****:**](https://www.geeksforgeeks.org/c-sharp-decision-making-else-else-ladder-nested-switch-nested-switch/#ifelse)**适当的月号被勾选然后一个月中的天数被打印使用 else if 语句。天数如下:**
 
-```
+```cs
 Month = [1, 3, 5, 7, 8, 10, 12] , Number of days = 31
 Month = [2] , Number of days = 28/29
 Month = [4, 6, 9, 11] , Number of days = 30 
@@ -28,7 +28,7 @@ Month = [4, 6, 9, 11] , Number of days = 30
 
 ## **C#**
 
-```
+```cs
 // C# Program to Print Number of Days
 // in a Month using Else If Statement
 
@@ -67,7 +67,7 @@ public class GFG{
 
 ****输出:****
 
-```
+```cs
 31 
 ```
 
@@ -75,7 +75,7 @@ public class GFG{
 
 ## **C#**
 
-```
+```cs
 // C# Program to Print Number of Days
 // in a Month using Switch Condition
 
@@ -124,6 +124,6 @@ public class GFG{
 
 ****输出:****
 
-```
+```cs
 31 
 ```

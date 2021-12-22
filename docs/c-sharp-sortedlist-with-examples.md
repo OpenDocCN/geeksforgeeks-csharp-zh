@@ -21,13 +21,13 @@ SortedList 类提供了 **6** 种不同类型的构造函数，用于创建 Sort
 **SortedList():** 用于创建 SortedList 类的一个实例，该实例为空，具有默认的初始容量，并根据添加到 SortedList 对象的每个键实现的 IComparable 接口进行排序。
 **第一步:**包含系统。在你的程序中借助集合命名空间使用关键字:](https://www.geeksforgeeks.org/c-sharp-sortedlist-class/) 
 
-```
+```cs
 using System.Collections;
 ```
 
 **步骤 2:** 使用 SortedList 类创建一个 SortedList，如下所示:
 
-```
+```cs
 SortedList list_name = new SortedList();
 ```
 
@@ -39,7 +39,7 @@ SortedList list_name = new SortedList();
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 for (int x = 0; x < my_slist1.Count; x++)
 {
     Console.WriteLine("{0} and {1}",
@@ -53,7 +53,7 @@ for (int x = 0; x < my_slist1.Count; x++)
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 Console.WriteLine("Value is:{0}", my_slist1[1.04]);
 
 string x = (string)my_slist[1.02];
@@ -66,7 +66,7 @@ Console.WriteLine(x);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 foreach(DictionaryEntry pair in my_slist1)
 {
     Console.WriteLine("{0} and {1}",
@@ -78,7 +78,7 @@ foreach(DictionaryEntry pair in my_slist1)
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate how
 // to create a sortedlist
 using System;
@@ -128,7 +128,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 1.01 and Tutorial
 1.02 and This
 1.04 and SortedList
@@ -150,7 +150,7 @@ b.67 and 100
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate how to
 // remove key/value pairs from
 // the sortedlist
@@ -216,7 +216,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 1.01 and Tutorial
 1.02 and This
 1.04 and SortedList
@@ -244,7 +244,7 @@ The total number of key/value pairs present in my_slist:0
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate how to
 // check the given key or value
 // present in the sortedlist or not
@@ -308,7 +308,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Key is found...!!
 Key is not found...!!
 Value is found...!!

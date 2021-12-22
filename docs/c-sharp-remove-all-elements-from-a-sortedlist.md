@@ -16,7 +16,7 @@ SortedList 类是按键排序的**(键，值)对**的集合。这些对可以通
 
 **语法:**
 
-```
+```cs
 public virtual void Clear ();
 
 ```
@@ -27,7 +27,7 @@ public virtual void Clear ();
 
 **示例:**
 
-```
+```cs
 // C# code to remove all
 // elements from a SortedList
 using System;
@@ -75,7 +75,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number of elements in SortedList is : 7
 capacity of SortedList is : 16
 Number of elements in SortedList is : 0

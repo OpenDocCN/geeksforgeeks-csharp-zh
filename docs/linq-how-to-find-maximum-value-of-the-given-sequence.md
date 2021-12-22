@@ -6,7 +6,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to find maximum 
 // value from the given array
 using System;
@@ -40,7 +40,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The sequence is:
 20
 45
@@ -58,7 +58,7 @@ Maximum Value: 567
 
 **例 2:**
 
-```
+```cs
 // C# program to find the Maximum
 // salary of the employee
 using System;
@@ -119,7 +119,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Maximum Salary of the Employee: 50000
 
 ```

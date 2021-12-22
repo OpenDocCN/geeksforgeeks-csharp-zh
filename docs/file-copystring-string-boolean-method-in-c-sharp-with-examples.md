@@ -33,7 +33,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Copy() method
 
@@ -66,7 +66,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 Copying process has been done.
@@ -84,7 +84,7 @@ Copying process has been done.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Copy() method
 
@@ -117,7 +117,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 Copying process has been done.
@@ -135,7 +135,7 @@ Copying process has been done.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Copy() method
 
@@ -167,7 +167,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 Could not create file "/home/runner/NutritiousHeavyRegression/gfg.txt". File already exists.

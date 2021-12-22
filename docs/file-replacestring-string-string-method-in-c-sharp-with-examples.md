@@ -59,7 +59,7 @@ GFG 类{
 
 **输出:**
 
-```
+```cs
 Replacement process has been done.
 ```
 
@@ -77,7 +77,7 @@ Replacement process has been done.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Replace(String, String, String) method
 
@@ -105,7 +105,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Replacement process has been done.
 ```
 

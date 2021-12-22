@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool IsSurrogatePair (string s, int index);
 ```
 
@@ -27,7 +27,7 @@ public static bool IsSurrogatePair (string s, int index);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Char.IsSurrogatePair(String, 
 // Int32) Method
@@ -88,7 +88,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String '1234' does't contain any Surrogate pairs at s[3] and s[4]
 String 'Tsunami' does't contain any Surrogate pairs at s[3] and s[4]
 String 'psyc0lo' does't contain any Surrogate pairs at s[4] and s[5]
@@ -98,7 +98,7 @@ String 'að??z' contains Surrogate pairs at s[1] and s[2]
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Char.IsSurrogatePair(String, 
 // Int32) Method
@@ -160,7 +160,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String '1234' does't contain any Surrogate pairs at s[3] and s[4]
 String 'Tsunami' does't contain any Surrogate pairs at s[3] and s[4]
 String 'psyc0lo' does't contain any Surrogate pairs at s[4] and s[5]
@@ -173,7 +173,7 @@ Exception Thrown: System.ArgumentNullException
 
 **例 3:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // Char.IsSurrogatePair(String, 
 // Int32) Method
@@ -235,7 +235,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String '1234' does not contain any Surrogate pairs at s[3] and s[4]
 String 'Tsunami' does not contain any Surrogate pairs at s[3] and s[4]
 String 'psyc0lo' does not contain any Surrogate pairs at s[4] and s[5]

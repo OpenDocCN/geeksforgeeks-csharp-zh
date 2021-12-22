@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public string Remove(int StartIndex)  
 or
 public string Remove(int StartIndex, int count)  
@@ -27,7 +27,7 @@ public string Remove(int StartIndex, int count)
 
 *   **示例 1:** 演示**公共字符串 Remove(int StartIndex)** 方法的程序。Remove 方法将删除指定索引中的所有字符，直到字符串结束。
 
-    ```
+    ```cs
     // C# program to illustrate the
     // public string Remove(int StartIndex)
     using System;
@@ -54,7 +54,7 @@ public string Remove(int StartIndex, int count)
 
     **输出:**
 
-    ```
+    ```cs
     Given String : GeeksForGeeks
     New String1 : Geeks
     New String2 : GeeksFor
@@ -63,7 +63,7 @@ public string Remove(int StartIndex, int count)
 
 *   **示例 2:** 程序演示**公共字符串 Remove(int StartIndex，int count)** 方法。此方法将从字符串的指定索引+(count–1)中删除字符，其中 count 是要删除的字符数。
 
-    ```
+    ```cs
     // C# program to illustrate the
     // public string Remove(int StartIndex, int count)
     using System;
@@ -90,7 +90,7 @@ public string Remove(int StartIndex, int count)
 
     **输出:**
 
-    ```
+    ```cs
     Given String : GeeksForGeeks
     New String1 : GeorGeeks
     New String2 : GeeksGeeks

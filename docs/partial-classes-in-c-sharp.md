@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public partial Clas_name  
 {
         // code
@@ -34,7 +34,7 @@ public partial Clas_name
 
 ## C#
 
-```
+```cs
 public partial class Geeks {
     private string Author_name;
     private int Total_articles;
@@ -51,7 +51,7 @@ public partial class Geeks {
 
 ## C#
 
-```
+```cs
 public partial class Geeks {
     public void Display()
     {
@@ -66,7 +66,7 @@ public partial class Geeks {
 
 ## C#
 
-```
+```cs
 public class Geeks {
     private string Author_name;
     private int Total_articles;

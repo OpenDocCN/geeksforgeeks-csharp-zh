@@ -6,14 +6,14 @@ EPPlus 是一个非常有帮助的开源[第三方 DLL](https://stackoverflow.co
 
 首先，通过编写以下命令，使用数据包管理器控制台安装 EPPlus:
 
-```
+```cs
 Install-Package EPPlus 
 
 ```
 
 让我们看看如何使用 C#创建和写入 excel 工作表。
 
-```
+```cs
 using System;
 using System.IO;
 // The following to two namespace contains

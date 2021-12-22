@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static string GetCurrentDirectory();
 ```
 
@@ -21,7 +21,7 @@ public static string GetCurrentDirectory();
 
 ## c#
 
-```
+```cs
 // C# program to find the path of 
 // the currect directory
 using System;
@@ -42,6 +42,6 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Current directory path: C:\Users\Sravan\ConsoleApplication12
 ```

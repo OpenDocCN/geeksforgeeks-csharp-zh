@@ -10,7 +10,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to print
 // leaders in array
 using System;
@@ -50,7 +50,7 @@ class GFG 
 
 **输出:**
 
-```
+```cs
 17 5 2
 ```
 
@@ -65,7 +65,7 @@ class GFG 
 
 ## C#
 
-```
+```cs
 // C# program to find Leaders in an array
 using System;
 
@@ -106,7 +106,7 @@ class LeadersInArray {
 
 **输出:**
 
-```
+```cs
 2 5 17
 ```
 

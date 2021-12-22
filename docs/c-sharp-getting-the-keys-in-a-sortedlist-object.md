@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual System.Collections.ICollection Keys { get; }
 ```
 
@@ -16,7 +16,7 @@ public virtual System.Collections.ICollection Keys { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get an ICollection containing
 // the keys in the SortedList
 using System;
@@ -49,7 +49,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 2: Even and Prime
 4: Even
 5: Odd and Prime
@@ -59,7 +59,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# code to get an ICollection containing
 // the keys in the SortedList.
 using System;
@@ -92,7 +92,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Chandigarh: City
 China: Country
 India: Country

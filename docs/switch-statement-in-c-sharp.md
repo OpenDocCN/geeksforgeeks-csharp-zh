@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 switch (expression) {
 
 case value1: // statement sequence
@@ -40,7 +40,7 @@ default:    // default statement sequence
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate
 // switch case statement
 using System;
@@ -75,7 +75,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 case 5
 
 ```
@@ -86,7 +86,7 @@ case 5
 
 **示例:**使用 if-else-if 语句
 
-```
+```cs
 // C# program to illustrate
 // if-else statement
 using System;
@@ -139,7 +139,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Category is OOPS Concept
 
 ```
@@ -148,7 +148,7 @@ Category is OOPS Concept
 
 **示例:**使用开关语句
 
-```
+```cs
 // C# program to illustrate
 // switch statement
 using System;
@@ -203,7 +203,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Category is OOPS Concept
 
 ```
@@ -214,7 +214,7 @@ Category is OOPS Concept
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // use of goto in switch statement
 using System;
@@ -246,7 +246,7 @@ public static void Main(String[] args)
 
 **Output:**
 
-```
+```cs
 Bonjour
 Namaste
 Entered value is: 2

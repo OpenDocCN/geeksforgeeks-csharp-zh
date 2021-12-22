@@ -33,7 +33,7 @@ A [**静态构造函数**](https://www.geeksforgeeks.org/c-sharp-constructors/) 
 > *   Create a building called GFG.
 > *   Create a static structure with no parameters inside.
 > 
-> ```
+> ```cs
 > public struct class
 > {
 >     static class()
@@ -51,7 +51,7 @@ A [**静态构造函数**](https://www.geeksforgeeks.org/c-sharp-constructors/) 
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how to use the 
 // static constructor in the structure
 using System;
@@ -88,7 +88,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Hello ! Static constructor is  called
 Non-Static constructor is called
 ```

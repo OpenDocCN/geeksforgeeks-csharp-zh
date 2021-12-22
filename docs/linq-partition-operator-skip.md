@@ -23,7 +23,7 @@ Skip 运算符用于将元素向上跳过到给定序列或集合中的指定位
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // concept of Skip operator
 using System;
@@ -86,7 +86,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Original Sequence 1 is: 
 c
 y
@@ -112,7 +112,7 @@ New Sequence:
 
 **例 2:**
 
-```
+```cs
 // C# program to find the Id's of
 // the employees starting from 211
 using System;
@@ -197,7 +197,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Employee Id: 211
 Employee Id: 212
 Employee Id: 213

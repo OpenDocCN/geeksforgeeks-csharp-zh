@@ -10,7 +10,7 @@
 
 **例:**
 
-```
+```cs
 // C# program to illustrate
 // implicitly typed local variable
 using System;
@@ -40,40 +40,40 @@ public class GFG {
 
 *   Implicit variables are generally declared as follows by using the keyword **var** :
 
-    ```
+    ```cs
     var ivariable = 10; 
     ```
 
 *   In an implicitly typed variable, it is not allowed to declare multiple *var* in one statement as follows:
 
-    ```
+    ```cs
      var ivalue = 20, a = 30; // invalid
     ```
 
 *   It is not allowed to use *var* as a field type at the class level.
 *   Allow expressions in *var* like
 
-    ```
+    ```cs
     Var b-=39
     ```
 
 *   In C#, implicitly typed variables like
 
-    ```
+    ```cs
      var ivalue;   // invalid
     ```
 
     cannot be declared without any initialization.
 *   Null values like
 
-    ```
+    ```cs
      var value = null;   // invalid
     ```
 
     are not allowed in implicitly typed variables.
 *   The initializer cannot contain any object or collection, but it may contain a new expression that contains an object or collection initializer, such as
 
-    ```
+    ```cs
     // Not allowed
     var data = { 23, 24, 10};
 
@@ -84,7 +84,7 @@ public class GFG {
 
 *   It is not allowed to initialize implicitly typed variables with different types, such as
 
-    ```
+    ```cs
     // It will give error because
     // the type of the value is different
     // one is of string type and another
@@ -96,7 +96,7 @@ public class GFG {
 
 **示例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // concept of implicitly typed variable 
 using System; 
@@ -128,7 +128,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Type of 'a' is : System.Int32 
 Type of 'b' is : System.String 
 Type of 'c' is : System.Double 
@@ -138,7 +138,7 @@ Type of 'd' is : System.Boolean
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of implicitly typed variable
 using System;
@@ -165,7 +165,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Height of triangle is: 20
 Base of the triangle is: 13
 Area of the triangle is: 130

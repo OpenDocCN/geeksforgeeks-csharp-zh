@@ -19,13 +19,13 @@ C#中的不安全代码是在[的](https://www.geeksforgeeks.org/c-sharp-net-fra
 
 **语法:**
 
-```
+```cs
 unsafe Context_declaration
 ```
 
 **示例:**这里，我们将 main 内部的一个代码块声明为不安全，这样我们就可以使用指针。
 
-```
+```cs
 // C# program to demonstrate the unsafe code
 using System;
 

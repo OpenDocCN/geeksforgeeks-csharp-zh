@@ -31,7 +31,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // MathF.Round(Single, Int32,
     // MidpointRounding) method
@@ -70,7 +70,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Rounded values are:
     8.115 == 8.12
     7.135 == 7.14
@@ -97,7 +97,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // MathF.Round(Single, MidpointRounding) 
     // method
@@ -146,7 +146,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Inside Loop:
 
     7.1 = 7

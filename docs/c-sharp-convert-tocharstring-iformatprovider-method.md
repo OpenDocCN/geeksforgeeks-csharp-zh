@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static char ToChar (object value, IFormatProvider provider);
 ```
 
@@ -26,7 +26,7 @@ public static char ToChar (object value, IFormatProvider provider);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToChar() Method
 using System;
@@ -88,7 +88,7 @@ public static void get(string s, 
 
 **Output:**
 
-```
+```cs
 Converted char value of specified strings: 
  A,  B,  a,  b,  x,  z,
 
@@ -96,7 +96,7 @@ Converted char value of specified strings:
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToChar() Method
 using System;
@@ -163,7 +163,7 @@ public static void get(string s, CultureInfo cultures)
 
 **Output:**
 
-```
+```cs
 Converted char value of specified strings: 
  A,  B,  a,  b,  x,  z, 
 
@@ -174,7 +174,7 @@ Exception Thrown: System.ArgumentNullException
 
 **例 3:** 为*格式异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToChar() Method
 using System;
@@ -229,7 +229,7 @@ public static void get(string s, 
 
 **Output:**
 
-```
+```cs
 string to char value : x 
 
 length of value2 is not 1

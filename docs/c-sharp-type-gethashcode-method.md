@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetHashCode() Method
 using System;
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Hashcode is 32340152
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetHashCode() Method
 using System;
@@ -81,7 +81,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Hashcode of System.Int32 is 18784216
 Hashcode of System.String is 18793840
 Hashcode of System.Decimal is 19137544

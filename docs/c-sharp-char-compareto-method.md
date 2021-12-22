@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public int CompareTo(Char ch);
 ```
 
@@ -38,7 +38,7 @@ public int CompareTo(Char ch);
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // Char.CompareTo(Char) Method
 using System;
@@ -72,7 +72,7 @@ class CompareToSample {
 
 **Output:** 
 
-```
+```cs
 0
 -13
 25
@@ -84,7 +84,7 @@ class CompareToSample {
 
 **语法:**
 
-```
+```cs
 public int CompareTo(object obj);
 ```
 
@@ -110,7 +110,7 @@ public int CompareTo(object obj);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // Char.CompareTo(Object) Method
 using System;
@@ -149,7 +149,7 @@ class GeeksforGeeks {
 
 **Output:** 
 
-```
+```cs
 0
 -31
 5

@@ -6,7 +6,7 @@
 
 **例**
 
-```
+```cs
 Input: 456
 Output: 15
 
@@ -27,7 +27,7 @@ Output: 6
 
 ## C#
 
-```
+```cs
 // C# program to find the sum of digits of a number
 // using recursion
 using System;
@@ -60,7 +60,7 @@ public static void Main()
 
 **Output**
 
-```
+```cs
 Sum = 6
 ```
 
@@ -68,7 +68,7 @@ Sum = 6
 
 ## C#
 
-```
+```cs
 // C# program to find the sum of digits of a number 
 // using recursion
 // Here, we take input from user
@@ -107,7 +107,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 Hi! Enter the Number:
 12345
 The Sum of Digits is 15

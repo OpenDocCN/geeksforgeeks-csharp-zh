@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 long variable_name = value;
 ```
 
@@ -14,7 +14,7 @@ long variable_name = value;
 
 **示例:**
 
-```
+```cs
 Input: num: 34638
 
 Output: num: 34638
@@ -30,13 +30,13 @@ Output: Type of num: System.Int64
 
 如果我们输入超出范围的数字，它会显示错误-
 
-```
+```cs
 Integral constant is too large
 ```
 
 **例 1:**
 
-```
+```cs
 // C# program for long keyword
 using System;
 using System.Text;
@@ -59,7 +59,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 num: 34638
 Size of a long variable: 8
 
@@ -67,7 +67,7 @@ Size of a long variable: 8
 
 **例 2:**
 
-```
+```cs
 // C# program for long keyword
 using System;
 using System.Text;
@@ -103,7 +103,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Type of num: System.Int64
 num: -79349367648374345
 Size of a long variable: 8

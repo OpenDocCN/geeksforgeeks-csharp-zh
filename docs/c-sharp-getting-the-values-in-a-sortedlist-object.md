@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual System.Collections.ICollection Values { get; }
 ```
 
@@ -16,7 +16,7 @@ public virtual System.Collections.ICollection Values { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get an ICollection containing
 // the values in the SortedList
 using System;
@@ -49,7 +49,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 c++
 data structures
 geeks
@@ -59,7 +59,7 @@ quiz
 
 **例 2:**
 
-```
+```cs
 // C# code to get an ICollection containing
 // the values in the SortedList
 using System;
@@ -92,7 +92,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 City
 Country
 Country

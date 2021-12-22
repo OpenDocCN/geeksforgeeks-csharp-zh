@@ -16,7 +16,7 @@ SortedList 类是按键排序的**(键，值)对**的集合。这些对可以通
 
 **语法:**
 
-```
+```cs
 public virtual bool IsSynchronized { get; }
 
 ```
@@ -27,7 +27,7 @@ public virtual bool IsSynchronized { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to check if a SortedList
 // object is synchronized (thread safe)
 using System;
@@ -51,14 +51,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if a SortedList
 // object is synchronized (thread safe)
 using System;
@@ -93,7 +93,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 
 ```

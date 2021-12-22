@@ -14,7 +14,7 @@
 
 **示例:**
 
-```
+```cs
 Input: {myfile1.txt, myfile2.txt, myfile3.xml}
 Output: 3 file ---> txt
         1 file ---> xml
@@ -30,7 +30,7 @@ Output: 1 file ---> txt
 > *   Create a list of files with different extensions.
 > *   Use to read files. GetExtension () method. Then convert the file extension to lowercase to eliminate case sensitivity. Then before that, apply the trim function, put the same file extensions into a groupby using the group by method, and then use the count function to count the file extensions already in the group.
 > 
-> ```
+> ```cs
 > var result = files.Select(f => Path.GetExtension(f)
 >                              .TrimStart('.').ToLower())
 >                              .GroupBy(y => y, (ex, excnt) => new
@@ -43,7 +43,7 @@ Output: 1 file ---> txt
 > 
 > *   Use file count
 > 
-> ```
+> ```cs
 > foreach (var i in result)
 > {
 >     Console.WriteLine(i.Count + " File --> " + 
@@ -57,7 +57,7 @@ Output: 1 file ---> txt
 
 ## C#
 
-```
+```cs
 // C# program to count the files according 
 // to their extension
 using System;
@@ -95,7 +95,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 3 File --> txt format 
 1 File --> pdf format 
 2 File --> xml format

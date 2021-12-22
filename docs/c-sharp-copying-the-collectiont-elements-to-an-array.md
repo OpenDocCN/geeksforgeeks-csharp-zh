@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void CopyTo (T[] array, int index);
 
 ```
@@ -27,7 +27,7 @@ public void CopyTo (T[] array, int index);
 
 ****例 1:****
 
-```
+```cs
 // C# code to copy the entire Collection
 // to a compatible one-dimensional Array,
 // starting at the specified index of
@@ -70,7 +70,7 @@ class GFG {
 
 ****输出:****
 
-```
+```cs
 A
 B
 C
@@ -80,7 +80,7 @@ E
 
 ****例 2:****
 
-```
+```cs
 // C# code to copy the entire Collection
 // to a compatible one-dimensional Array,
 // starting at the specified index of

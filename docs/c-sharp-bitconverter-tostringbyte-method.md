@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static string ToString (byte[] value);
 ```
 
@@ -20,7 +20,7 @@ public static string ToString (byte[] value);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToString(Byte[]);
 // Method
@@ -75,7 +75,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Initial Array: 0 1 2 4 8 16 32 64 128 255 
 
 string: 00-01-02-04-08-10-20-40-80-FF
@@ -84,7 +84,7 @@ string: 00-01-02-04-08-10-20-40-80-FF
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToString(Byte[]);
 // Method
@@ -119,7 +119,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.ArgumentNullException
 
 ```

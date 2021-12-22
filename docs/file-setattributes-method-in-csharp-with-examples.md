@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static void SetAttributes (string path, System.IO.FileAttributes fileAttributes);
 ```
 
@@ -31,7 +31,7 @@ public static void SetAttributes (string path, System.IO.FileAttributes fileAttr
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.SetAttributes(String) method
 
@@ -81,7 +81,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The file.txt file is now hidden.
 ```
 
@@ -89,7 +89,7 @@ The file.txt file is now hidden.
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.SetAttributes(String) method
 
@@ -145,6 +145,6 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The gfg.txt file is now hidden.
 ```

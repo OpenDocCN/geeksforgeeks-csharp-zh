@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input: N = 123 , P = 4
 Output: 0123
 
@@ -21,7 +21,7 @@ Output: -00003
 > 
 > **第二步:**将数字转换为字符串， 垫字符串，使用字符串。Format()方法与 的格式化字符串参数“{0:0000}”为 P= 4。
 > 
-> ```
+> ```cs
 > val = string.Format("{0:0000}", N);
 > 
 > ```
@@ -32,7 +32,7 @@ Output: -00003
 
 ## C#
 
-```
+```cs
 // C# program to pad an integer
 // number with leading zeros
 using System;
@@ -74,7 +74,7 @@ class GFG{
 
 **输出:**
 
-```
+```cs
 Before Padding: 123
 After Padding: 00123
 
@@ -86,7 +86,7 @@ After Padding: 00123
 > 
 > **第 2 步:**使用[ToString()](https://www.geeksforgeeks.org/c-sharp-int64-tostring-method-set-1/)方法将数字转换为字符串，并使用带格式的字符串参数“0000”填充字符串，表示 P= 4。
 > 
-> ```
+> ```cs
 > val = N.ToString("0000");
 > 
 > ```
@@ -97,7 +97,7 @@ After Padding: 00123
 
 ## C#
 
-```
+```cs
 // C# program to pad an integer
 // number with leading zeros
 using System;
@@ -138,7 +138,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Before Padding: 123
 After Padding: 00123
 
@@ -150,14 +150,14 @@ After Padding: 00123
 > 
 > **第二步:**使用 [ToString()方法将数字转换为字符串。](https://www.geeksforgeeks.org/c-sharp-int64-tostring-method-set-1/)
 > 
-> ```
+> ```cs
 > val = N.ToString();
 > 
 > ```
 > 
 > **第三步:**然后用 PadLeft() m 方法垫弦。
 > 
-> ```
+> ```cs
 > pad_str = val.PadLeft(P, '0');
 > 
 > ```
@@ -168,7 +168,7 @@ After Padding: 00123
 
 ## C#
 
-```
+```cs
 // C# program to pad an integer
 // number with leading zeros
 using System;
@@ -205,7 +205,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Before Padding: 123
 After Padding: 00123
 

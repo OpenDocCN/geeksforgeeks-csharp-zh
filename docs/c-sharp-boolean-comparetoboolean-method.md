@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public int CompareTo (bool value);
 ```
 
@@ -20,7 +20,7 @@ public int CompareTo (bool value);
 
 **例:**
 
-```
+```cs
 // C# program to demonstrate
 // Boolean.CompareTo(Boolean)
 // Method
@@ -58,7 +58,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 val2 is less than val1
 
 ```

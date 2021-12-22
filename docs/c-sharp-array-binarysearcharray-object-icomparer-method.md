@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static int BinarySearch(Array arr, Object val, IComparer comparer)
 ```
 
@@ -32,7 +32,7 @@ public static int BinarySearch(Array arr, Object val, IComparer comparer)
 
 **示例 1:** 在本例中，数组存储了一些字符串值，并在对数组进行排序后找到一些字符串值。
 
-```
+```cs
 // C# program to demonstrate the 
 // Array.BinarySearch(Array, 
 // Object, IComparer) Method
@@ -105,7 +105,7 @@ public static void display(string[] arr)
 
 **Output:**
 
-```
+```cs
 The original Array
 ABCD
 IJKL
@@ -130,7 +130,7 @@ The object ABCD is at index 0
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Array.BinarySearch(Array, 
 // Object, IComparer) Method
@@ -208,7 +208,7 @@ public static void display(Array arr)
 
 **Output:**
 
-```
+```cs
 The original Array
 20
 10

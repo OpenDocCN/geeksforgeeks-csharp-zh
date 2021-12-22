@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static double Atan2(double value1, double value2)
 
 ```
@@ -27,7 +27,7 @@ public static double Atan2(double value1, double value2)
 
 *   **程序 1:** 如果点(值 1，值 2)位于第一象限，即 0<θ<π/2
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Math.Atan2() Method when point
     // lies in first quadrant
@@ -47,14 +47,14 @@ public static double Atan2(double value1, double value2)
 
     T5【输出:
 
-    ```
+    ```cs
     45
 
     ```
 
 *   **程序 2:** 如果点(值 1，值 2)位于第二象限，即π/2<θ≤π
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Math.Atan2() Method when point
     // lies in second quadrant
@@ -74,7 +74,7 @@ public static double Atan2(double value1, double value2)
 
     T5】输出:
 
-    ```
+    ```cs
     135
 
     ```
@@ -82,7 +82,7 @@ public static double Atan2(double value1, double value2)
     T7】
 *   **程序 3:** 如果点(值 1，值 2)位于第三象限，即-π<θ<-π/2
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Math.Atan2() Method when point
     // lies in third quadrant
@@ -102,14 +102,14 @@ public static double Atan2(double value1, double value2)
 
     T5【输出:
 
-    ```
+    ```cs
     -135
 
     ```
 
 *   **程序 4:** 如果点(值 1，值 2)位于第四象限，即-π/2<θ<0
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Math.Atan2() Method when point
     // lies in fourth quadrant
@@ -129,7 +129,7 @@ public static double Atan2(double value1, double value2)
 
     T5】输出:
 
-    ```
+    ```cs
     -45
 
     ```
@@ -138,7 +138,7 @@ public static double Atan2(double value1, double value2)
 
 *   **程序 1:** 如果值 1 为 0 且值 2 不为负，即θ = 0
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Math.Atan2() Method when value1 
     // is 0 and value2 is not negative
@@ -158,7 +158,7 @@ public static double Atan2(double value1, double value2)
 
     **输出:**
 
-```
+```cs
 0
 
 ```

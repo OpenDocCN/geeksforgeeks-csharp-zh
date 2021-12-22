@@ -17,7 +17,7 @@ orderby 降序运算符用于按降序重新排列给定序列的元素。它不
 
 **例 1:**
 
-```
+```cs
 // C# program to print the employee
 // ID in descending order
 using System;
@@ -102,7 +102,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Employee ID: 214
 Employee ID: 213
 Employee ID: 212
@@ -114,7 +114,7 @@ Employee ID: 209
 
 **例 2:**
 
-```
+```cs
 // C# program to print the employee
 // name in descending order
 using System;
@@ -196,7 +196,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Employee Name: Supriya
 Employee Name: Soniya
 Employee Name: Rohit

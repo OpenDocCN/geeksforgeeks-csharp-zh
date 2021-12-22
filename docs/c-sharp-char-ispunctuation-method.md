@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool IsPunctuation(char ch);
 
 ```
@@ -27,7 +27,7 @@ public static bool IsPunctuation(char ch);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Char.IsPunctuation(Char) Method
 using System;
@@ -70,7 +70,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 True
 True
@@ -84,7 +84,7 @@ False
 
 **语法:**
 
-```
+```cs
 public static bool IsPunctuation(string str, int index);
 
 ```
@@ -103,7 +103,7 @@ public static bool IsPunctuation(string str, int index);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Char.IsPunctuation(String, Int32) Method
 using System;
@@ -134,7 +134,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 True
 

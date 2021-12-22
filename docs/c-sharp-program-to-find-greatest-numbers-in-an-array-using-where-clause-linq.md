@@ -6,7 +6,7 @@ LINQ 被称为语言集成查询，它是在年引入的。NET 3.5。它赋予*�
 
 **例:**
 
-```
+```cs
 Input: Array of Integers: 100,200,300,450,324,56,77,890
 Value: 500
 Output: Numbers greater than 500 are: 890
@@ -30,7 +30,7 @@ Output: Numbers greater than 100 are: 200,300,450,324,890
 
 ## c#
 
-```
+```cs
 // C# program to print the greatest numbers in an array
 // using WHERE Clause LINQ
 using System;
@@ -65,7 +65,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Numbers that are greater than 100 are  :
 200 300 450 324 890 
 ```

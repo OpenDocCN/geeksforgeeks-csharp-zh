@@ -23,7 +23,7 @@
 
 **示例:**
 
-```
+```cs
 // C# code to create a Queue
 using System;
 using System.Collections;
@@ -91,7 +91,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Queue are : 1
 Total number of elements in the Queue are : 2
 Total number of elements in the Queue are : 3
@@ -110,7 +110,7 @@ Total number of elements in the Queue are : 6
 
 **示例:**
 
-```
+```cs
 // C# code to Get the number of
 // elements contained in the Queue
 using System;
@@ -144,7 +144,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Queue are : 6
 
 ```
@@ -171,7 +171,7 @@ Total number of elements in the Queue are : 6
 
 **例 1:**
 
-```
+```cs
 // C# code to Check if a Queue
 // contains an element
 using System;
@@ -205,14 +205,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to Convert Queue to array
 using System;
 using System.Collections;
@@ -248,7 +248,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Geeks
 Geeks Classes
 Noida

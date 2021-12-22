@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```cs
 public override int GetHashCode();
 ```
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate how to find 
 // the hash code of the given ranges
 // Using GetHashCode() method of Range
@@ -49,7 +49,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Hash Code of Range_1: -1254614029
 Hash Code of Range_2: 853498667
 Hash Code of Range_3: -1528050329
@@ -58,7 +58,7 @@ Hash Code of Range_3: -1528050329
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate how to find
 // the hash code of the given ranges
 // Using GetHashCode() method of Range struct
@@ -94,7 +94,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Range: 3..^0
 HashCodes:  [400] [500] [600] [700] [800]
 

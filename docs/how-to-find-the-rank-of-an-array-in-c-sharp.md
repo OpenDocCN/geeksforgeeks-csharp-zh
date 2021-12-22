@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public int Rank { get; }
 ```
 
@@ -16,7 +16,7 @@ public int Rank { get; }
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // Array.Rank Property
 using System;
@@ -45,14 +45,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Dimension of weekDays array: 1
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // Array.Rank Property
 using System;
@@ -91,7 +91,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Dimension of arr2d array: 2
 Dimension of arr3d array: 3
 Dimension of jdarr array: 1

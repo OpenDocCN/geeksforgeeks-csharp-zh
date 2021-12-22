@@ -21,7 +21,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // the  SetBufferSize Method
 using System;
@@ -51,7 +51,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate
 // the SetBufferSize Method
 using System;
@@ -74,7 +74,7 @@ class GFG {
 
 **例 3:**
 
-```
+```cs
 // C# program to demonstrate
 // the SetBufferSize Method
 using System;

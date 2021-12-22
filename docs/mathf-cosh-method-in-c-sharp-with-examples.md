@@ -13,7 +13,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // MathF.Cosh(Single) Method
 using System;
@@ -42,7 +42,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The Cosh of num1 = 5.710037E+25
 The Cosh of num2 = 1
 The Cosh of num3 = 1.543081
@@ -52,7 +52,7 @@ The Cosh of num3 = 1.543081
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // MathF.Cosh(Single) Method
 using System;
@@ -88,7 +88,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Cosh(0.5235988) will be 1.140238
 Cosh(NaN) will be NaN
 Cosh(-Infinity) will be Infinity

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public T3 Item3;
 ```
 
@@ -14,7 +14,7 @@ public T3 Item3;
 
 **示例:**在下面的代码中，可以看到我们正在访问每个值元组的第三个元素。
 
-```
+```cs
 // C# program to illustrate how to get
 // the third element of value tuple
 using System;
@@ -85,7 +85,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 C# Topics:
 Queue
 LinkedList

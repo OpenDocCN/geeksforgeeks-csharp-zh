@@ -8,7 +8,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to show the
 // difference between Int32
 // and UInt32
@@ -42,7 +42,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Minimum value of Int32: -2147483648
 Maximum value of Int32: 2147483647
 
@@ -60,7 +60,7 @@ Maximum value of Int32: 2147483647
 
 ## C#
 
-```
+```cs
 // C# program to show the 
 // difference between Int32 
 // and UInt32
@@ -94,7 +94,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Minimum value of UInt32: 0
 Maximum value of UInt32: 4294967295
 
@@ -118,14 +118,14 @@ Maximum value of UInt32: 4294967295
 | **5。** | Int32 的范围是从 -2147483648 到+2147483647。 | UInt32 范围从 0 到 4294967295。 |
 | **6。** | 声明 Int32 的语法:
 
-```
+```cs
 Int32 variable_name;
 
 ```
 
  | 声明 UInt32 的语法:
 
-```
+```cs
 UInt32 variable_name;
 
 ```

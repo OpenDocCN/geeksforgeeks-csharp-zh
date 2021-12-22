@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static ulong Parse (string str);
 ```
 
@@ -24,7 +24,7 @@ public static ulong Parse (string str);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // UInt64.Parse(String) Method
 using System;
@@ -72,7 +72,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 '18446744073709551615' parsed as 18446744073709551615
 Can't Parsed '454654615,784'
 Can't Parsed '-564564564'
@@ -82,7 +82,7 @@ Can't Parsed '-564564564'
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // UInt64.Parse(String) Method
 // for ArgumentNullException
@@ -129,7 +129,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.ArgumentNullException
 
 ```

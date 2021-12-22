@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.Generic.SortedSet<T>.Enumerator GetEnumerator ();
 ```
 
@@ -16,7 +16,7 @@ public System.Collections.Generic.SortedSet<T>.Enumerator GetEnumerator ();
 
 **例 1:**
 
-```
+```cs
 // C# code to get an IDictionaryEnumerator
 // that iterates through the SortedSet
 using System;
@@ -57,7 +57,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 2
 4
 6
@@ -68,7 +68,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# code to get an IDictionaryEnumerator
 // that iterates through the SortedSet
 using System;
@@ -109,7 +109,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 C#
 C++
 HTML

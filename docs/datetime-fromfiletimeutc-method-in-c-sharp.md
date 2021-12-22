@@ -14,7 +14,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.FromFileTimeUtc(Int64) Method
 using System;
@@ -49,7 +49,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 DateTime after operation: 1601 January 03
 ```
 
@@ -57,7 +57,7 @@ DateTime after operation: 1601 January 03
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.FromFileTimeUtc(Int64) Method
 using System;
@@ -94,7 +94,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 fileTime is less than 0 
 Exception Thrown: System.ArgumentOutOfRangeException
 ```

@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public static int DivRem(int dividend, int divisor, int result);
 
 ```
@@ -31,7 +31,7 @@ public static int DivRem(int dividend, int divisor, int result);
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate working
 // of Math.DivRem(Int32, Int32, Int32)
 using System;
@@ -68,7 +68,7 @@ class DivRemGeeks {
 
 **Output:**
 
-```
+```cs
 1406474
 6
 -49999
@@ -82,7 +82,7 @@ class DivRemGeeks {
 
 **语法:**
 
-```
+```cs
 public static long DivRem(int dividend, int divisor, int result);
 
 ```
@@ -99,7 +99,7 @@ public static long DivRem(int dividend, int divisor, int result);
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate working
 // of Math.DivRem(Int64, Int64, Int64) method
 using System;
@@ -137,7 +137,7 @@ class DivRemGeeks {
 
 **Output:**
 
-```
+```cs
 4611686018427387
 1779
 -130050197929

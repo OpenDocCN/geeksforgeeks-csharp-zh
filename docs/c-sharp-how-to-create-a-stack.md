@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public Stack ();
 ```
 
@@ -18,7 +18,7 @@ public Stack ();
 
 **例 1:**
 
-```
+```cs
 // C# Program to illustrate how
 // to create a Stack
 using System;
@@ -47,7 +47,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 0
 
 ```

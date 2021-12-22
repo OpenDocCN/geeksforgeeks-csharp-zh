@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool IsFixedSize { get; }
 ```
 
@@ -16,7 +16,7 @@ public virtual bool IsFixedSize { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to check if Hashtable
 // has a fixed size
 using System;
@@ -46,14 +46,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if Hashtable
 // has a fixed size
 using System;
@@ -86,7 +86,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```

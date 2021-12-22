@@ -6,7 +6,7 @@ Int16 Struct 的 MaxValue 字段或属性用于表示 Int16 的最大值。该�
 
 **语法:**
 
-```
+```cs
 public const short MaxValue = 32767;
 ```
 
@@ -14,7 +14,7 @@ public const short MaxValue = 32767;
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Int16.MaxValue field
 using System;
@@ -56,7 +56,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Maximum Value is: 32767
 Conversion is Possible.
 Conversion is Possible.

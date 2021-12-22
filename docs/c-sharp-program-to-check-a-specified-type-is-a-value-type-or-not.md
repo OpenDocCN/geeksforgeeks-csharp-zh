@@ -6,7 +6,7 @@
 
 **语法**:
 
-```
+```cs
 public bool IsValueType { get; }
 ```
 
@@ -14,7 +14,7 @@ public bool IsValueType { get; }
 
 ## C#
 
-```
+```cs
 // C# program to check whether the specified
 // type is a value type or not
 using System;
@@ -59,7 +59,7 @@ public static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 True
 False
 ```
@@ -68,7 +68,7 @@ False
 
 ## C#
 
-```
+```cs
 // C# program to check whether the specified
 // type is a value type or not
 using System;
@@ -107,6 +107,6 @@ public static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 The given type is value type
 ```

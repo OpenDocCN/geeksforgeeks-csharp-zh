@@ -25,7 +25,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate working
     // of MathF.Log(Single) method
     using System;
@@ -74,7 +74,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     2.280339
     -Infinity
     NaN
@@ -117,7 +117,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate working
     // of MathF.Log(Single, Single) method
     using System;
@@ -149,7 +149,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     -1.616959
     -0.5
     NaN

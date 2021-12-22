@@ -40,7 +40,7 @@
 
 **示例:**
 
-```
+```cs
 Input : 50
 Output : Specified cast is not valid.
 ```
@@ -56,7 +56,7 @@ Output : Specified cast is not valid.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how to exception handling 
 // for invalid TypeCasting in unBoxing
 using System;
@@ -91,6 +91,6 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Specified cast is not valid.
 ```

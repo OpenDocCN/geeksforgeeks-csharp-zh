@@ -14,7 +14,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public string ToString (IFormatProvider provider);
     ```
 
@@ -24,7 +24,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate
     // UInt64.ToString(IFormatProvider)
     // Method
@@ -56,7 +56,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The Value is 11331244 and provider is en-US
 
     ```
@@ -67,7 +67,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public string ToString (string format, IFormatProvider provider);
     ```
 
@@ -82,7 +82,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt64.ToString(String, 
     // IFormatProvider) Method
@@ -118,7 +118,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The value is 18446744073709551615
     The Format is D5
     The Provider is fr-FR

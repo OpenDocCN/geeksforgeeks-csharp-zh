@@ -7,7 +7,7 @@ T5】string collection。IsSynchronized 属性用于获取一个值，该值指�
 
 **语法:**
 
-```
+```cs
 public bool IsSynchronized { get; }
 
 ```
@@ -18,7 +18,7 @@ public bool IsSynchronized { get; }
 
 **示例:**
 
-```
+```cs
 // C# code to check if StringCollection
 // is synchronized (thread safe)
 using System;
@@ -50,7 +50,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```

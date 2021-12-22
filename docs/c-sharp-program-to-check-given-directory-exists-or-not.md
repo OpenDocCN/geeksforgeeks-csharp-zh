@@ -16,7 +16,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to check wether the given
 // directory exits or not
 using System;
@@ -40,7 +40,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 The Specified directory Exists
 ```
 
@@ -48,7 +48,7 @@ The Specified directory Exists
 
 ## C#
 
-```
+```cs
 // C# program to check wether the given
 // directory exits or not
 using System;
@@ -72,6 +72,6 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Not Exist
 ```

@@ -6,7 +6,7 @@ C#程序使用按位异或运算交换两个数字。给定两个变量，x 和 
 
 **示例:**
 
-```
+```cs
 Input: 300 400 
 
 Output: 400 300 
@@ -18,7 +18,7 @@ x = 400 y = 300
 
 ## C#
 
-```
+```cs
 // C# Program to Swap the two Numbers
 // using Bitwise XOR Operation
 using System;
@@ -54,7 +54,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Enter two numbers 
 
 Numbers before swapping

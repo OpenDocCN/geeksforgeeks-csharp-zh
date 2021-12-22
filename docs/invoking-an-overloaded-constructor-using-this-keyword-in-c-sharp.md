@@ -12,7 +12,7 @@ C#提供了一个强大的关键字称为[这个关键字](https://www.geeksforg
 *   当您使用此关键字时，它会告诉编译器调用默认构造函数。或者换句话说，它意味着一个不包含参数的构造函数。
     **语法:**
 
-```
+```cs
 class X 
 {
 
@@ -28,7 +28,7 @@ class X
 *   *这个*关键字包含的参数类型和数量与调用构造函数中的相同。
     **语法:**
 
-```
+```cs
 class X
 {
    public X(int x): this(int)
@@ -46,7 +46,7 @@ class X
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate how to invoke
 // overloaded constructor using this keyword
 using System;
@@ -83,7 +83,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Hello! Constructor 1
 Hello! Constructor 2
 ```
@@ -93,7 +93,7 @@ Hello! Constructor 2
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate how to invoke
 // overloaded constructor using this keyword
 using System;
@@ -133,7 +133,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 50
 2.9
 Hello

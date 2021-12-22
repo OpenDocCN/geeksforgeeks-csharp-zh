@@ -12,7 +12,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to rotate 
 // bits of a number
 using System;
@@ -63,7 +63,7 @@ Right Rotation of " + n 
 
 **输出:**
 
-```
+```cs
 Left Rotation of 16 by 2 is 64
 Right Rotation of 16 by 2 is 4
 ```

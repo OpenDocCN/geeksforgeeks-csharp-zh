@@ -16,7 +16,7 @@
 
 **例** :
 
-```
+```cs
 Input  : c/cpp java python
 Output :
 c/cpp
@@ -34,7 +34,7 @@ python
 
 ## c#
 
-```
+```cs
 // C# program to illustrate the use of
 // GetCommandLineArgs() Method of Environment Class
 using System;
@@ -64,7 +64,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Command Line Arguments are:
 /Users/Projects/newprogram/newprogram/bin/Debug/netcoreapp3.0/newprogram.dll
 ```

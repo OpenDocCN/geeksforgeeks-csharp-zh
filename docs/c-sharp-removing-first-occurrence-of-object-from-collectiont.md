@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool Remove (T item);
 
 ```
@@ -19,7 +19,7 @@ public bool Remove (T item);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the first
 // occurrence of a specific object
 // from the Collection
@@ -69,7 +69,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Count : 5
 A
 B
@@ -86,7 +86,7 @@ E
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the first
 // occurrence of a specific object
 // from the Collection
@@ -136,7 +136,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Count : 5
 2
 3

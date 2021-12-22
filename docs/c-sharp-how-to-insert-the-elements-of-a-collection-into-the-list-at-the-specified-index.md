@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public void InsertRange (int index, System.Collections.Generic.IEnumerable<T> collection);
 
 ```
@@ -34,7 +34,7 @@ public void InsertRange (int index, System.Collections.Generic.IEnumerable<T> co
 
 **例 1:**
 
-```
+```cs
 // C# Program to insert the elements of
 // a collection into the List<T> at the
 // specified index
@@ -91,7 +91,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Elements in List: 
 
 Geeks
@@ -111,7 +111,7 @@ Geeks
 
 **例 2:**
 
-```
+```cs
 // C# Program to insert the elements of
 // a collection into the List<T> at the
 // specified index

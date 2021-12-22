@@ -11,7 +11,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public void Join ();
     ```
 
@@ -19,7 +19,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public bool Join (int millisecondsTimeout);
     ```
 
@@ -27,13 +27,13 @@
 
     **语法:**
 
-    ```
+    ```cs
     public bool Join (TimeSpan timeout);
     ```
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // concept of Join() method
 using System; 
@@ -84,7 +84,7 @@ public class ThreadExample 
 
 **输出:**
 
-```
+```cs
 0
 1
 2
@@ -97,7 +97,7 @@ public class ThreadExample 
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of Join() method
 using System;
@@ -132,7 +132,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 New thread is terminated
 ```
 

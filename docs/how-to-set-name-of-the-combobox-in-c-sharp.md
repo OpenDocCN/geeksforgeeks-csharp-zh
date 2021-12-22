@@ -20,7 +20,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式设置组合框的名称:
 
-```
+```cs
 public string Name { get; set; }
 ```
 
@@ -28,7 +28,7 @@ public string Name { get; set; }
 
 *   **步骤 1:** 使用组合框类提供的组合框()构造函数创建组合框。
 
-    ```
+    ```cs
     // Creating ComboBox using ComboBox class
     ComboBox mybox = new ComboBox();
 
@@ -36,7 +36,7 @@ public string Name { get; set; }
 
 *   **第二步:**创建组合框后，设置组合框的名称。
 
-    ```
+    ```cs
     // Set the name of the combobox
     mybox.Name = "My_Cobo_Box";
 
@@ -44,7 +44,7 @@ public string Name { get; set; }
 
 *   **Step 3:** And last add this combobox control to form using Add() method.
 
-    ```
+    ```cs
     // Add this ComboBox to form
     this.Controls.Add(mybox);
 
@@ -52,7 +52,7 @@ public string Name { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

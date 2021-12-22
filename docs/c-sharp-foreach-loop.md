@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 foreach(data_type var_name in collection_variable)
 {
      // statements to be executed
@@ -26,7 +26,7 @@ foreach(data_type var_name in collection_variable)
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of foreach loop
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Print array:
 1
 2
@@ -69,7 +69,7 @@ Print array:
 
 **说明:**上述程序中的 foreach 循环相当于:
 
-```
+```cs
 for(int items = 0; items < a_array.Length; items++)
 {
     Console.WriteLine(a_array[items]);
@@ -79,7 +79,7 @@ for(int items = 0; items < a_array.Length; items++)
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate 
 // foreach loop 
 using System;
@@ -119,7 +119,7 @@ class For_Each     
 
 **Output:**
 
-```
+```cs
 The highest score is 132
 
 ```
@@ -128,7 +128,7 @@ The highest score is 132
 
 1.  当您想要修改数组 :
 
-    ```
+    ```cs
     foreach(int num in marks) 
     {
         // only changes num not
@@ -141,7 +141,7 @@ The highest score is 132
     时，Foreach 循环**不合适**
 2.  Foreach 循环**不跟踪索引**。所以我们不能使用 ForEach 循环
 
-    ```
+    ```cs
     foreach (int num in numbers) 
     { 
         if (num == target) 
@@ -155,7 +155,7 @@ The highest score is 132
     获得数组索引
 3.  Foreach **只在数组中单步向前迭代**
 
-    ```
+    ```cs
     // cannot be converted to a foreach loop
     for (int i = numbers.Length - 1; i > 0; i--) 
     {

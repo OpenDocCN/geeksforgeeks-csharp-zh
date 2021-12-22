@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual string[] GetEnumNames ();
 ```
 
@@ -19,7 +19,7 @@ public virtual string[] GetEnumNames ();
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetEnumNames(Object) Method
 using System;
@@ -75,7 +75,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The constants are as follow :-
 A B C D E F
 ```
@@ -84,7 +84,7 @@ A B C D E F
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetEnumNames(Object) Method
 using System;
@@ -136,7 +136,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The current type is not an enumeration.
 Exception Thrown: System.ArgumentException
 ```

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public int Count { get; }
 
 ```
@@ -19,7 +19,7 @@ public int Count { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get the number
 // of key/value pairs contained
 // in the ListDictionary
@@ -53,14 +53,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 6
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to get the number
 // of key/value pairs contained
 // in the ListDictionary
@@ -93,7 +93,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 5
 
 ```

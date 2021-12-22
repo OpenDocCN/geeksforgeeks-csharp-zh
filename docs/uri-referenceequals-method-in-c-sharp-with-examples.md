@@ -18,7 +18,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the 
 // Uri.ReferenceEquals() Method 
 using System; 
@@ -50,7 +50,7 @@ class GFG { 
 
 **输出:**
 
-```
+```cs
 null is equal to null
 
 ```
@@ -59,7 +59,7 @@ null is equal to null
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the 
 // Uri.ReferenceEquals() Method 
 using System; 
@@ -104,7 +104,7 @@ class GFG { 
 
 **输出:**
 
-```
+```cs
 https://www.geeksforgeeks.org/index.htm is not equal to 
 https://www.geeksforgeeks.org/index.htm is equal to https://www.geeksforgeeks.org/index.htm
 https://www.geeksforgeeks.org/index.htm is not equal to 

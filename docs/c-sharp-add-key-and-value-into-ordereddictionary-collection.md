@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Add (object key, object value);
 
 ```
@@ -25,7 +25,7 @@ public void Add (object key, object value);
 
 **例 1:**
 
-```
+```cs
 // C# code to add key and value
 // into OrderedDictionary
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 5
 key1 --> value1
 key2 --> value2
@@ -73,7 +73,7 @@ key5 --> value5
 
 **例 2:**
 
-```
+```cs
 // C# code to add key and value
 // into OrderedDictionary
 using System;

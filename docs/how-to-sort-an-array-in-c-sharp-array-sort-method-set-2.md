@@ -29,7 +29,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the use 
     // of  Array.Sort(Array, Int32, Int32, 
     // IComparer) method
@@ -89,7 +89,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The original order of elements in the array:
     ABC
     GHI
@@ -137,7 +137,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the use 
     // of Array.Sort(Array, Array, Int32,
     // Int32, IComparer) Method
@@ -201,7 +201,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The original order of elements in the array:
     H : A
     J : E
@@ -244,7 +244,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the use of
     // Array.Sort(Array, Int32, Int32) method
     using System;
@@ -289,7 +289,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The original order of elements in the array:
     ABC
     GHI

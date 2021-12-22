@@ -19,7 +19,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt64.Equals(UInt64) Method
     using System;
@@ -52,14 +52,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     5232642 is not equal to 2317648
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt64.Equals(UInt64) Method
     using System;
@@ -99,7 +99,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     9213128 is not equal to 2131978
     656455 is equal to 656455
     10120 is equal to 10120
@@ -120,7 +120,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt64.Equals(Object) Method
     using System;
@@ -153,14 +153,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     13421227 is not equal to 0
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt64.Equals(Object) Method
     using System;
@@ -199,7 +199,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     1231264 is not equal to 7234455
     1423412 is not equal to 14432314
     7742344 is equal to 7742344

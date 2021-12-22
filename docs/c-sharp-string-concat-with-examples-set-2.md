@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```cs
 public static string Concat (string strA, string strB);
 ```
 
@@ -26,7 +26,7 @@ public static string Concat (string strA, string strB);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the use 
 // of Concat(String, String ) Method
 using System;
@@ -56,7 +56,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 String A is: Hello! 
 String B is: Geeks.
 Concatenated string is: Hello! Geeks.
@@ -71,7 +71,7 @@ Concatenated string is: Hello! Geeks.
 
 **语法:**
 
-```
+```cs
 public static string Concat (string strA, string strB, string strC);
 ```
 
@@ -85,7 +85,7 @@ public static string Concat (string strA, string strB, string strC);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // Concat(String, String, String) Method
 using System;
@@ -117,7 +117,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 String A is: Welcome 
 String B is: to 
 String C is: GFG.
@@ -131,7 +131,7 @@ Concatenated string is: Welcome to GFG.
 
 **语法:**
 
-```
+```cs
 public static string Concat (params string[] items);
 ```
 
@@ -146,7 +146,7 @@ public static string Concat (params string[] items);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // Concat(string[]) Method
 using System;
@@ -177,7 +177,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Elements of strA array : Hey, 
 Elements of strA array : This 
 Elements of strA array : is 

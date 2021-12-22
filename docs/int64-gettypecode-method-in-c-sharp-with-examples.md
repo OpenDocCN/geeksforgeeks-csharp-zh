@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // Int64.GetTypeCode() Method
 using System;
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for Int64 is: Int64
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // Int64.GetTypeCode() Method
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for -9223372036854775808 is Int64
 TypeCode for 9223372036854775807 is Int64
 

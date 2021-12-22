@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public T7 Item7 { get; }
 ```
 
@@ -14,7 +14,7 @@ public T7 Item7 { get; }
 
 **示例:**在下面的代码中，您可以看到我们正在访问每个元组的第七个元素。
 
-```
+```cs
 // C# program to illustrate how to get 
 // the seventh element of the tuple
 using System;
@@ -42,7 +42,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Student-7 Position.: 1
 Student-8 Position: 2
 

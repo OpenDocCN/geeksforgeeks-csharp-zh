@@ -22,7 +22,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to reverse the order
 // of the given array
 using System;
@@ -60,7 +60,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Sequence is: 
 1
 2
@@ -82,7 +82,7 @@ New Sequence:
 
 **例 2:**
 
-```
+```cs
 // C# program to print the 
 // name of the employees
 using System;
@@ -164,7 +164,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Employee Name: Supriya
 Employee Name: Soniya
 Employee Name: Rohit

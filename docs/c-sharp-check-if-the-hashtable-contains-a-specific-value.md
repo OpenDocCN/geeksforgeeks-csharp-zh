@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool ContainsValue(object value);
 
 ```
@@ -21,7 +21,7 @@ public virtual bool ContainsValue(object value);
 
 **例 1:**
 
-```
+```cs
 // C# code to check if the HashTable
 // contains a specific Value
 using System;
@@ -54,14 +54,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 myTable contains the Value
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if the HashTable
 // contains a specific Value
 using System;
@@ -94,7 +94,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 myTable doesn't contain the Value
 
 ```

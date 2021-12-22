@@ -23,7 +23,7 @@
 
 **示例:**
 
-```
+```cs
 // C# code to create a BitArray
 using System;
 using System.Collections;
@@ -54,7 +54,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 True
 
@@ -72,7 +72,7 @@ True
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // BitArray Class Properties
 using System; 
@@ -104,7 +104,7 @@ class GFG { 
 
 **输出:**
 
-```
+```cs
 False
 32
 
@@ -133,7 +133,7 @@ False
 
 **例 1:**
 
-```
+```cs
 // C# code to do bitwise
 // OR between BitArray
 using System;
@@ -180,7 +180,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 True
 True
@@ -190,7 +190,7 @@ True
 
 **例 2:**
 
-```
+```cs
 // C# code to set all bits in the
 // BitArray to the specified value
 using System;
@@ -240,7 +240,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Initially the bits are as : 
 False
 True

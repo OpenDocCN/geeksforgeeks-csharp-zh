@@ -20,7 +20,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式设置文本框的 BorderStyle 属性:
 
-```
+```cs
 public System.Windows.Forms.BorderStyle BorderStyle { get; set; }
 ```
 
@@ -28,7 +28,7 @@ public System.Windows.Forms.BorderStyle BorderStyle { get; set; }
 
 *   **步骤 1 :** 使用 textbox 类提供的 TextBox()构造函数创建一个 TextBox。
 
-    ```
+    ```cs
     // Creating textbox
     TextBox Mytextbox = new TextBox();
 
@@ -36,7 +36,7 @@ public System.Windows.Forms.BorderStyle BorderStyle { get; set; }
 
 *   **步骤 2 :** 创建文本框后，设置文本框类提供的文本框的 BorderStyle 属性。
 
-    ```
+    ```cs
     // Set BorderStyle property
     Mytextbox.BorderStyle = BorderStyle.FixedSingle;
 
@@ -44,7 +44,7 @@ public System.Windows.Forms.BorderStyle BorderStyle { get; set; }
 
 *   **Step 3 :** And last add this textbox control to from using Add() method.
 
-    ```
+    ```cs
     // Add this textbox to form
     this.Controls.Add(Mytextbox);
 
@@ -52,7 +52,7 @@ public System.Windows.Forms.BorderStyle BorderStyle { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

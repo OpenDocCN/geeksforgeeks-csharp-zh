@@ -16,7 +16,7 @@ SortedList 类是按键排序的**(键，值)对**的集合。这些对可以通
 
 **语法:**
 
-```
+```cs
 public virtual bool ContainsValue (object value);
 ```
 
@@ -27,7 +27,7 @@ public virtual bool ContainsValue (object value);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code to check if a SortedList
 // object contains a specific value
 using System;
@@ -57,6 +57,6 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 False
 ```

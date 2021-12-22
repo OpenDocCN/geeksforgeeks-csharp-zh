@@ -13,7 +13,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // MathF.Tanh(Single) Method
 using System;
@@ -42,7 +42,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The Tanh of num1 = 1
 The Tanh of num2 = 0
 The Tanh of num3 = 0.7615942
@@ -52,7 +52,7 @@ The Tanh of num3 = 0.7615942
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // MathF.Tanh(Single) Method
 using System;
@@ -88,7 +88,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Tanh(1.570796) will be 0.9171523
 Tanh(NaN) will be NaN
 Tanh(-Infinity) will be -1

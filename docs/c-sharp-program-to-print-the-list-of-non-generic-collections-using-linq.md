@@ -20,7 +20,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how to display the 
 // list of non-generic collections using LINQ
 using System;
@@ -53,7 +53,7 @@ public static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 ---> Mono.Security.X509.X509CertificateCollection
 ---> Mono.Security.X509.X509ExtensionCollection
 ---> System.ArraySegment`1

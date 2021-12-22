@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static double Atan(double num)
 
 ```
@@ -19,7 +19,7 @@ public static double Atan(double num)
 
 **例:**
 
-```
+```cs
 Input  : Math.Atan(1)
 Output : 0.785398163397448
 
@@ -39,7 +39,7 @@ Output : -1.5707963267949
 
 **程序:**说明数学。阿坦()法
 
-```
+```cs
 // C# program to demonstrate working
 // of Math.Atan() method
 using System;
@@ -87,7 +87,7 @@ class Geeks {
 
 T5】输出:
 
-```
+```cs
 1.26262725567891
 0.785398163397448
 0

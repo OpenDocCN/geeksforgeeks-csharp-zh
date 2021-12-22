@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public int BinarySearch (T item);
 ```
 
@@ -30,7 +30,7 @@ public int BinarySearch (T item);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // List<T>.BinarySearch(T) Method
 using System;
@@ -100,7 +100,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The Original List is:
 ABCD
 QRST
@@ -127,7 +127,7 @@ XYZ
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // List<T>.BinarySearch(T) Method
 using System;
@@ -200,7 +200,7 @@ public class search {
 
 **Output:** 
 
-```
+```cs
 Original List
 5
 6
@@ -244,7 +244,7 @@ Insert 3 :
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // List<T>.BinarySearch(T,
 // IComparer<T>) Method
@@ -322,7 +322,7 @@ class geek {
 
 **输出:**
 
-```
+```cs
 Original string
 B
 C
@@ -347,7 +347,7 @@ E
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // List<T>.BinarySearch(T,
 // IComparer<T>) Method
@@ -433,7 +433,7 @@ class bSearch {
 
 **Output:** 
 
-```
+```cs
 Original string
 5
 6
@@ -481,7 +481,7 @@ After inserting "3" in the List
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // List<T>.BinarySearch(Int32,
 // Int32, T, Comparer <T>) method
@@ -585,7 +585,7 @@ class geek
 
 **Output:** 
 
-```
+```cs
 Original List
 15
 4

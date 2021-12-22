@@ -16,7 +16,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to concatenate the
 // given sequences
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Sequence 1 is: 
 p
 q
@@ -94,7 +94,7 @@ z
 
 **例 2:**
 
-```
+```cs
 // C# program to print the major 
 // language of the employees
 using System;
@@ -192,7 +192,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Major Languages Used are: 
 C#
 C

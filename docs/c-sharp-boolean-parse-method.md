@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool Parse (string value);
 ```
 
@@ -22,7 +22,7 @@ public static bool Parse (string value);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Boolean.Parse(String)
 // Method
@@ -74,7 +74,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 'true' parsed as True
 'TRUE' parsed as True
 'false' parsed as False

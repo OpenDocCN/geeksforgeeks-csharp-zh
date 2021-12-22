@@ -5,7 +5,7 @@
 **文件。AppendText()** 是一个内置的 File 类方法，用于创建一个 StreamWriter，它将 UTF-8 编码的文本追加到一个现有的文件中，否则如果指定的文件不存在，它将创建一个新文件。
 **语法:**
 
-```
+```cs
 public static System.IO.StreamWriter AppendText (string path);
 ```
 
@@ -30,7 +30,7 @@ public static System.IO.StreamWriter AppendText (string path);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.AppendText() method
 
@@ -67,7 +67,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 Geeks
@@ -85,7 +85,7 @@ GeeksforGeeks
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.AppendText() method
 
@@ -133,7 +133,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 GeeksforGeeks

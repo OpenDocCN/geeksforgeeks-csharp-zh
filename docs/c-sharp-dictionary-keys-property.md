@@ -14,7 +14,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# code to get the keys
 // in the Dictionary
 using System;
@@ -62,7 +62,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 Key = Australia
 Key = Belgium
@@ -75,7 +75,7 @@ Key = India
 
 **例 2:**
 
-```
+```cs
 // C# code to get the keys in the Dictionary
 using System;
 using System.Collections.Generic;
@@ -119,7 +119,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total key/value pairs in myDict are : 4
 Key = 9
 Key = 3

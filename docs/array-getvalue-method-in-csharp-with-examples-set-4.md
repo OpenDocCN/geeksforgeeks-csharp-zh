@@ -19,7 +19,7 @@
 
 **语法:**
 
-```
+```cs
 public object GetValue (int[] index);
 
 ```
@@ -38,7 +38,7 @@ public object GetValue (int[] index);
 
 **语法:**
 
-```
+```cs
 public object GetValue (long[] index);
 
 ```
@@ -57,7 +57,7 @@ public object GetValue (long[] index);
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // Array.GetValue(Int32[]) and
 // Array.GetValue(Int64[]) method
@@ -112,7 +112,7 @@ public static void Main() {
 
 **Output**
 
-```
+```cs
 Element at index [0, 1, 1, 2] is : L
 
 ```
@@ -121,7 +121,7 @@ Element at index [0, 1, 1, 2] is : L
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // Array.GetValue(Int32[]) and
 // Array.GetValue(Int64[]) method
@@ -179,7 +179,7 @@ public static void Main() {
 
 **Output**
 
-```
+```cs
 Element at index [0, 1, 1, 2] is : GO
 
 ```

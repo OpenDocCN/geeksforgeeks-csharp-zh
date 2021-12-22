@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 enum Enum_variable
 {
      string_1...;
@@ -22,7 +22,7 @@ enum Enum_variable
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the enums
 // with their default values
 using System;
@@ -65,7 +65,7 @@ class Program {
 
 **Output:** 
 
-```
+```cs
 The value of jan in month enum is 0
 The value of feb in month enum is 1
 The value of mar in month enum is 2
@@ -78,7 +78,7 @@ The value of may in month enum is 4
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the Enums
 using System;
 namespace ConsoleApplication2 {
@@ -131,7 +131,7 @@ class Program {
 
 **Output:** 
 
-```
+```cs
 Circumference of the circle is 18.84
 Perimeter of the square is 16
 ```

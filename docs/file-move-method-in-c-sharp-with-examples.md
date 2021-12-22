@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static void Move (string sourceFileName, string destFileName);
 ```
 
@@ -32,7 +32,7 @@ public static void Move (string sourceFileName, string destFileName);
 
 ![file.txt](img/e30364ee2029737d20ae9f2d8b5c234a.png)
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Move() method
 
@@ -57,7 +57,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Moved
 
 ```
@@ -68,7 +68,7 @@ Moved
 
 **程序 2:** 最初没有创建文件。
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Move() method
 

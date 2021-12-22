@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.Generic.SortedDictionary<TKey,TValue>.ValueCollection Values { get; }
 ```
 
@@ -16,7 +16,7 @@ public System.Collections.Generic.SortedDictionary<TKey,TValue>.ValueCollection 
 
 **例 1:**
 
-```
+```cs
 // C# code to get the values
 // in the SortedDictionary
 using System;
@@ -64,7 +64,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 Value = Canberra
 Value = Brussels
@@ -77,7 +77,7 @@ Value = Moscow
 
 **例 2:**
 
-```
+```cs
 // C# code to get the values
 // in the SortedDictionary
 using System;
@@ -123,7 +123,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total key/value pairs in myDict are : 4
 Value = 7
 Value = 4

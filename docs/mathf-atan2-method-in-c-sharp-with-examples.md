@@ -19,7 +19,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the 
 // MathF.Atan2(Single, Single) Method
 using System; 
@@ -38,14 +38,14 @@ class Geeks { 
 
 **Output:**
 
-```
+```cs
 45
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the 
 // MathF.Atan2(Single, Single) Method
 using System; 
@@ -64,7 +64,7 @@ class Geeks { 
 
 **Output:**
 
-```
+```cs
 180
 
 ```

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual System.Collections.ICollection Values { get; }
 
 ```
@@ -15,7 +15,7 @@ public virtual System.Collections.ICollection Values { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get a collection
 // of values in the StringDictionary
 using System;
@@ -49,7 +49,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Dog
 Banana
 Cat
@@ -59,7 +59,7 @@ Apple
 
 **例 2:**
 
-```
+```cs
 // C# code to get a collection
 // of values in the StringDictionary
 using System;
@@ -93,7 +93,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 prime & even
 prime & odd
 non-prime & odd

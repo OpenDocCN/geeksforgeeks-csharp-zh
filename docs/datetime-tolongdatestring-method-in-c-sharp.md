@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToLongDateString()
 // Method
@@ -45,14 +45,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String representation of date is Saturday, 01 January 2011
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToLongDateString()
 // Method
@@ -84,7 +84,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String representation of date is Monday, 11 February 2019
 
 ```

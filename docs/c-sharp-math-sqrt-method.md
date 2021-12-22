@@ -6,7 +6,7 @@
 Sqrt 是一种较慢的计算。可以缓存它以提高性能。
 **语法:**
 
-```
+```cs
 public static double Sqrt(double d)
 
 ```
@@ -19,7 +19,7 @@ public static double Sqrt(double d)
 
 **示例:**
 
-```
+```cs
 Input  : Math.Sqrt(81) 
 Output : 9
 
@@ -41,7 +41,7 @@ Output : 0
 
 *   **程序 1:** 当参数为正双精度值时，该方法返回给定值的平方根。
 
-    ```
+    ```cs
     // C# program to illustrate the
     // Math.Sqrt() method
     using System;
@@ -61,14 +61,14 @@ Output : 0
 
     **输出:**
 
-    ```
+    ```cs
     9
 
     ```
 
 *   **程序 2:** 当参数为负时，此方法将返回 NaN。
 
-    ```
+    ```cs
     // C# program to illustrate the Math.Sqrt() 
     // method when the argument is Negative
     using System;
@@ -88,14 +88,14 @@ Output : 0
 
     **输出:**
 
-    ```
+    ```cs
     NaN
 
     ```
 
 *   **程序 3:** 当参数是带小数位的双精度值时，那么这个方法将返回给定值的平方根。
 
-    ```
+    ```cs
     // C# program to illustrate the Math.Sqrt() 
     // method when the argument is double value
     // with decimal places
@@ -117,14 +117,14 @@ Output : 0
 
     **输出:**
 
-    ```
+    ```cs
     0.3
 
     ```
 
 *   **程序 4:** 当自变量为正或负的 Zero 时，则返回结果为 Zero。
 
-    ```
+    ```cs
     // C# program to illustrate the Math.Sqrt() 
     // method when the argument is positive 
     // or negative Zero
@@ -151,7 +151,7 @@ Output : 0
 
     **输出:**
 
-    ```
+    ```cs
     0
     0
 

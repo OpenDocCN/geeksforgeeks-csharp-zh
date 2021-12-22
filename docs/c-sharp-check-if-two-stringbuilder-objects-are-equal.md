@@ -11,7 +11,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to if a StringBuilder object
 // is equal to another StringBuilder object
 using System;
@@ -36,7 +36,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 True
 
 ```

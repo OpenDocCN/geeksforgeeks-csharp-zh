@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public int CompareTo (object value);
 ```
 
@@ -24,7 +24,7 @@ public int CompareTo (object value);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Byte.CompareTo(object) Method
 using System;
@@ -72,14 +72,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 10 is less than 87
 
 ```
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Byte.CompareTo(object) Method
 using System;
@@ -126,7 +126,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 value2 must be Byte
 Exception Thrown: System.ArgumentException
 

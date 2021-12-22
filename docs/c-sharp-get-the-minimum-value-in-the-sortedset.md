@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 mySet.Min
 
 ```
@@ -25,7 +25,7 @@ mySet.Min
 
 **例 1:**
 
-```
+```cs
 // C# code to get the minimum value
 // in the SortedSet
 using System;
@@ -53,14 +53,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The minimum element in SortedSet is : 0
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to get the minimum value
 // in the SortedSet
 using System;
@@ -91,7 +91,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The minimum element in SortedSet is : A
 
 ```

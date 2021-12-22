@@ -7,7 +7,7 @@
 
 **示例:**
 
-```
+```cs
 Input: arr[] = {1, 2, 3, 3, 3, 3, 10}, x = 3
 Output: True (x appears more than n/2 times in the given array)
 
@@ -23,7 +23,7 @@ Output: True (x appears more than n/2 times in the given array)
 
 **输出:**
 
-```
+```cs
 4 appears more than 3 times in arr[]
 ```
 
@@ -34,7 +34,7 @@ Output: True (x appears more than n/2 times in the given array)
 
 ## java 描述语言
 
-```
+```cs
 <script>
     // Javascript Program to check for majority
     // element in a sorted array */
@@ -102,7 +102,7 @@ Output: True (x appears more than n/2 times in the given array)
 
 **Output**
 
-```
+```cs
 3 appears more than 3 times in arr[]
 ```
 

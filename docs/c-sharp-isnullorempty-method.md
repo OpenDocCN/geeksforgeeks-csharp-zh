@@ -6,7 +6,7 @@
 
 ****语法:****
 
-```
+```cs
 public static bool IsNullOrEmpty(String str) 
 ```
 
@@ -14,7 +14,7 @@ public static bool IsNullOrEmpty(String str)
 
 ****例:****
 
-```
+```cs
 Input : str  = null         // initialize by null value
         String.IsNullOrEmpty(str)
 Output: True
@@ -26,7 +26,7 @@ Output: True
 
 ****程序:**演示 IsNullOrEmpty()方法的工作原理:**
 
-```
+```cs
 // C# program to illustrate 
 // IsNullOrEmpty() Method
 using System;
@@ -60,7 +60,7 @@ class Geeks {
 
 ****Output:**
 
-```
+```cs
 False
 True
 True
@@ -69,13 +69,13 @@ True
 
 ****注意:** IsNullOrEmpty 方法可以检查一个字符串是否为空或者其值是否为空，其可选代码如下:**
 
-```
+```cs
 return  s == null || s == String.Empty; 
 ```
 
 ****程序:**演示 IsNullOrEmpty()方法的替代方案**
 
-```
+```cs
 // C# program to illustrate the 
 // similar method for IsNullOrEmpty()
 using System;
@@ -110,7 +110,7 @@ class Geeks {
 
 ****输出:**
 
-```
+```cs
 False
 True
 True

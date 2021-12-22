@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```cs
 public void Add (T item);
 ```
 
@@ -25,7 +25,7 @@ public void Add (T item);
 
 **例 1:**
 
-```
+```cs
 // C# program to add element in List<T>
 using System;
 using System.Collections.Generic;
@@ -56,7 +56,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 8
 10
 12
@@ -68,7 +68,7 @@ class Geeks {
 
 **例 2:**
 
-```
+```cs
 // C# program to add element in List<T>
 using System;
 using System.Collections.Generic;
@@ -105,7 +105,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 1
 2
 3

@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToShortDateString()
 // Method
@@ -48,14 +48,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 date is 01/01/2010
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToShortDateString()
 // Method
@@ -91,7 +91,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 date of 01/03/2010 04:00:15 is 01/03/2010
 date of 01/05/2010 04:00:15 is 01/05/2010
 date of 01/05/2010 04:00:15 is 01/05/2010

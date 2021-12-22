@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public bool Remove (T item);
 
 ```
@@ -23,7 +23,7 @@ public bool Remove (T item);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove a specified element
 // from the SortedSet
 using System;
@@ -70,7 +70,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 2
 6
 8
@@ -85,7 +85,7 @@ After Using Method
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the specified
 // element from SortedSet
 using System;
@@ -121,7 +121,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 A
 B
 D

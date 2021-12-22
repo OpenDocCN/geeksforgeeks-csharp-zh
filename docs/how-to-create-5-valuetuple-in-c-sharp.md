@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```cs
 public ValueTuple (T1 item1, T2 item2, T3 item3, T4 item4, T5 item5);
 ```
 
@@ -27,7 +27,7 @@ public ValueTuple (T1 item1, T2 item2, T3 item3, T4 item4, T5 item5);
 
 **示例:**
 
-```
+```cs
 // C# program to create a quintuple
 // value tuple using value tuple constructor
 using System;
@@ -54,7 +54,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Component 1: Dog
 Component 2: Cat
 Component 3: Cow
@@ -91,7 +91,7 @@ Component 5: Hen
 
 **示例:**
 
-```
+```cs
 // C# program to create a quintuple value tuple
 // using Create<T1, T2, T3, T4, T5>(T1, T2, T3,
 // T4, T5) method
@@ -119,7 +119,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Component 1: 12
 Component 2: 34
 Component 3: 56

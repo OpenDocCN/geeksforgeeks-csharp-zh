@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public ThreadState ThreadState{ get; }
 ```
 
@@ -16,7 +16,7 @@ public ThreadState ThreadState{ get; }
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // use of ThreadState property
 using System;
@@ -43,14 +43,14 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 The name of the current state of the main thread is: Running
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the 
 // use of ThreadState property
 using System;
@@ -91,7 +91,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 ThreadState of TR1 thread is: Unstarted
 ThreadState of TR2 thread is: Unstarted
 ThreadState of TR1 thread is: Running

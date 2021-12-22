@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public T4 Item4;
 ```
 
@@ -14,7 +14,7 @@ public T4 Item4;
 
 **示例:**在下面的代码中，可以看到我们正在访问每个值元组的第四个元素。
 
-```
+```cs
 // C# program to illustrate how to get
 // the fourth element of value tuple
 using System;
@@ -76,7 +76,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 C# Topics:
 Interface
 Access Modifiers
@@ -88,7 +88,7 @@ Anonymous Method
 
 **例 2:**
 
-```
+```cs
 // C# program to get the hash code of
 // fifth element in a value tuple
 using System;
@@ -116,7 +116,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Favourite programming Language: C#
 Hash Code: -849950870
 

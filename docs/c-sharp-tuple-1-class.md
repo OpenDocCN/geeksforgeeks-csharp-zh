@@ -26,7 +26,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the constructor 
 // and property of class Tuple<T1>
 using System;
@@ -49,7 +49,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Value of the Element is: 22
 
 ```
@@ -65,7 +65,7 @@ Value of the Element is: 22
 
 **示例:**
 
-```
+```cs
 // C# program to determine the 
 // given tuples are equal or not
 using System;
@@ -97,7 +97,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Tuple Matched..
 
 ```

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static System.IO.StreamWriter CreateText (string path);
 ```
 
@@ -33,7 +33,7 @@ public static System.IO.StreamWriter CreateText (string path);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.CreateText() method
 
@@ -71,7 +71,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 GeeksforGeeks
@@ -88,7 +88,7 @@ portal.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.CreateText() method
 
@@ -128,7 +128,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 Geeks

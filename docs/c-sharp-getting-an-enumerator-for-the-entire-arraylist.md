@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual System.Collections.IEnumerator GetEnumerator ();
 ```
 
@@ -16,7 +16,7 @@ public virtual System.Collections.IEnumerator GetEnumerator ();
 
 **例 1:**
 
-```
+```cs
 // C# code to get an enumerator
 // for the entire ArrayList
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Geeks
 GFG
 C#
@@ -65,7 +65,7 @@ Tutorials
 
 **例 2:**
 
-```
+```cs
 // C# code to get an enumerator
 // for the entire ArrayList
 using System;
@@ -104,7 +104,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 14
 45
 78

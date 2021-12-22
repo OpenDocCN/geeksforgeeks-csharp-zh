@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static void WriteAllBytes (string path, byte[] bytes);
 ```
 
@@ -31,7 +31,7 @@ public static void WriteAllBytes (string path, byte[] bytes);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.WriteAllBytes() method
 
@@ -61,7 +61,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The data has been written to the file.
 ```
 
@@ -77,7 +77,7 @@ The data has been written to the file.
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.WriteAllBytes() method
 
@@ -108,7 +108,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The data has been overwritten to the file.
 ```
 

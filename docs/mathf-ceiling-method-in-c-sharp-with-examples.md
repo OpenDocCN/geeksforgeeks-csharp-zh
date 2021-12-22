@@ -11,7 +11,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // MathF.Ceiling(Single) Method
 using System;
@@ -46,7 +46,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Input Value  = 33
 Ceiling value = 33
 Input Value  = 99.99

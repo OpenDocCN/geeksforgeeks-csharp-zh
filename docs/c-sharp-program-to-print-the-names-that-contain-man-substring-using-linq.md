@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 Where(employee => employee.Contains("MAN"))
 ```
 
@@ -14,7 +14,7 @@ Where(employee => employee.Contains("MAN"))
 
 **示例:**
 
-```
+```cs
 Input  : [("MANVITHA"),("SRIMANTH"),("RAVI"),("MANASA"),("MOUNIKA")("MANAS");]
 Output : [("MANVITHA"),("SRIMANTH"),("MANASA"),("MANAS")]
 
@@ -35,7 +35,7 @@ Output : No Output
 
 ## C#
 
-```
+```cs
 // C# program to display those names that
 // contain 'MAN' substring
 using System;
@@ -76,7 +76,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Names that conatin MAN substring:
 MANVITHA
 SRIMANTH

@@ -12,7 +12,7 @@
 该方法用于将数组列表的元素复制到新的*对象数组*中。使用**数组复制元素。复制**，为 O(n)运算，其中 n 为 Count。
 **语法:**
 
-```
+```cs
 public virtual object[] ToArray ();
 ```
 
@@ -21,7 +21,7 @@ public virtual object[] ToArray ();
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate ToArray() Method
 using System;
 using System.Collections;
@@ -56,7 +56,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 G
 E
 E
@@ -69,7 +69,7 @@ S
 此方法用于将数组列表的元素复制到指定元素类型的*新数组中。使用**数组复制元素。复制**，为 O(n)运算，其中 n 为 Count。
 **语法:*** 
 
-```
+```cs
 public virtual Array ToArray (Type t);
 ```
 
@@ -85,7 +85,7 @@ public virtual Array ToArray (Type t);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate ToArray(Type) Method
 using System;
 using System.Collections;
@@ -120,7 +120,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 G
 E
 E

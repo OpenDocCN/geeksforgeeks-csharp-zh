@@ -29,7 +29,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to count the number
 // of occurrence of a "is" in
 // the given string
@@ -68,7 +68,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 3
 ```
 

@@ -10,7 +10,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of aggregate method
 using System;
@@ -36,7 +36,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Geeks-gfg-GeeksforGeeks-GFG
 
 ```
@@ -45,7 +45,7 @@ Geeks-gfg-GeeksforGeeks-GFG
 
 **例 2:**
 
-```
+```cs
 // C# program to find the total 
 // salary of the employees
 using System;
@@ -125,7 +125,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total salary of the Employees: 220000
 
 ```

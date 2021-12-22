@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 (logical_test1) ? 
         ((logical_test2)? True_block : false_block) : 
         false_block_outer;
@@ -17,7 +17,7 @@
 
 **示例:**
 
-```
+```cs
 Input: Enter first number : 23
        Enter second number: 45
        Enter third number : 87
@@ -32,7 +32,7 @@ Output: Largest number is 87
 
 ## C#
 
-```
+```cs
 // C# program to illustrate example of
 // nested conditional operator
 using System;
@@ -74,7 +74,7 @@ class GFG {
 
 **输入:**
 
-```
+```cs
 Enter first number : 23
 Enter second number: 45
 Enter third number : 87
@@ -82,7 +82,7 @@ Enter third number : 87
 
 **输出:**
 
-```
+```cs
 Enter first number : 23
 Enter second number: 45
 Enter third number : 87
@@ -94,7 +94,7 @@ Largest number is 87
 
 ## C#
 
-```
+```cs
 // C# program to illustrate example of
 // nested conditional operator
 using System;
@@ -130,7 +130,7 @@ class GFG {
 
 **输入:**
 
-```
+```cs
 Enter first number : 365
 Enter second number: 123
 Enter third number : 638
@@ -138,7 +138,7 @@ Enter third number : 638
 
 **输出:**
 
-```
+```cs
 Enter first number : 365
 Enter second number: 123
 Enter third number : 638

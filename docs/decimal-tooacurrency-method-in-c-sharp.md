@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToOACurrency() Method
 using System;
@@ -39,14 +39,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Equivalent long value is 400000
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToOACurrency() Method
 using System;
@@ -81,7 +81,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Equivalent long value are respectivily
 200000
 300000

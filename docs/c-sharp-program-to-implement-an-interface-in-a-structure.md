@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public struct 
 {
     // Fields
@@ -18,7 +18,7 @@ public struct
 
 **语法**:
 
-```
+```cs
 interface interface_name
 {
     // Method Declaration in interface
@@ -32,7 +32,7 @@ interface interface_name
 *   创建两个名为 interface1 和 interface2 的接口，其中包含方法声明。
 *   创建一个实现这些接口的结构。
 
-```
+```cs
 struct GFG : interface1, interface2
 {
     // Method definition for interface method
@@ -48,7 +48,7 @@ struct GFG : interface1, interface2
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how to implement
 // interface in a structure
 using System;
@@ -109,7 +109,7 @@ public static void Main(String[] args)
 
 **输出:**
 
-```
+```cs
 interface1.Method() is called
 interface2.Method() is called
 ```

@@ -14,7 +14,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public override string ToString ();
     ```
 
@@ -22,7 +22,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // SByte.ToString() Method
     using System;
@@ -60,7 +60,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The String values are: 
     The Corresponding String Value is: 127
     The Corresponding String Value is: -128
@@ -75,7 +75,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public string ToString (string format);
     ```
 
@@ -85,7 +85,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // SByte.ToString(String) Method
     using System;
@@ -122,7 +122,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The value of string is 1.14E+002
 
     ```

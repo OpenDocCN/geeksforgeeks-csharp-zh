@@ -5,7 +5,7 @@
 **文件。OpenRead(String)** 是一个内置的 File 类方法，用于打开一个现有文件进行读取。
 **语法:**
 
-```
+```cs
 public static System.IO.FileStream OpenRead (string path);
 ```
 
@@ -34,7 +34,7 @@ public static System.IO.FileStream OpenRead (string path);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.OpenRead(String) method
 
@@ -67,7 +67,7 @@ class Test {
 
 **执行:**
 
-```
+```cs
 GeeksforGeeks
 ```
 
@@ -79,7 +79,7 @@ GeeksforGeeks
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.OpenRead(String) method
 
@@ -120,6 +120,6 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 GFG is a CS portal.
 ```

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public string Name { get; set; }
 ```
 
@@ -21,7 +21,7 @@ public string Name { get; set; }
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // concept of assigning names 
 // to the thread and fetching
@@ -76,7 +76,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 The name of the current thread is: Geeks2
 The name of the current thread is: Geeks3
 The name of the current thread is: Geeks4
@@ -86,7 +86,7 @@ The name of the current thread is: Geeks1
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the 
 // concept of giving a name to thread
 using System;
@@ -113,7 +113,7 @@ class Name {
 
 **输出:**
 
-```
+```cs
 The name of the thread is MyThread
 
 ```

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static byte[] FromBase64String (string s);
 ```
 
@@ -23,7 +23,7 @@ public static byte[] FromBase64String (string s);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.FromBase64String(String) Method
 using System;
@@ -86,7 +86,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 For byte1
 The base 64 string: 'AgQGCAoMDhASFA=='
 The base 64 string: 'AgQGCAoMDhASFA=='
@@ -101,7 +101,7 @@ Converted byte value: 0A-14-1E-28-32
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.FromBase64String(String) Method
 using System;
@@ -161,7 +161,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 For byte1
 The base 64 string: 'AgQGCAoMDhASFA=='
 Converted byte value: 02-04-06-08-0A-0C-0E-10-12-14
@@ -173,7 +173,7 @@ Exception Thrown: System.ArgumentNullException
 
 **例 3:** 为*格式异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.FromBase64String(String) Method
 using System;
@@ -235,7 +235,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 For byte1
 The base 64 string: 'AgQGCAoMDhASFA=='
 Converted byte value: 02-04-06-08-0A-0C-0E-10-12-14

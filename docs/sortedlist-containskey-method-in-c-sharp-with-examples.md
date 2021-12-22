@@ -12,7 +12,7 @@
 
 **示例:**
 
-```
+```cs
 Input  : [(1, "Python"), (2, "c")]
 Key    : 1
 Output : Found
@@ -30,7 +30,7 @@ Output : Not Found
 
 ## C#
 
-```
+```cs
 // C# program to check whether a SortedList 
 // object contains a specific key or not
 using System;
@@ -79,7 +79,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Present in the List
 Present in the List
 Not in the List

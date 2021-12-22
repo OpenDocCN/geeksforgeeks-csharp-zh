@@ -16,7 +16,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Sign(Single) Method
 using System;
@@ -54,7 +54,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Greater than zero
 Less than zero
 

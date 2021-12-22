@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void CopyTo (Array array, int index);
 ```
 
@@ -27,7 +27,7 @@ public virtual void CopyTo (Array array, int index);
 
 **例 1:**
 
-```
+```cs
 // C# code to illustrate the
 // Queue.CopyTo(Array, Int32)
 // Method
@@ -105,7 +105,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Before Method: 
 
 Queue Contains: 
@@ -141,7 +141,7 @@ arr[5] : D
 
 **例 2:**
 
-```
+```cs
 // C# code to illustrate the
 // Queue.CopyTo(Array, Int32)
 // Method

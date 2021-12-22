@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static long Parse (string str);
 ```
 
@@ -24,7 +24,7 @@ public static long Parse (string str);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // Int64.Parse(String) Method
 using System;
@@ -67,7 +67,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 '9223372036854775807' parsed as 9223372036854775807
 Can't Parsed '29,22337,20368547'
 '-922337203685477' parsed as -922337203685477
@@ -77,7 +77,7 @@ Can't Parsed '29,22337,20368547'
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // Int64.Parse(String) Method
 // for ArgumentNullException
@@ -124,7 +124,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.ArgumentNullException
 
 ```

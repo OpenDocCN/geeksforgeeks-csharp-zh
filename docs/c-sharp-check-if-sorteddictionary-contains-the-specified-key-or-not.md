@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool ContainsKey (TKey key);
 ```
 
@@ -20,7 +20,7 @@ public bool ContainsKey (TKey key);
 
 **例 1:**
 
-```
+```cs
 // C# code to check if a key is
 // present or not in a SortedDictionary.
 using System;
@@ -57,14 +57,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Key : 4 is present
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if a key is
 // present or not in a SortedDictionary.
 using System;
@@ -101,7 +101,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Key : USA is absent
 
 ```

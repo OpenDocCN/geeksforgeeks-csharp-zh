@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public string Replace(char Oldchar, char Newchar)
 or
 public string Replace(string Oldvalue, string Newvalue)
@@ -26,7 +26,7 @@ public string Replace(string Oldvalue, string Newvalue)
 
 *   **示例 1:** 程序演示**公共字符串替换(char Oldchar，char Newchar)** 方法。指定字符的所有出现都被另一个指定字符替换。如果在当前字符串对象中找不到旧字符，则字符串保持不变。
 
-    ```
+    ```cs
     Input : str  = "GeeksForGeeks"
             str.Replace('s', 'G');
     Output: GeekGForGeekG
@@ -37,7 +37,7 @@ public string Replace(string Oldvalue, string Newvalue)
 
     ```
 
-    ```
+    ```cs
     // C# program to illustrate the Replace()
     // Method with character parameter
     using System;
@@ -68,7 +68,7 @@ public string Replace(string Oldvalue, string Newvalue)
 
     **输出:**
 
-    ```
+    ```cs
     OldString : Geeks For Geeks
     NewString: GeekG For GeekG
 
@@ -79,7 +79,7 @@ public string Replace(string Oldvalue, string Newvalue)
 
 *   **示例 2:** 程序演示**公共字符串替换(字符串 Oldvalue，字符串 Newvalue)** 方法。当前字符串实例中指定字符串的所有匹配项都被另一个指定字符串替换。如果在当前字符串中找不到旧值，则字符串保持不变。
 
-    ```
+    ```cs
     Input:  str  = "Geeks For Geeks"
             str.Replace("Geeks", "---");
     Output: --- For ---
@@ -90,7 +90,7 @@ public string Replace(string Oldvalue, string Newvalue)
 
     ```
 
-    ```
+    ```cs
     // C# program to illustrate the Replace
     // Method with string parameter
     using System;
@@ -122,7 +122,7 @@ public string Replace(string Oldvalue, string Newvalue)
 
     **输出:**
 
-    ```
+    ```cs
     OldString : Geeks For Geeks
     NewString: --- For ---
 
@@ -138,7 +138,7 @@ public string Replace(string Oldvalue, string Newvalue)
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the 
 // multiple replacements calls
 using System;
@@ -160,7 +160,7 @@ public class Geeks{
 
 **Output:**
 
-```
+```cs
 Old String: XXXXX
 New string: AAAAA
 

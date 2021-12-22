@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual object Pop ();
 ```
 
@@ -18,7 +18,7 @@ public virtual object Pop ();
 
 **例 1:**
 
-```
+```cs
 // C# Program to illustrate the 
 // use of Stack.Pop() Method
 using System;
@@ -57,7 +57,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number of elements in the Stack: 5
 Top element of Stack is: GeeksforGeeks
 Number of elements in the Stack: 4
@@ -66,7 +66,7 @@ Number of elements in the Stack: 4
 
 **例 2:**
 
-```
+```cs
 // C# Program to illustrate the 
 // use of Stack.Pop() Method
 using System;
@@ -102,7 +102,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number of elements in the Stack: 2
 Top element of Stack is: 9
 Number of elements in the Stack: 1

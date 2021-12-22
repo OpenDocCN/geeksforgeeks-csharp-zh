@@ -16,7 +16,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.IsHexEncoding(String,
 // Int32)  Method
@@ -51,14 +51,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 %75 is a valid Hexadecimal Encoded
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.IsHexEncoding(String, 
 // Int32) Method
@@ -99,7 +99,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 %65 is a not valid Hexadecimal Encoded
 %75 is a valid Hexadecimal Encoded
 %55 is a valid Hexadecimal Encoded

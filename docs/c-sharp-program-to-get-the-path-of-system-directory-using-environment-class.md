@@ -16,7 +16,7 @@
 
 ## c#
 
-```
+```cs
 // C# program to find the path of system directory
 using System;
 
@@ -41,7 +41,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 System Directory:
 C:\Windows\system32
 ```

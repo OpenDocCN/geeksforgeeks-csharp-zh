@@ -20,7 +20,7 @@
 
 **例 1:** 当 a1 大于 a2 时。
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Compare(Decimal, 
 // Decimal) Method
@@ -50,14 +50,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The compare value is : 1
 
 ```
 
 **例 2:** 当 a1 小于 a2 时。
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Compare(Decimal,
 // Decimal) Method
@@ -87,14 +87,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The compare value is : -1
 
 ```
 
 **例 3:** 当 a1 等于 a2 时。
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Compare(Decimal,
 // Decimal) Method
@@ -124,7 +124,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The compare value is : 0
 
 ```

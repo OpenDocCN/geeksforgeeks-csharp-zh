@@ -6,7 +6,7 @@ LINQ 被称为语言集成查询，它是在年引入的。NET 3.5。它赋予�
 
 **示例:**
 
-```
+```cs
 Input : List of Employees:
        {{id = 101, name = "Sravan", age = 12},
         {id = 102, name = "deepu",  age = 15},
@@ -29,7 +29,7 @@ Output: No Output
 > *   创建包含四个变量(身份证、姓名、部门和团队)的员工列表。
 > *   使用以下查询，通过选择以“n”结尾的员工姓名，循环查看员工详细信息并获取员工详细信息:
 > 
-> ```
+> ```cs
 > IEnumerable<Employee> Query = from emp in employees
 >                               where emp.name[emp.name.Length - 1] == 'n'
 >                               select emp;
@@ -42,7 +42,7 @@ Output: No Output
 
 ## C#
 
-```
+```cs
 // C# program to display the list of employees
 // whose last character of the name is 'n' 
 using System;
@@ -104,7 +104,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 ID  Name  Department
 ++++++++++++++++++++
 101 Sravan Development

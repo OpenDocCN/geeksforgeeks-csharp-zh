@@ -25,7 +25,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the 
     // Array.Sort(Array, IComparer) method
     using System;
@@ -78,7 +78,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The Original array:
     A
     D
@@ -101,7 +101,7 @@
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the 
     // Array.Sort(Array, IComparer) method
     using System;
@@ -154,7 +154,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The Original array:
     10 1 9 8 3 4 6 5 2 7 
 
@@ -183,7 +183,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the 
     // Array.Sort(Array, Array, 
     // IComparer) method
@@ -240,7 +240,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The original order of elements in the array:
     H : A
     J : E
@@ -280,7 +280,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Array.Sort(Array, Array) method
     using System;
@@ -321,7 +321,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The original array:
     7 : A
     5 : E

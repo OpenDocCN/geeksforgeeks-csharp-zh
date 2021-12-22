@@ -23,7 +23,7 @@
 
 **程序 1:**
 
-```
+```cs
 // C# program to illustrate the use
 // of Console.Beep(Int32, Int32) Method
 using System;
@@ -55,7 +55,7 @@ class Program {
 
 **程序 2:**
 
-```
+```cs
 // C# program to illustrate the use
 // of Console.Beep(Int32, Int32) Method
 using System;

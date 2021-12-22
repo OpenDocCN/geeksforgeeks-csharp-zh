@@ -19,7 +19,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int64.Equals(Int64) Method
     using System;
@@ -52,14 +52,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     45643242 is not equal to 2564233
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int64.Equals(Int64) Method
     using System;
@@ -99,7 +99,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     44355 is not equal to 578
     423445 is equal to 423445
     12560 is not equal to 28960
@@ -120,7 +120,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int64.Equals(Object) Method
     using System;
@@ -153,14 +153,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     1879650 is not equal to 0
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int64.Equals(Object) Method
     using System;
@@ -199,7 +199,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     54547 is not equal to 54585
     555 is not equal to 489
     10450 is not equal to 10450

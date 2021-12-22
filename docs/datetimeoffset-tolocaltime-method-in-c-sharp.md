@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTimeOffset.ToLocalTime()
 // Method
@@ -51,14 +51,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTimeOffset is 06/01/2007 12:55:00 +00:00
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTimeOffset.ToLocalTime()
 // Method
@@ -89,7 +89,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTimeOffset is 06/01/2027 12:55:00 +00:00
 
 ```

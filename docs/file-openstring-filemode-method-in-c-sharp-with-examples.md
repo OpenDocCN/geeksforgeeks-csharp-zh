@@ -5,7 +5,7 @@
 **文件。Open(String，FileMode)** 是一个内置的 File 类方法，用于在指定路径上打开具有读/写访问权限的 FileStream，不共享。
 **语法:**
 
-```
+```cs
 public static System.IO.FileStream Open (string path, System.IO.FileMode mode);
 ```
 
@@ -32,7 +32,7 @@ public static System.IO.FileStream Open (string path, System.IO.FileMode mode);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Open(String, FileMode) method
 

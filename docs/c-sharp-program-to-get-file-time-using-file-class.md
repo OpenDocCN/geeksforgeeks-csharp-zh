@@ -28,7 +28,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to get file time
 // using File Class
 using System;
@@ -52,6 +52,6 @@ static void Main()
 
 **输出**:
 
-```
+```cs
 File is created at: 10/22/2021 1:02:10 PM
 ```

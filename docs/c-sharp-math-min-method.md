@@ -18,7 +18,7 @@
 
 **上述所有方法的通用语法:**
 
-```
+```cs
 public static data_type Min(Data_type first_value, Data_type second_value)
 ```
 
@@ -31,7 +31,7 @@ public static data_type Min(Data_type first_value, Data_type second_value)
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Math.Min() method
 using System;
@@ -93,7 +93,7 @@ static void Main()
 
 **Output:** 
 
-```
+```cs
 Math.Min Method (Byte, Byte) = 10
 Math.Min Method (Decimal, Decimal) = 1000
 Math.Min Method (Double, Double) = 8.62644598

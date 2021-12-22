@@ -11,7 +11,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToDouble(Decimal) Method
 using System;
@@ -54,7 +54,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Double value is : 1.34563456789E-11
 The Double value is : 4.58966251445286E+21
 

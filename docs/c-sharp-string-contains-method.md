@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool Contains(string str)
 ```
 
@@ -24,7 +24,7 @@ public bool Contains(string str)
 
 **程序 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // String.Contains() Method
 using System;
@@ -53,7 +53,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 True
 False
 
@@ -61,7 +61,7 @@ False
 
 **程序 2:** 使用序数比较和不区分大小写的序数比较来确定字符串中是否存在子字符串。
 
-```
+```cs
 // C# program to illustrate the
 // String.Contains() Method using
 // ordinal comparison and case-
@@ -112,7 +112,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 For Ordinal: False
 For OrdinalIgnoreCase: True
 
@@ -120,7 +120,7 @@ For OrdinalIgnoreCase: True
 
 **程序 3:** 以下示例确定字符串“Computer”是否是给定字符串的子字符串。如果在字符串中找到它，它也会显示它的起始位置。
 
-```
+```cs
 // C# program to demonstrate the
 // String.Contains() Method
 // along with the starting position
@@ -150,7 +150,7 @@ class Example {
 
 **输出:**
 
-```
+```cs
 'Computer' is in the string 'GeeksforGeeks is a Computer Science Portal': True
 Computer begins at character position 20
 

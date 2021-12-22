@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.IEnumerator GetEnumerator ();
 
 ```
@@ -26,7 +26,7 @@ public System.Collections.IEnumerator GetEnumerator ();
 
 **例 1:**
 
-```
+```cs
 // C# code to return an enumerator
 // that iterates through the BitArray
 using System;
@@ -59,7 +59,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 True
 True
@@ -70,7 +70,7 @@ True
 
 **例 2:**
 
-```
+```cs
 // C# code to return an enumerator
 // that iterates through the BitArray
 using System;
@@ -109,7 +109,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 True
 True

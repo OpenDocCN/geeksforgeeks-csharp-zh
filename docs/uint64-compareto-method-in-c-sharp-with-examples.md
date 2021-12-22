@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public int CompareTo (ulong value);
     ```
 
@@ -28,7 +28,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt64.CompareTo(UInt64) Method
     using System;
@@ -64,14 +64,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     312312131231 is greater than 523564123
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt64.CompareTo(UInt64) Method
     using System;
@@ -112,7 +112,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     34432425 is greater than 708343
     3780 is less than 8920
     8543453910 is less than 85345340920
@@ -126,7 +126,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public int CompareTo (object value);
     ```
 
@@ -144,7 +144,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt64.CompareTo(Object) Method
     using System;
@@ -191,14 +191,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     2324313420 is greater than 687
 
     ```
 
     **示例 2:** 适用于*参数异常*
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt64.CompareTo(Object) Method
     using System;
@@ -246,7 +246,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     value2 must be null or an instance of UInt64
     Exception Thrown: System.ArgumentException
 

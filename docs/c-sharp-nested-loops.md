@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 for(variable initialization; testing condition; increment / decrement)
 {
     for(variable initialization; testing condition; 
@@ -24,7 +24,7 @@ for(variable initialization; testing condition; increment / decrement)
 
 ## C#
 
-```
+```cs
 // C# program to illustrate nested for loop 
 using System; 
 
@@ -44,7 +44,7 @@ public static void Main() 
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks!!
 GeeksforGeeks!!
 GeeksforGeeks!!
@@ -55,7 +55,7 @@ GeeksforGeeks!!
 
 **语法:**
 
-```
+```cs
 while(condition) 
 {
    while(condition)
@@ -72,7 +72,7 @@ while(condition)
 
 ## C#
 
-```
+```cs
 // C# program to illustrate nested while loop 
 using System; 
 
@@ -99,7 +99,7 @@ public static void Main() 
 
 **输出:**
 
-```
+```cs
 Outer loop = 1
 Inner loop = 2
 Inner loop = 3
@@ -112,7 +112,7 @@ Outer loop = 3
 
 ****语法:****
 
-```
+```cs
 do
 {
    // Statements
@@ -129,7 +129,7 @@ while(condition);
 
 ## **C#**
 
-```
+```cs
 // C# program to illustrate nested do-while loop 
 using System; 
 
@@ -158,7 +158,7 @@ public static void Main() 
 
 ****输出:****
 
-```
+```cs
 Outer loop = 1
 Inner loop: 1
 Inner loop: 2

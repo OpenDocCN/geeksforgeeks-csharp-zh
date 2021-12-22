@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input: Y = 2020 N = 02
 Output: 29
 
@@ -21,7 +21,7 @@ Output: 30
 > 
 > **第二步:**日期时间。DaysInMonth()用于获取一个月的天数
 > 
-> ```
+> ```cs
 > int days = DateTime.DaysInMonth(year, month);;
 > 
 > ```
@@ -32,7 +32,7 @@ Output: 30
 
 ## C#
 
-```
+```cs
 // C# program to Get a Total Number
 // of Days in a Month
 using System; 
@@ -60,7 +60,7 @@ public class GFG{ 
 
 **输出:**
 
-```
+```cs
 Total days in (2020/2) : 29
 
 ```
@@ -71,7 +71,7 @@ Total days in (2020/2) : 29
 > 
 > **第二步:**文化信息。current culture . calendar . getdaysinmonth()用于获取一个月中的天数
 > 
-> ```
+> ```cs
 > int days = CultureInfo.CurrentCulture.Calendar.GetDaysInMonth(year, month);;
 > 
 > ```
@@ -82,7 +82,7 @@ Total days in (2020/2) : 29
 
 ## C#
 
-```
+```cs
 // C# program to Get a Total Number
 // of Days in a Month
 using System; 
@@ -113,7 +113,7 @@ public class GFG{ 
 
 **输出:**
 
-```
+```cs
 Total days in (2020/2) : 29 days
 
 ```

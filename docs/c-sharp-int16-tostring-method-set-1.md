@@ -14,7 +14,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public string ToString (IFormatProvider provider);
     ```
 
@@ -24,7 +24,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate
     // Int16.ToString(IFormatProvider)
     // Method
@@ -56,7 +56,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The Value is 15 and provider is en-US
 
     ```
@@ -75,7 +75,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int16.ToString(String, IFormatProvider)
     // Method
@@ -112,7 +112,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The value is 00099
     The Format is D5
     The Provider is fr-FR

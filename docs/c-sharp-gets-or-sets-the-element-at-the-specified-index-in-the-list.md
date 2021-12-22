@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public T this[int index] { get; set; }
 ```
 
@@ -28,7 +28,7 @@ public T this[int index] { get; set; }
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // List.Item[32] property
 using System;
@@ -60,14 +60,14 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Element at index 2: C
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // List.Item[32] property
 using System;
@@ -107,7 +107,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Element at index 2: C
 After Setting the new value at 2: Z
 

@@ -13,7 +13,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // MathF.Sinh(Single) Method
 using System;
@@ -42,7 +42,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The Sinh of num1 = 1.746714E+19
 The Sinh of num2 = 0
 The Sinh of num3 = 1.175201
@@ -52,7 +52,7 @@ The Sinh of num3 = 1.175201
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // MathF.Sinh(Single) Method
 using System;
@@ -88,7 +88,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Sinh(1.047198) will be 1.249367
 Sinh(NaN) will be NaN
 Sinh(-Infinity) will be -Infinity

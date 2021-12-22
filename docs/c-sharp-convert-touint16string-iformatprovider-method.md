@@ -24,7 +24,7 @@ T3】例 1:
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToUInt16() Method
 using System;
@@ -85,7 +85,7 @@ public static void get(string s,
 
 **Output**
 
-```
+```cs
 Converted ushort value from a specified string  12345,  3456,  3456, 
 ```
 
@@ -93,7 +93,7 @@ Converted ushort value from a specified string  12345,  3456,  3456,
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToUInt16() Method
 using System;
@@ -166,7 +166,7 @@ public static void get(string s,
 
 **Output:** 
 
-```
+```cs
 Converted ushort value of specified strings:  12345,  3456,  3456, 
 
 format of s is invalid 
@@ -177,7 +177,7 @@ Exception Thrown: System.FormatException
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToUInt16 Method
 using System;
@@ -249,7 +249,7 @@ public static void get(string s,
 
 **Output:** 
 
-```
+```cs
 Converted ushort value of specified strings:  12345,  3456,  3456, 
 
 s is less than the MinValue

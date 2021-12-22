@@ -12,7 +12,7 @@
 
 **算法:**
 
-```
+```cs
 Initialize A = arr[0..d-1] and B = arr[d..n-1]
 1) Do following until size of A is equal to size of B
 
@@ -31,7 +31,7 @@ Initialize A = arr[0..d-1] and B = arr[d..n-1]
 
 ## C#
 
-```
+```cs
 using System;
 
 class GFG{
@@ -123,7 +123,7 @@ public static void Main(String[] args) 
 
 **输出:**
 
-```
+```cs
 3 5 4 6 7 1 2
 ```
 
@@ -132,7 +132,7 @@ public static void Main(String[] args) 
 
 ## C#
 
-```
+```cs
 // C# code for above implementation
 static void leftRotate(int []arr, int d, int n)
 {

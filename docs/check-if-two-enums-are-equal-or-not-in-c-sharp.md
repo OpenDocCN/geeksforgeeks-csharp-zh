@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public override bool Equals (object obj);
 ```
 
@@ -16,7 +16,7 @@ public override bool Equals (object obj);
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // Enum.Equals(Object) Method
 using System;
@@ -52,7 +52,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 True
 False
 False

@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool IsReadOnly { get; }
 
 ```
@@ -24,7 +24,7 @@ public virtual bool IsReadOnly { get; }
 
 **示例:**
 
-```
+```cs
 // C# code to check if the ArrayList
 // is read-only or not
 using System;
@@ -56,7 +56,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```

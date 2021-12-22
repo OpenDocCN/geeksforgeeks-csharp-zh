@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual System.Collections.IEnumerator GetEnumerator ();
 ```
 
@@ -14,7 +14,7 @@ public virtual System.Collections.IEnumerator GetEnumerator ();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // Stack.GetEnumerator Method
 using System;
@@ -54,7 +54,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks
 Data Structures
 Noida

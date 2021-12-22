@@ -19,7 +19,7 @@
 
 **示例 1:** 在这段代码中，我们使用 SyncRoot 获得名为 *hd* 的混合字典的 Synchronized 访问，这不是一个线程安全的过程，可能会导致异常。所以为了避免异常，我们在枚举期间锁定集合。
 
-```
+```cs
 // C# program to illustrate the
 // use of SyncRoot property of
 // the HybridDictionary class
@@ -61,7 +61,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 1 ---- HTML
 2 ---- CSS
 3 ---- PHP
@@ -72,7 +72,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of SyncRoot property of
 // the HybridDictionary class
@@ -114,7 +114,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 10 ----> Shyam
 20 ----> Ram
 30 ----> Rohit

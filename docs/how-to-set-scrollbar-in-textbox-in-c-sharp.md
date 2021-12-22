@@ -21,7 +21,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式设置文本框的滚动条属性:
 
-```
+```cs
 public System.Windows.Forms.ScrollBars ScrollBars { get; set; }
 ```
 
@@ -29,7 +29,7 @@ public System.Windows.Forms.ScrollBars ScrollBars { get; set; }
 
 *   **步骤 1 :** 使用文本框类提供的*文本框()*构造函数创建一个文本框。
 
-    ```
+    ```cs
     // Creating textbox
     TextBox Mytextbox = new TextBox();
 
@@ -37,7 +37,7 @@ public System.Windows.Forms.ScrollBars ScrollBars { get; set; }
 
 *   **步骤 2 :** 创建文本框后，设置文本框类提供的文本框的滚动条属性。
 
-    ```
+    ```cs
     // Set ScrollBars property
     Mytextbox.ScrollBars = ScrollBars.Vertical;
 
@@ -45,7 +45,7 @@ public System.Windows.Forms.ScrollBars ScrollBars { get; set; }
 
 *   **Step 3 :** And last add this textbox control to from using Add() method.
 
-    ```
+    ```cs
     // Add this textbox to form
     this.Controls.Add(Mytextbox);
 
@@ -53,7 +53,7 @@ public System.Windows.Forms.ScrollBars ScrollBars { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

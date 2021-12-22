@@ -23,7 +23,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // CopyTo () StringBuilder Method
 using System;
@@ -57,14 +57,14 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 The Copied String in dest Variable is: For
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // CopyTo() StringBuilder Method
 using System;
@@ -98,7 +98,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 String Copied in dest is: Hello Geeks
 
 ```

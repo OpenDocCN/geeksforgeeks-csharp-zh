@@ -8,14 +8,14 @@
 
 **语法:**
 
-```
+```cs
 const data_type constant_name = value;
 
 ```
 
 **示例:**
 
-```
+```cs
 Input: const int a = 15;  
 Output: a: 15
 
@@ -23,7 +23,7 @@ Output: a: 15
 
 **例 1:**
 
-```
+```cs
 // C# program to define different types of constants 
 using System;
 using System.Text;
@@ -52,7 +52,7 @@ namespace Geeks
 
 **输出:**
 
-```
+```cs
 A: 15
 B: 50.83
 
@@ -60,7 +60,7 @@ B: 50.83
 
 **例 2:**
 
-```
+```cs
 // C# program to define different types of constants 
 using System;
 using System.Text;
@@ -93,7 +93,7 @@ namespace Geeks
 
 **输出:**
 
-```
+```cs
 C: S
 D: 70.23
 E: Geeks

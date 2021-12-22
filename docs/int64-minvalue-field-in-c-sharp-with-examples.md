@@ -6,7 +6,7 @@ Int64 结构的**最小值**属性或字段用于表示 Int64 的最小可能值
 
 **语法:**
 
-```
+```cs
 public const long MinValue = -9223372036854775808;
 ```
 
@@ -14,7 +14,7 @@ public const long MinValue = -9223372036854775808;
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // Int64.MinValue Field
 using System;
@@ -50,7 +50,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Minimum Value is: -9223372036854775808
 Not equal..!!
 Type of var1 is: Int64

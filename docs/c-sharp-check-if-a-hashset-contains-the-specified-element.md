@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 mySet.Contains(T item);
 
 ```
@@ -19,7 +19,7 @@ mySet.Contains(T item);
 
 **例子 1:**
 
-```
+```cs
 // C# code to check if a HashSet
 // contains the specified element
 using System;
@@ -52,14 +52,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Required Element is present
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if a HashSet
 // contains the specified element
 using System;
@@ -91,7 +91,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Required Element is not present
 
 ```

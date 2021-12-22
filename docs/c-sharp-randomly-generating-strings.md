@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Random String: ZDTXZFPYQEOUPGMEIYCEUSK
 
 Random String: PSSR34YB
@@ -39,7 +39,7 @@ Random String: PSSR34YB
 
 ## C#
 
-```
+```cs
 // C# program to generate random strings
 using System;
 
@@ -77,7 +77,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Random String:UUYXBGA
 ```
 
@@ -100,7 +100,7 @@ Random String:UUYXBGA
 
 ## C#
 
-```
+```cs
 // C# program to generate random strings
 using System;
 
@@ -135,7 +135,7 @@ public static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Random String:mphhzgvpjr
 ```
 
@@ -158,7 +158,7 @@ Random String:mphhzgvpjr
 
 ## C#
 
-```
+```cs
 // C# program to generate random alphanumeric strings
 using System;
 
@@ -193,7 +193,7 @@ public static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Random alphanumeric String:v91d2p48
 ```
 

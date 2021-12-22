@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // MathF.Tan(Single) Method
 using System;
@@ -50,7 +50,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 -0.5317094
 -3.732049
 4.010781
@@ -59,7 +59,7 @@ class GFG {
 
 **例 2:** 展示 MathF 的工作原理。谭(单)法当论证是 *NaN 还是无穷大*。
 
-```
+```cs
 // C# program to illustrate the
 // MathF.Tan(Single) Method
 using System;
@@ -98,7 +98,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 NaN
 NaN
 NaN

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void AddRange (ICollection col);
 ```
 
@@ -21,7 +21,7 @@ public virtual void AddRange (ICollection col);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the AddRange() Method
 using System;
 using System.Collections;
@@ -76,7 +76,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The original ArrayList: C# DSA Java CPP
 The original Queue: C Python HTML CSS JavaScript Ruby
 The new ArrayList is: C# DSA Java CPPC Python HTML CSS JavaScript Ruby
@@ -85,7 +85,7 @@ The new ArrayList is: C# DSA Java CPPC Python HTML CSS JavaScript Ruby
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate 
 // the AddRange() Method
 using System;
@@ -139,7 +139,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 The ArrayList 1: 
 5
 10

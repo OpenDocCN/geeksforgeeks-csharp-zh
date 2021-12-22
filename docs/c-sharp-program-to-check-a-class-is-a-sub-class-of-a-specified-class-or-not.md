@@ -11,7 +11,7 @@
 
 **语法**:
 
-```
+```cs
 public virtual bool IsSubclassOf(Type c);
 ```
 
@@ -19,7 +19,7 @@ public virtual bool IsSubclassOf(Type c);
 
 ## C#
 
-```
+```cs
 // C# program to check whether a class is
 // a sub-class of a specified class or not
 using System;
@@ -50,7 +50,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 True
 False
 False
@@ -60,7 +60,7 @@ False
 
 ## C#
 
-```
+```cs
 // C# program to check whether a class is
 // a sub-class of a specified class or not
 using System;
@@ -99,6 +99,6 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 Given class is a sub class
 ```

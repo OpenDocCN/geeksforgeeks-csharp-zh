@@ -5,7 +5,7 @@
 此方法用于使用指定的区域性特定格式信息，将数字的指定字符串表示形式转换为等效的 8 位无符号整数。
 **语法:**
 
-```
+```cs
 public static byte ToByte (string value, IFormatProvider provider);
 ```
 
@@ -25,7 +25,7 @@ T3】例 1:
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToByte() Method
 using System;
@@ -83,7 +83,7 @@ public static void get(string s, CultureInfo cultures)
 
 **Output:** 
 
-```
+```cs
 Converted bool value of specified strings: 
  234,  234,  240,  255,  140,  120,
 ```

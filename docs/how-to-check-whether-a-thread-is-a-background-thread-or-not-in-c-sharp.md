@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsBackground { get; set; }
 ```
 
@@ -16,7 +16,7 @@ public bool IsBackground { get; set; }
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of Background thread
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 In progress thread is: Geek thread
 Main Thread Ends!!
 
@@ -69,7 +69,7 @@ Main Thread Ends!!
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of IsBackground property
 using System;
@@ -134,7 +134,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Foreground Thread count: 0
 Background Thread count: 0
 Background Thread count: 1

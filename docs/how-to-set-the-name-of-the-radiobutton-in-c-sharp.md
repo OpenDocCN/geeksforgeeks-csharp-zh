@@ -19,7 +19,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式将名称设置为单选按钮:
 
-```
+```cs
 public string Name { get; set; }
 ```
 
@@ -27,7 +27,7 @@ public string Name { get; set; }
 
 *   **步骤 1:** 使用 RadioButton 类提供的 radio button()构造函数创建单选按钮。
 
-    ```
+    ```cs
     // Creating radio button
     RadioButton r1 = new RadioButton();
 
@@ -35,7 +35,7 @@ public string Name { get; set; }
 
 *   **步骤 2:** 创建单选按钮后，设置单选按钮类提供的单选按钮的 Name 属性。
 
-    ```
+    ```cs
     // Setting the name of the radio button
     r1.Name = "My_Radio_1";
 
@@ -43,7 +43,7 @@ public string Name { get; set; }
 
 *   **Step 3:** And last add this RadioButton control to the form using Add() method.
 
-    ```
+    ```cs
     // Add this radio button to the form
     this.Controls.Add(r1);
 
@@ -51,7 +51,7 @@ public string Name { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

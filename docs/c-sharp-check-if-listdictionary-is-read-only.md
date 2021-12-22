@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsReadOnly { get; }
 
 ```
@@ -15,7 +15,7 @@ public bool IsReadOnly { get; }
 
 **例:**
 
-```
+```cs
 // C# code to check if ListDictionary is read-only
 using System;
 using System.Collections;
@@ -45,7 +45,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 
 ```

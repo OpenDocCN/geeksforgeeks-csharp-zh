@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public bool Remove (T item);
 ```
 
@@ -28,7 +28,7 @@ public bool Remove (T item);
 
 **例 1:**
 
-```
+```cs
 // C# program to remove the specified
 // element from the List<T>
 using System;
@@ -71,7 +71,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Before Removing
 1
 2
@@ -86,7 +86,7 @@ After Removing
 
 **例 2:**
 
-```
+```cs
 // C# program to remove the specified
 // element from the List<T>
 using System;
@@ -135,7 +135,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Before Removing
 1
 2

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 mySet.Count;
 
 ```
@@ -17,7 +17,7 @@ mySet.Count;
 
 **例 1:**
 
-```
+```cs
 // C# code to get the number of
 // elements that are contained in HashSet
 using System;
@@ -46,14 +46,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 5
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to get the number of
 // elements that are contained in HashSet
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 0
 
 ```

@@ -18,7 +18,7 @@
 
 **上述所有方法的通用语法:**
 
-```
+```cs
 public static data_type Max(Data_type first_value, Data_type second_value)
 ```
 
@@ -31,7 +31,7 @@ public static data_type Max(Data_type first_value, Data_type second_value)
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Math.Max() method
 using System;
@@ -93,7 +93,7 @@ static void Main()
 
 **Output:** 
 
-```
+```cs
 Math.Max Method (Byte, Byte) = 15
 Math.Max Method (Decimal, Decimal) = 1568
 Math.Max Method (Double, Double) = 15.896745

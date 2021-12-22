@@ -7,7 +7,7 @@
 这里的实习池是一个表，包含对程序中以编程方式声明或创建的每个唯一文字字符串的单个引用。
 **语法:**
 
-```
+```cs
 public static string Intern (string strA);
 ```
 
@@ -19,7 +19,7 @@ public static string Intern (string strA);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate Intern() method
 using System;  
 
@@ -47,7 +47,7 @@ public class GFG   
 
 **Output:** 
 
-```
+```cs
 This is C# tutorial
 This is C# tutorial
 ```
@@ -56,7 +56,7 @@ This is C# tutorial
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // use of Intern() Method
 using System;
@@ -102,7 +102,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 string A == 'GeeksforGeeks'
 string B == 'GFG'
 string C == 'Noida'

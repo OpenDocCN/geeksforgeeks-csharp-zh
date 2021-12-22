@@ -8,7 +8,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to show the
 // Int16 Struct usage
 
@@ -41,7 +41,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Minimum value of Int16: -32768
 Maximum value of Int16: 32767
 
@@ -59,7 +59,7 @@ Maximum value of Int16: 32767
 
 ## C#
 
-```
+```cs
 // C# program to show the
 // Int32 struct usage
 
@@ -92,7 +92,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Minimum value of Int32: -2147483648
 Maximum value of Int32: 2147483647
 
@@ -110,7 +110,7 @@ Maximum value of Int32: 2147483647
 
 ## C#
 
-```
+```cs
 // C# program to show 
 // Int64 struct usage
 using System;
@@ -141,7 +141,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Minimum value of Int64: -9223372036854775808
 Maximum value of Int64: 9223372036854775807
 
@@ -167,21 +167,21 @@ Maximum value of Int64: 9223372036854775807
 | **5。** | Int16 的范围是从 -32768 到+32767。 | Int32 的范围是从 -2147483648 到+2147483647。 | Int64 的范围是从 -9223372036854775808 到+922372036854775807。 |
 | **6。** | 声明 Int16 的语法:
 
-```
+```cs
 Int16 variable_name;
 
 ```
 
  | 声明 Int32 的语法:
 
-```
+```cs
 Int32 variable_name;
 
 ```
 
  | 声明 Int64 的语法:
 
-```
+```cs
 Int64 variable_name;
 
 ```

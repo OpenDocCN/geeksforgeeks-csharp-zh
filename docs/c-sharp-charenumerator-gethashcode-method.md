@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual int GetHashCode ();
 ```
 
@@ -16,7 +16,7 @@ public virtual int GetHashCode ();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the use
 // of CharEnumerator.GetHashCode()
 // Method
@@ -46,7 +46,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 -381312627
 1646495825
 
@@ -54,7 +54,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the use
 // of CharEnumerator.GetHashCode()
 // Method
@@ -85,7 +85,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 491910500
 -1775248344
 

@@ -23,7 +23,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式设置 NumericUpDown 控件的名称:
 
-```
+```cs
 public string Name { get; set; }
 ```
 
@@ -31,7 +31,7 @@ public string Name { get; set; }
 
 *   **步骤 1:** 使用 numericpdown()构造函数创建 numericpdown，该构造函数由 numericpdown 类提供。
 
-    ```
+    ```cs
     // Creating a NumericUpDown
     NumericUpDown n = new NumericUpDown();
 
@@ -39,7 +39,7 @@ public string Name { get; set; }
 
 *   **第二步:**创建 numericpdown 后，设置 numericpdown 类提供的 numericpdown 的 Name 属性。
 
-    ```
+    ```cs
     // Setting the name
     n.Name = "MySpinBox";
 
@@ -47,7 +47,7 @@ public string Name { get; set; }
 
 *   **Step 3:** And last add this NumericUpDown control to the form using the following statement:
 
-    ```
+    ```cs
     // Adding NumericUpDown control on the form
     this.Controls.Add(n);
 
@@ -55,7 +55,7 @@ public string Name { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

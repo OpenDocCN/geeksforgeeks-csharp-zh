@@ -14,7 +14,7 @@
 
 ## c#
 
-```
+```cs
 // C# program to determine whether a process is
 // running in user interactive mode or not
 // Using Environment class
@@ -46,6 +46,6 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Yes! the process is running in user interactive mode
 ```

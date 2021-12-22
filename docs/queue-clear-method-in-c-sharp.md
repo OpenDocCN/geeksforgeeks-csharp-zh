@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Clear ();
 
 ```
@@ -15,7 +15,7 @@ public void Clear ();
 
 **例 1:**
 
-```
+```cs
 // C# code to illustrate the
 // Queue.Clear Method
 using System;
@@ -60,7 +60,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total number of elements in the Queue are : 4
 Total number of elements in the Queue are : 0
 

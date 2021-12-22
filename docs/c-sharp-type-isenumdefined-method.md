@@ -19,7 +19,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.IsEnumDefined(Object) Method
 using System;
@@ -83,14 +83,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 specified value is a member of the current enumeration type
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.IsEnumDefined(Object) Method
 using System;
@@ -146,7 +146,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The current type is not an enumeration.
 Exception Thrown: System.ArgumentException
 
@@ -154,7 +154,7 @@ Exception Thrown: System.ArgumentException
 
 **例 3:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.IsEnumDefined(Object) Method
 using System;
@@ -210,7 +210,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 value is null.
 Exception Thrown: System.ArgumentNullException
 

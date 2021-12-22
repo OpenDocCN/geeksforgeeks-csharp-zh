@@ -10,7 +10,7 @@ C#允许用户将一个[界面](https://www.geeksforgeeks.org/c-interface/)继�
 
 **语法:**
 
-```
+```cs
 // declaring an interface
 access_modifier interface interface_name 
 {
@@ -28,7 +28,7 @@ access_modifier interface interface_name : interface_name
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the concept
 // of inheritance in interface
 using System;
@@ -100,7 +100,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Implement method 1
 Implement method 2
 Implement method 3
@@ -110,7 +110,7 @@ Implement method 3
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the concept
 // of inheritance in the interface
 using System;
@@ -179,7 +179,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Total number of votes is: 470045
 Name of the author is: Siya
 Total number of published article is: 98

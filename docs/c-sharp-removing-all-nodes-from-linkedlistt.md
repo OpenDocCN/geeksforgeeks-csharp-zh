@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Clear ();
 
 ```
@@ -15,7 +15,7 @@ public void Clear ();
 
 **例 1:**
 
-```
+```cs
 // C# code to remove all
 // nodes from LinkedList
 using System;
@@ -53,7 +53,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total nodes in myList are : 5
 Total nodes in myList are : 0
 
@@ -61,7 +61,7 @@ Total nodes in myList are : 0
 
 **例 2:**
 
-```
+```cs
 // C# code to remove all
 // nodes from LinkedList
 using System;
@@ -97,7 +97,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total nodes in myList are : 3
 Total nodes in myList are : 0
 

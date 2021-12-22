@@ -16,7 +16,7 @@
 此方法用于使用指定的区域性特定格式信息将此实例的数值转换为其等效的字符串表示形式。
 **语法:**
 
-```
+```cs
 public string ToString (IFormatProvider provider);
 ```
 
@@ -26,7 +26,7 @@ public string ToString (IFormatProvider provider);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Int64.ToString(IFormatProvider)
 // Method
@@ -58,6 +58,6 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The Value is 9223372036854775807 and provider is en-US
 ```

@@ -15,7 +15,7 @@ C#是一种通用编程语言，用于创建移动应用程序、桌面应用程
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the above concept
 using System;
 
@@ -76,7 +76,7 @@ public static void Main(String[] args)
 
 **Output**
 
-```
+```cs
 Welcome Geeks
 Hello Geeks
 Bella Ciao Geeks
@@ -86,7 +86,7 @@ Bella Ciao Geeks
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the above concept
 using System;
 
@@ -170,7 +170,7 @@ public static void Main(String[] args)
 
 **Output**
 
-```
+```cs
 Welcome Geeks
 Hello Geeks
 Bella Ciao Geeks

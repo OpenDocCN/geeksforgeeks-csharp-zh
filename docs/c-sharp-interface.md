@@ -13,7 +13,7 @@
 
 ***接口声明语法:***
 
-```
+```cs
 *interface  <interface_name >
 {
     // declare Events
@@ -25,7 +25,7 @@
 
 ***实现接口的语法:***
 
-```
+```cs
 *class class_name : interface_name* 
 ```
 
@@ -33,7 +33,7 @@
 
 *   ***例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate working of 
     // interface
     using System;
@@ -71,13 +71,13 @@
 
     **输出:**
 
-    ```
+    ```cs
     Sudo Placement GeeksforGeeks
 
     ```* 
 *   ***例 2:**
 
-    ```
+    ```cs
     // C# program to illustrate the interface
     using System;
 
@@ -188,7 +188,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Bicycle present state :
     speed: 2 gear: 2
     Bike present state :

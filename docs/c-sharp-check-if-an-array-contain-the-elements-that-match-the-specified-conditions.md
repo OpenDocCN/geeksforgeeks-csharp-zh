@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool Exists<T> (T[] array, Predicate<T> match);
 ```
 
@@ -23,7 +23,7 @@ public static bool Exists<T> (T[] array, Predicate<T> match);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // Array.Exists(T[], Predicate<T>) Method
 using System;
@@ -60,7 +60,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Display the array:
 Ruby
 C
@@ -77,7 +77,7 @@ Is VB part of language: False
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the 
 // Array.Exists(T[], Predicate<T>) Method
 using System;
@@ -114,7 +114,7 @@ static public void Main()
 
 **Output:**
 
-```
+```cs
 Given Array: 
 Array
 Queue

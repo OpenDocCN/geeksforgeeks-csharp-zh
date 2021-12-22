@@ -21,7 +21,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Round(Single) method
 using System;
@@ -57,7 +57,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 Rounded value of 12.43456 is 12
 Rounded value of 12.63457 is 13
 
@@ -79,7 +79,7 @@ Rounded value of 12.63457 is 13
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Round(Single, Int32) Method
 using System;
@@ -109,7 +109,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 Rounded value of 12.43456 is 12.4346
 Rounded value of 12.63457 is 12.63
 

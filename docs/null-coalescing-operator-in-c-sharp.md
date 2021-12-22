@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 p ?? q
 ```
 
@@ -22,7 +22,7 @@ p ?? q
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how to use 
     // ?? operator with value types and
     // reference types
@@ -70,7 +70,7 @@ p ?? q
 
     **输出:**
 
-    ```
+    ```cs
     Value of item_4 is: GeeksforGeeks 
     Value of item_3 is: GeeksforGeeks
     Value of item_6 is: 40
@@ -81,7 +81,7 @@ p ?? q
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how ?? 
     // operator prevent the 
     // InvalidOperationException
@@ -118,7 +118,7 @@ p ?? q
 
     **输出:**
 
-    ```
+    ```cs
     Value of item_1 is: 
     Value of item_2 is: 100
 
@@ -128,7 +128,7 @@ p ?? q
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how ?? 
     // operator replaces if-else statements
     using System;
@@ -160,13 +160,13 @@ p ?? q
 
     **输出:**
 
-    ```
+    ```cs
     Value of item_1 is: 
     Value of item_2 is: 200
 
     ```
 
-    ```
+    ```cs
     // C# program to illustrate how ??
     // operator replaces if-else statements
     using System;
@@ -192,7 +192,7 @@ p ?? q
 
     **输出:**
 
-    ```
+    ```cs
     Value of item_1 is: 
     Value of item_2 is: 200
 
@@ -202,7 +202,7 @@ p ?? q
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how 
     // we use nested ?? operator
     using System;
@@ -230,6 +230,6 @@ p ?? q
 
     **输出:**
 
-    ```
+    ```cs
     Value of item_4 is: 500 
     ```

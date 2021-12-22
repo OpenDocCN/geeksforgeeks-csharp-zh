@@ -22,7 +22,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式设置 FlowLayoutPanel 控件的大小:
 
-```
+```cs
 public System.Drawing.Size Size { get; set; }
 ```
 
@@ -30,7 +30,7 @@ public System.Drawing.Size Size { get; set; }
 
 *   **步骤 1:** 使用 FlowLayoutPanel()构造函数创建一个 FlowLayoutPanel，该构造函数由 FlowLayoutPanel 类提供。
 
-    ```
+    ```cs
     // Creating a FlowLayoutPanel
     FlowLayoutPanel f = new FlowLayoutPanel();
 
@@ -38,7 +38,7 @@ public System.Drawing.Size Size { get; set; }
 
 *   **步骤 2:** 创建完 FlowLayoutPanel 后，设置 FlowLayoutPanel 类提供的 FlowLayoutPanel 的 Size 属性。
 
-    ```
+    ```cs
     // Setting the size
     f.Size = new Size(216, 57);
 
@@ -46,7 +46,7 @@ public System.Drawing.Size Size { get; set; }
 
 *   **第 3 步:**最后将此 FlowLayoutPanel 控件添加到表单中，并使用以下语句在 FlowLayoutPanel 中添加子控件:
 
-    ```
+    ```cs
     // Adding a FlowLayoutPanel 
     // control to the form
     this.Controls.Add(f);
@@ -61,7 +61,7 @@ public System.Drawing.Size Size { get; set; }
 
 **示例:**
 
-```
+```cs
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

@@ -12,7 +12,7 @@
 
 **例:**
 
-```
+```cs
 Input: {id = 202, Name = Mohit, Salary = 10000, Depertment = XYZ}
        {id = 204, Name = Sumit, Salary = 20000, Depertment = ABC}
        {id = 205, Name = Pritam, Salary = 80000, Depertment = ABC}
@@ -23,7 +23,7 @@ Output: {id = 206, Name = Poonam, Salary = 30000, Depertment = XYZ}
 
 ## c#
 
-```
+```cs
 // C# program to sort a list of employees based on 
 // salary in descending order and whose department is XYZ
 using System;
@@ -78,7 +78,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 101 Amit 50000 XYZ
 106 Sohan 40000 XYZ
 104 Sita 20000 XYZ

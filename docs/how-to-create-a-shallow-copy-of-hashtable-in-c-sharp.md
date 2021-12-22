@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 HashtableName.Clone();
 ```
 
@@ -14,7 +14,7 @@ HashtableName.Clone();
 
 **示例 1:** 创建一个哈希表类类型的对象 H1，它是在系统中预定义的。集合命名空间。然后我们使用哈希表添加类型字符串的键和值。添加方法。Hashtable.clone 方法用于创建 H1 的浅拷贝。我们使用 foreach 循环来显示浅层 H1 的元素。DictionaryEntry 属性用于设置或获取键的值，值按对排序。
 
-```
+```cs
 // C# Program to demonstrate
 // the Hashtable.Clone Method
 using System;
@@ -57,7 +57,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Key 5 Value Table
 Key 1 Value This
 Key 4 Value Hash

@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // Decimal.GetHashCode() Method
 using System;
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode for Decimal is: 161795526
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // Decimal.GetHashCode() Method
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode for -79228162514264337593543950335 is -974127104
 HashCode for 79228162514264337593543950335 is 1173356544
 

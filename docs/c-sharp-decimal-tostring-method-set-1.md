@@ -23,7 +23,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToString() Method
 using System;
@@ -48,14 +48,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String value is 7922816251426433759354.3950330
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToString() Method
 using System;
@@ -89,7 +89,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Equivalent String values are:
 String value is 20
 String value is 30
@@ -111,7 +111,7 @@ String value is 4294967295
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToString(String) Method
 using System;
@@ -148,14 +148,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String value is 1.6326E+004
 
 ```
 
 **例 2:** 为*格式异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToString(String) Method
 using System;
@@ -192,7 +192,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Format is invalid.
 Exception Thrown: System.FormatException
 

@@ -7,7 +7,7 @@ T5】string collection。方法用于搜索指定的字符串，该字符串返�
 
 **语法:**
 
-```
+```cs
 public int IndexOf (string value);
 
 ```
@@ -22,7 +22,7 @@ public int IndexOf (string value);
 
 **例 1:**
 
-```
+```cs
 // C# code to search string and returns
 // the zero-based index of the first
 // occurrence in StringCollection
@@ -58,14 +58,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 2
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to search string and returns
 // the zero-based index of the first
 // occurrence in StringCollection
@@ -101,7 +101,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 -1
 
 ```

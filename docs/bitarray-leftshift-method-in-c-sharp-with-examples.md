@@ -17,7 +17,7 @@
 
 最终结果是 00110。
 
-```
+```cs
 // C# program to illustrate the
 // BitArray.LeftShift() Method
 using System;
@@ -56,7 +56,7 @@ class GeeksforGeeks {
 
 **Output:**
 
-```
+```cs
 False
 False
 True
@@ -71,7 +71,7 @@ False
 
 最终结果是 000100。
 
-```
+```cs
 // C# program to illustrate the
 // BitArray.LeftShift() Method
 using System;
@@ -111,7 +111,7 @@ class GeeksforGeeks {
 
 **Output:**
 
-```
+```cs
 False
 False
 False

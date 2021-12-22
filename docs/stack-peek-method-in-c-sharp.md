@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual object Peek ();
 
 ```
@@ -19,7 +19,7 @@ public virtual object Peek ();
 
 **例 1:**
 
-```
+```cs
 // C# code to illustrate the
 // Stack.Peek Method
 using System;
@@ -71,7 +71,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total number of elements in the Stack are : 6
 Element at the top is : 6th Element
 Element at the top is : 6th Element
@@ -81,7 +81,7 @@ Total number of elements in the Stack are : 6
 
 **例 2:**
 
-```
+```cs
 // C# code to illustrate the
 // Stack.Peek Method
 using System;

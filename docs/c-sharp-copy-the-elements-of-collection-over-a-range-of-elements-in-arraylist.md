@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void SetRange (int index, System.Collections.ICollection c);
 ```
 
@@ -28,7 +28,7 @@ public virtual void SetRange (int index, System.Collections.ICollection c);
 
 **例 1:**
 
-```
+```cs
 // C# Program to illustrate the 
 // SetRange() Method
 using System;
@@ -74,7 +74,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 ArrayList is[0] = This
 ArrayList is[1] = is
 ArrayList is[2] = C#
@@ -88,7 +88,7 @@ ArrayList is[7] = G
 
 **例 2:**
 
-```
+```cs
 // C# Program to illustrate the 
 // SetRange() Method
 using System;
@@ -149,7 +149,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String from index number 0 to 6:
 Hello Welcome to online portal of 
 After SetRange() Method:

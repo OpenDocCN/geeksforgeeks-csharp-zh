@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 ushort variable_name = value;
 ```
 
@@ -14,7 +14,7 @@ ushort variable_name = value;
 
 **示例:**
 
-```
+```cs
 Input: num: 5
 
 Output: num: 5
@@ -29,7 +29,7 @@ Output: num: 8765
 
 **例 1:**
 
-```
+```cs
 // C# program for ushort keyword
 using System;
 using System.Text;
@@ -52,7 +52,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 num: 5
 Size of a ushort variable: 2
 
@@ -60,7 +60,7 @@ Size of a ushort variable: 2
 
 **例 2:**
 
-```
+```cs
 // C# program for ushort keyword
 using System;
 using System.Text;
@@ -93,7 +93,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 num: 8765
 Type of num: System.UInt16
 Size of a ushort variable: 2

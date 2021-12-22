@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool Contains (T item);
 
 ```
@@ -23,7 +23,7 @@ public virtual bool Contains (T item);
 
 **例 1:**
 
-```
+```cs
 // C# code to check if the SortedSet
 // contains a specific element
 using System;
@@ -54,14 +54,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if the SortedSet
 // contains a specific element
 using System;
@@ -93,7 +93,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```

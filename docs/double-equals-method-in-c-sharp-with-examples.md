@@ -21,7 +21,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // Double.Equals(Double)
 // Method
@@ -56,7 +56,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 10 is not equal to 20
 ```
 
@@ -64,7 +64,7 @@ class GFG {
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // Double.Equals(Double)
 // Method
@@ -105,7 +105,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 5 is equal to 5
 5.5 is not equal to 4.5
 10 is not equal to 20
@@ -126,7 +126,7 @@ class GFG {
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // Double.Equals(Object)
 // Method
@@ -161,7 +161,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 10 is not equal to 0
 ```
 
@@ -169,7 +169,7 @@ class GFG {
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // Double.Equals(object)
 // Method
@@ -209,7 +209,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 5 is not equal to 0
 5.5 is not equal to 0
 10 is not equal to 0

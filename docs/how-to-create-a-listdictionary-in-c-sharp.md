@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```cs
 public ListDictionary ();
 ```
 
 **例 1:**
 
-```
+```cs
 // C# Program to illustrate how
 // to create a ListDictionary
 using System;
@@ -43,14 +43,14 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 The number of elements: 0
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# Program to illustrate how
 // to create a ListDictionary
 using System;
@@ -96,7 +96,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 Before Add Method: 0
 After Add Method: 6
 

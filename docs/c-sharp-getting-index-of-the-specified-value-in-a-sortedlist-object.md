@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual int IndexOfValue (object value);
 ```
 
@@ -18,7 +18,7 @@ public virtual int IndexOfValue (object value);
 
 **例 1:**
 
-```
+```cs
 // C# code to get the zero-based index 
 // of the first occurrence of the specified
 // value in a SortedList object
@@ -70,7 +70,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Index          Keys         Values
 [0]        Fifth        Manish
 [1]        First        Ram
@@ -85,7 +85,7 @@ The index of value 'Kirti' is: -1
 
 **例 2:**
 
-```
+```cs
 // C# code to get the  zero-based index 
 // of the first occurrence of the specified
 // value in a SortedList object
@@ -131,7 +131,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Index          Keys         Values
 [0]        1        C++
 [1]        2        Java

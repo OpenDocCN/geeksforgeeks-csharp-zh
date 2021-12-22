@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static double Log(double val)
     ```
 
@@ -32,7 +32,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate working
     // of Math.Log(Double) method
     using System;
@@ -81,7 +81,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     1.51512723296286
     -Infinity
     NaN
@@ -97,7 +97,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static double Log(double val, double base)
     ```
 
@@ -130,7 +130,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate working
     // of Math.Log(Double, Double) method
     using System;
@@ -162,7 +162,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     -0.217915440884381
     -0.5
     NaN

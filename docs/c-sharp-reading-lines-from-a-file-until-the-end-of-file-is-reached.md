@@ -6,7 +6,7 @@
 
 **路径:**从任何来源读取文件，我们都需要位置/路径。路径是包含系统中文件路径的字符串。
 
-```
+```cs
  @"c:\folder\file_name.txt"
 ```
 
@@ -14,19 +14,19 @@
 
 **stream writer:**stream writer 用于将数据流/行写入文件。
 
-```
+```cs
 StreamWriter sw = new StreamWriter(myfilepath)
 ```
 
 **stream reader:**stream reader 用于从文件中读取数据流/行。
 
-```
+```cs
 StreamReader sr = new StreamReader(myfilepath)
 ```
 
 **Peek:** 用于从文件中读取数据/行，直到文件结束。
 
-```
+```cs
 StreamReaderObject.Peek()
 ```
 
@@ -38,7 +38,7 @@ StreamReaderObject.Peek()
 
 ## C#
 
-```
+```cs
 // C# program to read lines from a file 
 // until the end of file is reached
 using System;
@@ -95,7 +95,7 @@ public static void Main()
 
 **输出**:
 
-```
+```cs
 hello
 geeks for geeks
 welcome to c#

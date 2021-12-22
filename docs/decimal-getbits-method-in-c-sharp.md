@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.GetBits() Method
 using System;
@@ -42,7 +42,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Bit[0] =   FFFFFFFF
 Bit[1] =   FFFFFFFF
 Bit[2] =   00000000
@@ -52,7 +52,7 @@ Bit[3] =   00000000
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.GetBits() Method
 using System;
@@ -89,7 +89,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Converted value of 79228162514264337593543950335 is
 Bit[0] =   FFFFFFFF
 Bit[1] =   FFFFFFFF

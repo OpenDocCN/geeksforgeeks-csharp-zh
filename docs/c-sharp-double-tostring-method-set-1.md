@@ -24,7 +24,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Double.ToString(String) Method
 using System;
@@ -61,14 +61,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String value is 1.6326E+004
 
 ```
 
 **例 2:** 为*格式异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Double.ToString(String) Method
 using System;
@@ -105,7 +105,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Format is invalid.
 Exception Thrown: System.FormatException
 
@@ -123,7 +123,7 @@ Exception Thrown: System.FormatException
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Double.ToString()  Method
 using System;
@@ -148,14 +148,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String value is 7.92281625142643E+21
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Double.ToString() Method
 using System;
@@ -189,7 +189,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String value is 20.3495
 String value is 30.5945994
 String value is 40

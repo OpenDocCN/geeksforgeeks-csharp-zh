@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 decimal variable_name = value;
 ```
 
@@ -16,7 +16,7 @@ decimal variable_name = value;
 
 **示例:**
 
-```
+```cs
 Input: 7271.6521M
 
 Output: num: 7271.6521
@@ -32,7 +32,7 @@ Output: Type of num: System.Decimal
 
 **例 1:**
 
-```
+```cs
 // C# program for decimal keyword
 using System;
 using System.Text;
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 num: 7271.6521
 Size of a decimal variable: 16
 
@@ -63,7 +63,7 @@ Size of a decimal variable: 16
 
 **例 2:**
 
-```
+```cs
 // C# program for decimal keyword
 using System;
 using System.Text;
@@ -94,7 +94,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Type of num: System.Decimal
 num: -371.83436
 Size of a decimal variable: 16

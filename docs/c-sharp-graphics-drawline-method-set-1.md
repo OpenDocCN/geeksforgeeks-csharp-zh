@@ -26,7 +26,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the 
     // DrawLine(Pen, PointF, PointF) Method
     using System;
@@ -90,7 +90,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to draw a cross using the
     // DrawLine(Pen, Int32, Int32, Int32,
     // Int32) Method
@@ -144,7 +144,7 @@
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to Create a 8x8 square board
     // using // DrawLine(Pen, Int32, Int32, Int32,
     // Int32) Method

@@ -19,7 +19,7 @@
 
 **语法:**
 
-```
+```cs
 public object GetValue (int index1, int index2, int index3);
 
 ```
@@ -41,7 +41,7 @@ public object GetValue (int index1, int index2, int index3);
 
 **语法:**
 
-```
+```cs
 public object GetValue (long index1, long index2, long index3);
 
 ```
@@ -63,7 +63,7 @@ public object GetValue (long index1, long index2, long index3);
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // Array.GetValue(Int32, Int32, Int32)
 // and array.GetValue(Int64, Int64, Int64)
@@ -106,7 +106,7 @@ public static void Main() {
 
 **Output**
 
-```
+```cs
 element at index [0, 0, 0] is : A
 element at index [0, 0, 1] is : B
 element at index [0, 0, 2] is : C
@@ -126,7 +126,7 @@ element at index [1, 1, 2] is : L
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // Array.GetValue(Int32, Int32, Int32)
 // and array.GetValue(Int64, Int64, Int64)
@@ -174,7 +174,7 @@ public class GFG {
 
 **Output**
 
-```
+```cs
 element at index [0, 0, 0] is : C++
 element at index [0, 0, 1] is : Java
 element at index [0, 0, 2] is : C#

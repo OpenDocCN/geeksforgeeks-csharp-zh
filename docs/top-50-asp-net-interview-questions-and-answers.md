@@ -236,7 +236,7 @@ ASP.NET 支持一个强大的基于网络的应用程序登录控制，不需要
 
 它支持的属性很少，登录操作可用于指定当用户单击登录链接时会发生什么，选项有重定向、重定向登录页面、刷新。如果我们将其设置为重定向，那么我们必须设置另一个属性登录页面网址，用户在注销网站后会被重定向到该网址。
 
-```
+```cs
 <%@ Page Language="C#" AutoEventWireup="true" 
 CodeBehind="WebForm1.aspx.cs" Inherits="WebApplication10.WebForm1" %>
 
@@ -277,7 +277,7 @@ CodeBehind="WebForm1.aspx.cs" Inherits="WebApplication10.WebForm1" %>
 *   **TextAlign:** TextAlign 是字幕的位置。可能的值有右和左。默认为右对齐。
 *   **文本:**定义复选框标题。
 
-```
+```cs
 <%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm2.aspx.cs"
  Inherits="WebApplication10.WebForm2" %>
 
@@ -450,7 +450,7 @@ CodeBehind="WebForm1.aspx.cs" Inherits="WebApplication10.WebForm1" %>
 
 ***查看状态**是 **ASP** 的方法。 **NET** 页面框架用于在往返之间保留页面和控件值。*
 
-```
+```cs
 *<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm4.aspx.cs" 
 Inherits="WebApplication9.WebForm4" %>
 

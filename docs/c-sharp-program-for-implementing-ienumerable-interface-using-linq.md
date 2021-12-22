@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 IEnumerable<TSource>
 ```
 
@@ -14,7 +14,7 @@ IEnumerable<TSource>
 
 **例**:
 
-```
+```cs
 Input : List of Employees:
         {{id = 201, name = "Druva", age = 12},
          {id = 202, name = "Deepu", age = 15},
@@ -43,7 +43,7 @@ Output : No Output
 
 ## C#
 
-```
+```cs
 // C# program to display the details of those 
 // employees whose name starts with character "D"
 using System;
@@ -110,7 +110,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 ID  Name  Salary  Department
 ++++++++++++++++++++++++++++
 201 Druva 12000 HR

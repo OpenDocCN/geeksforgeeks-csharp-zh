@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```cs
 public StringDictionary ();
 ```
 
 **例 1:**
 
-```
+```cs
 // C# Program to illustrate how
 // to create a StringDictionary
 using System;
@@ -42,14 +42,14 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 0
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# Program to illustrate how
 // to create a StringDictionary
 using System;
@@ -95,7 +95,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 Before Add Method: 0
 After Add Method: 6
 

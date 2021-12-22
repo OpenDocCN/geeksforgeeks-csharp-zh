@@ -32,7 +32,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Open(String, FileMode,
 // FileAccess, FileShare) method
@@ -72,7 +72,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 GFG is a CS Portal.
 ```
 
@@ -84,7 +84,7 @@ GFG is a CS Portal.
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Open(String, FileMode,
 // FileAccess, FileShare) method
@@ -119,6 +119,6 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 GeeksforGeeks
 ```

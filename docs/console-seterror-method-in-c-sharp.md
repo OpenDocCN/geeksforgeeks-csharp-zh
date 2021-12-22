@@ -13,7 +13,7 @@
 
 **示例:**在本例中， *SetError()方法*用于将 StreamWriter 对象设置到控制台，错误消息将从控制台写入日志文件。
 
-```
+```cs
 // C# program to demonstrate 
 // the SetError() method
 using System;

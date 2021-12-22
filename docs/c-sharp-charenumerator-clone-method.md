@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public object Clone ();
 ```
 
@@ -16,7 +16,7 @@ public object Clone ();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // CharEnumerator.Clone Method
 using System;
@@ -58,7 +58,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Sun rises in the East,
 sets in the West.
 
@@ -66,7 +66,7 @@ sets in the West.
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // CharEnumerator.Clone Method
 using System;
@@ -104,7 +104,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 1 2 3 4 5 6 7 
 2 3 4 5 6 7 
 3 4 5 6 7 

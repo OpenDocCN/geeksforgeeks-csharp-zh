@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public int CompareTo (long value);
     ```
 
@@ -28,7 +28,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int64.CompareTo(Int64) Method
     using System;
@@ -65,14 +65,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     10 is less than 20
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int64.CompareTo(Int64) Method
     using System;
@@ -113,7 +113,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     5 is less than 7
     3025 is equal to 3025
     10 is less than 20
@@ -127,7 +127,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public int CompareTo (object value);
     ```
 
@@ -145,7 +145,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int64.CompareTo(object) Method
     using System;
@@ -191,14 +191,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     10 is less than 5689412587
 
     ```
 
     **示例 2:** 适用于*参数异常*
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int64.CompareTo(object) Method
     using System;
@@ -245,7 +245,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     value2 must be Int64
     Exception Thrown: System.ArgumentException
 

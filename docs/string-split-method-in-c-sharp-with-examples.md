@@ -19,7 +19,7 @@
 
 **语法:**
 
-```
+```cs
 public String[] Split(String[] separator, int count, StringSplitOptions options);
 
 ```
@@ -39,7 +39,7 @@ public String[] Split(String[] separator, int count, StringSplitOptions options)
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // Split(String[], Int32, StringSplitOptions)
 // Method
@@ -71,7 +71,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Geek
  Geeks
 
@@ -83,7 +83,7 @@ Geek
 
 **语法:**
 
-```
+```cs
 public String[] Split(char[] separator, int count, StringSplitOptions options);
 
 ```
@@ -103,7 +103,7 @@ public String[] Split(char[] separator, int count, StringSplitOptions options);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Split(Char[], Int32, 
 // StringSplitOptions) Method
@@ -135,7 +135,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Geeks
  For Geeks
 
@@ -147,7 +147,7 @@ Geeks
 
 **语法:**
 
-```
+```cs
 public String[] Split(String[] separator, StringSplitOptions options);
 
 ```
@@ -163,7 +163,7 @@ public String[] Split(String[] separator, StringSplitOptions options);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // Split(String[], StringSplitOptions) 
 // Method
@@ -194,7 +194,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Geek
 
  Geeks
@@ -207,7 +207,7 @@ Geek
 
 **语法:**
 
-```
+```cs
 public String[] Split(char[] separator);
 
 ```
@@ -218,7 +218,7 @@ public String[] Split(char[] separator);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // Split(char[]) Method
 using System;
@@ -248,7 +248,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Geeks
 
 For
@@ -262,7 +262,7 @@ Geeks
 
 **语法:**
 
-```
+```cs
 public String[] Split(char[] separator, StringSplitOptions option);
 
 ```
@@ -276,7 +276,7 @@ public String[] Split(char[] separator, StringSplitOptions option);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the use of
 // Split(Char[], StringSplitOptions) method
 using System;
@@ -306,7 +306,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Geeks
 For
 Geeks
@@ -319,7 +319,7 @@ Geeks
 
 **语法:**
 
-```
+```cs
 public String[] Split(char[] separator, Int32 count);
 
 ```
@@ -335,7 +335,7 @@ public String[] Split(char[] separator, Int32 count);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the use of
 // Split(char[], Int32) Method
 using System;
@@ -366,7 +366,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Geeks
  For Geeks
 

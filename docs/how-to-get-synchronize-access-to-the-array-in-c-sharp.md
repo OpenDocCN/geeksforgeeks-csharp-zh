@@ -18,7 +18,7 @@
 
 **示例 1:** 在这段代码中，我们使用 SyncRoot 来获得对名为 *arr* 的数组的同步访问，这不是一个线程安全的过程，可能会导致异常。所以为了避免异常，我们在枚举期间锁定集合。
 
-```
+```cs
 // C# program to illustrate the 
 // use of SyncRoot property
 using System;
@@ -51,7 +51,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 12
 15
 20
@@ -62,7 +62,7 @@ class GFG {
 
 **示例 2:** 在下面的示例中，我们对类 x 的对象数组使用了 SynRoot 属性
 
-```
+```cs
 // C# program to depict the use
 // of SyncRoot Property
 // for an array of objects
@@ -120,7 +120,7 @@ public class Program {
 
 **Output:**
 
-```
+```cs
 0
 0
 0

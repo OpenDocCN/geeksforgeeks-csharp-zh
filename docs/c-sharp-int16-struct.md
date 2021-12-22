@@ -12,7 +12,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // MaxValue and MinValue field
 using System;
@@ -40,7 +40,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Value 1: 100
 Value 2: 30
 Value 3: 50
@@ -62,7 +62,7 @@ Minimum Value: -32768
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Int16.Equals(Object) Method 
 using System; 
@@ -98,14 +98,14 @@ class GFG { 
 
 **Output:**
 
-```
+```cs
 57 is not equal to 47
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the 
 // GetHashCode() method
 using System;
@@ -135,7 +135,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Get the hash code of var1: 6553700
 Get the hash code of var2: 1966110
 Get the hash code of var3: 3276850

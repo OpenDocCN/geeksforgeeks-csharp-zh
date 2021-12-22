@@ -16,7 +16,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToSByte() Method
 using System;
@@ -59,7 +59,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The SByte value is : 127
 The SByte value is : 4
 
@@ -67,7 +67,7 @@ The SByte value is : 4
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToSByte() Method
 using System;
@@ -118,7 +118,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.OverflowException
 
 ```

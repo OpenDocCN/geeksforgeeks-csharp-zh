@@ -16,7 +16,7 @@
 
 **语法:**
 
-```
+```cs
 public override bool Equals (object ob1);
 ```
 
@@ -28,7 +28,7 @@ public override bool Equals (object ob1);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate
 // Equals(Object) method
 using System;
@@ -81,7 +81,7 @@ public class GFG {
 
 **Output:** 
 
-```
+```cs
 Object 1 is equal to object 2: False
 Object 1 is equal to object 3: True
 ```
@@ -92,7 +92,7 @@ Object 1 is equal to object 3: True
 
 **语法:**
 
-```
+```cs
 public bool Equals (string item);
 ```
 
@@ -104,7 +104,7 @@ public bool Equals (string item);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate
 // Equals(String) method
 using System;
@@ -132,7 +132,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 String 1 is equal to String 2: False
 String 1 is equal to String 3: True
 ```

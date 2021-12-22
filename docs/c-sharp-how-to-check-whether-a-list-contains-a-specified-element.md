@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public bool Contains (T item);
 ```
 
@@ -24,7 +24,7 @@ public bool Contains (T item);
 
 **例 1:**
 
-```
+```cs
 // C# Program to check whether the
 // element is present in the List
 // or not
@@ -59,14 +59,14 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# Program to check whether the
 // element is present in the List
 // or not
@@ -101,7 +101,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 False
 
 ```

@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input:
 geeks
 Output:
@@ -52,7 +52,7 @@ ab
 *   编写 find_substrings()函数来获取子字符串。
 *   在 find_substrings()函数中，调用 Substring()方法获取子字符串。
 
-```
+```cs
 for(i = 1; i <= input_string.Length; i++)
 {
     for (j = 0; j <= input_string.Length - i; j++)
@@ -69,7 +69,7 @@ for(i = 1; i <= input_string.Length; i++)
 
 ## C#
 
-```
+```cs
 // C# program to display all Substrings
 // present in the given String 
 using System;
@@ -114,7 +114,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 Enter String :
 GFG
 G
@@ -133,7 +133,7 @@ GFG
 
 ## C#
 
-```
+```cs
 // C# program to display all Substrings
 // present in the given String 
 using System;
@@ -177,7 +177,7 @@ static public void Main ()
 
 **输出:**
 
-```
+```cs
 G
 e
 e

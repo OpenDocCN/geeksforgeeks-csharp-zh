@@ -25,7 +25,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# code to get an enumerator for a
 // range of elements in the ArrayList
 using System;
@@ -83,7 +83,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 14
 45
 78
@@ -99,7 +99,7 @@ After GetEnumerator(Int32, Int32) Method:
 
 **例 2:**
 
-```
+```cs
 // C# code to get an enumerator for a
 // range of elements in the ArrayList
 using System;

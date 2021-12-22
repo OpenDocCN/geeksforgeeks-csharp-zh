@@ -20,7 +20,7 @@
 
 **示例 1:** 在下面给出的代码中，我们使用 typeof 方法将 t 类型加载为字符串。然后我们在 t 上应用反射来找到任何关于字符串类的信息，比如它的名称、全名、名称空间和 basetype。
 
-```
+```cs
 // C# program to illustrate
 // the use of Reflection
 using System;
@@ -49,7 +49,7 @@ class Program {
 
 **输出:**
 
-```
+```cs
 Name : String
 Full Name : System.String
 Namespace : System
@@ -59,7 +59,7 @@ Base Type : System.Object
 
 **示例 2:** 在这段代码中，我们使用反射来显示与程序相关的所有元数据，这些元数据包括类、这些类的方法以及与这些参数相关联的参数。
 
-```
+```cs
 // C# program to illustrate
 // the use of Reflection
 using System;
@@ -146,7 +146,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
  Class : Student
 --> Method : get_RollNo
 --> Method : set_RollNo

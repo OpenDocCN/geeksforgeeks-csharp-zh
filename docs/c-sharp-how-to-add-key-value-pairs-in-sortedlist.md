@@ -17,7 +17,7 @@ SortedList 类是按键排序的**(键，值)对**的集合。这些对可以通
 
 **语法:**
 
-```
+```cs
 public virtual void Add (object key, object value);
 
 ```
@@ -40,7 +40,7 @@ public virtual void Add (object key, object value);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate how to add key/value
 // pair in SortedList
 using System;
@@ -77,7 +77,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Chemistry:    96
 CSE      :    100
 English  :    99
@@ -88,7 +88,7 @@ Physics  :    97
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate how to add
 // key/value pair in SortedList
 using System;

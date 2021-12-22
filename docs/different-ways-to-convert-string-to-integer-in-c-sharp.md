@@ -15,7 +15,7 @@
 
 这里，我们正在计算圆的面积，但是给定的输入长度是字符串格式，因此使用了 *[Int32。Parse()](https://www.geeksforgeeks.org/int32-parsestring-method-in-c-sharp-with-examples/)* 方法将长度从字符串转换为 int(等效的 32 位有符号整数)。
 
-```
+```cs
 // C# program to convert string to 
 // integer using Parse Method
 using System;
@@ -45,14 +45,14 @@ class GFG{
 
 **输出:**
 
-```
+```cs
 Area of a circle is: 100
 
 ```
 
 **当我们有一个大于整数的值时:**如果您将值大值赋给字符串，那么它将通过*overowexception*处理，因为 int 数据类型不能处理大值(这在很大程度上取决于数据类型的范围)。
 
-```
+```cs
 string l="10000000000";
 ```
 
@@ -60,7 +60,7 @@ string l="10000000000";
 
 **当我们有空字符串时:**如果您保持字符串为空，那么当输入为空时，它将通过异常系统格式异常。
 
-```
+```cs
 string l="";
 ```
 
@@ -70,7 +70,7 @@ string l="";
 
 这里，我们使用了 TryParse()方法，Parse()和 TryParse()方法的区别只是 TryParse()方法总是返回它永远不会抛出异常的值。如果你仔细观察一个输入的值，那么它清楚地表明它会抛出一个异常，但是 *TryParse()* 永远不会抛出异常。因此输出为零。
 
-```
+```cs
 // C# program to convert string to 
 // integer using TryParse Method
 using System;
@@ -101,7 +101,7 @@ class GFG{
 
 **输出:**
 
-```
+```cs
 Area of a circle is: 0
 ```
 
@@ -109,7 +109,7 @@ Area of a circle is: 0
 
 这里，我们使用了 *Convert。ToInt32()* 方法，解析()和*转换的区别。to t32()*方法只在于*转换。ToInt32()* 方法总是接受空值返回它。因此输出为零。我们在这个例子中使用了异常处理，因此，如果发生了异常，try 块将抛出异常，catch 块将接受异常并写入任何发生的异常。
 
-```
+```cs
 // C# program to convert string to 
 // integer using Convert Method
 using System;
@@ -142,7 +142,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Area of a circle is: 0
 
 ```

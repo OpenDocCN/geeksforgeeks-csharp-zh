@@ -12,7 +12,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate encapsulation
 using System;
 
@@ -89,7 +89,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Name: Ankita
 Age: 21
 

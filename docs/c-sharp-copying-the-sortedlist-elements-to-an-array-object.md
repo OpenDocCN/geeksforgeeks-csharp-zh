@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void CopyTo (Array array, int arrayIndex);
 ```
 
@@ -27,7 +27,7 @@ public virtual void CopyTo (Array array, int arrayIndex);
 
 **例 1:**
 
-```
+```cs
 // C# code to copy the SortedList elements
 // to a 1-D Array object, starting at the
 // specified index in the array
@@ -67,7 +67,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 1-->C#
 2-->Java
 3-->DSA
@@ -78,7 +78,7 @@ class Geeks {
 
 **例 2:**
 
-```
+```cs
 // C# code to copy the SortedList elements
 // to a 1-D Array object, starting at the
 // specified index in the array

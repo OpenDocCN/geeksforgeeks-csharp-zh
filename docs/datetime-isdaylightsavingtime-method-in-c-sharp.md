@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.IsDaylightSavingTime()
 // Method
@@ -53,7 +53,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.IsDaylightSavingTime()
 // Method

@@ -32,7 +32,7 @@
 
 ![file.txt](img/0c0cc86bade8523d22345553100d911b.png)
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.ReadLines(String, Encoding) method
 
@@ -57,7 +57,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 GFG
 gfg
 Geeks
@@ -72,7 +72,7 @@ geeksforgeeks
 
 下面的代码从文件中过滤一些内容并打印出来。
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.ReadLines(String, Encoding) method
 
@@ -99,7 +99,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 GFG
 
 ```

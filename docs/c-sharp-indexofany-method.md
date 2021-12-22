@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public int IndexOfAny(char[] ch)
 ```
 
@@ -26,7 +26,7 @@ public int IndexOfAny(char[] ch)
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // public int IndexOfAny(char[] ch)
 using System;
@@ -67,7 +67,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Given String : GeeksForGeeks
 
 5
@@ -81,7 +81,7 @@ Not Found
 
 **语法:**
 
-```
+```cs
 public int IndexOfAny(char[] ch, int startIndex)
 ```
 
@@ -93,7 +93,7 @@ public int IndexOfAny(char[] ch, int startIndex)
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // public int IndexOfAny(char[] ch, int startIndex)
 using System;
@@ -139,7 +139,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Given String : GeeksForGeeks
 
 13
@@ -153,7 +153,7 @@ Not Found
 
 **语法:**
 
-```
+```cs
 public int IndexOfAny(char[] ch, int startIndex, int count) 
 ```
 
@@ -165,7 +165,7 @@ public int IndexOfAny(char[] ch, int startIndex, int count)
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // public int IndexOfAny( char[] ch,
 // int startIndex, int count)
@@ -219,7 +219,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Given String : GeeksForGeeks
 
 -1

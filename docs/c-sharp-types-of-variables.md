@@ -23,7 +23,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // the local variables
 using System;
@@ -55,7 +55,7 @@ class StudentDetails {
 
 **输出:**
 
-```
+```cs
 Student age is : 10
 ```
 
@@ -65,7 +65,7 @@ Student age is : 10
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the error
 // due to using the local variable
 // outside its scope
@@ -104,7 +104,7 @@ class StudentDetails {
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // Instance variables
 using System;
@@ -151,7 +151,7 @@ class Marks {
 
 **输出:**
 
-```
+```cs
 Marks for first object:
 90
 80
@@ -174,7 +174,7 @@ Marks for second object:
 
 **注意:**要访问静态变量，不需要创建该类的任何对象，只需访问变量如下:
 
-```
+```cs
 class_name.variable_name;
 ```
 
@@ -182,7 +182,7 @@ class_name.variable_name;
 
 ## C#
 
-```
+```cs
 // C# program to illustrate
 // the static variables
 using System;
@@ -208,7 +208,7 @@ class Emp {
 
 **输出:**
 
-```
+```cs
 Aks's average salary:100000
 ```
 
@@ -222,7 +222,7 @@ Aks's average salary:100000
 *   在一个类的生命周期中，静态变量只初始化一次，而实例变量在没有创建实例的情况下初始化 0 次，在创建了 n 个实例的情况下初始化 n 次。
 *   静态变量和实例变量的语法如下:
 
-```
+```cs
  class Example
         {
             static int a; // static variable
@@ -239,7 +239,7 @@ Aks's average salary:100000
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // constant variables
 using System;
@@ -270,7 +270,7 @@ class Program {
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // constant variable
 using System;
@@ -302,7 +302,7 @@ class Program {
 
 **输出:**
 
-```
+```cs
 The value of a is = 10
 The value of b is = 20
 The value of max is = 50
@@ -324,7 +324,7 @@ The value of max is = 50
 
 ## C#
 
-```
+```cs
 // C# program to show the use
 // of readonly variables
 // without initializing it
@@ -360,7 +360,7 @@ class Program {
 
 **输出:**
 
-```
+```cs
 The value of a is = 80
 The value of b is = 40
 The value of max is = 50
@@ -371,7 +371,7 @@ The value of k is = 0
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // initialization of readonly
 // variables in the constructor
@@ -416,7 +416,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 The value of a is = 80
 The value of b is = 40
 The value of max is = 50
@@ -427,7 +427,7 @@ The value of k is = 90
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // initialization of readonly
 // variables twice

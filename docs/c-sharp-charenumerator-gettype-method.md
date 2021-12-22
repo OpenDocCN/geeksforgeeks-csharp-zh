@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public Type GetType();
 ```
 
@@ -16,7 +16,7 @@ public Type GetType();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of CharEnumerator.GetType()
 // Method
@@ -42,14 +42,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 System.CharEnumerator
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of CharEnumerator.GetType()
 // Method
@@ -82,7 +82,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Type of CharEnumerator object: System.CharEnumerator
 Type of CharEnumerator clone object: System.CharEnumerator
 

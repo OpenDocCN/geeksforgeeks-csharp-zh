@@ -5,7 +5,7 @@
 此方法用于将对象添加到队列的末尾。这属于系统。集合命名空间。该值可以为空，如果计数小于内部数组的容量，则该方法是一个 0(1)操作。如果需要重新分配内部数组来容纳新元素，这个方法就变成了 O(n)运算，其中 n 是 Count。
 **语法:**
 
-```
+```cs
 public virtual void Enqueue (object obj);
 ```
 
@@ -14,7 +14,7 @@ public virtual void Enqueue (object obj);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code to illustrate the
 // Queue.Enqueue() Method
 using System;
@@ -83,7 +83,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Total number of elements in the Queue are : 1
 Total number of elements in the Queue are : 2
 Total number of elements in the Queue are : 3

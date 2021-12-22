@@ -18,7 +18,7 @@ TimeSpan 是一个用于表示时间间隔的结构，该时间间隔用于测�
 
 ## c#
 
-```
+```cs
 // C# program to find the date of 
 // yesterday using TimeSpan Method
 using System;
@@ -42,7 +42,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Yesterday Date: 28/11/2021
 ```
 

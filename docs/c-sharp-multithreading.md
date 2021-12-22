@@ -11,7 +11,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // concept of single threaded model
 using System;
@@ -66,7 +66,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Method1 is : 0
 Method1 is : 1
 Method1 is : 2
@@ -100,7 +100,7 @@ Method2 is : 10
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of multithreading
 using System;
@@ -148,7 +148,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Method1 is : 0
 Method1 is : 1
 Method1 is : 2

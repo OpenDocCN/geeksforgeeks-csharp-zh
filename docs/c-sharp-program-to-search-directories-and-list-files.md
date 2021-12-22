@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public enum SearchOption
 ```
 
@@ -18,7 +18,7 @@ public enum SearchOption
 
 **语法:**
 
-```
+```cs
 public static string[] GetFiles (string path);
 ```
 
@@ -28,7 +28,7 @@ public static string[] GetFiles (string path);
 
 **1。**读取目录，使用搜索选项所有目录关键字
 
-```
+```cs
 list = Directory.GetFiles("C:\\A\\","*.*", SearchOption.AllDirectories)
 ```
 
@@ -36,7 +36,7 @@ list = Directory.GetFiles("C:\\A\\","*.*", SearchOption.AllDirectories)
 
 **2。**使用 foreach 循环
 
-```
+```cs
 foreach (string file in list)
 {
     Console.WriteLine(file);
@@ -51,7 +51,7 @@ foreach (string file in list)
 
 ## c#
 
-```
+```cs
 // C# program to search directories and list files 
 using System;
 using System.IO;
@@ -78,6 +78,6 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 C:\A\file.txt
 ```

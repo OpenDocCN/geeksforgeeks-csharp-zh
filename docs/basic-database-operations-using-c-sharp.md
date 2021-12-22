@@ -6,7 +6,7 @@
 **先决条件:**微软 SQL Server 管理工作室
 打开微软 SQL Server 管理工作室，编写以下脚本，在其中创建数据库和表。
 
-```
+```cs
 create database Demodb;
 
 use Demodb;
@@ -36,7 +36,7 @@ insert into demo values(2, 'C++');
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code to connect the database
 using System;
 using System.Data.SqlClient;
@@ -84,7 +84,7 @@ class DBConn {
 
 **输出:**
 
-```
+```cs
 Connection Open !
 ```
 
@@ -92,7 +92,7 @@ Connection Open !
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code to demonstrate how
 // to use select statement
 using System;
@@ -172,7 +172,7 @@ class SelectStatement{
 
 **输出:**
 
-```
+```cs
 1 - C#
 2 - C++
 ```
@@ -181,7 +181,7 @@ class SelectStatement{
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code for how to use Insert Statement
 using System;
 using System.Data.SqlClient;
@@ -260,7 +260,7 @@ class InsertStatement {
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code for how to use Update Statement
 using System;
 using System.Data.SqlClient;
@@ -339,7 +339,7 @@ class UpdateStatement {
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code for how to use Delete Statement
 using System;
 using System.Data.SqlClient;

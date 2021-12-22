@@ -5,7 +5,7 @@
 此方法用于确定数组中的每个元素是否都符合指定谓词定义的条件。
 **语法:**
 
-```
+```cs
 public static bool TrueForAll (T[] array, Predicate<T> match);
 ```
 
@@ -22,7 +22,7 @@ public static bool TrueForAll (T[] array, Predicate<T> match);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // TrueForAll() method
 using System;
@@ -80,7 +80,7 @@ public static void PrintIndexAndValues(String[] myArr)
 
 **Output:** 
 
-```
+```cs
 Initial Array:
 Sun
 Son

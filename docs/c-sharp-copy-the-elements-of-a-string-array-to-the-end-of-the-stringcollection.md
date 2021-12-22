@@ -8,7 +8,7 @@ StringCollection 类是。表示字符串集合的. NET Framework 类库。在 *
 
 **语法:**
 
-```
+```cs
 public void AddRange (string[] value);
 
 ```
@@ -26,7 +26,7 @@ public void AddRange (string[] value);
 
 **例 1:**
 
-```
+```cs
 // C# code to copy the elements
 // of a string array to the end
 // of the StringCollection
@@ -61,7 +61,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 A
 B
 C
@@ -72,7 +72,7 @@ E
 
 **例 2:**
 
-```
+```cs
 // C# code to copy the elements
 // of a string array to the end
 // of the StringCollection
@@ -107,7 +107,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 2
 3
 4

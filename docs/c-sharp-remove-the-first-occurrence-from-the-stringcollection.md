@@ -7,7 +7,7 @@ T5】string collection。Remove(String) 方法用于从 StringCollection 中删�
 
 **语法:**
 
-```
+```cs
 public void Remove (string value);
 
 ```
@@ -23,7 +23,7 @@ public void Remove (string value);
 
 **示例:**
 
-```
+```cs
 // C# code to remove the first
 // occurrence of a specific string
 // from the StringCollection
@@ -106,7 +106,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Elements in StringCollection are : 
 A
 A

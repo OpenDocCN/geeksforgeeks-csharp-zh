@@ -10,7 +10,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of the cross join
 using System;
@@ -113,7 +113,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
  Employee Name: Amit || Department Name: Designing
  Employee Name: Amit || Department Name: Development
  Employee Name: Amit || Department Name: JE
@@ -134,7 +134,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of cross join
 using System;
@@ -241,7 +241,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
  Department Name: Designing || Employee Name: Amit
  Department Name: Designing || Employee Name: Mohit
  Department Name: Development || Employee Name: Amit

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public override string ToString ();
 ```
 
@@ -16,7 +16,7 @@ public override string ToString ();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate
 // the use of ToString method
 using System;
@@ -64,7 +64,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Tuple 1: (Rohit)
 Tuple 2: (Sheema, Riya)
 Tuple 3: (Rima, Suman, Sohan)
@@ -74,7 +74,7 @@ Tuple 4: (Shilpa, Susma, Sumit, Rohan)
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of ToString method
 using System;
@@ -125,7 +125,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Tuple 5: (G, E, E, K, S)
 Tuple 6: (C, C#, C++, Python, Java, Perl)
 Tuple 7: (12, 45, 67, 78, 87, 97, 87)

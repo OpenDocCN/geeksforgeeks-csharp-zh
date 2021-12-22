@@ -9,7 +9,7 @@
 
 **语法:**
 
-```
+```cs
 if(condition)
 {  
     // code if condition is true  
@@ -29,7 +29,7 @@ else
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // if-else statement
 using System;
@@ -60,7 +60,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Both strings are not equal..!!
 
 ```
@@ -69,7 +69,7 @@ Both strings are not equal..!!
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate if-else statement
 using System;
 
@@ -99,7 +99,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 x is not greater than y
 
 ```
@@ -110,7 +110,7 @@ C#还提供了 if-else 语句的一个简单实现，也称为**三元运算符(
 
 **语法:**
 
-```
+```cs
 variable_name = (condition) ? TrueExpression :  FalseExpression;
 
 ```
@@ -123,7 +123,7 @@ variable_name = (condition) ? TrueExpression :  FalseExpression;
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate short-hand 
 // of if-else statement
 using System;
@@ -148,7 +148,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Not equal
 
 ```
@@ -157,7 +157,7 @@ Not equal
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate nested 
 // Ternary Operator
 using System; 
@@ -180,7 +180,7 @@ static void Main(string[] args) 
 
 **输出:**
 
-```
+```cs
 a is less than b
 
 ```

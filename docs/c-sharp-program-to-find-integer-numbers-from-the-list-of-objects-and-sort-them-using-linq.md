@@ -22,7 +22,7 @@
 
 **示例:**
 
-```
+```cs
 Input  : ["sai", 100, "mohan", 18, 50, 200, "rajesh", 34]
 Output : [18, 34, 50, 100, 200]
 
@@ -35,13 +35,13 @@ Output : [30, 189, 193, 200, 345]
 > *   Create an object list using ArrrayList.
 > *   Now, using the type < int > () method and the OrderBy () method, we will select integer values from the list and sort the integers, and then use the ToList () method to convert them into the list.
 > 
-> ```
+> ```cs
 > List<int> result = objList.OfType<int>().OrderBy(num=>num).ToList();
 > ```
 > 
 > *   Use foreach loop to print the list.
 > 
-> ```
+> ```cs
 > foreach (int integer in result)
 >  {
 >    Console.Write(integer + " ");
@@ -50,7 +50,7 @@ Output : [30, 189, 193, 200, 345]
 
 ## C#
 
-```
+```cs
 // C# program to find the integer numbers from 
 // the list of objects and sort them.
 using System;
@@ -83,7 +83,7 @@ static void Main(string[] args)
 
 **Output**
 
-```
+```cs
 The Sorted integers are : 
 34 50 100 200 
 ```

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 [access_modifier] [return_type] this [argument_list]
 {
   get 
@@ -35,7 +35,7 @@
 
 ## c#
 
-```
+```cs
 // C# program to illustrate the Indexer
 using System;
 
@@ -108,7 +108,7 @@ class main {
 
 **输出:**
 
-```
+```cs
 Printing values stored in objects used as arrays
 First value = C
 Second value = CPP

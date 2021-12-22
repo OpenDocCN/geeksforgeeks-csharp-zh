@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual string GetEnumName (object value);
 ```
 
@@ -22,7 +22,7 @@ public virtual string GetEnumName (object value);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetEnumName(Object) Method
 using System;
@@ -67,6 +67,6 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Name of constant is: A
 ```

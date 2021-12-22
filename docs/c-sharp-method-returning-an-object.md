@@ -6,7 +6,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of the method returning an object
 using System;
@@ -75,7 +75,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 String is: Geeks
 String is: forGeeks
 String is: GeeksforGeeks
@@ -86,7 +86,7 @@ String is: GeeksforGeeks
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the 
 // concept that how method returns 
 // an object
@@ -153,7 +153,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Dimensions of Triangle is: 
 Base of the triangle is: 2
 Height of the triangle is:  8

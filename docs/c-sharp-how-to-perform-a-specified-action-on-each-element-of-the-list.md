@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public void ForEach (Action action);
 
 ```
@@ -30,7 +30,7 @@ public void ForEach (Action action);
 
 **例 1:**
 
-```
+```cs
 // C# Program to perform a specified
 // action on each element of the List<T>
 using System;
@@ -71,7 +71,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Geeks
 For
 Geeks
@@ -84,7 +84,7 @@ GeeksforGeeks
 
 **例 2:**
 
-```
+```cs
 // C# Program to perform a specified
 // action on each element of the List<T>
 using System;
@@ -127,7 +127,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 6
 7
 8

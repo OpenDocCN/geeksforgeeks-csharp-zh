@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static char ToLowerInvariant (char c);
 ```
 
@@ -18,7 +18,7 @@ public static char ToLowerInvariant (char c);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // Char.ToLowerInvariant()
 // Method
@@ -53,7 +53,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The lowercase equivalent of the A is a
 The lowercase equivalent of the a is a
 The lowercase equivalent of the B is b
@@ -63,7 +63,7 @@ The lowercase equivalent of the b is b
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate
 // Char.ToLowerInvariant()
 // Method
@@ -90,7 +90,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The lowercase equivalent of the A is a
 
 ```

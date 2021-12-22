@@ -6,7 +6,7 @@ UInt32 结构的**最小值**字段用于表示 32 位无符号整数的最小�
 
 **语法:**
 
-```
+```cs
 public const uint MinValue = 0;
 ```
 
@@ -14,7 +14,7 @@ public const uint MinValue = 0;
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // UInt32.MinValue field
 using System;
@@ -56,7 +56,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Minimum Value is: 0
 Conversion is Possible.
 Conversion is Possible.

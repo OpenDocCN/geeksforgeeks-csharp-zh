@@ -6,7 +6,7 @@ C#支持数组的创建和操作，作为一种数据结构。数组的索引是
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the 
 // IndexOutofRange Exception in array
 using System;
@@ -35,7 +35,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 1
 2
 3
@@ -48,7 +48,7 @@ public class GFG {
 
 让我们看看另一个使用数组列表的例子:
 
-```
+```cs
 // C# program to demonstrate the 
 // IndexOutofRange Exception in array
 using System;
@@ -89,7 +89,7 @@ public class GFG {
 
 **正确的数组访问方式是:**
 
-```
+```cs
 for (int i = 0; i < ar.Length; i++) 
 {
 }
@@ -101,7 +101,7 @@ for (int i = 0; i < ar.Length; i++)
 *   【for-each 循环:这将在访问数组元素时自动处理索引。
     *   **语法:**
 
-        ```
+        ```cs
         for(int variable_name in array_variable)
         {
              // loop body

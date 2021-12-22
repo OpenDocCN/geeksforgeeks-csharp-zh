@@ -10,7 +10,7 @@
 
 **语法:**
 
-```
+```cs
 public bool StartsWith(string input_string)
 ```
 
@@ -26,7 +26,7 @@ public bool StartsWith(string input_string)
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // String.StartsWith(String) Method
 using System;
@@ -66,7 +66,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 https://www.geeksforgeeks.org
 ```
 
@@ -74,7 +74,7 @@ https://www.geeksforgeeks.org
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // String.StartsWith (String) Method
 using System;
@@ -131,7 +131,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 GeekforGeeks Computer Science Portal </p>
 GeekforGeeks Sudo Placement </h1>
 GeekforGeeks Placement Preparation </h2>
@@ -151,7 +151,7 @@ GeekforGeeks Interview </h5>
 
 ***语法:***
 
-```
+```cs
 *public bool StartsWith(string str,
                    bool case,
                    CultureInfo cul)*
@@ -170,7 +170,7 @@ GeekforGeeks Interview </h5>
 
 ## *C#*
 
-```
+```cs
 *// C# program to illustrate the
 // String.StartsWith (string,
 // bool, CultureInfo) Method
@@ -216,7 +216,7 @@ class Sudo {
 
 ***输出:***
 
-```
+```cs
 *True
 False
 False
@@ -229,7 +229,7 @@ False*
 
 ***语法:***
 
-```
+```cs
 *bool StartsWith(String str, StringComparison cType)*
 ```
 
@@ -249,7 +249,7 @@ False*
 
 ## *C#*
 
-```
+```cs
 *// C# program to illustrate the
 // StartsWith(String, StringComparison)
 // method
@@ -292,7 +292,7 @@ class Sudo {
 
 ***输出:***
 
-```
+```cs
 *True
 False
 False

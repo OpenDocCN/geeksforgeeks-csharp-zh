@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Clear ();
 
 ```
@@ -17,7 +17,7 @@ public void Clear ();
 
 **例 1:**
 
-```
+```cs
 // C# code to remove all elements
 // from OrderedDictionary
 using System;
@@ -62,7 +62,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Number of elements are : 5
 key1 -- value1
 key2 -- value2
@@ -75,7 +75,7 @@ Number of elements are : 0
 
 **例 2:**
 
-```
+```cs
 // C# code to remove all elements
 // from OrderedDictionary
 using System;
@@ -119,7 +119,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Number of elements are : 4
 A -- Apple
 B -- Banana

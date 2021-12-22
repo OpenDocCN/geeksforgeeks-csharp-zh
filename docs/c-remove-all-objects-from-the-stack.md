@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void Clear();
 
 ```
@@ -21,7 +21,7 @@ public virtual void Clear();
 
 **例 1:**
 
-```
+```cs
 // C# code to Remove all
 // objects from the Stack
 using System;
@@ -66,7 +66,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Stack are : 6
 Total number of elements in the Stack are : 0
 
@@ -74,7 +74,7 @@ Total number of elements in the Stack are : 0
 
 **例 2:**
 
-```
+```cs
 // C# code to Remove all
 // objects from the Stack
 using System;
@@ -118,7 +118,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Stack are : 5
 Total number of elements in the Stack are : 0
 

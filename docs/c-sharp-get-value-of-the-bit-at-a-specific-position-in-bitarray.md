@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public bool Get (int index);
 
 ```
@@ -29,7 +29,7 @@ public bool Get (int index);
 
 **例 1:**
 
-```
+```cs
 // C# code to get the value of
 // the bit at a specific position
 // in the BitArray
@@ -62,7 +62,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 True
 
@@ -70,7 +70,7 @@ True
 
 **例 2:**
 
-```
+```cs
 // C# code to get the value of
 // the bit at a specific position
 // in the BitArray
@@ -109,7 +109,7 @@ class GFG {
 
 **例 3:**
 
-```
+```cs
 // C# code to get the value of
 // the bit at a specific position
 // in the BitArray

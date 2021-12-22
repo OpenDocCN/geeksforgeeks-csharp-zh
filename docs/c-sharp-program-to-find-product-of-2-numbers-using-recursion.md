@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input  : x = 10, y = 3
 Output : 30
 
@@ -28,7 +28,7 @@ Output : 280
 
 ## C#
 
-```
+```cs
 // C# program to display the product of 
 // two numbers using Recursion 
 using System;
@@ -62,7 +62,7 @@ public static void Main ()
 
 **Output**
 
-```
+```cs
 30
 ```
 
@@ -70,7 +70,7 @@ public static void Main ()
 
 ## C#
 
-```
+```cs
 // C# program to display the product of 
 // two numbers using Recursion 
 using System;
@@ -108,6 +108,6 @@ public static void Main()
 
 **Output**
 
-```
+```cs
 450
 ```

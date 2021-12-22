@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public const byte MinValue = 0;
 ```
 
@@ -14,7 +14,7 @@ public const byte MinValue = 0;
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // Byte.MinValue field
 using System;
@@ -57,7 +57,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Minimum Value is: 0
 Conversion is Possible.
 Conversion is Possible.

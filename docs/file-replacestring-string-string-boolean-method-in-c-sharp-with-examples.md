@@ -37,7 +37,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Replace(String, String,
 // String, Boolean) method

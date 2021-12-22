@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual object[] ToArray();
 
 ```
@@ -24,7 +24,7 @@ public virtual object[] ToArray();
 
 **例 1:**
 
-```
+```cs
 // C# code to Convert Queue to array
 using System;
 using System.Collections.Generic;
@@ -59,7 +59,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Geeks
 Geeks Classes
 Noida
@@ -70,7 +70,7 @@ GeeksforGeeks
 
 **例 2:**
 
-```
+```cs
 // C# code to Convert Queue to array
 using System;
 using System.Collections.Generic;
@@ -105,7 +105,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 2
 3
 4

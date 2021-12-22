@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```cs
 alias_name::class-name;
 ```
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to use
 // the :: Namespace Alias Qualifier
 using System;
@@ -63,7 +63,7 @@ class GFG1 {
 
 **Output:**
 
-```
+```cs
 It is the first namespace.
 
 ```
@@ -72,14 +72,14 @@ It is the first namespace.
 
 **示例:**
 
-```
+```cs
 System.Collections::lists obj= new System.Collections.lists() // illegal
 aliasname = System.Collections;
 aliasname::lists obj = new aliasname::lists(); // Legal
 
 ```
 
-```
+```cs
 // C# program to illustrate how to use
 // the :: Namespace Alias Qualifier
 using aliasname = System.Collections;
@@ -110,7 +110,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 ASCII value of A is: 65
 ASCII value of B is: 66
 

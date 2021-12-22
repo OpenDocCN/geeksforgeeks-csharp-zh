@@ -6,7 +6,7 @@
 
 示例:
 
-```
+```cs
 Input : {16, 16, 16, 16}
 Output : 16.16.16.16
 
@@ -21,7 +21,7 @@ Output : 172.31.102.14
 
 **语法:**
 
-```
+```cs
 byte[] ArrayName = new byte[] 
 ```
 
@@ -32,21 +32,21 @@ byte[] ArrayName = new byte[]
 
 **语法:**
 
-```
+```cs
 [Serializable]
 public class IPAddress
 ```
 
 **使用带 IP 地址类的字节数组**
 
-```
+```cs
 IPAddress ObjectName = new IPAddress(byte[])
 ```
 
 **方法:**
 IP address 类用于获取 IP 地址。IP 地址是在地址属性设置为地址的情况下创建的。如果地址长度为 4，IPAddress(Byte[])将构造一个 IPv4 地址，否则将构造一个作用域为 0 的 IPv6 地址。假设字节数组按网络字节顺序排列，最高有效字节位于索引位置 0。
 
-```
+```cs
 // C# code to convert Byte array to IP Address
 using System;
 using System.Net;
@@ -72,6 +72,6 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 172.31.102.14
 ```

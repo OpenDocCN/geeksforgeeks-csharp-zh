@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool Equals (object obj);
 ```
 
@@ -18,7 +18,7 @@ public virtual bool Equals (object obj);
 
 **例 1:**
 
-```
+```cs
 // C# program to if a LinkedList object
 // is equal to another LinkedList object
 using System;
@@ -48,14 +48,14 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to if a LinkedList object
 // is equal to another LinkedList object
 using System;
@@ -104,7 +104,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 False
 True
 

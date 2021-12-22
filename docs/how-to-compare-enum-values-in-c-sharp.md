@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public int CompareTo (object target);
 ```
 
@@ -28,7 +28,7 @@ public int CompareTo (object target);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Enum.CompareTo(Object) Method
 using System;
@@ -70,7 +70,7 @@ public class GFG 
 
 **Output:**
 
-```
+```cs
 Comparing RED with GREEN : -1
 Comparing RED with RED : 0
 Comparing BLUE with GREEN : 1
@@ -79,7 +79,7 @@ Comparing BLUE with GREEN : 1
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Enum.CompareTo(Object) Method
 using System;

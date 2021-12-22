@@ -12,7 +12,7 @@
 此属性用于获取或设置指定索引处的值。
 **语法:**
 
-```
+```cs
 public object this[int index] { get; set; }
 ```
 
@@ -28,7 +28,7 @@ public object this[int index] { get; set; }
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code to get or set the value
 // at the specified index for
 // OrderedDictionary
@@ -61,7 +61,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 value2
 ```
 
@@ -69,7 +69,7 @@ value2
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code to get or set the value
 // at the specified index for
 // OrderedDictionary
@@ -115,7 +115,7 @@ class GFG {
 此属性用于获取或设置具有指定键的值。
 **语法:**
 
-```
+```cs
 public object this[object key] { get; set; }
 ```
 
@@ -126,7 +126,7 @@ public object this[object key] { get; set; }
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code to get or set the
 // value with the specified key
 using System;
@@ -158,7 +158,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 value3
 ```
 

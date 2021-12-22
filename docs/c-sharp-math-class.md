@@ -4,7 +4,7 @@
 
 在 C#中，**数学类**属于系统命名空间。它用于为对数函数、三角函数和其他有用的数学函数提供静态方法和常数。它是一个静态类，继承了对象类。
 
-```
+```cs
 public static class Math
 ```
 
@@ -17,7 +17,7 @@ public static class Math
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the
 // value of Math Class Fields
 using System;
@@ -45,7 +45,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Math.E = 2.71828182845905
 Math.PI = 3.14159265358979
 
@@ -95,7 +95,7 @@ Math.PI = 3.14159265358979
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Math class methods
 using System;
@@ -127,7 +127,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Floor value of 123.123: 123
 Asin value of 0.35: 0.35757110364551
 Square Root of 81: 9

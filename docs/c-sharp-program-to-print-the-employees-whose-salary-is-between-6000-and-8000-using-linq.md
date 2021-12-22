@@ -8,7 +8,7 @@ LINQ 被称为语言集成查询，它是在年引入的。NET 3.5。它赋予*�
 
 **示例:**
 
-```
+```cs
 Input:
 List of employees:
       {{emp_id = 101, emp_name = "bobby", emp_age = 12, emp_salary = 2000}}
@@ -39,7 +39,7 @@ Output:
 
 ## C#
 
-```
+```cs
 // C# program to display the details of the employee's
 // whose salary is between 6000 and 8000 
 // using LINQ.
@@ -102,7 +102,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 ID  Name  Department Salary
 +++++++++++++++++++++++++++
 102 deepu Development 7000

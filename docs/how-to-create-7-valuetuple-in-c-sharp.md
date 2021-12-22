@@ -27,7 +27,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to create a 7-ValueTuple
 // using value tuple constructor
 using System;
@@ -59,7 +59,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Component 1: Dog
 Component 2: Cat
 Component 3: Cow
@@ -102,7 +102,7 @@ Component 7: Fish
 
 **示例:**
 
-```
+```cs
 // C# program to create a 7-ValueTuple
 // using Create<T1, T2, T3, T4, T5, T6,
 // T7>(T1, T2, T3, T4, T5, T6, T7) Method
@@ -133,7 +133,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Component 1: 12
 Component 2: 34
 Component 3: 56

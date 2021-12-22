@@ -5,7 +5,7 @@
 此方法用于返回从字节数组中指定位置的两个字节转换而来的 Unicode 字符。
 **语法:**
 
-```
+```cs
 public static char ToChar (byte[] value, int startIndex);
 ```
 
@@ -26,7 +26,7 @@ public static char ToChar (byte[] value, int startIndex);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToChar(Byte[], Int32);
 // Method
@@ -98,7 +98,7 @@ public static void PrintIndexAndValues(byte[] myArr)
 
 **输出:**
 
-```
+```cs
 Initial Array: 32 0 0 42 0 65 0 125 0 197 0 168 3 41 4 125 32 
 
 initial Array in string: 20-00-00-2A-00-41-00-7D-00-C5-00-A8-03-29-04-7D-20 
@@ -125,7 +125,7 @@ index  element     char
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToChar(Byte[], Int32);
 // Method
@@ -205,7 +205,7 @@ public static void PrintIndexAndValues(byte[] myArr)
 
 **输出:**
 
-```
+```cs
 Initial Array: 32 0 0 42 0 65 0 125 0 197 0 168 3 41 4 125 
 
 initial Array in string: 20-00-00-2A-00-41-00-7D-00-C5-00-A8-03-29-04-7D 
@@ -233,7 +233,7 @@ Exception Thrown: System.ArgumentException
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToChar(Byte[], Int32);
 // Method
@@ -313,7 +313,7 @@ public static void PrintIndexAndValues(byte[] myArr)
 
 **输出:**
 
-```
+```cs
 Initial Array: 32 0 0 42 0 65 0 125 0 197 0 168 3 41 4 125 
 
 initial Array in string: 20-00-00-2A-00-41-00-7D-00-C5-00-A8-03-29-04-7D 
@@ -343,7 +343,7 @@ Exception Thrown: System.ArgumentOutOfRangeException
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToChar(Byte[], Int32);
 // Method
@@ -385,7 +385,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Exception Thrown: System.ArgumentNullException
 ```
 

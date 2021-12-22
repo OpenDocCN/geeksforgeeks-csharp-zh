@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual System.Collections.ICollection Keys { get; }
 ```
 
@@ -23,7 +23,7 @@ public virtual System.Collections.ICollection Keys { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get an ICollection containing
 // the keys in the Hashtable.
 using System;
@@ -56,7 +56,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 5: Odd and Prime
 9: Odd
 2: Even and Prime
@@ -66,7 +66,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# code to get an ICollection containing
 // the keys in the Hashtable.
 using System;
@@ -99,7 +99,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Chandigarh: City
 India: Country
 China: Country

@@ -12,7 +12,7 @@
 
 **例*T2 是符 T4:***
 
-```
+```cs
 // C# program to illustrate the
 // use of is operator keyword
 using System;
@@ -81,7 +81,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 True
 True
 True
@@ -94,7 +94,7 @@ False
 
 **T2 作为操作员 T4 的例子:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of 'as' operator
 using System;
@@ -138,7 +138,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 0:Is is not a string
 1:Is is not a string
 2:'Hello'

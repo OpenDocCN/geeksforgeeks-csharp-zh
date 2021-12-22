@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static double IEEERemainder (double a, double b);
 ```
 
@@ -25,13 +25,13 @@ public static double IEEERemainder (double a, double b);
 
 【IEEERemainder 和余数运算符的区别:两者都用于在除法后返回余数，但它们使用的公式不同。*ieeereminder*方法的公式为:
 
-```
+```cs
 IEEERemainder = dividend - (divisor * Math.Round(dividend / divisor))
 ```
 
 *余数运算符*的公式为:
 
-```
+```cs
 Remainder = (Math.Abs(dividend) - (Math.Abs(divisor) *  
             (Math.Floor(Math.Abs(dividend) / Math.Abs(divisor))))) *   
             Math.Sign(dividend)
@@ -41,7 +41,7 @@ Remainder = (Math.Abs(dividend) - (Math.Abs(divisor) *
 
 ## C#
 
-```
+```cs
 // C# Program to illustrate the
 // Math.IEEERemainder() Method
 using System;
@@ -84,7 +84,7 @@ class Geeks
 
 **输出:**
 
-```
+```cs
                       IEEERemainder   Remainder Operator
 0 / 1 =                           0                    0
 -4 / 8 =                         -4                   -4

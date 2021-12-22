@@ -14,7 +14,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the use
 // of Console.Read Method
 using System;
@@ -43,7 +43,7 @@ class Program {
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the use
 // of Console.Read Method
 using System;

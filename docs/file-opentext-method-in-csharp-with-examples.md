@@ -5,7 +5,7 @@
 **文件。OpenText(String)** 是一个内置的 File 类方法，用于打开现有的 UTF-8 编码文本文件进行读取。
 **语法:**
 
-```
+```cs
 public static System.IO.StreamReader OpenText (string path);
 ```
 
@@ -33,7 +33,7 @@ public static System.IO.StreamReader OpenText (string path);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.OpenText(String) method
 
@@ -63,7 +63,7 @@ class Test {
 
 **执行:**
 
-```
+```cs
 GeeksforGeeks
 ```
 
@@ -75,7 +75,7 @@ GeeksforGeeks
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.OpenText(String) method
 
@@ -115,6 +115,6 @@ class Test {
 
 **执行:**
 
-```
+```cs
 GFG is a CS portal.
 ```

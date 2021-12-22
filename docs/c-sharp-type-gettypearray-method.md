@@ -15,7 +15,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetTypeArray(Object[]) Method
 using System;
@@ -59,7 +59,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Types of the objects in the specified array: 
  System.Int32
  System.Double
@@ -70,7 +70,7 @@ Types of the objects in the specified array:
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetTypeArray(Object[]) Method
 using System;
@@ -114,7 +114,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 One or more of the elements in args is null.
 Exception Thrown: System.ArgumentNullException
 

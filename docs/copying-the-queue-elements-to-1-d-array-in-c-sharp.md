@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void CopyTo (T[] array, int arrayIndex);
 ```
 
@@ -26,7 +26,7 @@ public void CopyTo (T[] array, int arrayIndex);
 
 **例 1:**
 
-```
+```cs
 // C# code to illustrate the
 // Queue<T>.CopyTo(T[], Int32)
 // Method
@@ -106,7 +106,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Before Method: 
 
 Queue Contains: 
@@ -142,7 +142,7 @@ arr[5] : D
 
 **例 2:**
 
-```
+```cs
 // C# code to illustrate the
 // Queue<T>.CopyTo(T[], Int32)
 // Method

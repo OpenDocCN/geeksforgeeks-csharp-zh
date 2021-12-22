@@ -11,7 +11,7 @@
 **方法 1:** 将数组列表转换为对象数组
 **语法:**
 
-```
+```cs
 public virtual object[] ToArray ();
 ```
 
@@ -24,7 +24,7 @@ public virtual object[] ToArray ();
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate ToArray() Method
 using System;
 using System.Collections;
@@ -61,7 +61,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Monday
 Tuesday
 Wednesday
@@ -74,7 +74,7 @@ Sunday
 **方法 2:** 将数组列表转换为指定类型的数组
 **语法:**
 
-```
+```cs
 public virtual Array ToArray (Type t);
 ```
 
@@ -90,7 +90,7 @@ public virtual Array ToArray (Type t);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the use
 // of ToArray(Type) Method in the
 // conversion of ArrayList to Array
@@ -128,7 +128,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Ruby
 C#
 C++
@@ -141,7 +141,7 @@ Perl
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the use
 // of ToArray(Type) Method in the
 // conversion of ArrayList to Array
@@ -181,7 +181,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Ruby
 C#
 C++
@@ -196,7 +196,7 @@ Perl
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the use
 // of ToArray(Type) Method in the
 // conversion of ArrayList to Array

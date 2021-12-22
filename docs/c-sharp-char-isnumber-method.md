@@ -16,7 +16,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool IsNumber(char ch);
 ```
 
@@ -28,7 +28,7 @@ public static bool IsNumber(char ch);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Char.IsNumber(Char) Method
 using System;
@@ -59,7 +59,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 False
 
@@ -71,7 +71,7 @@ False
 
 **语法:**
 
-```
+```cs
 public static bool IsNumber(string str, int index);
 ```
 
@@ -89,7 +89,7 @@ public static bool IsNumber(string str, int index);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Char.IsNumber(String, Int32) Method
 using System;
@@ -120,7 +120,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 True
 

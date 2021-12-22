@@ -19,7 +19,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // SByte.Equals(SByte) Method
     using System;
@@ -52,14 +52,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     42 is not equal to 23
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // SByte.Equals(SByte) Method
     using System;
@@ -99,7 +99,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     78 is not equal to 58
     45 is equal to 45
     10 is not equal to 20
@@ -120,7 +120,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // SByte.Equals(Object) Method
     using System;
@@ -153,14 +153,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     10 is not equal to 0
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // SByte.Equals(Object) Method
     using System;
@@ -200,7 +200,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     112 is not equal to 85
     124 is not equal to 154
     87 is not equal to 87

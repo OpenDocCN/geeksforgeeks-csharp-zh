@@ -15,7 +15,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTimeOffset.AddSeconds(Double)
 // Method
@@ -52,14 +52,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTimeOffset is 06/01/2007 07:55:10 -05:00
 
 ```
 
 **例 2:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTimeOffset.AddSeconds(Double)
 // Method
@@ -95,7 +95,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.ArgumentOutOfRangeException
 
 ```

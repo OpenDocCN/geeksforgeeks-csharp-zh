@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static sbyte ToSByte (string value, IFormatProvider provider);
 
 ```
@@ -28,7 +28,7 @@ public static sbyte ToSByte (string value, IFormatProvider provider);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToSByte() Method
 using System;
@@ -88,14 +88,14 @@ public static void get(string s,
 
 **Output:**
 
-```
+```cs
 Converted sbyte value from a specified string:  123,  123,  -123,
 
 ```
 
 **例 2:** 为*格式异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToSByte() Method
 using System;
@@ -167,7 +167,7 @@ public static void get(string s,
 
 **Output:**
 
-```
+```cs
 Converted sbyte value of specified strings:  123,  123,  -123, 
 
 format of s is invalid
@@ -177,7 +177,7 @@ Exception Thrown: System.FormatException
 
 **例 3:** 适用于*飞越异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToSByte() Method
 using System;
@@ -248,7 +248,7 @@ public static void get(string s,
 
 **Output:**
 
-```
+```cs
 Converted sbyte value of specified strings:  123,  123,  -123, 
 
 s is less than the MinValue

@@ -16,7 +16,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to evaluate the sum and then find the time
 // that elapsed since system started
 using System;
@@ -39,7 +39,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Sum is: 5
 So, the tick count is : 12173138
 ```
@@ -48,7 +48,7 @@ So, the tick count is : 12173138
 
 ## C#
 
-```
+```cs
 // C# program to find the time with out 
 // any delay (With out no operation)
 using System;
@@ -67,6 +67,6 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 The tick count is : 11475417
 ```

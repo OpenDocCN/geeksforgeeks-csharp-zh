@@ -5,7 +5,7 @@
 此方法用于使用指定的区域性特定格式信息，将数字的指定字符串表示形式转换为等效的日期和时间。
 **语法:**
 
-```
+```cs
 public static DateTime ToDateTime (string value, IFormatProvider provider);
 ```
 
@@ -21,7 +21,7 @@ public static DateTime ToDateTime (string value, IFormatProvider provider);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToDateTime() Method
 using System;
@@ -79,7 +79,7 @@ public static void get(string s,
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToDateTime() Method
 using System;

@@ -8,7 +8,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to show the
 // difference between Int64
 // and UInt64
@@ -42,7 +42,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Minimum value of Int64: -9223372036854775808
 Maximum value of Int64: 9223372036854775807
 
@@ -60,7 +60,7 @@ Maximum value of Int64: 9223372036854775807
 
 ## C#
 
-```
+```cs
 // C# program to show the 
 // difference between Int64 
 // and UInt64
@@ -94,7 +94,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Minimum value of UInt64: 0
 Maximum value of UInt64: 18446744073709551615
 
@@ -118,14 +118,14 @@ Maximum value of UInt64: 18446744073709551615
 | **5。** | Int64 的范围是从 -9223372036854775808 到+922372036854775807。 | UInt64 范围从 0 到 18446744073709551615。 |
 | **6。** | 声明 Int64 的语法:
 
-```
+```cs
 Int64 variable_name;
 
 ```
 
  | 声明 UInt64 的语法:
 
-```
+```cs
 UInt64 variable_name;
 
 ```

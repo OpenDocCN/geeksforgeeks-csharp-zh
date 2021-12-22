@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.Generic.LinkedListNode First { get; }
 
 ```
@@ -17,7 +17,7 @@ public System.Collections.Generic.LinkedListNode First { get; }
 
 ****例 1:****
 
-```
+```cs
 // C# code to get the first
 // node of the LinkedList
 using System;
@@ -49,13 +49,13 @@ class GFG {
 
 ****输出:****
 
-```
+```cs
 Geeks 
 ```
 
 ****例 2:****
 
-```
+```cs
 // C# code to get the first
 // node of the LinkedList
 using System;
@@ -81,7 +81,7 @@ class GFG {
 
 ****输出:****
 
-```
+```cs
 LinkedList is empty 
 ```
 

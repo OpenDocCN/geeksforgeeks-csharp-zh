@@ -6,7 +6,7 @@
 
 **例:**
 
-```
+```cs
 Input : Geeks For Geeks
 Output: G.F.G
 
@@ -27,7 +27,7 @@ Output: D.S.A
 
 ## c#
 
-```
+```cs
 // C# program to print the abbreviation of a Text
 using System;
 
@@ -67,7 +67,7 @@ public static void Main()
 
 **输出**
 
-```
+```cs
 The Abbreviation : G.F.G.
 ```
 

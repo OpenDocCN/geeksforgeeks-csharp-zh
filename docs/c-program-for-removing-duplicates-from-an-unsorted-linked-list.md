@@ -11,7 +11,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to remove duplicates from
 // unsorted linked list
 using System;
@@ -101,7 +101,7 @@ class List_ 
 
 **输出:**
 
-```
+```cs
 Linked list before removing duplicates:
 10 12 11 11 12 11 10 
 Linked list after removing duplicates:
@@ -122,7 +122,7 @@ Linked list after removing duplicates:
 
 ## C#
 
-```
+```cs
 // C# program to remove duplicates
 // from unsorted linkedlist
 using System;
@@ -208,7 +208,7 @@ public static void Main(String[] args) 
 
 **输出:**
 
-```
+```cs
 Linked list before removing duplicates:
 10 12 11 11 12 11 10 
 Linked list after removing duplicates:

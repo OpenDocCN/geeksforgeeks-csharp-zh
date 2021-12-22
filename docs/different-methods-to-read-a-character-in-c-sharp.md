@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 char_variable = Console.ReadLine()[0];
 
 ```
@@ -24,7 +24,7 @@ char_variable = Console.ReadLine()[0];
 
 ## C#
 
-```
+```cs
 // C# program to Read a character
 // using Console.ReadLine()[0]
 
@@ -49,14 +49,14 @@ public class GFG{
 
 **控制台输入:**
 
-```
+```cs
 Geeks
 
 ```
 
 **输出:**
 
-```
+```cs
 G
 
 ```
@@ -67,7 +67,7 @@ G
 
 **语法:**
 
-```
+```cs
 char_variable = Console.ReadKey().KeyChar;
 
 ```
@@ -76,7 +76,7 @@ char_variable = Console.ReadKey().KeyChar;
 
 ## C#
 
-```
+```cs
 // C# program to Input a character
 // using Console.ReadKey().KeyChar
 
@@ -103,13 +103,13 @@ public class GFG{
 
 **控制台输入:**
 
-```
+```cs
 G
 ```
 
 **输出:**
 
-```
+```cs
 GG
 ```
 
@@ -119,7 +119,7 @@ GG
 
 **语法:**
 
-```
+```cs
 bool result = Char.TryParse(String s, out char char_variable);
 
 ```
@@ -128,7 +128,7 @@ bool result = Char.TryParse(String s, out char char_variable);
 
 ## C#
 
-```
+```cs
 // C# program to Read a character
 // using Char.TryParse()
 
@@ -157,14 +157,14 @@ public class GFG{
 
 **控制台输入:**
 
-```
+```cs
 G
 
 ```
 
 **输出:**
 
-```
+```cs
 Result: True
 Input character: G
 
@@ -176,7 +176,7 @@ Input character: G
 
 **语法:**
 
-```
+```cs
 char_variable = Convert.ToChar(string s);
 
 ```
@@ -185,7 +185,7 @@ char_variable = Convert.ToChar(string s);
 
 ## C#
 
-```
+```cs
 // C# program to Read a character
 // using Convert.ToChar()
 
@@ -212,14 +212,14 @@ public class GFG{
 
 **控制台输入:**
 
-```
+```cs
 G
 
 ```
 
 **输出:**
 
-```
+```cs
 G
 
 ```

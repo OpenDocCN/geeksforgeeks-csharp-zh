@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool IsNullOrWhiteSpace(String str)  
 
 ```
@@ -15,7 +15,7 @@ public static bool IsNullOrWhiteSpace(String str)
 
 **例:**
 
-```
+```cs
 Input : str  = null         // initialize by null value
         String.IsNullOrWhiteSpace(str)
 Output: True
@@ -28,7 +28,7 @@ Output: True
 
 **程序:**演示 IsNullOrWhiteSpace()方法的工作原理:
 
-```
+```cs
 // C# program to illustrate 
 // IsNullOrWhiteSpace() Method
 using System;
@@ -78,7 +78,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 True
 True
 True
@@ -90,14 +90,14 @@ False
 
 **注:**isnullorhitespace()方法有一个备选代码如下:
 
-```
+```cs
 return String.IsNullOrEmpty(str) || str.Trim().Length == 0;
 
 ```
 
 **程序:**演示 IsNullOrEmpty()方法的替代方案
 
-```
+```cs
 // C# program to illustrate the 
 // similar code for IsNullOrWhiteSpace()
 using System;
@@ -135,7 +135,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 False
 True
 True

@@ -24,7 +24,7 @@ ValueTuple 是 C# 7.0 中引入的一个结构，它表示值类型 [Tuple](http
 
     **语法:**
 
-    ```
+    ```cs
     // Constructor for creating one element
     ValueTuple<T1>(T1)
 
@@ -41,7 +41,7 @@ ValueTuple 是 C# 7.0 中引入的一个结构，它表示值类型 [Tuple](http
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how to
     // create value tuple using the 
     // ValueTuple constructor.
@@ -72,7 +72,7 @@ ValueTuple 是 C# 7.0 中引入的一个结构，它表示值类型 [Tuple](http
 
     **语法:**
 
-    ```
+    ```cs
     // Method for creating an empty value tuple
     Create();
 
@@ -89,7 +89,7 @@ ValueTuple 是 C# 7.0 中引入的一个结构，它表示值类型 [Tuple](http
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to create value tuple
     // using Create Method
     using System;
@@ -121,7 +121,7 @@ ValueTuple 是 C# 7.0 中引入的一个结构，它表示值类型 [Tuple](http
 
         **例 1:**
 
-        ```
+        ```cs
         // C# program to illustrated named member
         using System;
 
@@ -135,7 +135,7 @@ ValueTuple 是 C# 7.0 中引入的一个结构，它表示值类型 [Tuple](http
 
         **例 2:**
 
-        ```
+        ```cs
         // C# program to illustrated named member
         using System;
 
@@ -154,7 +154,7 @@ ValueTuple 是 C# 7.0 中引入的一个结构，它表示值类型 [Tuple](http
 
         **例 1:**
 
-        ```
+        ```cs
         // C# program to illustrated UnNamed member
         using System;
 
@@ -168,7 +168,7 @@ ValueTuple 是 C# 7.0 中引入的一个结构，它表示值类型 [Tuple](http
 
         **例 2:**
 
-        ```
+        ```cs
         // C# program to illustrated UnNamed member
         using System;
 
@@ -188,7 +188,7 @@ ValueTuple 是 C# 7.0 中引入的一个结构，它表示值类型 [Tuple](http
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how to 
     // access unnamed members of ValueTuple
     using System;
@@ -215,7 +215,7 @@ ValueTuple 是 C# 7.0 中引入的一个结构，它表示值类型 [Tuple](http
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how to access
     // named members of ValueTuple
     using System;
@@ -242,7 +242,7 @@ ValueTuple 是 C# 7.0 中引入的一个结构，它表示值类型 [Tuple](http
 
     **输出:**
 
-    ```
+    ```cs
     Book Id: 2340
     Author Name: Arundhati Roy
     Book Name: The God of Small Things
@@ -255,7 +255,7 @@ ValueTuple 是 C# 7.0 中引入的一个结构，它表示值类型 [Tuple](http
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how a
 // method return ValueTuple
 using System;
@@ -286,7 +286,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Tourist Details: 
 Tourist Id: 384645
 Tourist Name: Sophite

@@ -6,7 +6,7 @@
 
 **语法**:
 
-```
+```cs
 array_name.Distinct()
 ```
 
@@ -14,7 +14,7 @@ array_name.Distinct()
 
 **示例:**
 
-```
+```cs
 Input : data = { 10, 20, 230, 34, 56, 10, 12, 34, 56, 56 }
 Output :
 10
@@ -37,7 +37,7 @@ cpp
 
 **2。**应用不同的函数并转换为数组
 
-```
+```cs
 data.Distinct().ToArray();
 ```
 
@@ -45,7 +45,7 @@ data.Distinct().ToArray();
 
 **4。**通过遍历数组来显示唯一的元素
 
-```
+```cs
 Array.ForEach(unique, i => Console.WriteLine(i));
 ```
 
@@ -53,7 +53,7 @@ Array.ForEach(unique, i => Console.WriteLine(i));
 
 ## C#
 
-```
+```cs
 // C# program to remove duplicate elements from the array
 using System;
 using System.Linq;
@@ -81,7 +81,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 Array before removing duplicate values:
 10
 20
@@ -106,7 +106,7 @@ Array after removing duplicate values:
 
 ## C#
 
-```
+```cs
 // C# program to remove duplicate elements from the array
 using System;
 using System.Linq;
@@ -134,7 +134,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 Array before removing duplicate values: 
 Java
 Java

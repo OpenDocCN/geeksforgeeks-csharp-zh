@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual object GetKey (int index);
 ```
 
@@ -20,7 +20,7 @@ public virtual object GetKey (int index);
 
 **例 1:**
 
-```
+```cs
 // C# code to get the key at
 // the specified index of a
 // SortedList object
@@ -57,14 +57,14 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Key at index 2 is key3
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to get the key at
 // the specified index of a
 // SortedList object

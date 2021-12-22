@@ -16,7 +16,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.EscapeDataString(String) Method
 using System;
@@ -52,14 +52,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Escaped string is : http%3A%2F%2Fwww.contoso.com%2Findex.htm%23search
 
 ```
 
 **示例 2:** 适用于**参数异常**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.EscapeDataString(String) Method
 using System;
@@ -105,7 +105,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 stringToEscape can not be null
 Exception Thrown: System.ArgumentNullException
 
@@ -113,7 +113,7 @@ Exception Thrown: System.ArgumentNullException
 
 **例 3:** 为**尿酸异常**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.EscapeDataString(String) Method
 using System;
@@ -163,7 +163,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Length of stringToEscape should not exceed from 32766 characters.
 Exception Thrown: System.UriFormatException
 

@@ -31,7 +31,7 @@ SortedSet 类提供了 5 种不同类型的构造函数，用来创建一个 Sor
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate how to
 // create SortedSet
 using System;
@@ -80,7 +80,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Elements of my_Set1:
 101
 1001
@@ -105,7 +105,7 @@ Elements of my_Set2:
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate how to
 // remove elements from SortedSet
 using System;
@@ -151,7 +151,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Total number of elements present in my_Set:4
 Total number of elements present in my_Set:3
 Total number of elements present in my_Set:0
@@ -164,7 +164,7 @@ Total number of elements present in my_Set:0
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate how to check
 // availability of elements in SortedSet
 using System;
@@ -203,6 +203,6 @@ public class GFG {
 
 **Output:** 
 
-```
+```cs
 Element is available..!
 ```

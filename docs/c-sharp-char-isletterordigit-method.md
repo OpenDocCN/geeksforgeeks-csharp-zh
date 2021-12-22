@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool IsLetterOrDigit(char ch);
 ```
 
@@ -26,7 +26,7 @@ public static bool IsLetterOrDigit(char ch);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Char.IsLetterOrDigit(Char) Method
 using System;
@@ -57,7 +57,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 False
 
@@ -69,7 +69,7 @@ False
 
 **语法:**
 
-```
+```cs
 public static bool IsLetterOrDigit(string str, int index);
 ```
 
@@ -87,7 +87,7 @@ public static bool IsLetterOrDigit(string str, int index);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Char.IsLetterOrDigit(String, Int32) Method
 using System;
@@ -118,7 +118,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 False
 

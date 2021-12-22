@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Clear ();
 
 ```
@@ -15,7 +15,7 @@ public void Clear ();
 
 **例 1:**
 
-```
+```cs
 // C# code to remove all
 // elements from the Collection
 using System;
@@ -63,7 +63,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Count : 5
 A
 B
@@ -76,7 +76,7 @@ Count : 0
 
 **例 2:**
 
-```
+```cs
 // C# code to remove all
 // elements from the Collection
 using System;
@@ -123,7 +123,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Count : 4
 2
 3

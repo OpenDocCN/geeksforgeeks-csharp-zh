@@ -10,7 +10,7 @@ StringCollection 类是。表示字符串集合的. NET Framework 类库。在 *
 
 **语法:**
 
-```
+```cs
 public bool Contains (string value);
 
 ```
@@ -28,7 +28,7 @@ public bool Contains (string value);
 
 **例 1 :**
 
-```
+```cs
 // C# code to check if the specified
 // string is in the StringCollection
 using System;
@@ -60,14 +60,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if the specified
 // string is in the StringCollection
 using System;
@@ -99,7 +99,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```

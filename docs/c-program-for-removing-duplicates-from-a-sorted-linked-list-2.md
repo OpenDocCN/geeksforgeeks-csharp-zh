@@ -13,7 +13,7 @@ removeDuplicates()之外的函数只是创建一个链表并测试 remove duplic
 
 ## C#
 
-```
+```cs
 // C# program to remove duplicates
 // from a sorted linked list
 using System;
@@ -123,7 +123,7 @@ public class LinkedList
 
 **输出:**
 
-```
+```cs
 Linked list before duplicate removal  11 11 11 13 13 20
 Linked list after duplicate removal  11 13 20
 ```
@@ -134,7 +134,7 @@ Linked list after duplicate removal  11 13 20
 
 ## C#
 
-```
+```cs
 // C# Program to remove duplicates
 // from a sorted linked list 
 using System;
@@ -249,7 +249,7 @@ class GFG
 
 **输出:**
 
-```
+```cs
 Linked list before duplicate removal  11 11 11 13 13 20
 Linked list after duplicate removal  11 13 20
 ```
@@ -260,7 +260,7 @@ Linked list after duplicate removal  11 13 20
 
 ## C#
 
-```
+```cs
 // C# program to remove duplicates
 // from a sorted linked list
 using System;
@@ -375,7 +375,7 @@ class LinkedList
 
 **输出:**
 
-```
+```cs
 List before removal of duplicates
 11 11 11 13 13 20 
 List after removal of elements
@@ -390,7 +390,7 @@ List after removal of elements
 
 ## C#
 
-```
+```cs
 // C# program for the above approach
 using System;
 using System.Collections.Generic;
@@ -483,7 +483,7 @@ public class GFG
 
 **输出:**
 
-```
+```cs
 Linked list before duplicate removal 11 11 11 13 13 20
 ```
 

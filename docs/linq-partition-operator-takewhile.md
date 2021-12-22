@@ -26,7 +26,7 @@ TakeWhile 运算符用于从给定的序列中返回元素，只要它满足给�
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of TakeWhile operator
 using System;
@@ -59,7 +59,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 New Sequence: 
 13
 45
@@ -70,7 +70,7 @@ New Sequence:
 
 **例 2:**
 
-```
+```cs
 // C# program to get the names of the 
 // employees whose salary is less 
 // than 50000
@@ -151,7 +151,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Employee Name: Anjita
 Employee Name: Soniya
 Employee Name: Rohit

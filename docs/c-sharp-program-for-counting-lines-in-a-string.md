@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input  : hey geeks\n welcome to \n geeksforgeeks \n happy learning
 Output : 4
 
@@ -38,7 +38,7 @@ Output : 2
 
 ## C#
 
-```
+```cs
 // C# program to display the total number of lines
 // present in the given string
 using System;
@@ -74,7 +74,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Input String:
 hey geeks
 welcome to
@@ -98,7 +98,7 @@ Number of new lines:4
 
 ## C#
 
-```
+```cs
 // C# program to display the total number of lines
 // present in the given string. Using Split() method
 using System;
@@ -126,7 +126,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Input String:
 hey geeks
 welcome to
@@ -152,7 +152,7 @@ Number of new lines:4
 
 ## C#
 
-```
+```cs
 // C# program to count the lines in the given string
 // Using Regular Expressions
 using System;
@@ -180,7 +180,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Input string:hey geeks
 welcome to
 geeksforgeeks
@@ -204,7 +204,7 @@ Total number of lines: 4
 
 ## C++
 
-```
+```cs
 // C# program to count the lines in the given string
 // Using Regular Expressions
 using System;
@@ -241,7 +241,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Input string:hey geeks
 welcome to
 geeksforgeeks

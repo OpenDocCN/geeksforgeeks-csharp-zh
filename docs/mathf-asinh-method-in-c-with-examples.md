@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Asinh(Single) Method
 using System;
@@ -39,14 +39,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Angle is 1.194763
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Asinh(Single) Method
 using System;
@@ -80,7 +80,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Angle is 0.188875
 Angle is NaN
 Angle is -Infinity

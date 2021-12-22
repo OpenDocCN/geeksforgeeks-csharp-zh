@@ -23,7 +23,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the 
 // Uri.GetLeftPart() Method 
 using System; 
@@ -50,7 +50,7 @@ class GFG { 
 
 **输出:**
 
-```
+```cs
 https://www.geeksforgeeks.org
 
 ```
@@ -59,7 +59,7 @@ https://www.geeksforgeeks.org
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the 
 // Uri.GetLeftPart() Method 
 using System; 
@@ -93,7 +93,7 @@ class GFG { 
 
 **输出:**
 
-```
+```cs
 https://www.geeksforgeeks.org/
 https://www.geeksforgeeks.org/
 https://

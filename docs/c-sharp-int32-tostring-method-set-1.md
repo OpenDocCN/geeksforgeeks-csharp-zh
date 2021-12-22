@@ -11,7 +11,7 @@
 
 **语法:**
 
-```
+```cs
 public string ToString (IFormatProvider provider);
 ```
 
@@ -21,7 +21,7 @@ public string ToString (IFormatProvider provider);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Int32.ToString(IFormatProvider)
 // Method
@@ -52,6 +52,6 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The Value is 15 and provider is en-US
 ```

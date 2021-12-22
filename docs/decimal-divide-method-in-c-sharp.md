@@ -21,7 +21,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Divide(Decimal,
 // Decimal) Method
@@ -58,14 +58,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Result of division : 2
 
 ```
 
 **示例 2:*飞越异常*的**程序
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Divide(Decimal, 
 // Decimal) Method
@@ -102,14 +102,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.OverflowException
 
 ```
 
 **例 3:*分支异常*程序**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Divide(Decimal,
 // Decimal) Method
@@ -146,7 +146,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.DivideByZeroException
 
 ```

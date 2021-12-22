@@ -8,7 +8,7 @@
 
 **程序 1:** 获取 CursorSize 的值
 
-```
+```cs
 // C# program to illustrate the
 // Console.CursorSize Property
 using System;
@@ -38,7 +38,7 @@ class Program {
 
 **程序 2:** 设置 CursorSize 的值
 
-```
+```cs
 // C# program to illustrate the
 // Console.CursorSize Property
 using System;

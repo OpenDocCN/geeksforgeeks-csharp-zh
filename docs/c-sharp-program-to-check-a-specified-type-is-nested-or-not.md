@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsNested { get; }
 ```
 
@@ -14,7 +14,7 @@ public bool IsNested { get; }
 
 ## C#
 
-```
+```cs
 // C# program to check a specified 
 // type is nested or not
 using System;
@@ -49,7 +49,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 True
 ```
 
@@ -57,7 +57,7 @@ True
 
 ## C#
 
-```
+```cs
 // C# program to check a specified
 // type is nested or not
 using System;
@@ -100,6 +100,6 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Gfg2 class is nested class
 ```

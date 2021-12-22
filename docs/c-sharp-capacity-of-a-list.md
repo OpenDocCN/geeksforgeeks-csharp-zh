@@ -20,7 +20,7 @@
 
 **语法:**
 
-```
+```cs
 public int Capacity { get; set; }
 
 ```
@@ -36,7 +36,7 @@ public int Capacity { get; set; }
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // Capacity Property of List<T>
 using System;
@@ -83,7 +83,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Capacity Is: 4
 Count Is: 4
 Capacity Is: 8
@@ -93,7 +93,7 @@ Count Is: 6
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // Capacity Property of List<T>
 using System;
@@ -146,7 +146,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Capacity Is: 10
 Count Is: 0
 Capacity Is: 10

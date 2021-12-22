@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual object Clone ();
 ```
 
@@ -14,7 +14,7 @@ public virtual object Clone ();
 
 **例 1:**
 
-```
+```cs
 // C# code to illustrate the use 
 // of ArrayList.Clone Method
 using System;
@@ -67,7 +67,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Elements of Original ArrayList: 
 
 Geeks

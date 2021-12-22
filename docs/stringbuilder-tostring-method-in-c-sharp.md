@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // the ToString() Method
 using System;
@@ -38,14 +38,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String contains = GeeksForGeeks
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate
 // the ToString() Method
 using System;
@@ -71,7 +71,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String contains = GeeksforGeeks Contribute
 
 ```

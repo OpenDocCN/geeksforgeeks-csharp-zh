@@ -64,7 +64,7 @@
 
 **示例:**
 
-```
+```cs
 // declares & initializes string array
 String[] s1 = new String[2];
 
@@ -87,14 +87,14 @@ s1[2];  // returns Noida
 
 **示例:**
 
-```
+```cs
 String[] weekDays = new string[3] {"Sun", "Mon", "Tue", "Wed"}; 
 
 ```
 
 **代码#1:** 字符串数组声明、初始化和访问其元素
 
-```
+```cs
 // C# program to illustrate the String array 
 // declaration, initialization and accessing 
 // its elements
@@ -121,7 +121,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Element 1
 Element 2
 Element 3
@@ -130,7 +130,7 @@ Element 3
 
 **代码#2:** 单行数组声明和初始化
 
-```
+```cs
 // C# code to illustrate Array declaration
 // and initialization in single line
 using System;
@@ -153,7 +153,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Geeks
 GFG
 Noida
@@ -166,7 +166,7 @@ Noida
 
     **示例:**显示*字符串[]参数*是字符串数组。
 
-    ```
+    ```cs
     // C# program to get the type of "args"
     using System;
 
@@ -184,7 +184,7 @@ Noida
 
     **输出:**
 
-    ```
+    ```cs
     System.String[]
 
     ```
@@ -194,7 +194,7 @@ Noida
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to get the type of arrays of 
     // strings which are declared using 'string'
     // keyword and 'String class object'
@@ -223,7 +223,7 @@ Noida
 
     **输出:**
 
-    ```
+    ```cs
     System.String[]
     System.String[]
 

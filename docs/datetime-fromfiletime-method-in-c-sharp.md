@@ -15,7 +15,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.FromFileTime(Int64) Method
 using System;
@@ -58,7 +58,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTime before operation: 2010 March 14
 
 DateTime after operation: 1601 January 03
@@ -67,7 +67,7 @@ DateTime after operation: 1601 January 03
 
 **例 2:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.FromFileTime() Method
 using System;
@@ -112,7 +112,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 fileTime is less than 0 
 Exception Thrown: System.ArgumentOutOfRangeException
 

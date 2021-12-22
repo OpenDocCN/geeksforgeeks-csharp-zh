@@ -5,7 +5,7 @@
 **哈希表。CopyTo(Array，Int32)方法**用于将哈希表的元素复制到指定索引处的一维数组实例中。
 **语法:**
 
-```
+```cs
 public virtual void CopyTo (Array array, int arrayIndex);
 ```
 
@@ -26,7 +26,7 @@ public virtual void CopyTo (Array array, int arrayIndex);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code to copy the Hashtable
 // elements to a one-dimensional Array
 // instance at the specified index.
@@ -67,7 +67,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 B --> Banana
 C --> Cat
 A --> Apple
@@ -80,7 +80,7 @@ E --> Elephant
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code to copy the Hashtable
 // elements to a one-dimensional Array
 // instance at the specified index.

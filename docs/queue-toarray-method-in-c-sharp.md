@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual object[] ToArray ();
 ```
 
@@ -16,7 +16,7 @@ public virtual object[] ToArray ();
 
 **例 1:**
 
-```
+```cs
 // C# code to illustrate the 
 // Queue.ToArray Method 
 using System;
@@ -52,7 +52,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Geeks
 Geeks Classes
 Noida
@@ -63,7 +63,7 @@ GeeksforGeeks
 
 **例 2:**
 
-```
+```cs
 // C# code to illustrate the 
 // Queue.ToArray Method 
 using System;
@@ -99,7 +99,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 2
 3
 4

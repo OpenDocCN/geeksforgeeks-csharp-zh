@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool TrueForAll (Predicate<T> match);
 ```
 
@@ -22,7 +22,7 @@ public bool TrueForAll (Predicate<T> match);
 
 **例 1:**
 
-```
+```cs
 // C# Program to check if every element 
 // in the List matches the conditions 
 // defined by the specified predicate
@@ -73,7 +73,7 @@ class Geeks { 
 
 **Output:**
 
-```
+```cs
 Elements Present in List:
 
 0
@@ -89,7 +89,7 @@ Result: True
 
 **例 2:**
 
-```
+```cs
 // C# Program to check if every element 
 //in the List matches the conditions 
 //defined by the specified predicate
@@ -136,7 +136,7 @@ public class Example
 
 **Output:**
 
-```
+```cs
 Elements Present in List:
 
 C# language

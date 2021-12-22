@@ -34,7 +34,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the use of 
     // BinarySearch<T>(T[], T) method
     using System;
@@ -107,7 +107,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Original array
     ABC
     XYZ
@@ -129,7 +129,7 @@
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the use 
     // of BinarySearch<T>(T[], T) method
     using System;
@@ -202,7 +202,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Original array
     5
     7

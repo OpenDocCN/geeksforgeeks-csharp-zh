@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool Remove (T item);
 
 ```
@@ -19,7 +19,7 @@ public bool Remove (T item);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the specified 
 // element from a HashSet
 using System;
@@ -72,7 +72,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The elements in HashSet are : 
 0
 2
@@ -101,7 +101,7 @@ Number of elements are : 9
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the specified
 //  element from a HashSet
 using System;
@@ -155,7 +155,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The elements in HashSet are : 
 Data Structures
 Algorithms

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool Equals (object obj);
 ```
 
@@ -18,7 +18,7 @@ public virtual bool Equals (object obj);
 
 **例 1:**
 
-```
+```cs
 // C# program to if a ArrayList
 // is equal to itself or not
 using System;
@@ -49,14 +49,14 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 True
 
 ```
 
 **示例 2:**equals 方法只检查两个数组列表引用是否引用同一个对象。如果两个对象不同，即使它们具有相同的值，它也会返回 false。
 
-```
+```cs
 // C# program to if a ArrayList
 // is equal to another ArrayList
 using System;
@@ -107,7 +107,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 False
 True
 

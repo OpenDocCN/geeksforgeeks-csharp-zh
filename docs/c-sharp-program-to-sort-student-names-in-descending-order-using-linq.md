@@ -6,7 +6,7 @@
 
 **例:**
 
-```
+```cs
 Input  : [ "sai", "narendra", "Mohan", "sundar", "vasu" ]
 Output : [ "vasu", "sundar", "sai", "narendra", "mohan" ]
 
@@ -19,7 +19,7 @@ Output : [ "yeswanth", "praveen", "amrutha", "akhil" ]
 > *   创建并初始化类型字符串的结构名称列表。例如 arr。
 > *   使用 OrderByDescending()方法对列表(命名为 arr)进行排序。
 > 
-> ```
+> ```cs
 > var finalres = arr.OrderByDescending(n => n);
 > ```
 > 
@@ -27,7 +27,7 @@ Output : [ "yeswanth", "praveen", "amrutha", "akhil" ]
 
 ## c#
 
-```
+```cs
 // C# program to sort student names in 
 // descending order using Linq.
 using System;
@@ -58,7 +58,7 @@ static void Main(string[] args)
 
 **输出**
 
-```
+```cs
 Sorted list in Descending order:
 yeswanth praveen amrutha akhil 
 ```

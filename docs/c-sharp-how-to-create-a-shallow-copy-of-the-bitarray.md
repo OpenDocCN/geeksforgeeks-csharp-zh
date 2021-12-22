@@ -5,7 +5,7 @@
 **BitArray。克隆方法**用于创建数组的浅拷贝。此方法仅复制集合的元素，无论它们是引用类型还是值类型，但不复制引用所引用的对象。
 **语法:**
 
-```
+```cs
 public object Clone ();
 ```
 
@@ -13,7 +13,7 @@ public object Clone ();
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // BitArray.Clone Method
 using System;
@@ -54,7 +54,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Length of B2: 16
 
 B2 Contains:
@@ -80,7 +80,7 @@ False
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C#Program to show changes in clone
 // don't affect the original BitArray
 using System;
@@ -166,7 +166,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 B2 Before Making any changes:
 True False True False 
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static int DaysInMonth (int year, int month);
 ```
 
@@ -18,7 +18,7 @@ public static int DaysInMonth (int year, int month);
 
 **例 1:**
 
-```
+```cs
 // C# code to demonstrate the
 // DaysInMonth(Int32, Int32) Method
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 31
 29
 28
@@ -64,7 +64,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# code to demonstrate the
 // DaysInMonth(Int32, Int32) Method
 using System;

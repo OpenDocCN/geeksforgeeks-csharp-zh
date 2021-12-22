@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual object this[object key] { get; set; }
 ```
 
@@ -27,7 +27,7 @@ public virtual object this[object key] { get; set; }
 
 **例 1:**
 
-```
+```cs
 // C# code to Gets or sets the value 
 // associated with the specified key 
 using System; 
@@ -69,7 +69,7 @@ class GFG { 
 
 **Output:**
 
-```
+```cs
 c: c++
 d: data structures
 g: geeks
@@ -84,7 +84,7 @@ q: quiz
 
 **例 2:**
 
-```
+```cs
 // C# code to Gets or sets the value 
 // associated with the specified key 
 using System; 
@@ -142,7 +142,7 @@ class GFG { 
 
 **Output:**
 
-```
+```cs
 2: Even and Prime
 4: Even
 5: Odd and Prime

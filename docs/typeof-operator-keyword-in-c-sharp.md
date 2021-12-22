@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 System.Type type = typeof(int);
 ```
 
@@ -21,7 +21,7 @@ System.Type type = typeof(int);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // concept of typeof operator
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 System.Double
 System.Int32
 System.Array
@@ -78,7 +78,7 @@ System.Int32[]
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // difference between typeof
 // operator and GetType method
@@ -120,7 +120,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 True
 False
 ```

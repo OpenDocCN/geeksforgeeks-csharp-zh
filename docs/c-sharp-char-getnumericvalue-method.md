@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static double GetNumericValue(String str, int index);
     ```
 
@@ -31,7 +31,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // Char.GetNumericValue(String, Int32) Method
     using System;
@@ -59,7 +59,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     -1
     3
 
@@ -71,7 +71,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static double GetNumericValue(Char ch);
     ```
 
@@ -83,7 +83,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // Char.GetNumericValue(Char) Method
     using System;
@@ -103,7 +103,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     9
     -1
 

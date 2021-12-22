@@ -4,7 +4,7 @@
 
 给定一个单链表，编写一个成对交换元素的函数。
 
-```
+```cs
 Input: 1->2->3->4->5->6->NULL 
 Output: 2->1->4->3->6->5->NULL
 
@@ -23,7 +23,7 @@ Output: 1->NULL
 
 ## C#
 
-```
+```cs
 // C# program to pairwise swap elements 
 // of a linked list
 using System;
@@ -120,7 +120,7 @@ class LinkedList 
 
 **输出:**
 
-```
+```cs
 Linked list before calling pairWiseSwap()
 1 2 3 4 5 
 Linked list after calling pairWiseSwap()
@@ -139,7 +139,7 @@ Linked list after calling pairWiseSwap()
 
 ## C#
 
-```
+```cs
 /* Recursive function to pairwise swap 
    elements of a linked list */
 static void pairWiseSwap(node head)

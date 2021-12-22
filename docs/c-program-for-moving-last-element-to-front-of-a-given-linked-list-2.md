@@ -12,7 +12,7 @@
 
 ## C#
 
-```
+```cs
 /* C# Program to move last element to 
    front in a given linked list */
 using System;
@@ -124,7 +124,7 @@ class LinkedList 
 
 **输出:**
 
-```
+```cs
 Linked list before moving last to front 
 1 2 3 4 5 
 Linked list after removing last to front 

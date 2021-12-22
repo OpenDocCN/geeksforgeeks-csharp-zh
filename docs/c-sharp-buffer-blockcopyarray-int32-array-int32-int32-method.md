@@ -5,7 +5,7 @@
 此方法用于将指定数量的字节从从特定偏移量开始的源数组复制到从特定偏移量开始的目标数组。
 **语法:**
 
-```
+```cs
 public static void BlockCopy (Array src, int srcOffset, Array dst, int dstOffset, int count);
 ```
 
@@ -28,7 +28,7 @@ public static void BlockCopy (Array src, int srcOffset, Array dst, int dstOffset
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Buffer.BlockCopy(Array, Int32,
 // Array, Int32, Int32) Method
@@ -150,7 +150,7 @@ public static void displaybytes(Array arr,
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Buffer.BlockCopy(Array, Int32,
 // Array, Int32, Int32) Method
@@ -271,7 +271,7 @@ public static void displaybytes(Array arr,
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Buffer.BlockCopy(Array, Int32,
 // Array, Int32, Int32) Method
@@ -391,7 +391,7 @@ public static void displaybytes(Array arr,
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Buffer.BlockCopy(Array, Int32,
 // Array, Int32, Int32)

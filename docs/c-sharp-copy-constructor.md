@@ -5,7 +5,7 @@
 通过从另一个对象复制变量来创建对象或将一个对象的数据复制到另一个对象的构造函数称为**复制构造函数**。它是一个参数化构造函数，包含同一类类型的参数。复制[构造函数](https://www.geeksforgeeks.org/c-sharp-constructors/)的主要用途是将新实例初始化为现有实例的值。通常情况下，C#不提供对象的复制构造函数，但是如果你想在你的程序中创建一个复制[构造函数](https://www.geeksforgeeks.org/c-sharp-constructors/)，你可以根据你的需求来创建。
 **语法:**
 
-```
+```cs
 class Class_Name {
 
         // Parameterized Constructor
@@ -31,7 +31,7 @@ class Class_Name {
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the use
 // of copy constructor
 using System;
@@ -97,7 +97,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 The name of topic is:  C# | Copy Constructor and number of published article is: 38
 ```
 
@@ -105,7 +105,7 @@ The name of topic is:  C# | Copy Constructor and number of published article is:
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# Program to illustrate the use
 // of Copy constructor
 using System;
@@ -164,7 +164,7 @@ class Vehicle {
 
 **输出:**
 
-```
+```cs
 Type: Bike
 Color: Black
 Quantity: 40

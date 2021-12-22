@@ -12,14 +12,14 @@
 
 **语法:**
 
-```
+```cs
 expr is type
 
 ```
 
 **示例:**在下面的代码类**中，程序类**继承了一个**类 c1** ，在“如果条件”中，使用 is 运算符检查兼容性，该运算符返回 true。
 
-```
+```cs
 // C# program to illustrate the  
 // use of 'is' operator keyword 
 using System;
@@ -57,7 +57,7 @@ class Program : c1 
 
 **输出:**
 
-```
+```cs
 GeeksForGeeks
 
 ```

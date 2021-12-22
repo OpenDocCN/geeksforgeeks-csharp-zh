@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // UInt64.GetHashCode() Method
 using System;
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode for UInt64 is: 1654651654
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // UInt64.GetHashCode() Method
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode for 0 is 0
 HashCode for 18446744073709551615 is 0
 

@@ -7,7 +7,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program for using 'this' keyword to
 // refer current class instance members
 using System;
@@ -46,7 +46,7 @@ class program {
 
 **Output:** 
 
-```
+```cs
 Geeksforgeeks
 ```
 
@@ -54,7 +54,7 @@ Geeksforgeeks
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program for using 'this' keyword to
 // invoke the constructor in same class
 using System;
@@ -91,7 +91,7 @@ class program {
 
 **输出:**
 
-```
+```cs
 Parameter Constructor Called
 Non-Parameter Constructor Called
 ```
@@ -100,7 +100,7 @@ Non-Parameter Constructor Called
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code for using this to invoke current
 // class method
 using System;
@@ -130,7 +130,7 @@ class Test {
 
 **Output**
 
-```
+```cs
 Inside show function
 Inside display function
 ```
@@ -139,7 +139,7 @@ Inside display function
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code for using 'this'
 // keyword as method parameter
 using System;
@@ -180,7 +180,7 @@ class Test
 
 **Output:** 
 
-```
+```cs
 a = 10 b = 20
 ```
 
@@ -188,7 +188,7 @@ a = 10 b = 20
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code for using 'this'
 // keyword to declare indexer
 using System;
@@ -235,6 +235,6 @@ class Program {
 
 **Output:** 
 
-```
+```cs
 Sun Mon Tue Wed Thu Fri Sat
 ```

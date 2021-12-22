@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public bool Add (T item);
 
 ```
@@ -25,7 +25,7 @@ public bool Add (T item);
 
 **例 1:**
 
-```
+```cs
 // C# code to add element to SortedSet
 using System;
 using System.Collections.Generic;
@@ -55,7 +55,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 4
 6
 8
@@ -66,7 +66,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# code to add element to SortedSet
 using System;
 using System.Collections.Generic;
@@ -103,7 +103,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 4
 5
 6

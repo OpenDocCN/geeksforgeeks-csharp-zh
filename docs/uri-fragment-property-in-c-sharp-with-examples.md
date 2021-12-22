@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public string Fragment { get; }
 
 ```
@@ -19,7 +19,7 @@ public string Fragment { get; }
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the  
 // Uri.Fragment property  
 using System;  
@@ -41,7 +41,7 @@ class GFG {  
 
 **输出:**
 
-```
+```cs
 Uri Fragment: #standardGreedyAlgorithms
 
 ```
@@ -50,7 +50,7 @@ Uri Fragment: #standardGreedyAlgorithms
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the  
 // Uri.Fragment property  
 using System;  
@@ -72,7 +72,7 @@ class GFG {  
 
 **输出:**
 
-```
+```cs
 Uri Fragment: #approximateGreedyAlgorthms
 
 ```

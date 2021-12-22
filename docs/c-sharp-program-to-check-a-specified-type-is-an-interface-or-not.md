@@ -6,7 +6,7 @@
 
 **语法**:
 
-```
+```cs
 public bool IsInterface { get; }
 ```
 
@@ -14,7 +14,7 @@ public bool IsInterface { get; }
 
 ## C#
 
-```
+```cs
 // C# program to check whether the 
 // given type is interface or not
 using System;
@@ -50,7 +50,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Yes it is Interface
 ```
 
@@ -58,7 +58,7 @@ Yes it is Interface
 
 ## C#
 
-```
+```cs
 // C# program to check whether the 
 // given type is interface or not
 using System;
@@ -101,7 +101,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 True
 False
 False

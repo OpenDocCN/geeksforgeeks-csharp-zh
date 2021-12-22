@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of abstract class
 using System;
@@ -72,7 +72,7 @@ public class main_method {
 
 **输出:**
 
-```
+```cs
 Class name is G1
 Class name is  G2
 
@@ -82,7 +82,7 @@ Class name is  G2
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of interface
 using System;
@@ -119,7 +119,7 @@ class MyClass : interface1 {
 
 **输出:**
 
-```
+```cs
 Welcome to GeeksforGeeks!!!
 ```
 

@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // MaxValue and MinValue field
 using System;
@@ -44,7 +44,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Value 1: 89
 Value 2: 50
 Value 3: 10
@@ -66,7 +66,7 @@ Minimum Value: -9223372036854775808
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Int64.Equals(Int64) Method 
 using System; 
@@ -99,7 +99,7 @@ class GFG { 
 
 **输出:**
 
-```
+```cs
 45643212342 is not equal to 543256344233
 
 ```

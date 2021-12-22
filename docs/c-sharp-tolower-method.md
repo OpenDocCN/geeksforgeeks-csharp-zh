@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public string ToLower ();
 
     ```
@@ -21,7 +21,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     Input : str  = "GeeksForGeeks"
             str.ToLower()
     Output: geeksforgeeks
@@ -36,7 +36,7 @@
 
     *   **Example 1:**
 
-        ```
+        ```cs
         // C# program to desmonstrate the 
         // use of ToLower() method 
         using System;
@@ -60,14 +60,14 @@
 
         **输出:**
 
-        ```
+        ```cs
         geeksforgeeks
 
         ```
 
     *   **Example 2:**
 
-        ```
+        ```cs
         // C# program to desmonstrate the 
         // use of ToLower() method 
         using System;
@@ -93,7 +93,7 @@
 
         **输出:**
 
-        ```
+        ```cs
         this is c# program xsdd_$#%
 
         ```** 
@@ -104,7 +104,7 @@
 
 ****语法:****
 
-```
+```cs
 public string ToLower (System.Globalization.CultureInfo culture); 
 ```
 
@@ -118,7 +118,7 @@ public string ToLower (System.Globalization.CultureInfo culture);
 
 ****示例:****
 
-```
+```cs
 // C# program to desmonstrate the 
 // use of ToLower(CultureInfo) method 
 using System;
@@ -143,7 +143,7 @@ class Program {
 
 ****输出:****
 
-```
+```cs
 this is c# program xsdd_$#% 
 ```
 

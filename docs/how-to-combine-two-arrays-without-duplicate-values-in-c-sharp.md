@@ -10,7 +10,7 @@
 
 **示例:**
 
-```
+```cs
 Input : array1 = {22, 33, 21, 34, 56, 32}
          array2 = {24, 56, 78, 34, 22}
 Output : New array = {22, 33, 21, 34, 56, 32, 24, 78}
@@ -26,19 +26,19 @@ Output : New array = {1, 2}
 
 **2。**应用 Union()函数，使用 to array()函数转换为数组。
 
-```
+```cs
 final = array1.Union(array2).ToArray();
 ```
 
 **3。**现在使用 ForEach()函数迭代最终数组中的元素。
 
-```
+```cs
 Array.ForEach(final, i => Console.WriteLine(i));
 ```
 
 **4。**我们也可以使用 IEnumerable 方法迭代数组。
 
-```
+```cs
 IEnumerable<int> final = array1.Union(array2);    
 foreach (var in final)    
 {    
@@ -50,7 +50,7 @@ foreach (var in final)
 
 ## C#
 
-```
+```cs
 // C# program to merge two array into a single
 // array without duplicate elements
 using System;
@@ -96,7 +96,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 Array 1: 
 22
 33
@@ -124,7 +124,7 @@ New array:
 
 ## C#
 
-```
+```cs
 // C# program to merge two array into a single
 // array without duplicate elements
 using System;
@@ -174,7 +174,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 Array 1: 
 ojaswi
 gnanesh

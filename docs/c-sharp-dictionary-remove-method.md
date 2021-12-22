@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool Remove (TKey key);
 
 ```
@@ -19,7 +19,7 @@ public bool Remove (TKey key);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the entry with
 // the specified key from the Dictionary
 using System;
@@ -63,7 +63,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 After remove operation
 Total key/value pairs in myDict are : 5
@@ -72,7 +72,7 @@ Total key/value pairs in myDict are : 5
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the entry with
 // the specified key from the Dictionary
 using System;
@@ -114,7 +114,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total key/value pairs in myDict are : 4
 After remove operation
 Total key/value pairs in myDict are : 3

@@ -11,7 +11,7 @@
 
 **语法:**
 
-```
+```cs
 // outer try block
 try
 {
@@ -41,7 +41,7 @@ catch
 
 **示例 1:** 在该程序中， **DivideByZeroException** 在内部尝试块中生成，该内部尝试块被与内部尝试块相关联的 catch 块捕获，并继续程序的流程。当**indexoutofrangerexception**在内部尝试块内生成未被内部捕获块捕获的异常时，内部尝试块将该异常转移到外部尝试块。之后，与外部 try 块关联的 catch 块捕获导致程序终止的异常。这里对于 **17/0** 和 **24/0** 内部试块正在执行，但是对于编号 **25** 外部试块正在执行。
 
-```
+```cs
 // C# program to illustrate how outer
 // try block will handle the exception
 // which is not handled by the inner 
@@ -100,7 +100,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number: 8
 Divisor: 2
 Quotient: 4
@@ -115,7 +115,7 @@ Outer Try Catch Block
 
 **示例 2:** 在下面的示例中，在内部尝试块内生成异常，该异常被与内部尝试块相关联的 catch 块捕获。
 
-```
+```cs
 // C# program to illustrate
 // nested try block
 using System;
@@ -164,7 +164,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Inner try catch block
 
 ```

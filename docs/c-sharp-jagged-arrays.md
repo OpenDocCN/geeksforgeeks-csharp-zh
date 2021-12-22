@@ -12,14 +12,14 @@
 
 **语法:**
 
-```
+```cs
 data_type[][] name_of_array = new data_type[rows][]
 
 ```
 
 **示例:**
 
-```
+```cs
 int[][] jagged_arr = new int[4][]
 
 ```
@@ -37,7 +37,7 @@ int[][] jagged_arr = new int[4][]
 *   第三行或第三个元素是 6 个整数的数组。
 *   第四行或第四个元素是 7 个整数的数组。
 
-```
+```cs
 jagged_arr[0] = new int[2];
 jagged_arr[1] = new int[4];
 jagged_arr[2] = new int[6];
@@ -47,7 +47,7 @@ jagged_arr[3] = new int[7];
 
 **示例 2:** 当不需要数组大小时，其元素可以用直接值初始化，如下所示:
 
-```
+```cs
 jagged_arr[0] = new int[] {1, 2, 3, 4};
 jagged_arr[1] = new int[] {11, 34, 67};
 jagged_arr[2] = new int[] {89, 23};
@@ -59,7 +59,7 @@ jagged_arr[3] = new int[] {0, 45, 78, 53, 99};
 
 **实施例 1:** 使用直接法
 
-```
+```cs
 int[][] jagged_arr = new int[][] 
 {
     new int[] {1, 2, 3, 4},
@@ -72,7 +72,7 @@ int[][] jagged_arr = new int[][]
 
 **例 2:** 使用短手法。元素没有默认初始化，因此用户不能在元素初始化中忽略新运算符。
 
-```
+```cs
 int[][] jagged_arr = 
 {
     new int[] {1, 2, 3, 4},
@@ -89,7 +89,7 @@ int[][] jagged_arr =
 
 **示例:**
 
-```
+```cs
 // Accessing & Assigning 99 to the third element ([2]) of the second array ([1])
 jagged_arr[1][2] = 99;
 
@@ -100,7 +100,7 @@ jagged_arr[3][0] = 47;
 
 **程序:**
 
-```
+```cs
 // C# program to illustrate the declaration 
 // and Initialization of Jagged Arrays
 using System;
@@ -139,7 +139,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Row(0): 1 2 3 4 
 Row(1): 11 34 67 
 Row(2): 89 23 
@@ -153,7 +153,7 @@ Row(3): 0 45 78 53 99
 
 **示例:**
 
-```
+```cs
 int[][, ] jagged_arr1 = new int[4][, ] 
 {
     new int[, ] { {1, 3}, {5, 7} },
@@ -168,14 +168,14 @@ int[][, ] jagged_arr1 = new int[4][, ]
 
 **示例:**
 
-```
+```cs
 System.Console.Write("{0}", jagged_arr1[1][1, 0]);
 
 ```
 
 **程序:**
 
-```
+```cs
 // C# program to illustrate the Mixing of 1-D
 // Jagged Array with the four 2-D array
 using System;
@@ -224,7 +224,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 Jagged_Array[0][0, 0]: 1 Jagged_Array[0][0, 1]: 3 
 Jagged_Array[0][1, 0]: 5 Jagged_Array[0][1, 1]: 7 
 

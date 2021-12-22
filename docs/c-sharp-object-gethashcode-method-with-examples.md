@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual int GetHashCode ();
 ```
 
@@ -16,7 +16,7 @@ public virtual int GetHashCode ();
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // Object.GetHashCode() Method
 using System;
@@ -46,7 +46,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Type is :System.Object
 Hash Code is :37162120
 
@@ -54,7 +54,7 @@ Hash Code is :37162120
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate
 // Object.GetHashCode() Method
 using System;
@@ -105,7 +105,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Author details:
 first Name : Kirti
 last Name : Mangal

@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual int Capacity { get; set; }
 
 ```
@@ -29,7 +29,7 @@ public virtual int Capacity { get; set; }
 
 **例:**
 
-```
+```cs
 // C# code to get or set the number 
 // of elements that the ArrayList can contain
 using System; 
@@ -61,7 +61,7 @@ public static void Main() { 
 
 **输出:**
 
-```
+```cs
 Number of elements: 5
 Current capacity: 8
 

@@ -11,7 +11,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate
 // object initializer syntax
 using System;
@@ -60,7 +60,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Author Name: Ankita Saini
 Author Id: 102
 Total no of articles: 178
@@ -68,7 +68,7 @@ Total no of articles: 178
 
 **注意:**当编译器编译上述程序时，它给对象赋值，如下所示:
 
-```
+```cs
 Geeks __geeks = new Geeks();
 __geeks.author_name = "Ankita Saini";
 __geeks.author_id = 102;
@@ -84,7 +84,7 @@ T3】例:
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate how
 // to create a SortedList using
 // collection Initializer
@@ -117,7 +117,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 b.01 and 405
 b.09 and 234
 b.11 and 395
@@ -132,7 +132,7 @@ b.67 and 100
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 var author1 = new Geeks() { author_name = "Soniya",
                             author_id = 103,
                             total_article = 120 };
@@ -157,7 +157,7 @@ List<Geeks> author = new List<Geeks>() {
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 SortedList my_slist = new SortedList() {
                           { 1.2, "Cat" },
                           { 1.3, null },

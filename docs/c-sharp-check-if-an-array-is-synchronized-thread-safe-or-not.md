@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsSynchronized { get; }
 ```
 
@@ -16,7 +16,7 @@ public bool IsSynchronized { get; }
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate
 // IsSynchronized Property of
 // Array class
@@ -45,14 +45,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Result: False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate
 // IsSynchronized Property of
 // Array class
@@ -82,7 +82,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Result: False
 
 ```

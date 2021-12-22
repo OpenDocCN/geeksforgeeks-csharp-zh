@@ -21,7 +21,7 @@
 
 **示例:**
 
-```
+```cs
 // C# code to create a SortedSet
 using System;
 using System.Collections.Generic;
@@ -54,7 +54,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The elements in mySortedSet are : 
 3
 5
@@ -75,7 +75,7 @@ The elements in mySortedSet are :
 
 **示例:**
 
-```
+```cs
 // C# code to illustrate the properties
 // of SortedSet<T> Class
 using System;
@@ -114,7 +114,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The number of elements in mySortedSet are: 5
 The minimum element in SortedSet is : 1
 
@@ -155,7 +155,7 @@ The minimum element in SortedSet is : 1
 
 **示例:**
 
-```
+```cs
 // C# code to illustrate the methods
 // of SortedSet<T> Class
 using System;
@@ -221,7 +221,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 2
 6
 8

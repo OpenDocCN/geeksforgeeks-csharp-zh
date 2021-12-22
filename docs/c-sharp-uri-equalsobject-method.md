@@ -14,7 +14,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.Equals(Object) Method
 using System;
@@ -46,14 +46,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 address1 is Equals to address2
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.Equals(Object) Method
 using System;
@@ -93,7 +93,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 http://www.contoso.com/ is Equals to http://www.contoso.com/
 http://www.google.com/ is not Equals to http://www.facebook.com/
 

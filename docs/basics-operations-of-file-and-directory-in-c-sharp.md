@@ -10,7 +10,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to create a directory
 using System;
 using System.IO;
@@ -52,7 +52,7 @@ class Program {
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 using System;
 using System.IO;
 
@@ -98,7 +98,7 @@ class GFG {
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 using System;
 using System.IO;
 

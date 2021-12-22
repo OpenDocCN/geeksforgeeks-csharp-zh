@@ -20,7 +20,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# Program to illustrate how
 // to create a ArrayList having
 // specified initial capacity
@@ -75,7 +75,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Number of elements: 0
 Capacity of ArrayList: 10
 Number of elements: 4
@@ -85,7 +85,7 @@ Capacity of ArrayList: 10
 
 **例 2:** 为*argumentout of range exception*
 
-```
+```cs
 // C# Program to illustrate how
 // to create a ArrayList having
 // specified initial capacity

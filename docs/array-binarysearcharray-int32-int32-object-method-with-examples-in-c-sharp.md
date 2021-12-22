@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static int BinarySearch(Array array, int index, int length, object value);
 
 ```
@@ -36,7 +36,7 @@ public static int BinarySearch(Array array, int index, int length, object value)
 
 **例 1:**
 
-```
+```cs
 // C# Program to illustrate the use of 
 // Array.BinarySearch(Array, Int32, 
 // Int32, Object) Method
@@ -87,7 +87,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 1 
 5 
 7 
@@ -101,7 +101,7 @@ Index: 4
 
 **示例 2:** 如果元素不在数组中，它会打印一个负值，或者它超出了范围。
 
-```
+```cs
 // C# Program to illustrate the use of 
 // Array.BinarySearch(Array, Int32, 
 // Int32, Object) Method
@@ -141,7 +141,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 1 
 5 
 7 

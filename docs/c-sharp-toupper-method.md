@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public string ToUpper();
 
     ```
@@ -21,7 +21,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     Input : str  = "GeeksForGeeks"
             str.ToUpper()
     Output: GEEKSFORGEEKS
@@ -36,7 +36,7 @@
 
     *   **Example 1:**
 
-        ```
+        ```cs
         // C# program to desmonstrate the 
         // use of ToUpper() method 
         using System;
@@ -60,14 +60,14 @@
 
         **输出:**
 
-        ```
+        ```cs
         GEEKSFORGEEKS
 
         ```
 
     *   **Example 2:**
 
-        ```
+        ```cs
         // C# program to desmonstrate the 
         // use of ToUpper() method 
         using System;
@@ -90,7 +90,7 @@
 
         **输出:**
 
-        ```
+        ```cs
         THIS IS C# PROGRAM XSDD_$#%
 
         ```** 
@@ -101,7 +101,7 @@
 
 ****语法:****
 
-```
+```cs
 public string ToUpper (System.Globalization.CultureInfo culture); 
 ```
 
@@ -115,7 +115,7 @@ public string ToUpper (System.Globalization.CultureInfo culture);
 
 ****示例:****
 
-```
+```cs
 // C# program to desmonstrate the 
 // use of ToUpper(CultureInfo) method 
 using System;
@@ -140,7 +140,7 @@ class Program {
 
 ****输出:****
 
-```
+```cs
 THIS IS C# PROGRAM XSDD_$#% 
 ```
 

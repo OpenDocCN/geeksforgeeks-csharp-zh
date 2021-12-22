@@ -12,7 +12,7 @@ C#中有两种类型，即 **[引用类型和](https://www.geeksforgeeks.org/c-d
 
 **示例:**
 
-```
+```cs
 // C# Program to demonstrate
 // the Object class
 using System;
@@ -85,7 +85,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 For Object obj1 = new Object();
 
 Object

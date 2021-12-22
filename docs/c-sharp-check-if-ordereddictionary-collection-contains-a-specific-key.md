@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool Contains (object key);
 
 ```
@@ -19,7 +19,7 @@ public bool Contains (object key);
 
 **例 1:**
 
-```
+```cs
 // C# code to check if OrderedDictionary
 // collection contains a specific key
 using System;
@@ -51,14 +51,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if OrderedDictionary
 // collection contains a specific key
 using System;
@@ -99,7 +99,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 key1 --> value1
 key2 --> value2
 key3 --> value3

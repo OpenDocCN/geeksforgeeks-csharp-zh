@@ -18,7 +18,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetProperties() Method
     using System;
@@ -61,7 +61,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Properties of current type is: 
      Int32 Length
      Char Chars [Int32]
@@ -70,7 +70,7 @@
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetProperties() Method
     using System;
@@ -113,7 +113,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Properties of current type is: 
      System.Reflection.MemberTypes MemberType
      System.Type DeclaringType
@@ -139,7 +139,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetProperties(BindingFlags)
     // Method
@@ -206,7 +206,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Properties of current type is: 
      System.String Color
      System.String Breed
@@ -216,7 +216,7 @@
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetProperties(BindingFlags)
     // Method
@@ -291,7 +291,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Properties of current type is: 
      System.String BloodGroup
      System.String BloodPressure

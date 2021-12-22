@@ -10,7 +10,7 @@
 
 **示例:**首先我们在 *Program1.cs* 文件中创建一个名为 *Geek* 的类。包含*M1()**M2()**M3()*三种方法。
 
-```
+```cs
 // C# program to illustrate the concept 
 // of the extension methods
 using System;
@@ -47,7 +47,7 @@ class Geek {
 
 现在我们在 *Program2.cs* 文件中创建一个名为 NewMethodClass 的静态类。包含 *M4()* 和 *M5()* 两种方法。现在我们想在 *Geek* 类中添加这些方法，所以我们使用**绑定参数**将这些方法与 Geek 类绑定。之后，我们创建了另一个名为 GFG 的类，其中极客类访问所有五种方法。
 
-```
+```cs
 // C# program to illustrate the concept
 // of the extension methods
 using System;
@@ -92,7 +92,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Method Name: M1
 Method Name: M2
 Method Name: M3
@@ -105,7 +105,7 @@ Method Name: M5
 
 *   Here, ***Binding parameters*** are those parameters which are used to bind the new method with the existing class or structure. It does not take any value when you are calling the extension method because they are used only for binding not for any other use. In the parameter list of the extension method binding parameter is always present at the first place if you write binding parameter to second, or third, or any other place rather than first place then the compiler will give an error. The binding parameter is created using this keyword followed by the name of the class in which you want to add a new method and the parameter name. For example:
 
-    ```
+    ```cs
     this Geek g
     ```
 

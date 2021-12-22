@@ -27,7 +27,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to add text T 
 // only to left of integral 
 // part of a float number F.
@@ -67,7 +67,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 abc12.3
 
 ```
@@ -76,7 +76,7 @@ abc12.3
 
 ## C#
 
-```
+```cs
 // C# program to add text T 
 // only to right of integral 
 // part of a float number F.
@@ -116,7 +116,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 12abc.3
 
 ```
@@ -125,7 +125,7 @@ public class GFG{
 
 ## C#
 
-```
+```cs
 // C# program to add text T 
 // only to left of fractional 
 // part of a float number F.
@@ -166,7 +166,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 12.abc3
 
 ```
@@ -175,7 +175,7 @@ public class GFG{
 
 ## C#
 
-```
+```cs
 // C# program to add text T 
 // only to right of fractional 
 // part of a float number F.
@@ -215,7 +215,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 12.3abc
 
 ```
@@ -224,7 +224,7 @@ public class GFG{
 
 ## C#
 
-```
+```cs
 // C# program to add text
 // to both side of decimal
 // point of a float number
@@ -266,7 +266,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 12abc.abc3
 
 ```
@@ -275,7 +275,7 @@ public class GFG{
 
 ## C#
 
-```
+```cs
 // C# program to add text
 // to both side of a float number
 
@@ -315,7 +315,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 abc12.3abc
 
 ```

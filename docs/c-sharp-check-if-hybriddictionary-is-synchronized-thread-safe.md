@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsSynchronized { get; }
 
 ```
@@ -17,7 +17,7 @@ public bool IsSynchronized { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to check whether the
 // HybridDictionary is synchronized
 // (thread safe).
@@ -50,14 +50,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check whether the
 // HybridDictionary is synchronized
 // (thread safe).
@@ -90,7 +90,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 
 ```

@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // Single.GetTypeCode() Method
 using System;
@@ -39,14 +39,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for 56 is: Single
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // Single.GetTypeCode() Method
 using System;
@@ -77,7 +77,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for -3.402823E+38 is Single
 TypeCode for 3.402823E+38 is Single
 

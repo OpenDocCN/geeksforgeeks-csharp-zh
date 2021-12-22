@@ -23,7 +23,7 @@
 
 ## c#
 
-```
+```cs
 // C# program to illustrate the GetEnvironmentVariable()
 // method of Environment Class
 using System;
@@ -47,7 +47,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Information:
 D:\Windows
 ```

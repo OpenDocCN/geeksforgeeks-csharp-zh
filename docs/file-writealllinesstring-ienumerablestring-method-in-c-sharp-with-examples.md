@@ -32,7 +32,7 @@
 
 在代码下面，它自己创建了一个新文件 *gfg.txt* ，其中包含过滤后的字符串。
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.WriteAllLines(String, 
 // IEnumerable<String>) method
@@ -68,7 +68,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Writing the filtered collection of strings to the file has been done.
 
 ```
@@ -85,7 +85,7 @@ Writing the filtered collection of strings to the file has been done.
 
 下面的代码用文件*文件. txt* 的选定内容覆盖文件 *gfg.txt* 。
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.WriteAllLines(String,
 // IEnumerable<String>) method
@@ -121,7 +121,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Overwriting the selected collection of strings to the file has been done.
 
 ```

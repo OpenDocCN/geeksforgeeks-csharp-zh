@@ -20,7 +20,7 @@
 
 ![](img/2a35d1f9870a11a84782c1b0914be6e3.png)
 
-```
+```cs
 // C# program to demonstrate SetIn() method
 using System;
 using System.IO;

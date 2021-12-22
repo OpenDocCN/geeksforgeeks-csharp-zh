@@ -8,13 +8,13 @@
 
 **语法:**
 
-```
+```cs
 uint variable_name = value;
 ```
 
 **示例:**
 
-```
+```cs
 Input: num: 67
 
 Output: num2: 67
@@ -30,7 +30,7 @@ Output: Type of num1: System.UInt32
 
 **例 1:**
 
-```
+```cs
 // C# program for uint keyword
 using System;
 using System.Text;
@@ -53,7 +53,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 num2: 67
 Size of a uint variable: 4
 
@@ -61,7 +61,7 @@ Size of a uint variable: 4
 
 **例 2:**
 
-```
+```cs
 // C# program for uint keyword
 using System;
 using System.Text;
@@ -97,7 +97,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Type of num1: System.UInt32
 num1: 24680
 Size of a uint variable: 4
@@ -108,7 +108,7 @@ Max value of uint: 4294967295
 
 **例 3:**
 
-```
+```cs
 // C# program for uint keyword
 using System;
 using System.Text;

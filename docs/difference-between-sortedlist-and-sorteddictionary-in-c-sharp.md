@@ -6,7 +6,7 @@
 
 **例:**
 
-```
+```cs
 // C# program to illustrate how
 // to create a sortedlist
 using System;
@@ -41,7 +41,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 1.01 and Bird
 1.02 and Dog
 1.04 and Rat
@@ -53,7 +53,7 @@ class GFG {
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how
 // to create a sorted dictionary
 using System;
@@ -92,7 +92,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Top 5 space agencies 2018:
 Rank: 1 and Name: NASA
 Rank: 2 and Name: CNSA

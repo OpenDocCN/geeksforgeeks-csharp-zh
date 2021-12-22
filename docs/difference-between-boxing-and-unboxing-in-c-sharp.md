@@ -10,7 +10,7 @@
 | 这里，存储在堆栈上的值被复制到存储在堆内存中的对象上。 | 这里，存储在堆内存中的对象被复制到存储在堆栈中的值。 |
 | **Example:**
 
-```
+```cs
 // C# program to illustrate Boxing
 using System;
 
@@ -33,7 +33,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Value type of val is 2000
 Object type of val is 2019
 
@@ -41,7 +41,7 @@ Object type of val is 2019
 
  | **Example:**
 
-```
+```cs
 // C# program to illustrate Unboxing
 using System;
 
@@ -64,7 +64,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Value of o is 2019
 Value of x is 2019
 

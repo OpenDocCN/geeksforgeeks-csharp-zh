@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static char Parse (string s);
 ```
 
@@ -24,7 +24,7 @@ public static char Parse (string s);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Char.Parse(String) Method
 using System;
@@ -71,7 +71,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Unicode character of string 1 is 1
 Unicode character of string a is a
 Unicode character of string @ is @
@@ -81,7 +81,7 @@ Unicode character of string - is -
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate the 
 // Char.Parse(String) Method
 using System;
@@ -131,7 +131,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Unicode character of string 1 is 1
 Unicode character of string a is a
 Unicode character of string @ is @
@@ -144,7 +144,7 @@ Exception Thrown: System.ArgumentNullException
 
 **例 3:** 为*格式异常*
 
-```
+```cs
 // C# program to demonstrate the 
 // Char.Parse(String) Method
 using System;
@@ -194,7 +194,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Unicode character of string 1 is 1
 Unicode character of string a is a
 Unicode character of string @ is @

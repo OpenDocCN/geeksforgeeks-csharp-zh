@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 mySet1.SetEquals(mySet2);
 
 ```
@@ -21,7 +21,7 @@ mySet1.SetEquals(mySet2);
 
 **例 1:**
 
-```
+```cs
 // C# code to check if HashSet and the specified
 // collection contain the same elements.
 using System;
@@ -59,14 +59,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if HashSet and the specified
 // collection contain the same elements.
 using System;
@@ -104,7 +104,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```

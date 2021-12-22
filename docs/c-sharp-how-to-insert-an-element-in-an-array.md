@@ -15,7 +15,7 @@
 5.  在位置插入元素 x
 6.  将前一个数组中的剩余元素插入到 pos 之后的新数组中
 
-```
+```cs
 // C# program to insert an 
 // element in an array
 using System;
@@ -73,7 +73,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 1 2 3 4 5 6 7 8 9 10 
 1 2 3 4 50 5 6 7 8 9 10
 

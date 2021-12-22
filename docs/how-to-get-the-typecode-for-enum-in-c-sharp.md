@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public TypeCode GetTypeCode ();
 ```
 
@@ -16,7 +16,7 @@ public TypeCode GetTypeCode ();
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // Enum.GetTypeCode() Method
 using System;
@@ -45,7 +45,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 TypeCode of Enum Constant Blue : Int32
 TypeCode of Enum Constant Black : Int32
 

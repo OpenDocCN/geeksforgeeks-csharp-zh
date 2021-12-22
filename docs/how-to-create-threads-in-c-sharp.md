@@ -20,7 +20,7 @@
 
 1.  首先导入`System.Threading`命名空间，它在你的程序中创建一个线程中起着重要的作用，因为你不需要每次都写类的完全限定名。
 
-    ```
+    ```cs
     Using System;
     Using System.Threading
 
@@ -28,7 +28,7 @@
 
 2.  Now, create and initialize the thread object in your main method.
 
-    ```
+    ```cs
     public static void main()
     {
         Thread thr = new Thread(job1);
@@ -40,7 +40,7 @@
 
     您也可以使用 ThreadStart 构造函数来初始化新实例。
 
-    ```
+    ```cs
     public static void main()
     {
          Thread thr = new Thread(new ThreadStart(job1));
@@ -50,7 +50,7 @@
 
 3.  现在可以调用线程对象了。
 
-    ```
+    ```cs
     public static void main()
     {
         Thread thr = new Thread(job1);
@@ -63,7 +63,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // creation of thread using
 // non-static method
@@ -100,7 +100,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 First Thread
 First Thread
 First Thread
@@ -111,7 +111,7 @@ First Thread
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the creation
 // of thread using static method
 using System;
@@ -153,7 +153,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 0
 1
 2

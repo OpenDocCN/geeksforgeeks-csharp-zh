@@ -10,7 +10,7 @@
 
 下面给出了使用数组实现堆栈的 C#代码
 
-```
+```cs
 using System;
 
 namespace StackImplementation
@@ -107,7 +107,7 @@ namespace StackImplementation
 
 输出:
 
-```
+```cs
 Items in the Stack are :
 40
 30

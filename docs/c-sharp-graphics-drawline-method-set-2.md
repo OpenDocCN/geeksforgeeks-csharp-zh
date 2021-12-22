@@ -28,7 +28,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the use of 
     using System;
     using System.Drawing;
@@ -89,7 +89,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the use of
     // DrawLine(Pen, Point, Point) Method
     using System;

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual Type GetEnumUnderlyingType ();
 ```
 
@@ -20,7 +20,7 @@ public virtual Type GetEnumUnderlyingType ();
 
 ## c#
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetEnumUnderlyingType() Method
 using System;
@@ -74,7 +74,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Underlying type is : System.Int32
 ```
 
@@ -82,7 +82,7 @@ Underlying type is : System.Int32
 
 ## c#
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetEnumUnderlyingType() Method
 using System;
@@ -132,7 +132,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The current type is not an enumeration.
 Exception Thrown: System.ArgumentException
 ```

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public HybridDictionary (int initialSize);
 
 ```
@@ -17,7 +17,7 @@ public HybridDictionary (int initialSize);
 
 **例 1:**
 
-```
+```cs
 // C# code to create a case-sensitive
 // HybridDictionary with the specified
 // initial size.
@@ -60,7 +60,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 B Banana
 a Air
 A Apple
@@ -74,7 +74,7 @@ D Dog
 
 **例 2:**
 
-```
+```cs
 // C# code to create a case-sensitive
 // HybridDictionary with the specified
 // initial size.
@@ -113,7 +113,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 k3 v3
 K3 v3
 k2 v2

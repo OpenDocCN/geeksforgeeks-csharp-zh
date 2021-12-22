@@ -27,7 +27,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to create a List<T>
 using System;
 using System.Collections.Generic;
@@ -50,7 +50,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 0
 
 ```
@@ -68,7 +68,7 @@ class Geeks {
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Capacity Property of List<T>
 using System;
@@ -115,7 +115,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Capacity Is: 4
 Count Is: 4
 Capacity Is: 8
@@ -200,7 +200,7 @@ Count Is: 6
 
 **例 1:**
 
-```
+```cs
 // C# Program to check whether the
 // element is present in the List
 // or not
@@ -234,14 +234,14 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# Program to remove the element at
 // the specified index of the List<T>
 using System;
@@ -301,7 +301,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Elements Present in List:
 
 At Position 0: 17

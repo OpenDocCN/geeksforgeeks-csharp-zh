@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input : 202
 Output : 130
 
@@ -19,7 +19,7 @@ Output : 432
 
 **程序 1:**
 
-```
+```cs
 // C# program to convert an array 
 // of octal strings to integers
 using System;
@@ -50,7 +50,7 @@ class Prog {
 
 **输出:**
 
-```
+```cs
 81
 130
 3
@@ -59,7 +59,7 @@ class Prog {
 
 **程序 2:**
 
-```
+```cs
 // C# program to convert an array 
 // of octal strings to integers
 using System;
@@ -93,7 +93,7 @@ class Prog {
 
 **输出:**
 
-```
+```cs
 73
 355
 219

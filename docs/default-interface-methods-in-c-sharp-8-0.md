@@ -21,7 +21,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of the default interface method
 using System;
@@ -74,7 +74,7 @@ class Example_Class : I_interface {
 
 **输出:**
 
-```
+```cs
 Hello!! Method
 Hello!! Default Method
 
@@ -82,7 +82,7 @@ Hello!! Default Method
 
 现在，我们借助 *I_interface* 界面调用 *display_2()* 方法。如果试图用类对象调用此方法
 
-```
+```cs
 // Calling default method
 // With the help of Example_Class object
 t.display_2();
@@ -95,7 +95,7 @@ t.display_2();
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate how to override
 // the default interface method
 using System;
@@ -162,7 +162,7 @@ class Example_Class : I_interface, A_interface {
 
 **输出:**
 
-```
+```cs
 Hello!! Method of I_interface
 Hello!! Overriden default method
 Hello!! Overriden default method
@@ -171,7 +171,7 @@ Hello!! Overriden default method
 
 **例 3:**
 
-```
+```cs
 // C# program to illustrate how 
 // to pass parameters in the
 // default interface method
@@ -229,7 +229,7 @@ class Example_Class : I_interface {
 
 **输出:**
 
-```
+```cs
 Hello!! Method of I_interface
 Sum: 5
 

@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // Int32.GetHashCode() Method
 using System;
@@ -39,14 +39,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode for Int32 is: 32523
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // Int32.GetHashCode() Method
 using System;
@@ -77,7 +77,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode for -2147483648 is -2147483648
 HashCode for 2147483647 is 2147483647
 

@@ -5,7 +5,7 @@
 此方法用于将指定的 Unicode 代码点转换为 UTF-16 编码的字符串。
 **语法:**
 
-```
+```cs
 public static string ConvertFromUtf32 (int utf32);
 ```
 
@@ -17,7 +17,7 @@ public static string ConvertFromUtf32 (int utf32);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Char.ConvertFromUtf32(Int32)
 // Method
@@ -54,7 +54,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 value is B
 ```
 
@@ -62,7 +62,7 @@ value is B
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Char.ConvertFromUtf32(Int32)
 // Method
@@ -100,7 +100,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 0x11FFFF is excedding the limit
 Exception Thrown: System.ArgumentOutOfRangeException
 ```

@@ -25,7 +25,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static string Concat (string strA, string strB, string strC, string strD);
     ```
 
@@ -45,7 +45,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the use of 
     // Concat(String, String, String, String) Method
     using System;
@@ -79,7 +79,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     String A is: Welcome 
     String B is: to 
     String C is: GFG 
@@ -96,7 +96,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static string Concat (object argA, object argB, object argC, object argD);
     ```
 
@@ -111,7 +111,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the use of 
     // Concat(object, object, object, object) Method
     using System;
@@ -144,7 +144,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Concatenate four objects: Hello! Hello! Hello! Hello! 
     Concatenate two element object array: Black Blue
 
@@ -156,7 +156,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static string Concat (object argA, object argB, object argC);
     ```
 
@@ -172,7 +172,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the use of 
     // Concat(object, object, object) Method
     using System;
@@ -199,7 +199,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Concatenate three objects : GFG GFG GFG 
 
     ```

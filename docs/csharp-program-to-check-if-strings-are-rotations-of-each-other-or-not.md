@@ -7,7 +7,7 @@
 
  **算法:**旋转(str1，str2)
 
-```
+```cs
     1\. Create a temp string and store concatenation of str1 to
        str1 in temp.
                           temp = str1.str1
@@ -26,7 +26,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to check if two given strings
 // are rotations of each other
 using System;
@@ -68,7 +68,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Strings are rotations of each other
 ```
 

@@ -5,7 +5,7 @@
 **文件。SetCreationTime(String，DateTime)** 是一个内置的 File 类方法，用于设置文件创建的本地日期和时间。
 **语法:**
 
-```
+```cs
 public static void SetCreationTime (string path, DateTime creationTime);
 ```
 
@@ -32,7 +32,7 @@ public static void SetCreationTime (string path, DateTime creationTime);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.SetCreationTime(String, DateTime) method
 
@@ -60,7 +60,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The File Creation Time is : 25/12/2017 02:06:08 AM
 ```
 
@@ -70,7 +70,7 @@ The File Creation Time is : 25/12/2017 02:06:08 AM
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.SetCreationTime(String, DateTime) method
 
@@ -103,7 +103,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 File Creation Old Time is: 4/25/2020 11:26:14 AM
 File Creation new Time is : 25/12/2017 02:06:08 AM
 ```

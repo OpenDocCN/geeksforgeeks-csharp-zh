@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static void ConstrainedCopy (Array sourceArray, int sourceIndex, 
 Array destinationArray, int destinationIndex, int length);
 ```
@@ -32,7 +32,7 @@ Array destinationArray, int destinationIndex, int length);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // ConstrainedCopy() method
 using System;
@@ -117,7 +117,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Initial Array:
 Sun
 Mon
@@ -133,7 +133,7 @@ Thu
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // ConstrainedCopy() method
 // For ArgumentNullException
@@ -216,7 +216,7 @@ public static void Main()
 
 **Output:**
 
-```
+```cs
 Trying to get the ConstrainedCopy while srcArr is null
 
 Exception Thrown: System.ArgumentNullException
@@ -225,7 +225,7 @@ Exception Thrown: System.ArgumentNullException
 
 **例 3:** 为*rankeexception*
 
-```
+```cs
 // C# program to demonstrate
 // ConstrainedCopy() method
 // For RankException
@@ -307,7 +307,7 @@ public static void PrintIndexAndValues(String[] myArr)
 
 **Output:**
 
-```
+```cs
 Initial Array:
 Sun
 Mon
@@ -322,7 +322,7 @@ Exception Thrown: System.RankException
 
 **例 4:** 为*数组类型不匹配异常*
 
-```
+```cs
 // C# program to demonstrate
 // ConstrainedCopy() method
 // For ArrayTypeMismatchException
@@ -405,7 +405,7 @@ public static void PrintIndexAndValues(String[] myArr)
 
 **Output:**
 
-```
+```cs
 Initial Array:
 Sun
 Mon
@@ -420,7 +420,7 @@ Exception Thrown: System.ArrayTypeMismatchException
 
 **例 5:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate 
 // ConstrainedCopy() method 
 // For ArgumentOutOfRangeException
@@ -504,7 +504,7 @@ public static void PrintIndexAndValues(String[] myArr) 
 
 **Output:**
 
-```
+```cs
 Initial Array:
 Sun
 Mon
@@ -518,7 +518,7 @@ Exception Thrown: System.ArgumentOutOfRangeException
 
 **示例 6:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // ConstrainedCopy() method
 // For ArgumentException
@@ -603,7 +603,7 @@ public static void PrintIndexAndValues(String[] myArr)
 
 **Output:**
 
-```
+```cs
 Initial Array:
 Sun
 Mon

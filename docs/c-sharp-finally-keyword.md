@@ -7,7 +7,7 @@
 
 **语法:**
 
-```
+```cs
 try {
 
     // code...
@@ -35,7 +35,7 @@ finally
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate finally
 using System;
 
@@ -97,7 +97,7 @@ public static void Main(String[] args) 
 
 **输出:**
 
-```
+```cs
 Inside A
 A's finally
 Exception Caught
@@ -108,7 +108,7 @@ B's finally
 
 **示例 2:** 使用带有已处理异常的最终块
 
-```
+```cs
 // C# program to illustrate the finally
 // block with handled exception
 using System;
@@ -151,7 +151,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Not possible to divide by zero!
 Finally Block!
 
@@ -161,7 +161,7 @@ Finally Block!
 
 **示例 3:** 使用带有未处理异常的最终块
 
-```
+```cs
 // C# program illustrate the finally
 // block with unhandled exception
 using System;
@@ -196,7 +196,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Finally Block!
 ```
 

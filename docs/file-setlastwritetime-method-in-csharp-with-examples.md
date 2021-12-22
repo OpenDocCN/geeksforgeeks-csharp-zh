@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static void SetLastWriteTime (string path, DateTime lastWriteTime);
 ```
 
@@ -32,7 +32,7 @@ public static void SetLastWriteTime (string path, DateTime lastWriteTime);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.SetLastWriteTime() method
 
@@ -62,7 +62,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The last written date and time for this file was 5/4/2020 4:05:07 AM.
 ```
 
@@ -70,7 +70,7 @@ The last written date and time for this file was 5/4/2020 4:05:07 AM.
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.SetLastWriteTime() method
 
@@ -105,6 +105,6 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 The last written date and time for this file was 5/4/2019 4:05:07 AM.
 ```

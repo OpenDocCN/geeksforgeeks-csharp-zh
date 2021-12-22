@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsFixedSize { get; }
 ```
 
@@ -16,7 +16,7 @@ public bool IsFixedSize { get; }
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate
 // IsFixedSize of Array class
 using System;
@@ -54,7 +54,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Topic of C#:
 Array,  
 String,  
@@ -69,7 +69,7 @@ Result: True
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate
 // IsFixedSize of Array class
 using System;
@@ -95,7 +95,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Result: True
 
 ```

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void Clear ();
 
 ```
@@ -15,7 +15,7 @@ public virtual void Clear ();
 
 **示例:**
 
-```
+```cs
 // C# code to remove all entries
 // from the StringDictionary
 using System;
@@ -63,7 +63,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The number of key/value pairs are : 6
 b Banana
 c Cat

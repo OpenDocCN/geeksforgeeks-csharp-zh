@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsThreadPoolThread { get; }
 ```
 
@@ -16,7 +16,7 @@ public bool IsThreadPoolThread { get; }
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the use 
 // of IsThreadPoolThread  property
 using System;
@@ -44,13 +44,13 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Is main thread belongs to Thread pool? : False 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the use
 //  of IsThreadPoolThread  property
 using System;
@@ -85,7 +85,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Is thread 1 belongs to thread pool: False
 Is thread 2 belongs to thread pool: True
 

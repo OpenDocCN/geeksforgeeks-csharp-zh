@@ -6,7 +6,7 @@
 
 **例:**
 
-```
+```cs
 Input    : [ "Raj", "Amisha", "Mohan", "Mohit", "Bhuvan" ]
 Output : [ "Amisha", "Bhuvan", "Mohan", "Mohit", "Raj" ]
 
@@ -20,7 +20,7 @@ Output : [ "Amisha", "Amu", "Gita", "Sumita" ]
 
 **2。**使用 OrderBy()方法对列表(命名为 arr)进行排序。
 
-```
+```cs
 var finalres = arr.OrderBy(n => n);
 ```
 
@@ -30,7 +30,7 @@ var finalres = arr.OrderBy(n => n);
 
 ## c#
 
-```
+```cs
 // C# program to sort a list of string type
 // Using OrderBy() method
 using System;
@@ -62,7 +62,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Sorted names are:
 Avinash Naveen Raju Sandeep Vineeth 
 ```

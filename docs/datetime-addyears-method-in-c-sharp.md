@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public DateTime AddYears (int value);
 ```
 
@@ -20,7 +20,7 @@ public DateTime AddYears (int value);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.AddYears(Int32) Method
 using System;
@@ -63,7 +63,7 @@ public static void Main()
 
 **Output:**
 
-```
+```cs
 DateTime before operation: 2010 January 01
 
 DateTime after operation: 2018 January 01
@@ -72,7 +72,7 @@ DateTime after operation: 2018 January 01
 
 **例 2:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.AddYears(Int32) Method
 using System;
@@ -117,7 +117,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTime before operation: 9999 December 31
 
 The resulting DateTime is greater than the DateTime.MaxValue 

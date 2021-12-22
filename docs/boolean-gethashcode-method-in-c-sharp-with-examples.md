@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Boolean.GetHashCode() Method
 using System;
@@ -39,14 +39,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode is 1
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Boolean.GetHashCode() Method
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode is 1
 HashCode is 0
 

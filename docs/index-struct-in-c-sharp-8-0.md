@@ -6,7 +6,7 @@ C# 8.0 引入了一种新的预定义结构，称为索引结构。此结构用�
 
 **例:**
 
-```
+```cs
 // C# program to illustrate 
 // the concept of index
 using System;
@@ -47,7 +47,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Starting Elements
 2
 3

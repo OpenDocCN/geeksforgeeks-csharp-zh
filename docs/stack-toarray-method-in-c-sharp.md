@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual object[] ToArray ();
 
 ```
@@ -17,7 +17,7 @@ public virtual object[] ToArray ();
 
 **例 1:**
 
-```
+```cs
 // C# code to illustrate the
 // Stack.ToArray() Method
 using System;
@@ -53,7 +53,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 GeeksforGeeks
 Data Structures
 Noida
@@ -64,7 +64,7 @@ Geeks
 
 **例 2:**
 
-```
+```cs
 // C# code to illustrate the
 // Stack.ToArray() Method
 using System;
@@ -100,7 +100,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 6
 5
 4

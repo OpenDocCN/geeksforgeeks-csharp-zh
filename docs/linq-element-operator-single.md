@@ -31,7 +31,7 @@ LINQ 标准查询运算符支持 **8 种类型的**元素运算符:
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of Single operator
 using System;
@@ -74,7 +74,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Element: 112
 Element: 2
 
@@ -82,7 +82,7 @@ Element: 2
 
 **例 2:**
 
-```
+```cs
 // C# program to find the 
 // name of the employee
 using System;
@@ -162,7 +162,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Employee name: Anjita
 
 ```

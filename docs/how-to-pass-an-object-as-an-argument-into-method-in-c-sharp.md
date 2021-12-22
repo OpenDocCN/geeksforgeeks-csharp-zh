@@ -4,7 +4,7 @@
 
 给定一个对象，现在我们将这个对象作为参数传递给 C#中的方法。这里，方法是包含一系列语句的代码块，这些语句只有在调用方法时才会执行。我们可以将数据以参数的形式传递给方法，对象是一个动态创建的类的实例。基本数据类型可以作为参数传递给 C#方法，就像对象也可以作为参数传递给方法一样。但是请记住，我们不能在方法中直接传递类对象。我们只能在方法中传递对对象的引用。
 
-```
+```cs
 // Creating the demo object
 demo d1 = new demo(6);
 
@@ -16,7 +16,7 @@ d1.PassObj(d1);
 
 ## c#
 
-```
+```cs
 // C# program to pass an object as an argument into method 
 using System;
 
@@ -56,7 +56,7 @@ static void Main()
 
 **输出**
 
-```
+```cs
 6
 ```
 
@@ -66,7 +66,7 @@ static void Main()
 
 ## **c#**
 
-```
+```cs
 // C# program to pass two objects as an argument into method 
 using System;
 
@@ -109,7 +109,7 @@ static void Main()
 
 ****输出**
 
-```
+```cs
 12
 ```** 
 

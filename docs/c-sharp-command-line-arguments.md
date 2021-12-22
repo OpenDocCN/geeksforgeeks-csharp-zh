@@ -4,7 +4,7 @@
 
 用户或程序员传递给 **Main()** 方法的参数称为命令行参数。Main()方法是程序执行的入口点。Main()方法接受字符串数组。但是它从不接受程序中任何其他方法的参数。在 **[C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/)** 中，命令行参数通过如下方式传递给 Main()方法:
 
-```
+```cs
 static void Main(string[] args)
 or 
 static int Main(string[] args)
@@ -15,7 +15,7 @@ static int Main(string[] args)
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the 
 // Command Line Arguments
 using System;  
@@ -53,7 +53,7 @@ namespace ComLineArg  
 
 **要编译并执行上述程序，请遵循以下命令:**
 
-```
+```cs
 Compile: csc Geeks.cs  
 Execute: Geeks.exe Welcome To GeeksforGeeks!
 
@@ -61,7 +61,7 @@ Execute: Geeks.exe Welcome To GeeksforGeeks!
 
 **输出:**
 
-```
+```cs
 Arguments Passed by the Programmer:
 Welcome
 To
@@ -71,7 +71,7 @@ GeeksforGeeks!
 
 在上面的程序中，Length 用于查找命令行参数的数量，命令行参数将存储在 args[]数组中。借助 Convert 类和 parse 方法，还可以将字符串参数转换为数字类型。例如:
 
-```
+```cs
 long num = Int64.Parse(args[0]);
 or
 long num = long.Parse(args[0]);

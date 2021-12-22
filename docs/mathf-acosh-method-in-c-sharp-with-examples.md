@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Acosh(Single) Method
 using System;
@@ -39,14 +39,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Angle is 1.566799
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Acosh(Single) Method
 using System;
@@ -80,7 +80,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Angle is NaN
 Angle is NaN
 Angle is NaN

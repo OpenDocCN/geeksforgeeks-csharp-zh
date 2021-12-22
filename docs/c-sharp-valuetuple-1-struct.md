@@ -25,7 +25,7 @@ ValueTuple <t1>结构用于创建单值元组或仅存储一个组件的 1-Value
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to
 // access the element of ValueTuple<T1>
 using System;
@@ -48,7 +48,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Book Id: 3456
 
 ```
@@ -64,7 +64,7 @@ Book Id: 3456
 
 **示例:**
 
-```
+```cs
 // Check the given value tuples
 // are equal or not
 using System;
@@ -97,7 +97,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Code is correct...!!
 
 ```

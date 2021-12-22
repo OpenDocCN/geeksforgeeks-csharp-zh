@@ -21,7 +21,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以在给定语法的帮助下，以编程方式设置 windows 窗体中 Label 控件的可见性:
 
-```
+```cs
 public bool Visible { get; set; }
 ```
 
@@ -29,7 +29,7 @@ public bool Visible { get; set; }
 
 *   **步骤 1:** 使用标签类提供的标签()构造函数创建标签。
 
-    ```
+    ```cs
     // Creating label using Label class
     Label mylab = new Label();
 
@@ -37,7 +37,7 @@ public bool Visible { get; set; }
 
 *   **步骤 2:** 创建标签后，设置标签类提供的标签的可见属性。
 
-    ```
+    ```cs
     // Set Visible property of the label
     mylab.Visible = true;
 
@@ -45,7 +45,7 @@ public bool Visible { get; set; }
 
 *   **Step 3:** And last add this Label control to form using Add() method.
 
-    ```
+    ```cs
     // Add this label to the form
     this.Controls.Add(mylab);
 
@@ -53,7 +53,7 @@ public bool Visible { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 array_name.All(iterator => iterator.Length > 2)
 ```
 
@@ -16,7 +16,7 @@ array_name.All(iterator => iterator.Length > 2)
 
 **例:**
 
-```
+```cs
 Input : { "cse", "it", "ft", "bio-tech", "chemical" }
 Output : False
 
@@ -26,7 +26,7 @@ Output : True
 
 ## c#
 
-```
+```cs
 // C# program to find the check the length of
 // courses is more than 2 characters Using LINQ
 using System;
@@ -57,7 +57,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Is the length of the courses is greater than 2 in course1?: True
 Is the length of the courses is greater than 2 in course2?: False
 ```

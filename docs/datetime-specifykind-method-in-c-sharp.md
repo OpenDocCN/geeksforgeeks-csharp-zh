@@ -16,7 +16,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.SpecifyKind(DateTime,
 // DateTimeKind) Method
@@ -52,7 +52,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Kind Before Using Method: Unspecified
 Kind After Using Method: Local
 DateTime is 05/06/2005 14:34:42
@@ -61,7 +61,7 @@ DateTime is 05/06/2005 14:34:42
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.SpecifyKind(DateTime,
 // DateTimeKind) Method
@@ -90,7 +90,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTime is 01/01/1970 04:00:15
 
 ```

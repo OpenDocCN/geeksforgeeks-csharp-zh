@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public long LongLength { get; }
 ```
 
@@ -14,7 +14,7 @@ public long LongLength { get; }
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Array.LongLength Property
 using System;
@@ -77,7 +77,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total Number of Elements in intarray: 8
 Type of returned Length: System.Int64
 

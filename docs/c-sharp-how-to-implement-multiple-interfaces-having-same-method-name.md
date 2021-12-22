@@ -11,7 +11,7 @@ C#允许实现多个具有相同方法名的接口。为了理解如何用相同
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of how to inherit multiple interfaces
 // with the same method name
@@ -75,7 +75,7 @@ public class GFG {
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the concept 
 // of how to inherit multiple interfaces 
 // with the same method name
@@ -139,7 +139,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks
 GeeksforGeeks
 
@@ -149,7 +149,7 @@ GeeksforGeeks
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of how to inherit multiple interfaces
 // with the same method name by defining 
@@ -200,7 +200,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks
 
 ```

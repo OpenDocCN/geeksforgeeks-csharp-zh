@@ -22,7 +22,7 @@
 
 **示例:**
 
-```
+```cs
 // C# code to create an ArrayList
 using System;
 using System.Collections;
@@ -49,7 +49,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Count : 2
 Capacity : 4
 
@@ -68,7 +68,7 @@ Capacity : 4
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // ArrayList Class Properties
 using System; 
@@ -107,7 +107,7 @@ class GFG { 
 
 **输出:**
 
-```
+```cs
 False
 False
 
@@ -166,7 +166,7 @@ False
 
 **例 1:**
 
-```
+```cs
 // C# code to check if an element is
 // contained in ArrayList or not
 using System;
@@ -205,14 +205,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Yes, exists at index 4
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to remove a range of
 // elements from the ArrayList
 using System;
@@ -265,7 +265,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The initial ArrayList: 
 2
 4

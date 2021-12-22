@@ -8,7 +8,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to find minimum
 // value from the given array
 using System;
@@ -43,7 +43,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The sequence is: 
 20
 45
@@ -61,7 +61,7 @@ Minimum Value: 20
 
 **例 2:**
 
-```
+```cs
 // C# program to find the Minimum
 // salary of the employee
 using System;
@@ -123,7 +123,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Minimum salary of the employee: 20000
 
 ```

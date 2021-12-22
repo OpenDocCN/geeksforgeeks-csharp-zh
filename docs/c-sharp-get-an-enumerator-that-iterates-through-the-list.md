@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.Generic.List<T>.Enumerator GetEnumerator ();
 ```
 
@@ -16,7 +16,7 @@ public System.Collections.Generic.List<T>.Enumerator GetEnumerator ();
 
 **例 1:**
 
-```
+```cs
 // C# code to get an enumerator
 // that iterates through the List<T>.
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 45
 78
 32
@@ -76,7 +76,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# code to get an enumerator
 // that iterates through the List<T>.
 using System;
@@ -116,7 +116,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 C#
 Java
 C

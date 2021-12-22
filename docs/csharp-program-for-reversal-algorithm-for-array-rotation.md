@@ -5,7 +5,7 @@
 编写一个函数 rotate(arr[]，d，n)，将大小为 n 的 arr[]旋转 d 个元素。
 **例:**
 
-```
+```cs
 Input :  arr[] = [1, 2, 3, 4, 5, 6, 7]
          d = 2
 Output : arr[] = [3, 4, 5, 6, 7, 1, 2] 
@@ -21,7 +21,7 @@ Output : arr[] = [3, 4, 5, 6, 7, 1, 2]
 **方法 4(反转算法):**
 **算法:**
 
-```
+```cs
 rotate(arr[], d, n)
   reverse(arr[], 1, d) ;
   reverse(arr[], d + 1, n);
@@ -46,7 +46,7 @@ A = [1，2]和 B = [3，4，5，6，7]
 
 ## C#
 
-```
+```cs
 // C# program for reversal algorithm
 // of array rotation
 using System;
@@ -108,7 +108,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 3 4 5 6 7 1 2
 ```
 

@@ -8,7 +8,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // Entry Point
 class Program {
 
@@ -87,7 +87,7 @@ class Program {
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 public class outString {
     // Properties declaration
     public string Value
@@ -110,7 +110,7 @@ public class outString {
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 public static class Interactive {
     private static readonly CodeDomProvider Compiler;
     public static exeContext Context;
@@ -304,7 +304,7 @@ public static class Interactive {
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 public class exeContext {
     // Loads using, assembly, type declaration, and member function in linked list
     public static List<string> Assemblies = new List<string>();
@@ -364,7 +364,7 @@ public class exeContext {
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 public class exeContext
 {
     // Loads using, assembly, type declaration, and member function in linked list
@@ -434,7 +434,7 @@ public class exeContext
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // Abstract class for an exception related properties declaration
 public abstract class compiledCode
 {
@@ -508,7 +508,7 @@ public abstract class compiledCode
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // Abstract class for an exception related properties declaration
 public abstract class compiledCode {
 
@@ -568,7 +568,7 @@ public abstract class compiledCode {
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // Custom Expression Handling
 public class custExpression : custStatement {
     public custExpression(string source, CompilerResults results)

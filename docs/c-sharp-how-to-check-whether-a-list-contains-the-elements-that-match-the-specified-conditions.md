@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public bool Exists (Predicate<T> match);
 ```
 
@@ -28,7 +28,7 @@ public bool Exists (Predicate<T> match);
 
 **例 1:**
 
-```
+```cs
 // C# Program to check whether a List contains
 // the elements that match the specified conditions
 // defined by the predicate
@@ -79,7 +79,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Elements Present in List:
 
 1
@@ -99,7 +99,7 @@ Result: True
 
 **例 2:**
 
-```
+```cs
 // C# Program to check whether a List contains
 // the elements that match the specified conditions
 // defined by the predicate
@@ -154,7 +154,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Elements Present in List:
 
 5

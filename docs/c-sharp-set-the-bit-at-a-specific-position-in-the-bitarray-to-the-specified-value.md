@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public void Set (int index, bool value);
 
 ```
@@ -32,7 +32,7 @@ public void Set (int index, bool value);
 
 **例 1:**
 
-```
+```cs
 // C# code to set the bit at
 // a specific position in the
 // BitArray to the specified value
@@ -77,7 +77,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Initially the bits are as : 
 False
 False
@@ -95,7 +95,7 @@ False
 
 **例 2:**
 
-```
+```cs
 // C# code to set the bit at
 // a specific position in the
 // BitArray to the specified value
@@ -148,7 +148,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Initially the bits are as : 
 False
 True

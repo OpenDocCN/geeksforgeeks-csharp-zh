@@ -242,7 +242,7 @@ C#编程语言
 
 ****以下是密封类的**语法**:****
 
-```
+```cs
 **sealed class class_name
 {
     // data members

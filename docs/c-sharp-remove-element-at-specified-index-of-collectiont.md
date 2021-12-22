@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void RemoveAt (int index);
 
 ```
@@ -19,7 +19,7 @@ public void RemoveAt (int index);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the element
 // at the specified index of the Collection
 using System;
@@ -68,7 +68,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Count : 5
 A
 B
@@ -85,7 +85,7 @@ E
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the element
 // at the specified index of the Collection
 using System;

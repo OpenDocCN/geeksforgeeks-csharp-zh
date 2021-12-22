@@ -12,7 +12,7 @@
 此方法用于返回大于或等于参数列表中指定小数的 ***最小整数值*** 。
 **语法:**
 
-```
+```cs
 public static decimal Ceiling(decimal d)
 ```
 
@@ -23,7 +23,7 @@ public static decimal Ceiling(decimal d)
 **返回类型:**该函数返回大于等于 d 的最小整数值，该方法的类型为*系统。小数*并返回一个小数而不是整型。
 **例:**
 
-```
+```cs
 Input  : 888.765M;
 Output : 889
 
@@ -35,7 +35,7 @@ Output : -20002
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // Math.Ceiling(Decimal) function
 using System;
@@ -74,7 +74,7 @@ class SudoPlacement {
 
 **Output:** 
 
-```
+```cs
 Input Value  = 2.10
 Ceiling value = 3
 Input Value  = -99.90
@@ -88,7 +88,7 @@ Ceiling value = 34
 此方法用于返回大于或等于参数列表中指定的双精度浮点数的最小整数值。
 **语法:**
 
-```
+```cs
 public static double Ceiling(double d)
 ```
 
@@ -99,7 +99,7 @@ public static double Ceiling(double d)
 **返回类型:**该方法返回大于或等于 d 的最小整数值，如果 d 等于 NaN、NegativeInfinity 或 PositiveInfinity，则返回该值。这种方法的类型是*系统。双*。
 **例:**
 
-```
+```cs
 Input  : 10.1  
 Output : 11
 
@@ -111,7 +111,7 @@ Output : -2222
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // Math.Ceiling(Double) function
 using System;
@@ -150,7 +150,7 @@ class SudoPlacement {
 
 **Output:** 
 
-```
+```cs
 Input Value  = 101.1
 Ceiling value = 102
 Input Value  = -1.1

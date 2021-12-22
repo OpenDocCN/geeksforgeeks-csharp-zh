@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static void AppendAllText (string path, string contents, System.Text.Encoding encoding);
 ```
 
@@ -34,7 +34,7 @@ public static void AppendAllText (string path, string contents, System.Text.Enco
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.AppendAllText() method
 
@@ -65,7 +65,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 GeeksforGeeks is a CS portal.
@@ -79,7 +79,7 @@ GeeksforGeeks is a CS portal.
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.AppendAllText() method
 
@@ -117,7 +117,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 GFG

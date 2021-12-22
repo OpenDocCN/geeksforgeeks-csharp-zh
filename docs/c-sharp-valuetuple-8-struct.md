@@ -27,7 +27,7 @@ ValueTuple <t1>结构用于创建 n 值 Tuple，其中 n = 8 或大于 8。它�
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to
 // access the element of ValueTuple<T1,
 // T2, T3, T4, T5, T6, T7, TRest>
@@ -62,7 +62,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Book Details: 
 Book Id: 3456
 Book Name: The Guide
@@ -86,7 +86,7 @@ Other Novels: ((Swami and Friends, The Dark Room, Mr. Sampath, Grandmother's Tal
 
 **示例:**
 
-```
+```cs
 // C# program to check the given 
 // value tuples are equal or not
 using System;
@@ -118,7 +118,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Incorrect Code...!!
 
 ```

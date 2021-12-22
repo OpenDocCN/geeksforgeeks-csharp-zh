@@ -11,7 +11,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Truncate(Decimal) Method
 using System;
@@ -52,7 +52,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The integral part of dec1 is: 214748
 The integral part of dec2 is: 21458565
 

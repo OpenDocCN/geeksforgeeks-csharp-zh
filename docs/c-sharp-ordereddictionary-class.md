@@ -22,7 +22,7 @@
 
 **示例:**
 
-```
+```cs
 // C# code to create a OrderedDictionary
 using System;
 using System.Collections;
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 3
 1 --> ONE
 2 --> TWO
@@ -75,7 +75,7 @@ class GFG {
 
 **例 1:**
 
-```
+```cs
 // C# code to check if OrderedDictionary
 // collection is read-only
 using System;
@@ -107,14 +107,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to get the number of
 // key/values pairs contained
 // in the OrderedDictionary
@@ -147,7 +147,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Number of key/value pairs are : 4
 
 ```
@@ -174,7 +174,7 @@ Number of key/value pairs are : 4
 
 **例 1:**
 
-```
+```cs
 // C# code to get a read-only
 // copy of the OrderedDictionary
 using System;
@@ -209,14 +209,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the entry
 // with the specified key from
 // the OrderedDictionary
@@ -263,7 +263,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Number of elements are : 5
 key1 -- value1
 key2 -- value2

@@ -10,7 +10,7 @@
 
 **程序:**获取标准输出流
 
-```
+```cs
 // C# program to illustrate the
 // Console.Out Property
 using System;

@@ -6,7 +6,7 @@ UInt16 Struct 的 MaxValue 字段用于表示 16 位无符号整数的最大值�
 
 **语法:**
 
-```
+```cs
 public const ushort MaxValue = 65535;
 ```
 
@@ -14,7 +14,7 @@ public const ushort MaxValue = 65535;
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // UInt16.MaxValue field
 using System;
@@ -60,7 +60,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Maximum Value is: 65535
 Not Possible
 Conversion is Possible.

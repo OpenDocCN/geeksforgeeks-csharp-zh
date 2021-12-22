@@ -6,13 +6,13 @@ StringBuilder()构造函数用于初始化 StringBuilder 类的新实例，该�
 
 **语法:**
 
-```
+```cs
 public StringBuilder ();
 ```
 
 **例:**
 
-```
+```cs
 // C# Program to illustrate how
 // to create a StringBuilder
 using System;
@@ -42,7 +42,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 16
 
 ```

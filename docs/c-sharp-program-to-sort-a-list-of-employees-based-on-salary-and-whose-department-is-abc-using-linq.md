@@ -8,7 +8,7 @@
 
 **示例:**
 
-```
+```cs
 Input: 
 {id = 101, name = "Sumit", salary = 10000, department = ABC} 
 {id = 102, name = "Rohit", salary = 20000, department = HR} 
@@ -26,7 +26,7 @@ Output:
 
 **2。**使用 OrderBy()方法和 Where()方法根据工资和 ABC 部门对员工列表进行排序
 
-```
+```cs
 var result_set = Geeks.Where(emp => emp.Emp_Department == "ABC").OrderBy( 
                             sal  =>  sal.Emp_Salary);
 ```
@@ -37,7 +37,7 @@ var result_set = Geeks.Where(emp => emp.Emp_Department == "ABC").OrderBy(
 
 ## C#
 
-```
+```cs
 // C# program to display a sorted list of employees based 
 // on Salary and whose Department is ABC 
 using System;
@@ -91,7 +91,7 @@ static void Main(string[] args)
 
 **Output**
 
-```
+```cs
 103 krishna 45000 ABC
 101 arjun   50000 ABC
 106 karna 50000 ABC

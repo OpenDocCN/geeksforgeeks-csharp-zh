@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```cs
 public override int GetHashCode();
 ```
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // concept of the GetHashCode() method
 using System;
@@ -45,7 +45,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Hash Code of Index: ^1 is: -2 
 Hash Code of Index: 3 is: 3 
 
@@ -53,7 +53,7 @@ Hash Code of Index: 3 is: 3
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of the GetHashCode() method
 using System;
@@ -99,7 +99,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Index: ^2 Value: Ohayo HashCode: -1302855152 
 Index: 3 Value: Bonjour HashCode: 399419679 
 Index: 2 Value: Namaste HashCode: 1350085290 

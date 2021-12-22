@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public Queue ();
 ```
 
@@ -19,7 +19,7 @@ public Queue ();
 
 **例 1:**
 
-```
+```cs
 // C# Program to illustrate how
 // to create a Queue
 using System;
@@ -48,7 +48,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 0
 
 ```

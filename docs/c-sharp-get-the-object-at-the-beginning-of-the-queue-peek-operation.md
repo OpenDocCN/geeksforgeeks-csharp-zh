@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 object Peek(); 
 
 ```
@@ -26,7 +26,7 @@ object Peek();
 
 **例 1:**
 
-```
+```cs
 // C# code to Get object at
 // the beginning of the Queue
 using System;
@@ -74,7 +74,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Queue are : 6
 Element at the beginning is : 1st Element
 Element at the beginning is : 1st Element
@@ -84,7 +84,7 @@ Total number of elements in the Queue are : 6
 
 **例 2:**
 
-```
+```cs
 // C# code to Get object at
 // the beginning of the Queue
 using System;

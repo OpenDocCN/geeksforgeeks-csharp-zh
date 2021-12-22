@@ -22,7 +22,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以在给定语法的帮助下，以编程方式设置将显示在 NumericUpDown 控件中的小数位数:
 
-```
+```cs
 public int DecimalPlaces { get; set; }
 ```
 
@@ -30,7 +30,7 @@ public int DecimalPlaces { get; set; }
 
 *   **步骤 1:** 使用 numericpdown()构造函数创建 numericpdown，该构造函数由 numericpdown 类提供。
 
-    ```
+    ```cs
     // Creating a NumericUpDown
     NumericUpDown n = new NumericUpDown();
 
@@ -38,7 +38,7 @@ public int DecimalPlaces { get; set; }
 
 *   **第 2 步:**创建 numericpdown 后，设置 numericpdown 类提供的 numericpdown 的 DecimalPlaces 属性。
 
-    ```
+    ```cs
     // Setting the Decimal Places
     n.DecimalPlaces = 2;
 
@@ -46,7 +46,7 @@ public int DecimalPlaces { get; set; }
 
 *   **Step 3:** And last add this NumericUpDown control to the form using the following statement:
 
-    ```
+    ```cs
     // Adding NumericUpDown 
     // control on the form
     this.Controls.Add(n);
@@ -55,7 +55,7 @@ public int DecimalPlaces { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

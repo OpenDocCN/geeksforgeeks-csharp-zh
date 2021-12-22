@@ -5,7 +5,7 @@
 在 C#中 ***BigMul()*** 是一个方法类的方法。此方法用于计算两个 32 位数字的全积。
 **语法:**
 
-```
+```cs
 public static long BigMul(int a, int b)
 ```
 
@@ -19,7 +19,7 @@ public static long BigMul(int a, int b)
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the 
 // Math.BigMul() method
 using System;
@@ -49,6 +49,6 @@ class Geeks {
 
 **Output:** 
 
-```
+```cs
 The product of the two numbers is 44132765266008836
 ```

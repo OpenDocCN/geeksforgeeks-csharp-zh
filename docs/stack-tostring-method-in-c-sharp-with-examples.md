@@ -10,7 +10,7 @@
 
 **例 1:** 在下面的程序中，*使用 GetType()* 方法获取当前对象的类型。它将阐明给定的堆栈对象是否被转换为字符串。
 
-```
+```cs
 // C# program to demonstrate
 // Stack ToString() method
 using System;
@@ -51,7 +51,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The type of st before ToString Method: System.Collections.Stack
 After ToString Method: 
 Geeks
@@ -65,7 +65,7 @@ The type of st after ToString Method: System.String
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate
 // Stack ToString() method
 using System;
@@ -106,7 +106,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The type of st before ToString Method: System.Collections.Stack
 After ToString Method: 
 5

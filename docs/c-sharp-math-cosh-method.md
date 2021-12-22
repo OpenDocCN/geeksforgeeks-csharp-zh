@@ -5,7 +5,7 @@
 ***数学。Cosh()*** 是一个内置的数学类方法，它返回给定双值参数的双曲余弦值。
 **语法:**
 
-```
+```cs
 public static double Cosh(double num)
 ```
 
@@ -16,7 +16,7 @@ public static double Cosh(double num)
 **返回值:**该方法返回类型为*系统的数值的双曲余弦值。双*。如果 num 等于否定有限性或肯定有限性，则返回肯定有限性。如果 num 等于 NaN，则返回 NaN。
 **例:**
 
-```
+```cs
 Input   : 60.0
 Output  : 5.71003694907842E+25
 ```
@@ -26,7 +26,7 @@ Output  : 5.71003694907842E+25
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // Math.Cosh()
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The cosh of num1 = 5.71003694907842E+25
 The cosh of num2 = 1
 The cosh of num3 = 1.54308063481524
@@ -65,7 +65,7 @@ The cosh of num3 = 1.54308063481524
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // Math.Cosh() Method
 using System;
@@ -94,7 +94,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The cosh of num1 = 1.14023832107643
 The cosh of num2 = 29937.0708659498
 The cosh of num3 = 1.74671355287425E+19

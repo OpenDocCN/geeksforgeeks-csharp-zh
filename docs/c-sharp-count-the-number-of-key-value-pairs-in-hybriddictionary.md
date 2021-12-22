@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public int Count { get; }
 
 ```
@@ -21,7 +21,7 @@ public int Count { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get the number of key/value
 // pairs contained in the HybridDictionary.
 using System;
@@ -54,14 +54,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to get the number of key/value
 // pairs contained in the HybridDictionary.
 using System;
@@ -93,7 +93,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total key/value pairs in myDict are : 5
 
 ```

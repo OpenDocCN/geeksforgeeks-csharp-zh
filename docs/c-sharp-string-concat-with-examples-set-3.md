@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```cs
 public static string Concat (params object[] arg);
 ```
 
@@ -28,7 +28,7 @@ public static string Concat (params object[] arg);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate 
 // the Concat(object[]) Method
 using System;
@@ -58,7 +58,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Elements of object array : 21 Hello! GeeksforGeeks EmptyA
 ```
 
@@ -68,7 +68,7 @@ Elements of object array : 21 Hello! GeeksforGeeks EmptyA
 
 **语法:**
 
-```
+```cs
 public static string Concat (object argA);
 ```
 
@@ -78,7 +78,7 @@ public static string Concat (object argA);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Concat(object) Method
 using System;
@@ -111,7 +111,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Concatenate 1, 2, and 3 objects:
 1: Geeks
 2: GeeksGeeks
@@ -126,7 +126,7 @@ Concatenate two element object array: 12
 
 **语法:**
 
-```
+```cs
 public static string Concat (object argA, object argB);
 ```
 
@@ -139,7 +139,7 @@ public static string Concat (object argA, object argB);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate
 // Concat(object, object) Method
 using System;
@@ -172,7 +172,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Concatenate two objects: 5050
 Concatenate two element object array: 3487
 

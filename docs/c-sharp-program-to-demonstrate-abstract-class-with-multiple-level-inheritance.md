@@ -6,7 +6,7 @@
 
 **语法** :
 
-```
+```cs
 abstract class classname
 {
     // Method Declaration in abstract class
@@ -19,7 +19,7 @@ abstract class classname
 
 **语法**:
 
-```
+```cs
 class GFG : Abstract_Class
 {
     // Method definition for abstract method
@@ -30,7 +30,7 @@ class GFG : Abstract_Class
 
 给定一个抽象类，我们的任务是将抽象类实现到父类中，然后实现多级继承。所以，让我们借助一个例子来理解。
 
-```
+```cs
 class GFG : Abstract_class
 {
    // Method definition for abstract method
@@ -55,7 +55,7 @@ class GFG3 : GFG2
 
 ## c#
 
-```
+```cs
 // C# program to illustrate abstract class 
 // with multiple-level Inheritance
 using System;
@@ -120,7 +120,7 @@ public static void Main(String[] args)
 
 **输出:**
 
-```
+```cs
 Abstract method is called
 Method from GFG2 class
 Method from GFG3 class

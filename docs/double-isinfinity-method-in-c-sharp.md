@@ -11,7 +11,7 @@
 **返回类型:**该函数返回一个布尔值*真*，如果指定值评估为正无穷大或负无穷大，否则返回*假*。
 **例:**
 
-```
+```cs
 Input  : d = 10 / 0.0 
 Output : True
 
@@ -28,7 +28,7 @@ Output : True
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // Double.IsInfinity() Method
 using System;
@@ -81,7 +81,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Infinity
 True
 Infinity

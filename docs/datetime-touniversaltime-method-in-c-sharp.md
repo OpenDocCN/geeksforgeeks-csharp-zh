@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToUniversalTime()
 // Method
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 UTC is 01/01/2010 04:00:15
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToUniversalTime()
 // Method
@@ -82,7 +82,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 UTC of 01/03/2010 04:00:15 is 01/03/2010 04:00:15
 UTC of 01/05/2010 04:00:15 is 01/05/2010 04:00:15
 

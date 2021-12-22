@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static double Sin(double num)
 ```
 
@@ -20,7 +20,7 @@ public static double Sin(double num)
 
 **程序 1:** 展示数学的工作原理。Sin()方法。
 
-```
+```cs
 // C# program to demonstrate working
 // Math.Sin() method
 using System;
@@ -64,7 +64,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 0.5
 0.707106781186547
 0.866025403784439
@@ -74,7 +74,7 @@ class Geeks {
 
 **程序 2:** 展示数学的工作原理。Sin()方法时的自变量是 *NaN 或无穷大*。
 
-```
+```cs
 // C# program to demonstrate working
 // Math.Sin() method in infinity case
 using System;
@@ -111,7 +111,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 NaN
 NaN
 NaN

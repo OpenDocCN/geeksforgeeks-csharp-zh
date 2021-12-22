@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static ulong ToUInt64 (byte[] value, int startIndex);
 ```
 
@@ -27,7 +27,7 @@ public static ulong ToUInt64 (byte[] value, int startIndex);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToUInt64(Byte[], Int32);
 // Method
@@ -101,7 +101,7 @@ public static void PrintIndexAndValues(byte[] myArr)
 
 **Output:**
 
-```
+```cs
 Initial Array: 32 0 0 42 0 65 0 125 0 197 0 168 3 41 4 125 32 
 
 index         byte Array             ulong value
@@ -112,7 +112,7 @@ index         byte Array             ulong value
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToUInt64(Byte[], Int32);
 // Method
@@ -202,7 +202,7 @@ public static void PrintIndexAndValues(byte[] myArr)
 
 **Output:**
 
-```
+```cs
 Initial Array: 32 0 0 42 0 65 0 125 0 197 0 168 3 41 4 125 32 
 
 intial Array in string: 20-00-00-2A-00-41-00-7D-00-C5-00-A8-03-29-04-7D-20 
@@ -216,7 +216,7 @@ Exception Thrown: System.ArgumentException
 
 **示例 3:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToUInt64(Byte[], Int32);
 // Method
@@ -259,7 +259,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.ArgumentNullException
 
 ```

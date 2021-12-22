@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Clear ();
 
 ```
@@ -15,7 +15,7 @@ public void Clear ();
 
 **例 1:**
 
-```
+```cs
 // C# code to removes all entries
 // from the HybridDictionary.
 using System;
@@ -73,7 +73,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Number of key/value pairs in myDict are : 6
 The key/value pairs in myDict are : 
 A --> Apple
@@ -89,7 +89,7 @@ The key/value pairs in myDict are :
 
 **例 2:**
 
-```
+```cs
 // C# code to removes all entries
 // from the HybridDictionary.
 using System;
@@ -146,7 +146,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Number of key/value pairs in myDict are : 5
 The key/value pairs in myDict are : 
 I --> first

@@ -14,7 +14,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to check the given
 // sequences are equal or not
 using System;
@@ -54,7 +54,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Sequence 1 is: 
 p
 q
@@ -75,7 +75,7 @@ Given Sequences are equal: True
 
 **例 2:**
 
-```
+```cs
 // C# program to check the names of
 // the employee are equal or not
 using System;
@@ -167,7 +167,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 True
 
 ```

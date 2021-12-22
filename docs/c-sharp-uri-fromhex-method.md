@@ -15,7 +15,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.FromHex(Char) Method
 using System;
@@ -42,14 +42,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Converted int value : 10
 
 ```
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.FromHex(Char) Method
 using System;
@@ -88,7 +88,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Digit should be a valid Hexadecimal digit (0-9, a-f, A-F).
 Exception Thrown: System.ArgumentException
 

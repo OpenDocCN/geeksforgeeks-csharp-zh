@@ -43,7 +43,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the constructor
 // and property of Tuple<T1, T2, T3, T4,
 // T5, T6, T7> Class
@@ -76,7 +76,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Value of the First Component: 79
 Value of the Second Component: 34
 Value of the Third Component: 67

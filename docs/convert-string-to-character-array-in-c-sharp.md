@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input:  string 
 Output:  [s, t, r, i, n, g]
 
@@ -29,7 +29,7 @@ Output:  [G, e, e, k, s, F, o, r, G, e, e, k, s]
 
 ## C#
 
-```
+```cs
 // C# program to Convert a string 
 // to a Character array 
 // using Naive Approach 
@@ -60,7 +60,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 G
 e
 e
@@ -89,7 +89,7 @@ s
 
 ## C#
 
-```
+```cs
 // C# program to Convert a string 
 // to a Character array 
 // using ToCharArray method 
@@ -116,7 +116,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 G
 e
 e

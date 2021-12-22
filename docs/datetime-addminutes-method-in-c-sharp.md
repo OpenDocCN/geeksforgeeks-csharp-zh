@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public DateTime AddMinutes (double value);
 ```
 
@@ -20,7 +20,7 @@ public DateTime AddMinutes (double value);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.AddMinutes(Double) Method
 using System;
@@ -52,7 +52,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 09/07/2018 07:00:00 + 0.01567 minute(s) = 09/07/2018 07:00:00
 09/07/2018 07:00:00 + 0.06743 minute(s) = 09/07/2018 07:00:04
 09/07/2018 07:00:00 + 12.12347 minute(s) = 09/07/2018 07:12:07
@@ -64,7 +64,7 @@ public static void Main()
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.AddMinutes(Double) Method
 using System;

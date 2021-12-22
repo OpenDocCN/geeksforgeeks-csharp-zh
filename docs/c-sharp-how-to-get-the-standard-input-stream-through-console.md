@@ -10,7 +10,7 @@
 
 **程序:**获取标准输入流
 
-```
+```cs
 // C# program to illustrate the
 // Console.In Property
 using System;

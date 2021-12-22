@@ -17,7 +17,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# Program to illustrate the
 // MathF.Exp(Single) Method
 using System;
@@ -39,7 +39,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 1096.633
 Infinity
 13187.18
@@ -49,7 +49,7 @@ Infinity
 
 **例 2:**
 
-```
+```cs
 // C# Program to illustrate the
 // MathF.Exp(Single) Method by
 // taking NaN, PositiveInfinity
@@ -76,7 +76,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 NaN
 Infinity
 0

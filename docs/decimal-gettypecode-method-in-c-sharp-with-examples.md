@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // Decimal.GetTypeCode() Method
 using System;
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for Decimal is: Decimal
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // Decimal.GetTypeCode() Method
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for -79228162514264337593543950335 is Decimal
 TypeCode for 79228162514264337593543950335 is Decimal
 

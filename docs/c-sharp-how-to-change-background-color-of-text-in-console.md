@@ -8,7 +8,7 @@
 
 **程序 1:** 将控制台背景颜色更改为蓝色。
 
-```
+```cs
 // C# program to illustrate the 
 // BackgroundColor Property
 using System;
@@ -44,7 +44,7 @@ class Program {
 
 **程序 2:** 可以更改背景颜色的可用颜色列表如下
 
-```
+```cs
 // C# program to get the
 // list of available colors
 using System;

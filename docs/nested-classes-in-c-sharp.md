@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 class Outer_class {
 
        // Code..
@@ -22,7 +22,7 @@ class Outer_class {
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // concept of nested class
 using System;
@@ -75,7 +75,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Outer class method
 Inner class Method
 ```
@@ -90,7 +90,7 @@ Inner class Method
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // concept of nested class accessing
 // static members of the outer class
@@ -132,7 +132,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Geeksforgeeks
 ```
 
@@ -141,7 +141,7 @@ Geeksforgeeks
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // concept of nested class
 // accessing non-static member
@@ -188,7 +188,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 1000000
 ```
 
@@ -197,7 +197,7 @@ public class GFG {
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // concept of nested class
 // accessing non-static member
@@ -267,7 +267,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 2000000
 ```
 
@@ -278,7 +278,7 @@ public class GFG {
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // concept inheritance
 using System;
@@ -325,7 +325,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Method of derived class
 Outer class method
 ```

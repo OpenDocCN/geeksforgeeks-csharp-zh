@@ -6,7 +6,7 @@ Int32 Struct 的 MaxValue 字段或属性用于表示 Int32 的最大值。该�
 
 **语法:**
 
-```
+```cs
 public const int MaxValue = 2147483647;
 ```
 
@@ -14,7 +14,7 @@ public const int MaxValue = 2147483647;
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Int32.MaxValue field
 using System;
@@ -57,7 +57,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Maximum Value is: 2147483647
 Conversion is Possible.
 Conversion is Possible.

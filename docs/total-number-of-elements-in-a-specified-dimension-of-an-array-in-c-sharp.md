@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public long GetLongLength (int dimension);
 ```
 
@@ -18,7 +18,7 @@ public long GetLongLength (int dimension);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Array.GetLongLength() method
 using System;
@@ -91,7 +91,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total Number of Elements in first dimension of arr: 3
 Type of returned Length: System.Int64
 

@@ -28,7 +28,7 @@ IP 地址被称为互联网协议地址。它是通过网络识别设备的唯�
 
 ## C#
 
-```
+```cs
 // C# program to print the IP address of the machine
 using System;  
 using System.Text;  
@@ -52,7 +52,7 @@ static void Main(string[] args)  
 
 **输出:**
 
-```
+```cs
 IP Address is : 192.168.122.136
 ```
 
@@ -78,7 +78,7 @@ IP Address is : 192.168.122.136
 
 ## C#
 
-```
+```cs
 // C# program to print the IP address of the machine
 using System;  
 using System.Text;  
@@ -101,6 +101,6 @@ static void Main() 
 
 **输出:**
 
-```
+```cs
 IP Address is : 192.168.122.136
 ```

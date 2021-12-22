@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void CopyTo (Array array, int arrayIndex);
 ```
 
@@ -27,7 +27,7 @@ public virtual void CopyTo (Array array, int arrayIndex);
 
 **例 1:**
 
-```
+```cs
 // C# code to illustrate the
 // ArrayList.CopyTo(Array, Int32)
 // Method
@@ -103,7 +103,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Before Method: 
 
 ArrayList Contains: 
@@ -139,7 +139,7 @@ arr[5] : D
 
 **例 2:**
 
-```
+```cs
 // C# code to illustrate the
 // ArrayList.CopyTo(Array, Int32)
 // Method

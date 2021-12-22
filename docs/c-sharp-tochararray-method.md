@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public char[] ToCharArray()
 or
 public char[] ToCharArray(int startIndex, int length)
@@ -27,7 +27,7 @@ public char[] ToCharArray(int startIndex, int length)
 
 *   **程序一:**说明 **ToCharArray()** 方法:
 
-    ```
+    ```cs
     // C# program to demonstrate
     // ToCharArray() method
     using System;
@@ -57,7 +57,7 @@ public char[] ToCharArray(int startIndex, int length)
 
     **输出:**
 
-    ```
+    ```cs
     String: GeeksForGeeks
     Character array : G e e k s F o r G e e k s
 
@@ -65,7 +65,7 @@ public char[] ToCharArray(int startIndex, int length)
 
 *   **程序二:**说明 ToCharArray(int startIndex，int length)方法:
 
-    ```
+    ```cs
     // C# program to demonstrate
     // ToCharArray(int startIndex, int length)
     // method
@@ -112,7 +112,7 @@ public char[] ToCharArray(int startIndex, int length)
 
     **输出:**
 
-    ```
+    ```cs
     String: GeeksForGeeks
 
     Character array 1:

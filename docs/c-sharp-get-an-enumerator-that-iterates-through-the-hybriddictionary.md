@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.IDictionaryEnumerator GetEnumerator ();
 
 ```
@@ -17,7 +17,7 @@ public System.Collections.IDictionaryEnumerator GetEnumerator ();
 
 **例 1:**
 
-```
+```cs
 // C# code to get an IDictionaryEnumerator
 // that iterates through the HybridDictionary.
 using System;
@@ -58,7 +58,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 A --> Apple
 B --> Banana
 C --> Cat
@@ -70,7 +70,7 @@ F --> Fish
 
 **例 2:**
 
-```
+```cs
 // C# code to get an IDictionaryEnumerator
 // that iterates through the HybridDictionary.
 using System;
@@ -110,7 +110,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 I --> first
 II --> second
 III --> third

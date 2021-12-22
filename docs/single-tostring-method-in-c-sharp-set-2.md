@@ -17,7 +17,7 @@
 
 **语法:**
 
-```
+```cs
 public string ToString (IFormatProvider provider);
 ```
 
@@ -27,7 +27,7 @@ public string ToString (IFormatProvider provider);
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate
 // Single.ToString(IFormatProvider)
 // Method
@@ -59,7 +59,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Value is 65465.68 and provider is en-US
 
 ```
@@ -70,7 +70,7 @@ The Value is 65465.68 and provider is en-US
 
 **语法:**
 
-```
+```cs
 public string ToString (string format, IFormatProvider provider);
 ```
 
@@ -83,7 +83,7 @@ public string ToString (string format, IFormatProvider provider);
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the
 // Single.ToString(String, IFormatProvider)
 // Method
@@ -119,7 +119,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The value is 340.282.300.000.000.000.000.000.000.000.000.000.000,00
 The Format is N
 The Provider is es-ES

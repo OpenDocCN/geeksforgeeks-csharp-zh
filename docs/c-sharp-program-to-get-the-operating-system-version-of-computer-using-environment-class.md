@@ -18,7 +18,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to get the current operating
 // system version of the computer 
 // Using Environment Class
@@ -41,6 +41,6 @@ class GFG
 
 **输出:**
 
-```
+```cs
 The current operating System version is Unix 20.3.0.0
 ```

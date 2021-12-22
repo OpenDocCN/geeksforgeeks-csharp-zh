@@ -9,7 +9,7 @@
 
 **语法:**
 
-```
+```cs
 public override string ToString ();
 ```
 
@@ -17,7 +17,7 @@ public override string ToString ();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // use of ToString method
 using System;
@@ -66,7 +66,7 @@ namespace exampleofvaluetuple{
 
 **Output:**
 
-```
+```cs
 ValueTuple 1: (Rina)
 ValueTuple 2: (Rohan, 25)
 ValueTuple 3: (Rima, 22, 2016)
@@ -76,7 +76,7 @@ ValueTuple 4: (Mohit, 28, 2014, Junior Engineer)
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate 
 // the use of ToString method
 using System;
@@ -116,7 +116,7 @@ namespace exampleofvaluetuple{
 
 **Output:**
 
-```
+```cs
 NValueTuple 1: (Anu, 23, (C++, Java, Python, C#))
 NValueTuple 2: (Boond, 27, Junior Engineer, (C++, Java))
 NValueTuple 3: (Rohit, 25, HR, (C++, Java, C#))

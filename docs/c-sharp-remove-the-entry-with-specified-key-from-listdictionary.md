@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public void Remove (object key);
 
 ```
@@ -21,7 +21,7 @@ public void Remove (object key);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the entry with
 // the specified key from the ListDictionary
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 The key/value pairs in myDict are : 
 Australia Canberra
@@ -99,7 +99,7 @@ India New Delhi
 
 **例 2 :**
 
-```
+```cs
 // C# code to remove the entry with
 // the specified key from the ListDictionary
 using System;

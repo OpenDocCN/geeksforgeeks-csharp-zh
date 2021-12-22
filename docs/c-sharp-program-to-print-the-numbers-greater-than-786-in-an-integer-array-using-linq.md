@@ -6,7 +6,7 @@
 
 **例:**
 
-```
+```cs
 Input: 1, 234, 456, 678, 789, 987, 654, 345
 Output: 789, 987 
 
@@ -26,7 +26,7 @@ Output: 856, 854, 945
 
 ## c#
 
-```
+```cs
 // C# program to display the numbers greater than 786 in
 // an integer array using LINQ
 using System;
@@ -56,7 +56,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 The numbers larger than 786 are :
 789 987 
 ```

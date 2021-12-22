@@ -8,7 +8,7 @@
 
 **例:**
 
-```
+```cs
 Input  : \\
          Geeksfor\\Geeks
 Output : \
@@ -24,7 +24,7 @@ Output: Clean\Environment
 
 ## C#
 
-```
+```cs
 // C# program to print backslash (\)
 using System;
 using System.IO;
@@ -49,7 +49,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 \
 Geeksfor\Geeks
 ```
@@ -58,7 +58,7 @@ Geeksfor\Geeks
 
 ## c#
 
-```
+```cs
 // C# program to print backslash (\)
 using System;
 using System.Text;
@@ -80,7 +80,7 @@ class GFG {
 
 **错误:**
 
-```
+```cs
 Unrecognized escape sequence `\C'
 ```
 
@@ -88,7 +88,7 @@ Unrecognized escape sequence `\C'
 
 ## c#
 
-```
+```cs
 // C# program to print backslash (\)
 using System;
 using System.Text;
@@ -113,7 +113,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Clean\Environment
 \n\t
 ```

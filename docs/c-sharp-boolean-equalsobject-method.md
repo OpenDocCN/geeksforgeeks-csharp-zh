@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Boolean.Equals(Object) Method
 using System;
@@ -45,14 +45,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True is not equal to 0
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Boolean.Equals(Object) Method
 using System;
@@ -90,7 +90,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True is not equal to 5
 True is not equal to 4
 False is equal to False

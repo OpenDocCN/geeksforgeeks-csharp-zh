@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsReadOnly { get; }
 
 ```
@@ -23,7 +23,7 @@ public bool IsReadOnly { get; }
 
 **示例:**
 
-```
+```cs
 // C# code to check if the
 // BitArray is read-only
 using System;
@@ -46,7 +46,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 
 ```

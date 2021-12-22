@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // UInt16.GetTypeCode() Method
 using System;
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for UInt16 is: UInt16
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // UInt16.GetTypeCode() Method
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for 0 is UInt16
 TypeCode for 65535 is UInt16
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool IsLeapYear (int year);
 ```
 
@@ -20,7 +20,7 @@ public static bool IsLeapYear (int year);
 
 ## C#
 
-```
+```cs
 // C# code to demonstrate the
 // IsLeapYear(Int32) Method
 using System;
@@ -52,7 +52,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 2000 is a Leap Year.
 2001 is not a Leap Year.
 2002 is not a Leap Year.
@@ -79,7 +79,7 @@ class GFG {
 
 ## C#
 
-```
+```cs
 // C# code to demonstrate the
 // IsLeapYear(Int32) Method
 using System;

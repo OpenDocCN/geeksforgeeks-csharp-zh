@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public HybridDictionary ();
 
 ```
@@ -15,7 +15,7 @@ public HybridDictionary ();
 
 **例 1:**
 
-```
+```cs
 // C# code to create an empty
 // case-sensitive HybridDictionary.
 using System;
@@ -48,7 +48,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 I first
 II second
 III third
@@ -59,7 +59,7 @@ V fifth
 
 **例 2:**
 
-```
+```cs
 // C# code to create an empty
 // case-sensitive HybridDictionary.
 using System;
@@ -98,7 +98,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 A Apple
 a Air
 B Banana

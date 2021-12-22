@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual int Add (object value);
 
 ```
@@ -30,7 +30,7 @@ public virtual int Add (object value);
 
 **例 1:**
 
-```
+```cs
 // C# code to add an object to
 // the end of the ArrayList
 using System;
@@ -65,7 +65,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 A
 B
 C
@@ -77,7 +77,7 @@ F
 
 **例 2:**
 
-```
+```cs
 // C# code to add an object to
 // the end of the ArrayList
 using System;
@@ -112,7 +112,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 1
 2
 3

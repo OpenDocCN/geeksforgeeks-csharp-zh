@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToLongTimeString()
 // Method
@@ -45,14 +45,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String representation of time is 04:00:15
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToLongTimeString()
 // Method
@@ -84,7 +84,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String representation of time is 05:30:08
 
 ```

@@ -10,7 +10,7 @@
 
 **程序 1:** 将控制台前景色更改为蓝色。
 
-```
+```cs
 // C# program to illustrate the 
 // ForegroundColor property
 using System;
@@ -48,7 +48,7 @@ class Program {
 
 **程序 2:** 可以改变前景颜色的可用颜色列表如下
 
-```
+```cs
 // C# program to get the
 // list of available colors
 using System;

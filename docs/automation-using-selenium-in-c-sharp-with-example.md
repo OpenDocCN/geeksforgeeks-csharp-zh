@@ -28,7 +28,7 @@ Selenium WebDriver 是为 C#设置的，其中测试用例是为测试而生成�
 
 在 C#上设置好硒后，就可以工作了。在下面的步骤中，它是制作第一个测试用例的指南。在项目的顶部，导入两个名称空间，如下所示:
 
-```
+```cs
 using OpenQA.Selenium;
 using OpenQA.Selenium.ChromeDriver;
 ```
@@ -37,7 +37,7 @@ using OpenQA.Selenium.ChromeDriver;
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System;

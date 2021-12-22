@@ -6,7 +6,7 @@
 
 **语法**:
 
-```
+```cs
 public bool IsClass { get; }
 ```
 
@@ -14,7 +14,7 @@ public bool IsClass { get; }
 
 ## C#
 
-```
+```cs
 // C# program to check the given 
 // type is a class or not
 using System;
@@ -56,7 +56,7 @@ public static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 True
 True
 False
@@ -66,7 +66,7 @@ False
 
 ## C#
 
-```
+```cs
 // C# program to check the given 
 // type is a class or not
 using System;
@@ -103,6 +103,6 @@ public static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 The given type is a class
 ```

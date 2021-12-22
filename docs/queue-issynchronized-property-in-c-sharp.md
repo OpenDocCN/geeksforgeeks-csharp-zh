@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool IsSynchronized { get; }
 ```
 
@@ -16,7 +16,7 @@ public virtual bool IsSynchronized { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to illustrate the
 // Queue.IsSynchronized Property
 using System;
@@ -56,7 +56,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 myQueue is Not Synchronized.
 sq is Synchronized.
 
@@ -64,7 +64,7 @@ sq is Synchronized.
 
 **例 2:**
 
-```
+```cs
 // C# code to check if Queue
 // Is Synchronized or not
 using System;
@@ -94,7 +94,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```

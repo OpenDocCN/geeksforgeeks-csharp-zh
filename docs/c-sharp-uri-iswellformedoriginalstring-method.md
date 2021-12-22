@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.IsWellFormedOriginalString()
 // Method
@@ -42,14 +42,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 uri is well formed
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.IsWellFormedOriginalString() 
 // Method
@@ -118,7 +118,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 uri is well formed
 uri is poorly formed
 uri is poorly formed

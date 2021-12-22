@@ -6,7 +6,7 @@
 
 **语法** :
 
-```
+```cs
 abstract class classname
 {
     // Method Declaration in abstract class
@@ -19,7 +19,7 @@ abstract class classname
 
 **语法**:
 
-```
+```cs
 interface interface_name
 {
     // Method Declaration in interface
@@ -34,7 +34,7 @@ interface interface_name
 *   Use the interface keyword to create an interface and write a method definition for the interface.
 *   Create a class named GFG, which will inherit the abstract class and interface, as follows:
 
-```
+```cs
 class GFG : Abstract_Class, Interface
 {
     // Method definition for abstract method
@@ -50,7 +50,7 @@ class GFG : Abstract_Class, Interface
 
 ## c#
 
-```
+```cs
 // C# program to illustrate how to inherit an
 // abstract class and interface in the same class
 using System;
@@ -108,7 +108,7 @@ public static void Main(String[] args)
 
 **输出** :
 
-```
+```cs
 I am the method of abstract class
 I am the method of interface
 ```

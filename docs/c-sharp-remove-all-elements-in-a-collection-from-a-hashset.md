@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 mySet2.ExceptWith(mySet1)
 
 ```
@@ -19,7 +19,7 @@ mySet2.ExceptWith(mySet1)
 
 **例 1:**
 
-```
+```cs
 // C# code to remove all elements
 // in a collection from a HashSet
 using System;
@@ -63,7 +63,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 7
 8
 9
@@ -73,7 +73,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# code to remove all elements
 // in a collection from a HashSet
 using System;
@@ -140,7 +140,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The elements in mySet1 are : 
 Punjab
 Haryana

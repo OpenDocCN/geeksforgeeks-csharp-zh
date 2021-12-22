@@ -11,7 +11,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToSingle(Decimal) Method
 using System;
@@ -54,7 +54,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The float value is : 1.345635E-11
 The float value is : 4.589663E+21
 

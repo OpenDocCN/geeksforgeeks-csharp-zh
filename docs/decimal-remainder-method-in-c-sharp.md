@@ -21,7 +21,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Remainder(Decimal, 
 // Decimal) Method
@@ -58,14 +58,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Remainder is : 0.69
 
 ```
 
 **例 2:** 适用于*飞越异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Remainder(Decimal, 
 // Decimal) Method
@@ -102,14 +102,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.OverflowException
 
 ```
 
 **例 3:*分支异常*程序**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Remainder(Decimal,
 // Decimal) Method
@@ -146,7 +146,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.DivideByZeroException
 
 ```

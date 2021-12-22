@@ -31,13 +31,13 @@
 
     *语法:*
 
-    ```
+    ```cs
     using System.Collections;
     ```
 
 *   **步骤 2:** 使用数组列表类创建一个数组列表，如下所示:
 
-    ```
+    ```cs
     ArrayList list_name = new ArrayList();
     ```
 
@@ -46,7 +46,7 @@
 
 **示例:**下面的程序展示了如何创建数组列表，向数组列表添加元素，以及如何访问数组列表的元素。
 
-```
+```cs
 // C# program to demonstrtate the ArrayList
 using System;
 using System.Collections;
@@ -83,7 +83,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 12.56
 GeeksforGeeks
 
@@ -98,7 +98,7 @@ G
 
 **示例:**
 
-```
+```cs
 // C# program to find the number of 
 // elements and capacity of ArrayList
 using System; 
@@ -130,7 +130,7 @@ public static void Main() { 
 
 **Output:**
 
-```
+```cs
 Number of elements: 5
 Current capacity: 8
 
@@ -147,7 +147,7 @@ Current capacity: 8
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how
 // to remove elements from the 
 // ArrayList
@@ -214,7 +214,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Initial number of elements : 13
 After Remove() method the number of elements: 12
 After RemoveAt() method the number of elements: 11
@@ -229,7 +229,7 @@ After Clear() method the number of elements: 0
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate
 // sorting of ArrayList
 using System;
@@ -279,7 +279,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 ArrayList before using Sort() method:
 1
 6
@@ -307,7 +307,7 @@ ArrayList after using Sort() method:
 
     **示例:**
 
-    ```
+    ```cs
     // using IList Interface
     IList arrlist1 = new ArrayList();
 

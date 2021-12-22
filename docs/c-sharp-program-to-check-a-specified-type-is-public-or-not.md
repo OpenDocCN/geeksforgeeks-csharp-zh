@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsPublic { get; }
 ```
 
@@ -14,7 +14,7 @@ public bool IsPublic { get; }
 
 ## C#
 
-```
+```cs
 // C# program to check whether the given class or
 // type is a public type or not
 using System;
@@ -54,7 +54,7 @@ public static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 True
 False
 ```
@@ -63,7 +63,7 @@ False
 
 ## C#
 
-```
+```cs
 // C# program to check whether the given class or
 // type is a public type or not
 using System;
@@ -100,6 +100,6 @@ public static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 The given class is a public class
 ```

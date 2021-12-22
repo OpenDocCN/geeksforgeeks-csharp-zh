@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input:
 a = "Hello"
 b = "World"
@@ -23,7 +23,7 @@ Strings after swap: a = World and b = Hello
 
  **算法:**
 
-```
+```cs
 1) Append second string to first string and 
    store in first string:
    a = a + b
@@ -40,7 +40,7 @@ Strings after swap: a = World and b = Hello
 
 ```
 
-```
+```cs
 // C# program to swap two strings
 // without using a temporary variable.
 using System;
@@ -76,7 +76,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Strings before swap: a = Hello and b = Geeks
 Strings after swap: a = Geeks and b = Hello
 

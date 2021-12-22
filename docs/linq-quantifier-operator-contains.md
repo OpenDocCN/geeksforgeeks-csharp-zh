@@ -27,7 +27,7 @@ Contains 运算符用于检查给定的序列或集合是否包含指定的元�
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of Contains operator
 using System;
@@ -63,7 +63,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Result: True
 Result: False
 
@@ -71,7 +71,7 @@ Result: False
 
 **例 2:**
 
-```
+```cs
 // C# program to check the new employee
 // is found in the given old data list
 using System;
@@ -177,7 +177,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Employee Found?: False
 
 ```

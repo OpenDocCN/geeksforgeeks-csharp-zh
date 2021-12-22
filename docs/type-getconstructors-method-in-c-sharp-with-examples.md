@@ -9,7 +9,7 @@
 此方法用于返回为当前类型定义的所有公共构造函数。
 **语法:**
 
-```
+```cs
 public System.Reflection.ConstructorInfo[] GetConstructors ();
 ```
 
@@ -19,7 +19,7 @@ public System.Reflection.ConstructorInfo[] GetConstructors ();
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetConstructors() Method
 using System;
@@ -53,7 +53,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 All constructors are shown below
 Void .ctor()
 ```
@@ -62,7 +62,7 @@ Void .ctor()
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetConstructors() Method
 using System;
@@ -92,7 +92,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 All constructors are shown below
 Void .ctor(Char[])
 Void .ctor(Char[], Int32, Int32)
@@ -125,7 +125,7 @@ Void .ctor(ReadOnlySpan`1)
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetConstructors(BindingFlags)
 // Method
@@ -164,7 +164,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 All constructors are shown below
 Void .ctor(Char[])
 Void .ctor(Char[], Int32, Int32)
@@ -181,7 +181,7 @@ Void .ctor(ReadOnlySpan`1)
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetConstructors(BindingFlags)
 // Method
@@ -222,7 +222,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 All constructors are shown below
 Void .ctor()
 ```

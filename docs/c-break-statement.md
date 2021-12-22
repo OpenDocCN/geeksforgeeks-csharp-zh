@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 break;
 ```
 
@@ -27,7 +27,7 @@ break;
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the use of
 // break statement in loop
 using System;
@@ -53,7 +53,7 @@ static public void Main ()
 
 **输出:**
 
-```
+```cs
 0
 1
 2
@@ -69,7 +69,7 @@ static public void Main ()
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the use of
 // break statement in nested loop
 using System;
@@ -99,7 +99,7 @@ static public void Main ()
 
 **输出:**
 
-```
+```cs
 ##
 ##
 ##
@@ -114,7 +114,7 @@ static public void Main ()
 
 ## C#
 
-```
+```cs
 // C# program to illustrate
 // infinite loop
 using System;
@@ -142,7 +142,7 @@ static public void Main ()
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the use of
 // break statement in the infinite loop
 using System;
@@ -167,7 +167,7 @@ static public void Main ()
 
 **输出:**
 
-```
+```cs
 Hey GeeksforGeeks
 Hey GeeksforGeeks
 Hey GeeksforGeeks
@@ -182,7 +182,7 @@ Hey GeeksforGeeks
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the use of
 // break statement in switch-case statement
 using System;
@@ -220,7 +220,7 @@ static public void Main ()
 
 **输出:**
 
-```
+```cs
 Select option(1, 2, 3): 2
 You select group B
 ```

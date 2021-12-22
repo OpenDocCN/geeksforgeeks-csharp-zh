@@ -16,7 +16,7 @@
 
 **语法:**
 
-```
+```cs
 private constructor_name
 {
    // Code
@@ -28,7 +28,7 @@ private constructor_name
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of private Constructor
 using System;
@@ -64,7 +64,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of private Constructor
 using System;
@@ -117,7 +117,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Ankita, 2
 ```
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static char ToUpperInvariant (char c);
 ```
 
@@ -20,7 +20,7 @@ public static char ToUpperInvariant (char c);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Char.ToUpperInvariant()
 // Method
@@ -56,7 +56,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The uppercase equivalent of the A is A
 The uppercase equivalent of the a is A
 The uppercase equivalent of the B is B
@@ -69,7 +69,7 @@ The uppercase equivalent of the - is -
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Char.ToUpperInvariant()
 // Method
@@ -96,7 +96,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Uppercase equivalent of the a is A
 
 ```

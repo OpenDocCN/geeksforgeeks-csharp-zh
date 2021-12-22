@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public string PadRight(int totalWidth)
 
 ```
@@ -27,7 +27,7 @@ public string PadRight(int totalWidth)
 
 **示例:**
 
-```
+```cs
 Input : str  = "GeeksForGeeks"
         str.PadRight(2);
 Output: 'GeeksForGeeks' 
@@ -56,7 +56,7 @@ totalWidth is greater than string length.
 
 下面的程序说明了上面讨论的方法:
 
-```
+```cs
 // C# program to illustrate the
 // String.PadRight(totalWidth) method
 using System;
@@ -83,7 +83,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 String : GeeksForGeeks
 Pad 2 :'GeeksForGeeks'
 Pad 13 :'GeeksForGeeks'
@@ -99,7 +99,7 @@ Pad 20 :'GeeksForGeeks       '
 
 **语法:**
 
-```
+```cs
 public string PadRight(int totalWidth, char paddingChar)
 
 ```
@@ -111,7 +111,7 @@ public string PadRight(int totalWidth, char paddingChar)
 
 **示例:**
 
-```
+```cs
 Input : str  = "GeeksForGeeks"
         str.PadRight(2, '*');
 Output: 'GeeksForGeeks' 
@@ -137,7 +137,7 @@ Output: 'GeeksForGeeks*******'
 
 下面的程序说明了上面讨论的方法:
 
-```
+```cs
 // C# program to illustrate the
 // String.PadRight(int totalWidth, 
 // char paddingChar) method 
@@ -165,7 +165,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 String : GeeksForGeeks
 Pad 2 :'GeeksForGeeks'
 Pad 13 :'GeeksForGeeks'

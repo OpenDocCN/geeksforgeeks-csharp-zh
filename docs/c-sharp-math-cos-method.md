@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static double Cos(double num)
 ```
 
@@ -20,7 +20,7 @@ public static double Cos(double num)
 
 **程序 1:** 展示数学的工作原理。Cos()方法。
 
-```
+```cs
 // C# program to demonstrate working
 // Math.Cos() method
 using System;
@@ -64,7 +64,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 0.342020143325669
 0.642787609686539
 0.292371704722737
@@ -74,7 +74,7 @@ class Geeks {
 
 **程序 2:** 展示数学的工作原理。Cos()方法时的自变量是 *NaN 或无穷大*。
 
-```
+```cs
 // C# program to demonstrate working
 // Math.Cos() method in infinity case
 using System;
@@ -110,7 +110,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 NaN
 NaN
 NaN

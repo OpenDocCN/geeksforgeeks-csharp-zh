@@ -19,7 +19,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt16.Equals(UInt16) Method
     using System;
@@ -52,14 +52,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     52 is not equal to 78
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt16.Equals(UInt16) Method
     using System;
@@ -99,7 +99,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     98 is not equal to 18
     65 is equal to 65
     100 is not equal to 40
@@ -120,7 +120,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt16.Equals(Object) Method
     using System;
@@ -153,14 +153,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     17 is not equal to 0
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt16.Equals(Object) Method
     using System;
@@ -199,7 +199,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     12 is not equal to 75
     14 is not equal to 114
     77 is not equal to 77

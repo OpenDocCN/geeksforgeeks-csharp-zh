@@ -6,7 +6,7 @@ CharEnumerator。方法用于获取表示当前对象的字符串。它继承自
 
 **语法:**
 
-```
+```cs
 public virtual string ToString();
 ```
 
@@ -16,7 +16,7 @@ public virtual string ToString();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of CharEnumerator.ToString()
 // Method
@@ -42,14 +42,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 System.String
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of CharEnumerator.ToString()
 // Method
@@ -83,7 +83,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Type of CharEnumerator Object: System.String
 Type of CharEnumerator clone Object: System.String
 

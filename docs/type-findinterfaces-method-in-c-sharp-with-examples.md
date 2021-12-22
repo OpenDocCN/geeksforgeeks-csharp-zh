@@ -22,7 +22,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.FindInterfaces(TypeFilter,
 // Object) Method
@@ -92,14 +92,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 filtered list of interface : System.Collections.IEnumerable.
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.FindInterfaces(TypeFilter,
 // Object) Method
@@ -156,7 +156,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 myFilter should not be null
 Exception Thrown: System.ArgumentNullException
 

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 myTable.Count
 
 ```
@@ -19,7 +19,7 @@ myTable.Count
 
 **例 1:**
 
-```
+```cs
 // C# code to get the number of key-and-value
 // pairs contained in the Hashtable.
 using System;
@@ -49,14 +49,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 4
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to get the number of key-and-value
 // pairs contained in the Hashtable.
 using System;
@@ -80,7 +80,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 0
 
 ```

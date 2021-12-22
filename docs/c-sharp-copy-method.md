@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static string Copy(string str)
 
 ```
@@ -15,7 +15,7 @@ public static string Copy(string str)
 
 **示例程序说明复制()方法**
 
-```
+```cs
 // C# program to demonstrate the 
 // use of Copy() method
 using System;
@@ -79,7 +79,7 @@ class Program {
 
 **输出:**
 
-```
+```cs
 Original Strings are str1 = 'GeeksforGeeks' and str2='GFG'
 
 After Copy method

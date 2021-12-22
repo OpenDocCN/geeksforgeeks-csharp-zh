@@ -7,7 +7,7 @@
 
 **语法:**
 
-```
+```cs
 public static string Copy (string value);
 ```
 
@@ -21,7 +21,7 @@ public static string Copy (string value);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate Copy() Method
 using System;
 
@@ -47,7 +47,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Original String strA: GeeksforGeeks
 Copied String strB: GeeksforGeeks
 
@@ -55,7 +55,7 @@ Copied String strB: GeeksforGeeks
 
 **例 2:**
 
-```
+```cs
 // C# program to check reference of strings
 using System;
 
@@ -91,7 +91,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Original string A: GeeksforGeeks
 Original string B: C# Tutorials
 

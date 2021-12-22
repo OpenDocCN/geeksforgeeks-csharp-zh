@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool Contains (object item);
 
 ```
@@ -30,7 +30,7 @@ public virtual bool Contains (object item);
 
 **例 1:**
 
-```
+```cs
 // C# code to check if an element is
 // contained in ArrayList or not
 using System;
@@ -69,14 +69,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Yes, exists at index 4
 
 ```
 
 **例 2 :**
 
-```
+```cs
 // C# code to check if an element is
 // contained in ArrayList or not
 using System;
@@ -115,7 +115,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 No, doesn't exists
 
 ```

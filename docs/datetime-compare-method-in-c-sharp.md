@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static int Compare (DateTime t1, DateTime t2);
 ```
 
@@ -25,7 +25,7 @@ public static int Compare (DateTime t1, DateTime t2);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.Compare(DateTime,
 // DateTime) Method
@@ -61,14 +61,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 date1 is later than date2.
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.Compare(DateTime, 
 // DateTime) Method
@@ -115,7 +115,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 01/03/2010 is earlier than 01/04/2010\. 
 01/05/2010 is later than 01/04/2010\. 
 01/05/2010 is the same as 01/05/2010.

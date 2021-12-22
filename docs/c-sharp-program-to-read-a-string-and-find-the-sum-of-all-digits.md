@@ -6,7 +6,7 @@
 
 **示例**
 
-```
+```cs
 Input : abc23d4
 Output: 9
 
@@ -28,7 +28,7 @@ Output: 10
 
 ## c#
 
-```
+```cs
 // C# program to read the string from the user and
 // then find the sum of all digits in the string
 using System;
@@ -62,7 +62,7 @@ public static void Main()
 
 #### 产出 1:
 
-```
+```cs
 Enter a string
 abc23d4
 Sum = 9
@@ -70,7 +70,7 @@ Sum = 9
 
 **输出 2:**
 
-```
+```cs
 Enter a string
 2a3hd5j
 Sum = 10

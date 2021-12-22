@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input
 String 1 : geeks
 String 2 : geeks
@@ -29,7 +29,7 @@ Output   : Not Equal
 
 ## C#
 
-```
+```cs
 // C# program to check given strings are
 // equal or not. Using == operator
 using System;
@@ -50,7 +50,7 @@ public static void Main()
 
 **Output**
 
-```
+```cs
 True
 ```
 
@@ -58,7 +58,7 @@ True
 
 ## C#
 
-```
+```cs
 // C# program to check given strings
 // are equal or not. Using == operator
 using System;
@@ -79,7 +79,7 @@ public static void Main()
 
 **Output**
 
-```
+```cs
 False
 ```
 
@@ -87,7 +87,7 @@ False
 
 ## C#
 
-```
+```cs
 // C# program to check given strings
 // are equal or not. Using == operator
 using System; 
@@ -106,6 +106,6 @@ static void Main(string[] args) 
 
 **Output**
 
-```
+```cs
 False
 ```

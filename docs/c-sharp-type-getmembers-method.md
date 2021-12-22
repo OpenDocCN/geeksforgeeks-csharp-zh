@@ -18,7 +18,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetMember() Method
     using System;
@@ -63,7 +63,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Fields of current type is as Follow: 
      Boolean Equals(System.Object)
      Int32 GetHashCode()
@@ -75,7 +75,7 @@
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetMember() Method
     using System;
@@ -115,7 +115,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Fields of current type is as Follow: 
      Int32 CompareTo(System.Object)
      Int32 CompareTo(Int32)
@@ -140,7 +140,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetMembers(BindingFlags)
     // Method
@@ -185,7 +185,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Fields of current type is as Follow: 
      Boolean Equals(System.Object)
      Int32 GetHashCode()
@@ -197,7 +197,7 @@
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.GetMembers(BindingFlags)
     // Method
@@ -243,7 +243,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Fields of current type is as Follow: 
      Int32 Parse(System.String)
      Int32 Parse(System.String, System.Globalization.NumberStyles)

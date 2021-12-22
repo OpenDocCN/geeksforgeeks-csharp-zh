@@ -26,7 +26,7 @@
 
 *   **步骤 1:** 使用 RichTextBox 类提供的 RichTextBox()构造函数创建一个 RichTextBox 控件。
 
-    ```
+    ```cs
     // Creating a RichTextBox control
     RichTextBox box = new RichTextBox(); 
 
@@ -34,7 +34,7 @@
 
 *   **步骤 2:** 创建完 RichTextBox 控件后，设置 RichTextBox 类提供的 RichTextBox 控件的属性。
 
-    ```
+    ```cs
     // Setting the location 
     // of the RichTextBox
     box.Location = new Point(236, 97); 
@@ -51,7 +51,7 @@
 
 *   **Step 3:** And last add this RichTextBox control to the form using the following statement:
 
-    ```
+    ```cs
     // Adding this RichTextBox
     // in the form 
     this.Controls.Add(box); 
@@ -60,7 +60,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

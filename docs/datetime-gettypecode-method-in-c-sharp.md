@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.GetTypeCode()
 // Method
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode is DateTime
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.GetTypeCode()
 // Method
@@ -82,7 +82,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode of 01/03/2010 04:00:15 is DateTime
 TypeCode of 01/05/2010 04:00:15 is DateTime
 

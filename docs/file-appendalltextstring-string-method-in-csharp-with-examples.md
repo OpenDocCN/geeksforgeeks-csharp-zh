@@ -5,7 +5,7 @@
 **文件。AppendAllText(String，String)** 是一个内置的 File 类方法，用于将指定的字符串追加到给定的文件中，如果该文件存在，则创建一个新文件，然后追加完成。它还会关闭文件。
 **语法:**
 
-```
+```cs
 public static void AppendAllText (string path, string contents);
 ```
 
@@ -32,7 +32,7 @@ public static void AppendAllText (string path, string contents);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.AppendAllText() method
 
@@ -62,7 +62,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 GeeksforGeeks
@@ -77,7 +77,7 @@ is a CS portal.
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.AppendAllText() method
 
@@ -114,7 +114,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 GFG

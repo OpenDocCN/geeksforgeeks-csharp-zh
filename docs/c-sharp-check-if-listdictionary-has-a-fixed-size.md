@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsFixedSize { get; }
 
 ```
@@ -15,7 +15,7 @@ public bool IsFixedSize { get; }
 
 **例:**
 
-```
+```cs
 // C# code to check if ListDictionary
 // has a fixed size
 using System;
@@ -46,7 +46,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 
 ```

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public string ToString (IFormatProvider provider);
 ```
 
@@ -16,7 +16,7 @@ public string ToString (IFormatProvider provider);
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate
 // Boolean.ToString(IFormatProvider)
 // Method
@@ -48,7 +48,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Value is True and provider is en-US
 
 ```

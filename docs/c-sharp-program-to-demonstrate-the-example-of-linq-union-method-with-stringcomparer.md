@@ -8,7 +8,7 @@ LINQ 被称为语言集成查询，它是在年引入的。NET 3.5。它给了�
 
 **语法:**
 
-```
+```cs
 data1.Union(data2)
 ```
 
@@ -18,7 +18,7 @@ data1.Union(data2)
 
 **语法:**
 
-```
+```cs
 StringComparer.OrdinalIgnoreCase
 ```
 
@@ -26,7 +26,7 @@ StringComparer.OrdinalIgnoreCase
 
 **语法**:
 
-```
+```cs
 data1.Union(data2, StringComparer.OrdinalIgnoreCase);
 ```
 
@@ -34,7 +34,7 @@ data1.Union(data2, StringComparer.OrdinalIgnoreCase);
 
 **示例:**
 
-```
+```cs
 Input: { "Hello", "Geeks", "For", "Geeks" };
        { "Hello", "geeks" , "python" }
 Output:
@@ -57,13 +57,13 @@ python
 
 **2。**使用字符串比较器执行联合操作
 
-```
+```cs
 data1.Union(data2, StringComparer.OrdinalIgnoreCase);
 ```
 
 **3。**使用 foreach 循环显示结果
 
-```
+```cs
 foreach(var j in final)
 {
     Console.WriteLine(j + " ");
@@ -74,7 +74,7 @@ foreach(var j in final)
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how to use
 // Union() Method with StringComparer in LINQ
 using System;
@@ -109,7 +109,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Hello 
 Geeks 
 For 

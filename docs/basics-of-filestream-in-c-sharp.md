@@ -33,7 +33,7 @@ FileStream 是一个用于在 C#中读写文件的类。它是系统的一部分
 
 为了读取文本文件，我们在打开模式和读取访问中创建一个文件流对象。声明一个从文本文件中读取的字节数组和一个保持字节计数的整数。使用 Read()方法从文本文件中读取。Read()方法的参数是字节数组、文本文件从哪里开始读取的偏移量以及必须读取的文本长度。最后，使用 GetString()将读取的文本从字节数组写入控制台。
 
-```
+```cs
 // C# program to write and read from 
 // a text file using FileStream class
 using System;

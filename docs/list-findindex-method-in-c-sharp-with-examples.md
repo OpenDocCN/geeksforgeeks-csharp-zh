@@ -21,7 +21,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the use of
     // List<T>.FindIndex (Predicate <T>) method
     using System;
@@ -107,7 +107,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     'C' starts at index 0
     'P' starts at index 4
 
@@ -132,7 +132,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the use of 
     // List<T>.FindIndex (Int32, Predicate <T>) method
     using System;
@@ -220,7 +220,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Search for 'C' starts at index 1
     Search for 'J' starts at index 2
 
@@ -246,7 +246,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the use of 
     // List<T>.FindIndex (Int32, Int32, 
     // Predicate <T>) method
@@ -338,7 +338,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Search for 'C' starts at index 0
     Search for 'J' starts at index 3
 

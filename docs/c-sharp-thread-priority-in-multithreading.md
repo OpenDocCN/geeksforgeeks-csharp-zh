@@ -21,7 +21,7 @@
 
 **语法:**
 
-```
+```cs
 public ThreadPriority Priority{ get; set; }
 ```
 
@@ -42,7 +42,7 @@ public ThreadPriority Priority{ get; set; }
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate how to
 // set and get the priority of threads
 using System;
@@ -88,7 +88,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The priority of T1 is: Normal
 The priority of T2 is: Highest
 The priority of T3 is: BelowNormal
@@ -97,7 +97,7 @@ The priority of T3 is: BelowNormal
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // Priority property of Thread class
 using System;
@@ -137,7 +137,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 T2 thread is working..
 T1 thread is working..
 

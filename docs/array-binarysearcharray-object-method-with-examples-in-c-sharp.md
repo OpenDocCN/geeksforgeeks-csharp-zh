@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static int BinarySearch (Array array, object value);
 ```
 
@@ -33,7 +33,7 @@ public static int BinarySearch (Array array, object value);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // Array.BinarySearch(Array, Object)
 // Method
@@ -112,7 +112,7 @@ static void display(int[] arr1) 
 
 **Output:**
 
-```
+```cs
 The elements of Sorted Array: 1 2 3 4 5 6 7 
 The element to search for (8) is not found.
 The element to search for (4) is at index 3.
@@ -121,7 +121,7 @@ The element to search for (4) is at index 3.
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the 
 // Array.BinarySearch(Array, Object)
 // Method
@@ -167,7 +167,7 @@ static void display(int[] arr1) 
 
 **Output:**
 
-```
+```cs
 The elements of Sorted Array: 1 2 3 4 5 6 7 
 Index of 9 is: -8
 

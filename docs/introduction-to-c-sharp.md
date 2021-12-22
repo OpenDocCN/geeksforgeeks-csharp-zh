@@ -31,7 +31,7 @@ C#受欢迎和受欢迎还有许多其他原因。下面提到的原因很少:
 
 **示例:**一个简单的程序打印**你好极客**
 
-```
+```cs
 // C# program to print Hello Geeks
 using System;
 
@@ -54,7 +54,7 @@ namespace HelloGeeksApp
 
 **输出:**
 
-```
+```cs
 Hello Geeks
 ```
 
@@ -63,14 +63,14 @@ Hello Geeks
 **单行注释:**
 **语法:**
 
-```
+```cs
 // Single line comment
 ```
 
 **多行注释:**
 **语法:**
 
-```
+```cs
 /* Multi line comments*/
 ```
 

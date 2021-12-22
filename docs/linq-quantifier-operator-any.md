@@ -27,7 +27,7 @@ Any 运算符用于检查序列或集合中的任何元素是否满足给定的�
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of Any operator
 using System;
@@ -79,7 +79,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Is the given sequence contain element as 10 : True
 Is the given sequence contain element as 'oo' : True
 Is the given sequence contain element as 'c' : True
@@ -88,7 +88,7 @@ Is the given sequence contain element as 'c' : True
 
 **例 2:**
 
-```
+```cs
 // C# program to check the list 
 // contain employee data or not
 using System;
@@ -118,7 +118,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Is the list contain employees data?: False
 
 ```

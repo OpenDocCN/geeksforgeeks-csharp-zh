@@ -12,7 +12,7 @@ C#中的方法覆盖类似于 C++中的 [**虚函数**](https://www.geeksforgeek
 
 **示例:**
 
-```
+```cs
 class base_class
 {
     public void gfg();
@@ -40,7 +40,7 @@ class Main_Method
 *   **虚拟关键字:**此修饰符或关键字在基类方法中使用。它用于修改*基类*中的一个方法，因为*在派生类中覆盖了*那个特定的方法。
 *   **覆盖:**此修饰符或关键字与派生类方法一起使用。用于将*虚*或*抽象*方法修改为*派生类*，并在基类中呈现。
 
-```
+```cs
 class base_class
 {
     public virtual void gfg();
@@ -69,7 +69,7 @@ class Main_Method
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the method overriding
 // without using 'virtual' and 'override' modifiers
 using System;
@@ -122,7 +122,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Base class
 Base class
 ```
@@ -133,7 +133,7 @@ Base class
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the use of
 //'virtual' and 'override' modifiers
 using System;
@@ -190,7 +190,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Base class
 Derived class
 ```

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Remove (System.Collections.Generic.LinkedListNode<T> node);
 
 ```
@@ -22,7 +22,7 @@ public void Remove (System.Collections.Generic.LinkedListNode<T> node);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the specified
 // node from the LinkedList
 using System;
@@ -71,7 +71,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total nodes in myList are : 4
 2
 4
@@ -86,7 +86,7 @@ Total nodes in myList are : 3
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the specified
 // node from the LinkedList
 using System;
@@ -136,7 +136,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total nodes in myList are : 5
 A
 B

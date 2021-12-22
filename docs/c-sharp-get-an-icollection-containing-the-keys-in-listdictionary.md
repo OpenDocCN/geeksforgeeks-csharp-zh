@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.ICollection Keys { get; }
 
 ```
@@ -19,7 +19,7 @@ public System.Collections.ICollection Keys { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get an ICollection
 // containing the keys in the ListDictionary
 using System;
@@ -57,7 +57,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Australia
 Belgium
 Netherlands
@@ -69,7 +69,7 @@ India
 
 **例 2:**
 
-```
+```cs
 // C# code to get an ICollection
 // containing the keys in the ListDictionary
 using System;
@@ -106,7 +106,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 I
 II
 III

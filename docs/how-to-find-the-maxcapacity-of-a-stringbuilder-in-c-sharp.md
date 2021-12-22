@@ -12,7 +12,7 @@
 
 **例:**
 
-```
+```cs
 // C# program to demonstrate
 // the MaxCapacity Property
 using System;
@@ -45,7 +45,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Maximum Capacity of str1 is: 2147483647
 Maximum Capacity of str2 is: 2147483647
 

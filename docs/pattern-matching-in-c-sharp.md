@@ -129,7 +129,7 @@ C#还支持使用以下具有模式匹配的构造:
 
 ## **C#**
 
-```
+```cs
 // C# program to illustrate the concept of Type Pattern
 using System;
 
@@ -166,7 +166,7 @@ static public void Main()
 
 ****Output****
 
-```
+```cs
 GEEKS FOR GEEKS
 42 is not a string
 ```

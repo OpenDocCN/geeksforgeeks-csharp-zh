@@ -16,7 +16,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Object.ReferenceEquals(object)
 // Method
@@ -49,14 +49,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 null is equal to null
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Object.ReferenceEquals(Object, Object)
 // Method
@@ -102,7 +102,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 System.Object is not equal to 
 System.Object is equal to System.Object
 System.Object is not equal to 

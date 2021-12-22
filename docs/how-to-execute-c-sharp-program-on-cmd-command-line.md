@@ -9,7 +9,7 @@ C#是一种通用、现代和面向对象的编程语言，发音为**“C sharp
 
 **命令行执行的 C#程序示例:**
 
-```
+```cs
 // C# program to print Hello World!
 using System;
 
@@ -63,7 +63,7 @@ class Geeks {
 
 **步骤 2:** 使用命令编译 C#源代码:
 
-```
+```cs
 csc File_name.cs
 ```
 

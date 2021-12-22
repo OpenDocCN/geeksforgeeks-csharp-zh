@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public DateTime AddHours (double value);
 ```
 
@@ -20,7 +20,7 @@ public DateTime AddHours (double value);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.AddHours(Double) Method
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTime before operation: 2010 January 01, 04:00
 
 DateTime after operation: 2010 January 01, 09:30
@@ -70,7 +70,7 @@ DateTime after operation: 2010 January 01, 09:30
 
 **例 2:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.AddHours(Double) Method
 using System;
@@ -114,7 +114,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTime before operation: 9999 December 31, 23:59
 
 The resulting DateTime is greater than the DateTime.MaxValue 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual int Count { get; }
 ```
 
@@ -16,7 +16,7 @@ public virtual int Count { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to illustrate the 
 // Queue.Count Property
 using System;
@@ -46,14 +46,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Queue are : 0
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to illustrate the 
 // Queue.Count Property
 using System;
@@ -88,7 +88,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Queue are : 6
 
 ```

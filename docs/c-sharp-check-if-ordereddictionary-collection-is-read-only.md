@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsReadOnly { get; }
 
 ```
@@ -17,7 +17,7 @@ public bool IsReadOnly { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to check if OrderedDictionary
 // collection is read-only
 using System;
@@ -49,14 +49,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if OrderedDictionary
 // collection is read-only
 using System;
@@ -94,7 +94,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 E -- Elephant
 A -- Apple
 B -- Banana

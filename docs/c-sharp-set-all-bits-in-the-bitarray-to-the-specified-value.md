@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public void SetAll (bool value);
 
 ```
@@ -27,7 +27,7 @@ public void SetAll (bool value);
 
 **例 1:**
 
-```
+```cs
 // C# code to set all bits in the
 // BitArray to the specified value
 using System;
@@ -72,7 +72,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Initially the bits are as : 
 False
 False
@@ -90,7 +90,7 @@ True
 
 **例 2:**
 
-```
+```cs
 // C# code to set all bits in the
 // BitArray to the specified value
 using System;
@@ -140,7 +140,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Initially the bits are as : 
 False
 True

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static System.Collections.ObjectModel.
 ReadOnlyCollection<T> AsReadOnly<T> (T[] array);
 ```
@@ -21,7 +21,7 @@ ReadOnlyCollection<T> AsReadOnly<T> (T[] array);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // AsReadOnly() method
 using System;
@@ -79,7 +79,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Initial Array:
 Sun
 Mon
@@ -96,7 +96,7 @@ Thu
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate
 // AsReadOnly() method
 // For ArgumentNullException
@@ -155,7 +155,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Exception Thrown: System.ArgumentNullException
 
 ```

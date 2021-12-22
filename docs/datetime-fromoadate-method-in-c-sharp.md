@@ -15,7 +15,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.FromOADate(Int64) Method
 using System;
@@ -50,14 +50,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTime : 3699 December 28
 
 ```
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.FromOADate(Int64) Method
 using System;
@@ -95,7 +95,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The date is not a valid OLE Automation Date value.
 Exception Thrown: System.ArgumentException
 

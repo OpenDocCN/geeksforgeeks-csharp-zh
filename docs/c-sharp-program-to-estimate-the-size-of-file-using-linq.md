@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public static string[] GetFiles (string path);
 ```
 
@@ -18,7 +18,7 @@ public static string[] GetFiles (string path);
 
 **语法:**
 
-```
+```cs
 Select<TSource,TResult>(IEnumerable<TSource>, Func<TSource,TResult>)
 ```
 
@@ -28,7 +28,7 @@ Select<TSource,TResult>(IEnumerable<TSource>, Func<TSource,TResult>)
 
 **语法:**
 
-```
+```cs
 public sealed class FileInfo : System.IO.FileSystemInfo
 ```
 
@@ -36,7 +36,7 @@ public sealed class FileInfo : System.IO.FileSystemInfo
 
 **语法:**
 
-```
+```cs
 Math.Round(Decimal, Int32)
 ```
 
@@ -44,19 +44,19 @@ Math.Round(Decimal, Int32)
 
 **1。**使用 GetFiles()方法从路径中获取文件
 
-```
+```cs
 string[] list = Directory.GetFiles("c:\\A\\");
 ```
 
 **2。**使用文件类选择文件，使用 average()函数计算平均值
 
-```
+```cs
 average = list.Select(file =>new FileInfo(file).Length).Average();
 ```
 
 **3。**使用数学将尺寸四舍五入到小数点后 1 位。舍入函数
 
-```
+```cs
 Math.Round(average / 10, 1)
 ```
 
@@ -68,7 +68,7 @@ Math.Round(average / 10, 1)
 
 ## C#
 
-```
+```cs
 // C# program to estimate the file size 
 // Using LINQ
 using System;
@@ -97,6 +97,6 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 The Average size of the file is 1.3 MB
 ```

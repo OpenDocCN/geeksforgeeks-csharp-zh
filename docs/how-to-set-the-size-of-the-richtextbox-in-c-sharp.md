@@ -23,7 +23,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式设置 RichTextBox 控件的大小:
 
-```
+```cs
 public System.Drawing.Size Size { get; set; }
 ```
 
@@ -31,7 +31,7 @@ public System.Drawing.Size Size { get; set; }
 
 *   **步骤 1:** 使用 RichTextBox()构造函数创建一个 RichTextBox，该构造函数由 RichTextBox 类提供。
 
-    ```
+    ```cs
     // Creating a RichTextBox
     RichTextBox rbox = new RichTextBox();
 
@@ -39,7 +39,7 @@ public System.Drawing.Size Size { get; set; }
 
 *   **步骤 2:** 创建 RichTextBox 后，设置由 the RichTextBox 类提供的 RichTextBox 的 Size 属性。
 
-    ```
+    ```cs
     // Setting the size
     rbox.Size = new Size(278, 115);
 
@@ -47,7 +47,7 @@ public System.Drawing.Size Size { get; set; }
 
 *   **第 3 步:**最后使用以下语句将这个 RichTextBox 控件添加到表单中:
 
-    ```
+    ```cs
     // Adding this control to the form
     this.Controls.Add(rbox);
 
@@ -55,7 +55,7 @@ public System.Drawing.Size Size { get; set; }
 
 **示例:**
 
-```
+```cs
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

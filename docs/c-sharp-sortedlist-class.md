@@ -33,7 +33,7 @@ SortedList 类是按键排序的**(键，值)**对的集合。这些对可以通
 
 **示例:**
 
-```
+```cs
 // C# Program to create a SortedList
 using System;
 using System.Collections;
@@ -58,7 +58,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 0
 
 ```
@@ -78,7 +78,7 @@ class Geeks {
 
 **示例:**
 
-```
+```cs
 // C# Program to illustrate the
 // properties of SortedList Class
 using System;
@@ -113,7 +113,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 False
 
@@ -150,7 +150,7 @@ False
 
 **例 1:**
 
-```
+```cs
 // C# code to remove all
 // elements from a SortedList
 using System;
@@ -198,7 +198,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Number of elements in SortedList is : 7
 capacity of SortedList is : 16
 Number of elements in SortedList is : 0
@@ -208,7 +208,7 @@ capacity of SortedList is : 16
 
 **例 2:**
 
-```
+```cs
 // C# code to check if a SortedList
 // object contains a specific value
 using System;
@@ -238,7 +238,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 
 ```

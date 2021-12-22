@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public int IndexOf (T item);
 
 ```
@@ -19,7 +19,7 @@ public int IndexOf (T item);
 
 ****例 1:****
 
-```
+```cs
 // C# code to search for the specified
 // object and returns the zero-based
 // index of the first occurrence within
@@ -62,7 +62,7 @@ class GFG {
 
 ****输出:****
 
-```
+```cs
 A
 B
 C
@@ -74,7 +74,7 @@ Index : 3
 
 ****例 2:****
 
-```
+```cs
 // C# code to search for the specified
 // object and returns the zero-based
 // index of the first occurrence within
@@ -115,7 +115,7 @@ class GFG {
 
 ****输出:****
 
-```
+```cs
 2
 3
 4

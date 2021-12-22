@@ -8,7 +8,7 @@
 
 ## c#
 
-```
+```cs
 // Simple C# program to
 // illustrate local function
 using System;
@@ -37,7 +37,7 @@ class Program {
 
 **输出:**
 
-```
+```cs
 Value of a is: 30
 Value of b is: 10
 final result: 20
@@ -53,7 +53,7 @@ final result: 20
 
 ## C#
 
-```
+```cs
 // Simple C# program to illustrate
 // the static local function
 using System;
@@ -94,7 +94,7 @@ class Program {
 
 **输出:**
 
-```
+```cs
 Radius of the circle: 30
 Area of circle: 2826
 Circumference of the circle is: 188.4
@@ -104,7 +104,7 @@ Circumference of the circle is: 188.4
 
 ## c#
 
-```
+```cs
 // Simple C# program to illustrate
 // the static local function
 using System;
@@ -144,6 +144,6 @@ class Program {
 
 **输出:**
 
-```
+```cs
 Error CS8421: A static local function cannot contain a reference to 'a'. (CS8421) (f)
 ```

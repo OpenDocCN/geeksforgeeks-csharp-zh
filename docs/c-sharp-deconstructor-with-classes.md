@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 // Creating a deconstructor method
   public void Deconstruct( out T var1, out T var2, ..., out T varN)
         {
@@ -24,7 +24,7 @@ var(_, var2, _, var4) = obj
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of deconstruction with class
 using System;
@@ -103,7 +103,7 @@ public class GFG
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the concept of
 // multiple deconstruction with class
 using System;

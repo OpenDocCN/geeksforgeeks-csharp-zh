@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool IsControl (string s, int index);
 ```
 
@@ -29,7 +29,7 @@ public static bool IsControl (string s, int index);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Char.IsControl(String, Int32) 
 // Method
@@ -86,7 +86,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String '1234' does't contain control character at index 3
 String 'Tsunami' does't contain control character at index 3
 String 'psyc0lo' does't contain control character at index 4
@@ -96,7 +96,7 @@ Control character \U000A found in position 1.
 
 **示例 2:** 适用于**参数异常**
 
-```
+```cs
 // C# program to demonstrate the
 // Char.IsControl(String, Int32) 
 // Method
@@ -150,7 +150,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String '1234' does't contain control character at index 3
 String 'psyc0lo' does't contain control character at index 4
 Control character \U000A found in position 1.
@@ -162,7 +162,7 @@ Exception Thrown: System.ArgumentNullException
 
 **例 3:** 为**argumentout of range exception**
 
-```
+```cs
 // C# program to demonstrate the
 // Char.IsControl(String, Int32) 
 // Method
@@ -218,7 +218,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String '1234' does't contain control character at index 3
 String 'psyc0lo' does't contain control character at index 4
 Control character \U000A found in position 1.

@@ -10,7 +10,7 @@
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of inheritance in the
 // constructor when the derived
@@ -106,7 +106,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The Color of tank is Green
 The radius of tank is :6 and the height of tank is :12
 Area is 452.16

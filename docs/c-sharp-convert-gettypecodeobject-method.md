@@ -5,7 +5,7 @@
 该方法用于返回指定对象的*类型代码*。
 **语法:**
 
-```
+```cs
 public static TypeCode GetTypeCode (object value);
 ```
 
@@ -16,7 +16,7 @@ public static TypeCode GetTypeCode (object value);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Convert.GetTypeCode() Method
 using System;
@@ -50,7 +50,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 TypeCode of val1 is String
 TypeCode of val2 is Boolean
 ```
@@ -59,7 +59,7 @@ TypeCode of val2 is Boolean
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Convert.GetTypeCode() Method
 using System;
@@ -112,7 +112,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 TypeCode of a is Char
 TypeCode of 20 is Single
 ```

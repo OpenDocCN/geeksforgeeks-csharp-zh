@@ -14,7 +14,7 @@ Equals(ValueTuple)方法用于检查两个 ValueTuple 实例是否相等。它�
 
 **语法:**
 
-```
+```cs
 public bool Equals (ValueTuple other);
 ```
 
@@ -24,7 +24,7 @@ public bool Equals (ValueTuple other);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate to check the
 // given ValueTuples are equal or not
 using System;
@@ -47,7 +47,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Is MyTple1 and MyTple2 equal?: True
 
 ```
@@ -58,7 +58,7 @@ Equals(Object)方法用于返回一个值，该值确定当前 ValueTuple 实例
 
 **语法:**
 
-```
+```cs
 public override bool Equals (object obj);
 ```
 
@@ -68,7 +68,7 @@ public override bool Equals (object obj);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to check the 
 // given value tuples is equal or not 
 // using Equal(Object) method
@@ -105,7 +105,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The given object is equal to the value tuple element...!!
 
 ```

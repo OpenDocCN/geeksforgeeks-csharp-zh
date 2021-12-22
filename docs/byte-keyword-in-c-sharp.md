@@ -8,13 +8,13 @@
 
 **语法:**
 
-```
+```cs
 byte variable_name = value;
 ```
 
 **示例:**
 
-```
+```cs
 Input: 250
 
 Output: number: 250
@@ -30,7 +30,7 @@ Output: Type of num1: System.Byte
 
 **例 1:**
 
-```
+```cs
 // C# program to show the usage of byte keyword
 using System;
 using System.Text;
@@ -53,7 +53,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 num: 255
 Size of a byte variable: 1
 
@@ -61,7 +61,7 @@ Size of a byte variable: 1
 
 **例 2:**
 
-```
+```cs
 // C# program to show the usage of byte keyword
 using System;
 using System.Text;
@@ -84,13 +84,13 @@ class GFG {
 
 **错误:**当我们输入的数字超出(0-255)的范围时。
 
-```
+```cs
 Constant value `261' cannot be converted to a `byte'
 ```
 
 **例 3:**
 
-```
+```cs
 // C# program to show the usage of byte keyword
 using System;
 using System.Text;
@@ -121,7 +121,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Type of num1: System.Byte
 num1: 150
 Size of a byte variable: 1

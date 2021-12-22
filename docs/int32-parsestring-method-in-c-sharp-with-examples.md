@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static int Parse (string str);
 ```
 
@@ -24,7 +24,7 @@ public static int Parse (string str);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // Int32.Parse(String) Method
 using System;
@@ -66,7 +66,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 '2147483647' parsed as 2147483647
 Can't Parsed '214,7483,647'
 '-2147483' parsed as -2147483
@@ -76,7 +76,7 @@ Can't Parsed '214,7483,647'
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // Int32.Parse(String) Method
 // for ArgumentNullException
@@ -121,7 +121,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.ArgumentNullException
 
 ```

@@ -25,7 +25,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of All operator
 using System;
@@ -65,7 +65,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Is the given sequence contain all element as 77 : False
 Is the given sequence contain all element as 'aa' : True
 
@@ -73,7 +73,7 @@ Is the given sequence contain all element as 'aa' : True
 
 **例 2:**
 
-```
+```cs
 // C# program to check in the employee present
 // in the company are all female employee
 using System;
@@ -152,7 +152,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Is all the employees are female?: False
 
 ```

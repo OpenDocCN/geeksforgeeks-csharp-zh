@@ -14,7 +14,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# code to get an enumerator that
 // iterates through the HashSet<T>
 using System;
@@ -54,7 +54,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DS
 C++
 Java
@@ -64,7 +64,7 @@ C#
 
 **例 2:**
 
-```
+```cs
 // C# code to get an enumerator that
 // iterates through the HashSet<T>
 using System;
@@ -102,7 +102,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 2
 4
 6

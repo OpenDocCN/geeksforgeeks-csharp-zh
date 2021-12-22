@@ -18,7 +18,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static decimal Abs (decimal val);
     ```
 
@@ -30,7 +30,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# Program to illlustrate the
     // Math.Abs(Decimal) Method
     using System;
@@ -57,7 +57,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Absolute value of -79228162514264337593543950335 = 79228162514264337593543950335
     Absolute value of 45.14 = 45.14
     Absolute value of 0 = 0
@@ -72,7 +72,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static double Abs (double val);
     ```
 
@@ -89,7 +89,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# Program to illlustrate the
     // Math.Abs(Double) Method
     using System;
@@ -119,7 +119,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Absolute value of -1.79769313486232E+308 = 1.79769313486232E+308
     Absolute value of 27.58 = 27.58
     Absolute value of 0 = 0
@@ -135,7 +135,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static short Abs (short val);
     ```
 
@@ -149,7 +149,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# Program to illlustrate the
     // Math.Abs(Int16) Method
     using System;
@@ -175,7 +175,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Absolute value of 32767 = 32767
     Absolute value of 1482 = 1482
     Absolute value of -142 = 142
@@ -189,7 +189,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static int Abs (int val);
     ```
 
@@ -203,7 +203,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# Program to illlustrate the
     // Math.Abs(Int32) Method
     using System;
@@ -229,7 +229,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Absolute value of 2147483647 = 2147483647
     Absolute value of 13482 = 13482
     Absolute value of -65525 = 65525

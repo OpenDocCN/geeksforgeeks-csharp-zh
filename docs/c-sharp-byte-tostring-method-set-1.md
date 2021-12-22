@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public string ToString (IFormatProvider provider);
     ```
 
@@ -24,7 +24,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate
     // Byte.ToString(IFormatProvider)
     // Method
@@ -56,7 +56,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     value is 15 and provider is en-US
 
     ```
@@ -67,7 +67,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public string ToString (string format, IFormatProvider provider);
     ```
 
@@ -84,7 +84,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Byte.ToString(String, IFormatProvider)
     // Method
@@ -120,14 +120,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     value is 00015 and provider is fr-FR
 
     ```
 
     **例 2:** 为*格式异常*
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Byte.ToString(String, IFormatProvider)
     // Method
@@ -172,7 +172,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     format is invalid
     Exception Thrown: System.FormatException
 
@@ -184,7 +184,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public override string ToString ();
     ```
 
@@ -194,7 +194,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate
     // Byte.ToString() Method
     using System;
@@ -221,7 +221,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     value is 15
 
     ```

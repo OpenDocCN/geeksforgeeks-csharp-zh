@@ -17,7 +17,7 @@
 
 ****语法:****
 
-```
+```cs
 public void Sort (System.Collections.Generic.IComparer<T> comparer);
 ```
 
@@ -30,7 +30,7 @@ public void Sort (System.Collections.Generic.IComparer<T> comparer);
 
 ****例 1:****
 
-```
+```cs
 // C# program to demonstrate the concept of 
 // List<T>.Sort(IComparer <T>) method
 using System;
@@ -99,7 +99,7 @@ public class geek
 
 ****Output:**
 
-```
+```cs
 Original List
 1
 5
@@ -120,7 +120,7 @@ Sort with a comparer:
 
 ****例 2:****
 
-```
+```cs
 // C# program to demonstrate the concept of 
 // List<T>.Sort(IComparer <T>) method
 using System;
@@ -211,7 +211,7 @@ public class geek
 
 ****Output:**
 
-```
+```cs
 Original List
 A
 I
@@ -254,7 +254,7 @@ J
 
 ****语法:****
 
-```
+```cs
 public void Sort(int index, int len, IComparer<T> comparer)
 ```
 
@@ -274,7 +274,7 @@ public void Sort(int index, int len, IComparer<T> comparer)
 
 ****示例:****
 
-```
+```cs
 // C# program to demonstrate the use of 
 // List<T>.Sort(Int32, Int32, IComparer<T>)
 // Method
@@ -364,7 +364,7 @@ public class geek
 
 ****Output:**
 
-```
+```cs
 Original List
 C++
 Java

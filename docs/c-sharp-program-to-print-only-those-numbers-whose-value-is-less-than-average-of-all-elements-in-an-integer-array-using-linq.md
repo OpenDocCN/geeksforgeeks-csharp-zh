@@ -8,7 +8,7 @@
 
 **例:**
 
-```
+```cs
 Input: 464, 23, 123, 456, 765, 345, 896, 13, 4
 Output: Average is 343
 So the numbers less than the average are:
@@ -34,7 +34,7 @@ So the numbers less than the average are:
 
 ## c#
 
-```
+```cs
 // C# program to display only those numbers whose value is
 // less than average of all elements in an array using LINQ
 using System;
@@ -71,7 +71,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Average is 343
 The Numbers:
 23 123 13 4 

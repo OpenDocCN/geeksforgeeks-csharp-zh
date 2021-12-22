@@ -5,7 +5,7 @@
 在 C#中 ***MathF。Truncate(Single)*** 是一种 MathF 类方法，用于计算指定的单个数或单精度浮点数的整数部分。
 **语法:**
 
-```
+```cs
 public static float Truncate (float x);
 ```
 
@@ -18,7 +18,7 @@ public static float Truncate (float x);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# Program to illustrate the
 // MathF.Truncate(Single) Method
 using System;
@@ -42,7 +42,7 @@ class Geeks {
 
 **Output:** 
 
-```
+```cs
 7845
 12548
 ```

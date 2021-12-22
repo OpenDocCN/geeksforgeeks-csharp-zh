@@ -5,7 +5,7 @@
 此方法用于将此实例与指定的 8 位无符号整数进行比较，并返回其相对值的指示。
 **语法:**
 
-```
+```cs
 public int CompareTo (byte value);
 ```
 
@@ -21,7 +21,7 @@ public int CompareTo (byte value);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Byte.CompareTo(byte)
 // Method
@@ -60,7 +60,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 val2 is greater than val1
 ```
 
@@ -68,7 +68,7 @@ val2 is greater than val1
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Byte.CompareTo(byte)
 // Method
@@ -113,7 +113,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 10 is less than 20
 30 is greater than 20
 10 is equal to 10

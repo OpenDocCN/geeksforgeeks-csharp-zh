@@ -30,7 +30,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the
 // Implicit Type Conversion
 using System;
@@ -60,7 +60,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Int value 57
 Long value 57
 Float value 57
@@ -73,7 +73,7 @@ Float value 57
 
 当类型彼此不兼容时，可能会出现编译错误。例如，将双精度值赋给 int 数据类型:
 
-```
+```cs
 // C# program to illustrate incompatible data 
 // type for explicit type conversion
 using System;
@@ -98,7 +98,7 @@ class GFG {
 
 **错误:**
 
-```
+```cs
 prog.cs(14,21): error CS0266: Cannot implicitly convert type `double' to `int'.
 An explicit conversion exists (are you missing a cast?)
 
@@ -112,7 +112,7 @@ An explicit conversion exists (are you missing a cast?)
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the
 // Explicit Type Conversion
 using System;
@@ -137,7 +137,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Value of i is 765
 
 ```
@@ -163,7 +163,7 @@ Value of i is 765
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the
 // Built- In Type Conversion Methods
 using System;
@@ -192,7 +192,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 56.123
 765
 56

@@ -30,13 +30,13 @@
 让我们看看如何使用 stack()构造函数创建堆栈:
 **步骤 1:** 包含*系统。集合*命名空间在你的程序中借助使用关键字。
 
-```
+```cs
 using System.Collections;
 ```
 
 **步骤 2:** 使用如下所示的 stack 类创建堆栈:
 
-```
+```cs
 Stack stack_name = new Stack();
 ```
 
@@ -46,7 +46,7 @@ Stack stack_name = new Stack();
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how to
 // create a stack
 using System;
@@ -84,7 +84,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 490.98
 1234
 
@@ -104,7 +104,7 @@ Geeks
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how to
 // remove elements from the stack
 using System;
@@ -150,7 +150,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Total elements present in my_stack: 4
 Total elements present in my_stack: 3
 Total elements present in my_stack: 0
@@ -167,7 +167,7 @@ Total elements present in my_stack: 0
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how to
 // get topmost elements of the stack
 using System;
@@ -215,7 +215,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Total elements present in my_stack: 4
 Topmost element of my_stack is: GeeksforGeeks
 Total elements present in my_stack: 3
@@ -233,7 +233,7 @@ Total elements present in my_stack: 3
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how
 // to check element present in
 // the stack or not
@@ -274,7 +274,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Element is found...!!
 ```
 

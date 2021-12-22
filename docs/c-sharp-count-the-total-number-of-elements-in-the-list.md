@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 list_name.Count
 ```
 
@@ -20,7 +20,7 @@ list_name.Count
 
 **例 1:**
 
-```
+```cs
 // C# code to get the number of
 // elements contained in List
 using System;
@@ -49,14 +49,14 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 6
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to get the number of
 // elements contained in List
 using System;
@@ -80,7 +80,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 0
 
 ```

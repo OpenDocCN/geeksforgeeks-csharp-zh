@@ -22,7 +22,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Array.Sort(Array) method
 using System;
@@ -60,7 +60,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The original array:
 A E D C F B G 
 
@@ -91,7 +91,7 @@ A B C D E F G
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the use of
 // Sort<T>(T[], Int32, Int32, IComparer<T>)
 // Method
@@ -142,7 +142,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The original array:
 A
 D
@@ -182,7 +182,7 @@ G
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the use of
 // Array.Sort<TKey, TValue>(TKey[], TValue[])
 // Method
@@ -243,7 +243,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The original order of elements in the array:
 H : A
 J : E

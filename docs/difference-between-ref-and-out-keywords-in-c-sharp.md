@@ -6,7 +6,7 @@
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of out parameter
 using System;
@@ -43,7 +43,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The sum of the value is: 160
 ```
 
@@ -51,7 +51,7 @@ The sum of the value is: 160
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of ref parameter
 using System;
@@ -89,7 +89,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Hello!!Geek
 GeeksforGeeks
 

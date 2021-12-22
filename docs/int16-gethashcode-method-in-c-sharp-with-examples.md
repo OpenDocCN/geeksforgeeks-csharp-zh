@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // Int16.GetHashCode() Method
 using System;
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode for Int16 is: 8126588
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // Int16.GetHashCode() Method
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode for -32768 is -2147450880
 HashCode for 32767 is 2147450879
 

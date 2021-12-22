@@ -18,7 +18,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate
 // the use of Console.ReadLine()
 using System;
@@ -65,7 +65,7 @@ class GFG {
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate
 // the use of Console.ReadLine()
 // to pause the console

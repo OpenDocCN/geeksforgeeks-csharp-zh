@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static System.IO.Stream OpenStandardError ();
 ```
 
@@ -14,7 +14,7 @@ public static System.IO.Stream OpenStandardError ();
 
 **示例:**下面的代码首先检查字符串是否为 GeeksForGeeks，如果不是，则程序调用 *SetError* 方法将错误信息重定向到文件，在重新获取标准错误流的过程中调用*openstandardserror*方法，并指示错误信息已写入文件。*串流编译器。在重新获取错误流之前，自动刷新*属性被设置为真。这确保了输出将立即发送到控制台，而不是缓冲。
 
-```
+```cs
 // C# program to illustrate the 
 // OpenStandardError() Method
 using System;

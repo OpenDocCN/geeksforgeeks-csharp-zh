@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // Int16.GetTypeCode() Method
 using System;
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for Int16 is: Int16
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // Int16.GetTypeCode() Method
 using System;
@@ -78,7 +78,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for -32768 is Int16
 TypeCode for 32767 is Int16
 

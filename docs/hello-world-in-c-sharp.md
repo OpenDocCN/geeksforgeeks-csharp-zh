@@ -12,7 +12,7 @@
 
 ****示例:****
 
-```
+```cs
 // C# program to print Hello World!
 using System;
 
@@ -39,7 +39,7 @@ namespace HelloWorldApp {
 
 ****Output:**
 
-```
+```cs
 Hello World!
 
 ```** 

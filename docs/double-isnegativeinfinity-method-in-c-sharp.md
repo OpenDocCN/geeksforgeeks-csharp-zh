@@ -12,7 +12,7 @@
 
 **示例:**
 
-```
+```cs
 Input  : d = -5.0 / 0.0 
 Output : True
 
@@ -24,7 +24,7 @@ Output : True
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // Double.IsNegativeInfinity() Method
 using System;
@@ -69,7 +69,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 -Infinity
 True
 -Infinity

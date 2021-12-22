@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual System.Collections.IList GetKeyList ();
 ```
 
@@ -16,7 +16,7 @@ public virtual System.Collections.IList GetKeyList ();
 
 **例 1:**
 
-```
+```cs
 // C# code for getting the keys
 // in a SortedList object
 using System;
@@ -53,7 +53,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Key List
 1
 2
@@ -65,7 +65,7 @@ Key List
 
 **例 2:**
 
-```
+```cs
 // C# code for getting the keys
 // in a SortedList object
 using System;
@@ -103,7 +103,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Key List
 Fifth
 First

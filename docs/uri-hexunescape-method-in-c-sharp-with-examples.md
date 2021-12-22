@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static char HexUnescape (string pattern, ref int index);
 
 ```
@@ -24,7 +24,7 @@ public static char HexUnescape (string pattern, ref int index);
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the  
 // Uri.HexUnescape() method  
 using System;   
@@ -49,7 +49,7 @@ class GFG {  
 
 **输出:**
 
-```
+```cs
 Hexadecimal character: p
 
 ```
@@ -58,7 +58,7 @@ Hexadecimal character: p
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the  
 // Uri.HexUnescape() method  
 using System;   
@@ -83,7 +83,7 @@ class GFG {  
 
 **输出:**
 
-```
+```cs
 Hexadecimal character: 7
 
 ```

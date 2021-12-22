@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual object Peek ();
 ```
 
@@ -18,7 +18,7 @@ public virtual object Peek ();
 
 **例 1:**
 
-```
+```cs
 // C# code to illustrate the
 // Queue.Peek Method
 using System;
@@ -68,7 +68,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total number of elements in the Queue are : 6
 Element at the beginning is : 1st Element
 Element at the beginning is : 1st Element
@@ -78,7 +78,7 @@ Total number of elements in the Queue are : 6
 
 **例 2:**
 
-```
+```cs
 // C# code to illustrate the
 // Queue.Peek Method
 using System;

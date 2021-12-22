@@ -18,7 +18,7 @@ OrderBy 运算符用于按升序重新排列给定序列的元素。默认情况
 
 **示例:**
 
-```
+```cs
 // C# program to print the employee
 // name in ascending order
 using System;
@@ -102,7 +102,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Employee Name: Anil
 Employee Name: Anjita
 Employee Name: Anju
@@ -121,7 +121,7 @@ Employee Name: Supriya
 
 **示例:**
 
-```
+```cs
 // C# program to print the salary of
 // the employees in ascending
 using System;
@@ -205,7 +205,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Salary of the employees: 
 20000
 30000
@@ -222,7 +222,7 @@ Salary of the employees:
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate multiple sorting
 using System;
 using System.Linq;
@@ -303,7 +303,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Employee Salary: 20000 Employee Id: 209
 Employee Salary: 20000 Employee Id: 210
 Employee Salary: 40000 Employee Id: 211

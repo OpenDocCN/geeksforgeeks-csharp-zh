@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual System.Collections.ArrayList GetRange (int index, int count);
 ```
 
@@ -26,7 +26,7 @@ public virtual System.Collections.ArrayList GetRange (int index, int count);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of GetRange() Method
 using System;
@@ -85,7 +85,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Elements are:
 
 Welcome
@@ -108,7 +108,7 @@ tutorial
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of GetRange() Method
 using System;

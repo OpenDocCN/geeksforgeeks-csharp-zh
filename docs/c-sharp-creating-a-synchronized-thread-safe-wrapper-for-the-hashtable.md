@@ -15,7 +15,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code to get a synchronized (thread-
 // safe) wrapper for the Hashtable
 using System;
@@ -56,7 +56,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 has1 Hashtable is not synchronized.
 has2 Hashtable is synchronized.
 ```
@@ -65,7 +65,7 @@ has2 Hashtable is synchronized.
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# code to get a synchronized (thread-
 // safe) wrapper for the Hashtable
 using System;

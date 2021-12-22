@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual System.Collections.IDictionaryEnumerator GetEnumerator ();
 ```
 
@@ -16,7 +16,7 @@ public virtual System.Collections.IDictionaryEnumerator GetEnumerator ();
 
 **例 1:**
 
-```
+```cs
 // C# code to get an IDictionaryEnumerator
 // that iterates through the Hashtable
 using System;
@@ -56,7 +56,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 B --> Banana
 C --> Cat
 A --> Apple
@@ -68,7 +68,7 @@ E --> Elephant
 
 **例 2:**
 
-```
+```cs
 // C# code to get an IDictionaryEnumerator
 // that iterates through the Hashtable
 using System;
@@ -107,7 +107,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 III --> third
 IV --> fourth
 V --> fifth

@@ -5,7 +5,7 @@
 **文件。GetLastWriteTimeUtc(String)** 是一个内置的 File 类方法，用于返回指定文件或目录上次写入的日期和时间，以协调世界时(Utc)表示。
 **语法:**
 
-```
+```cs
 public static DateTime GetLastWriteTimeUtc (string path);
 ```
 
@@ -29,7 +29,7 @@ public static DateTime GetLastWriteTimeUtc (string path);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.GetLastWriteTimeUtc(String) method
 
@@ -55,7 +55,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 The last write time in UTC for this file was 4/3/2020 12:00:00 AM.
 ```
 
@@ -65,7 +65,7 @@ The last write time in UTC for this file was 4/3/2020 12:00:00 AM.
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.GetLastWriteTimeUtc(String) method
 
@@ -94,6 +94,6 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 The last write time in UTC for this file was 4/3/2020 12:00:00 AM.
 ```

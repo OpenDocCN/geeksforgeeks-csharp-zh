@@ -6,13 +6,13 @@ sizeof()运算符用于以字节为单位获取数据类型的大小。它不会
 
 **语法:**
 
-```
+```cs
 int sizeof(type);
 ```
 
 **示例:**
 
-```
+```cs
 Input : sizeof(byte);
 Output : 1
 
@@ -21,7 +21,7 @@ Output : 4
 
 ```
 
-```
+```cs
 // C# program to illustrate the 
 // sizeof() operator
 using System;
@@ -52,7 +52,7 @@ namespace IncludeHelp
 
 **输出:**
 
-```
+```cs
 sizeof(char)     : 2
 sizeof(byte)     : 1
 sizeof(sbyte)    : 1

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.Generic.LinkedListNode<T> Find (T value);
 
 ```
@@ -19,7 +19,7 @@ public System.Collections.Generic.LinkedListNode<T> Find (T value);
 
 **例 1:**
 
-```
+```cs
 // C# code to find the first node
 // that contains the specified value
 using System;
@@ -52,14 +52,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 B
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to find the first node
 // that contains the specified value
 using System;

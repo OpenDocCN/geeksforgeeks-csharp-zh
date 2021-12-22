@@ -8,13 +8,13 @@
 
 **语法:**
 
-```
+```cs
 bool variable_name = value;
 ```
 
 **示例:**
 
-```
+```cs
 Input: true
 
 Output: answer: False
@@ -30,7 +30,7 @@ Output: Type of answer: System.Boolean
 
 **例 1:**
 
-```
+```cs
 // C# program for bool keyword
 using System;
 using System.Text;
@@ -54,7 +54,7 @@ using System.Text;
 
 **输出:**
 
-```
+```cs
 answer: False
 Size of a bool variable: 1
 
@@ -62,7 +62,7 @@ Size of a bool variable: 1
 
 **例 2:**
 
-```
+```cs
 // C# program for bool keyword
 using System;
 using System.Text;
@@ -94,7 +94,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Type of answer: System.Boolean
 answer: True
 Size of a bool variable: 1

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual object Clone();
 ```
 
@@ -18,7 +18,7 @@ public virtual object Clone();
 
 **例 1:**
 
-```
+```cs
 // C# code to copy the 
 // contents of one SortedList 
 // to another SortedList. 
@@ -68,7 +68,7 @@ class Geeks { 
 
 **Output:**
 
-```
+```cs
 Elements of mySL: 
 1:    C
 2:    C++
@@ -85,7 +85,7 @@ Elements of myNewSL:
 
 **例 2:**
 
-```
+```cs
 // C# code to copy the 
 // contents of one SortedList 
 // to another SortedList. 
@@ -165,7 +165,7 @@ class Geeks { 
 
 **Output:**
 
-```
+```cs
 Reference Equals: False
 Elements of mySL: 
 1:    HTML

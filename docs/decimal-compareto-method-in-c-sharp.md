@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```cs
 public int CompareTo (decimal value);
 ```
 
@@ -31,7 +31,7 @@ public int CompareTo (decimal value);
 
 ## c#
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.CompareTo(Double) Method
 using System;
@@ -68,7 +68,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 10 is less than 20
 ```
 
@@ -76,7 +76,7 @@ class GFG {
 
 ## c#
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.CompareTo(Double) Method
 using System;
@@ -117,7 +117,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 5 is less than 7
 30 is greater than 20
 10 is less than 20
@@ -130,7 +130,7 @@ class GFG {
 
 **语法:**
 
-```
+```cs
 public int CompareTo (object value);
 ```
 
@@ -150,7 +150,7 @@ public int CompareTo (object value);
 
 ## c#
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.CompareTo(object) Method
 using System;
@@ -197,7 +197,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 10 is less than 987.654
 ```
 
@@ -205,7 +205,7 @@ class GFG {
 
 ## c#
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.CompareTo(object) Method
 using System;
@@ -252,7 +252,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 value2 must be decimal
 Exception Thrown: System.ArgumentException
 ```

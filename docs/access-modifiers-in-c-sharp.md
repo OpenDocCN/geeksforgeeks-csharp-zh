@@ -23,7 +23,7 @@
 整个程序都可以访问。这意味着包含类引用的另一个方法或另一个程序集可以访问这些成员或类型。与所有其他访问修饰符相比，此访问修饰符具有最宽松的访问级别。
 **语法:**
 
-```
+```cs
 public TypeName
 ```
 
@@ -31,7 +31,7 @@ public TypeName
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# Program to show the use of
 // public Access Modifier
 using System;
@@ -91,7 +91,7 @@ class Program {
 
 **Output:** 
 
-```
+```cs
 Roll number: 1
 Name: Astrid
 
@@ -104,7 +104,7 @@ Name: Astrid
 访问仅限于包含此类的成员和派生类型的类。这意味着程序中任何地方的包含类的子类都可以访问受保护的成员。
 **语法:**
 
-```
+```cs
 protected TypeName
 ```
 
@@ -112,7 +112,7 @@ protected TypeName
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# Program to show the use of
 // protected Access Modifier
 using System;
@@ -158,7 +158,7 @@ class Program {
 
 **Output:** 
 
-```
+```cs
 Value of x is : 10
 ```
 
@@ -167,7 +167,7 @@ Value of x is : 10
 访问仅限于当前程序集，即声明为内部的任何类或类型都可以在同一命名空间内的任何地方访问。它是 C# 中 ***的默认访问修饰符。
 **语法:***** 
 
-```
+```cs
 internal TypeName
 ```
 
@@ -175,7 +175,7 @@ internal TypeName
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# Program to show use of
 // internal access modifier
 // Inside the file Program.cs
@@ -223,7 +223,7 @@ class Program {
 
 **Output:** 
 
-```
+```cs
 Real = 2
 Imaginary = 1
 ```

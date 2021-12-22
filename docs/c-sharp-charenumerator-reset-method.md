@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Reset ();
 ```
 
@@ -14,7 +14,7 @@ public void Reset ();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of CharEnumerator.Reset()
 // Method
@@ -48,7 +48,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The Sun rises in the East and sets in the West.
 The Sun rises in the East and sets in the West.
 

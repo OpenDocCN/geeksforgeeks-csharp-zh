@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```cs
 public static decimal Floor(decimal d)
 
 ```
@@ -26,7 +26,7 @@ public static decimal Floor(decimal d)
 
 **示例:**
 
-```
+```cs
 Input  : 12.9
 Output : 12
 
@@ -37,7 +37,7 @@ Output : -13
 
 **程序:**演示数学。下限(十进制)法。
 
-```
+```cs
 // C# program to illustrate the
 // Math.Floor(Decimal) function
 using System;
@@ -61,7 +61,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 0
 123
 -1
@@ -76,7 +76,7 @@ public class GFG {
 
 **语法:**
 
-```
+```cs
 public static double Floor(double d)
 
 ```
@@ -89,7 +89,7 @@ public static double Floor(double d)
 
 **示例:**
 
-```
+```cs
 Input  : 987654321.012 
 Output : 987654321
 
@@ -100,7 +100,7 @@ Output : -100000
 
 **程序:**演示数学。地板(双层)法。
 
-```
+```cs
 // C# program to illustrate the
 // Math.Floor(Double) function
 using System;
@@ -147,7 +147,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 value n1 = 0.2018
 Floor1 values is = 0
 value n2 = 123.123

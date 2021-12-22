@@ -12,7 +12,7 @@
 
 **示例:**
 
-```
+```cs
 // C# code to create a read-only
 // wrapper for the List<T>
 using System;
@@ -67,7 +67,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Before Wrapping: 
 1
 2

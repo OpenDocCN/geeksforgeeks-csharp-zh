@@ -21,7 +21,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.GetDateTimeFormats()
 // Method
@@ -51,7 +51,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 01/01/2010
 2010-01-01
 Friday, 01 January 2010
@@ -91,7 +91,7 @@ Friday, 01 January 2010 04:00:15
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.GetDateTimeFormats()
 // Method
@@ -121,7 +121,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 2019-01-30
 Wednesday, 30 January 2019
 Wednesday, 30 January 2019 09:49
@@ -146,7 +146,7 @@ Wednesday, 30 January 2019 9:49 AM
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.GetDateTimeFormats(Char)
 // Method
@@ -182,14 +182,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Friday, 01 January 2010
 
 ```
 
 **例 2:** 为*格式异常*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.GetDateTimeFormats(Char)
 // Method
@@ -225,7 +225,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.FormatException
 
 ```

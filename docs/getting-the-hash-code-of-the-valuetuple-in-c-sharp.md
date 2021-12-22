@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public override int GetHashCode ();
 ```
 
@@ -14,7 +14,7 @@ public override int GetHashCode ();
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to
 // find the hash code of the given 
 // value tuples.
@@ -71,7 +71,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode of a value tuple with zero elements: 0
 HashCode of a value tuple with one element: 23
 HashCode of a value tuple with two elements: -818407567

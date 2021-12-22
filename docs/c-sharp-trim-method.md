@@ -6,7 +6,7 @@ C# Trim()是一个字符串方法。此方法用于从当前字符串对象中�
 
 **语法:**
 
-```
+```cs
 public string Trim()  
 or
 public string Trim (params char[] trimChars)
@@ -21,7 +21,7 @@ public string Trim (params char[] trimChars)
 
 *   **例 1:** 程序演示**公共字符串 Trim()** 方法。Trim 方法从当前字符串对象中移除所有前导和尾随空格字符。当遇到非空白字符时，每个前导和尾随修剪操作都会停止。例如，如果当前字符串是“abc xyz”，然后 Trim 方法返回“abc xyz”。
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // method without any parameters
     using System;
@@ -54,7 +54,7 @@ public string Trim (params char[] trimChars)
 
     **输出:**
 
-    ```
+    ```cs
     Before:
      GFG
      GFG 
@@ -69,7 +69,7 @@ public string Trim (params char[] trimChars)
 
 *   **示例 2:** 演示公共字符串 Trim (params char[] trimChars)方法的程序。Trim 方法从当前字符串中删除参数列表中出现的所有前导和尾随字符。当遇到不在 trimChars 中的字符时，每个前导和尾随修剪操作都会停止。例如，当前字符串为“123 abc456xyz 789”，trimChars 包含从“1”到“9”的数字，则 Trim 方法返回“ABC 456 yz”。
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // method with parameters
     using System;
@@ -114,7 +114,7 @@ public string Trim (params char[] trimChars)
 
     **输出:**
 
-    ```
+    ```cs
     Before:123abc456xyz789
     After:abc456xyz
 

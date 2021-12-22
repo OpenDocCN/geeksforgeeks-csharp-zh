@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // SByte.GetHashCode() Method
 using System;
@@ -39,14 +39,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode for SByte is: 5911
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // SByte.GetHashCode() Method
 using System;
@@ -77,7 +77,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode for -128 is 32640
 HashCode for 127 is 32639
 

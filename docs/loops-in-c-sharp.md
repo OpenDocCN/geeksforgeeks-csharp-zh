@@ -11,7 +11,7 @@
 
 **语法:**
 
-```
+```cs
 while (boolean condition)
 {
    loop statements...
@@ -23,7 +23,7 @@ while (boolean condition)
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate while loop
 using System;
 
@@ -48,7 +48,7 @@ class whileLoopDemo
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks
 GeeksforGeeks
 GeeksforGeeks
@@ -59,7 +59,7 @@ GeeksforGeeks
 **2。for 循环**
 for 循环具有与 while 循环相似的功能，但语法不同。当循环语句的执行次数事先已知时，for 循环是优选的。循环变量的初始化、测试条件以及循环变量的递增/递减在 for 循环中一行完成，从而提供了一种更短、更易于调试的循环结构。
 
-```
+```cs
 for (loop variable initialization ; testing condition; 
                               increment / decrement)
 {    
@@ -78,7 +78,7 @@ T3】2。测试条件:执行循环语句的测试条件。它用于测试循环�
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate for loop.
 using System;
 
@@ -96,7 +96,7 @@ class forLoopDemo
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks
 GeeksforGeeks
 GeeksforGeeks
@@ -112,7 +112,7 @@ do while 循环类似于 while 循环，唯一的区别是它在执行语句后�
 
 **语法:**
 
-```
+```cs
 do
 {
     statements..
@@ -125,7 +125,7 @@ do
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate do-while loop
 using System;
 
@@ -148,7 +148,7 @@ class dowhileloopDemo
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks
 ```
 
@@ -157,7 +157,7 @@ GeeksforGeeks
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate infinite loop
 using System;
 
@@ -175,7 +175,7 @@ class infiniteLoop
 
 **输出:**
 
-```
+```cs
 This is printed infinite times
 This is printed infinite times
 This is printed infinite times
@@ -191,7 +191,7 @@ This is printed infinite times
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate nested loops
 using System;
 
@@ -209,7 +209,7 @@ class nestedLoops
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks
 ```
 
@@ -220,7 +220,7 @@ continue 语句用于在一定条件下跳过循环的执行部分，将流程�
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate continue statement
 using System;
 
@@ -243,6 +243,6 @@ class demoContinue
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks
 ```

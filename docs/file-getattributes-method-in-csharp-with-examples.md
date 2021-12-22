@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```cs
 public static System.IO.FileAttributes GetAttributes (string path);
 ```
 
 **参数:**该函数接受如下所示的参数:
 
-```
+```cs
 path: This is the specified file path.
 ```
 
@@ -34,7 +34,7 @@ path: This is the specified file path.
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.GetAttributes(String) method
 
@@ -83,7 +83,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The file.txt file is now hidden.
 ```
 
@@ -91,7 +91,7 @@ The file.txt file is now hidden.
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.GetAttributes(String) method
 
@@ -145,6 +145,6 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The gfg.txt file is now hidden.
 ```

@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public int CompareTo (short value);
     ```
 
@@ -28,7 +28,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int16.CompareTo(Double) Method
     using System;
@@ -64,14 +64,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     1 is less than 5
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int16.CompareTo(Double) Method
     using System;
@@ -112,7 +112,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     5 is less than 7
     30 is greater than 20
     10 is less than 20
@@ -126,7 +126,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public int CompareTo (object value);
     ```
 
@@ -144,7 +144,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int16.CompareTo(object) Method
     using System;
@@ -190,14 +190,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     10 is greater than 9
 
     ```
 
     **示例 2:** 适用于*参数异常*
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int16.CompareTo(object) Method
     using System;
@@ -243,7 +243,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     value2 must be short
     Exception Thrown: System.ArgumentException
 

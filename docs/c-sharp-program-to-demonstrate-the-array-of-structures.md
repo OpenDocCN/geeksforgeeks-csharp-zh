@@ -12,7 +12,7 @@
 
 **示例:**
 
-```
+```cs
 Input:
 Insert three values in an array
 Student[] student = { new Student(), new Student(), new Student() };
@@ -40,7 +40,7 @@ Output:
 
 ## C#
 
-```
+```cs
 // C# program to display the array of structure
 using System;
 
@@ -98,7 +98,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Employee:
     Id    : 1
     Name   : Ojaswi

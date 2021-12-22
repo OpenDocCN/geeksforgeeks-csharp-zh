@@ -19,7 +19,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt32.Equals(UInt32) Method
     using System;
@@ -52,14 +52,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     5322 is not equal to 7328
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt32.Equals(UInt32) Method
     using System;
@@ -99,7 +99,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     9128 is not equal to 1978
     6455 is equal to 6455
     10120 is equal to 10120
@@ -120,7 +120,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt32.Equals(Object) Method
     using System;
@@ -153,14 +153,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     11227 is not equal to 0
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt32.Equals(Object) Method
     using System;
@@ -199,7 +199,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     11232 is not equal to 7455
     1412 is not equal to 14314
     7744 is equal to 7744

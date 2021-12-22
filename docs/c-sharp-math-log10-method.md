@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static double Log10(double val)
 ```
 
@@ -26,7 +26,7 @@ public static double Log10(double val)
 
 **例:**
 
-```
+```cs
 // C# program to demonstrate working
 // of Math.Log10(Double) method
 using System;
@@ -75,7 +75,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 0.658011396657112
 -Infinity
 NaN

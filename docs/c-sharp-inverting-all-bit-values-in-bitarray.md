@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.BitArray Not ();
 
 ```
@@ -23,7 +23,7 @@ public System.Collections.BitArray Not ();
 
 **示例:**
 
-```
+```cs
 // C# code to invert values in BitArray
 using System;
 using System.Collections;
@@ -96,7 +96,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Values in BitArray myBitArr1 are : 
 False
 False

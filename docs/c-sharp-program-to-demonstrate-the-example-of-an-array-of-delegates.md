@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```cs
 name[] object = new name[size];
 ```
 
 其中 name 是委托数组，size 是委托数组的大小。我们还可以通过委托数组的索引将方法传递给委托数组。
 
-```
+```cs
 name[0] = method1;
 name[1] = method2;
 -----------------
@@ -22,7 +22,7 @@ name[n] = methodn;
 
 我们可以用代表的名字来称呼他。
 
-```
+```cs
 delegate_array();
 ```
 
@@ -32,7 +32,7 @@ delegate_array();
 
 **1。**在此声明代表，Myrect()为代表。
 
-```
+```cs
 delegate void Myrect(double len, double width);
 ```
 
@@ -40,13 +40,13 @@ delegate void Myrect(double len, double width);
 
 **3。**创建一个大小为 3 的委托数组。
 
-```
+```cs
 Myrect[] del = new Myrect[3];
 ```
 
 **4。**将这些方法传递给委托的每个数组索引。
 
-```
+```cs
 del[0] = Area;
 del[1] = Perimeter;
 del[2] = Diagonal;
@@ -54,7 +54,7 @@ del[2] = Diagonal;
 
 **5。**调用迭代循环内部数组的委托。
 
-```
+```cs
 for(int i = 0; i < 3; i++)
 {
     del[i](len, width);
@@ -65,7 +65,7 @@ for(int i = 0; i < 3; i++)
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how to create
 // an array of delegates.
 using System;
@@ -121,7 +121,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Data:
 Area:20
 Perimeter:18

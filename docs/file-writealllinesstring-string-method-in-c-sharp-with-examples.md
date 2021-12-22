@@ -5,7 +5,7 @@
 **文件。writellines(String，String[])** 是一个内置的 File 类方法，用于创建新文件，将指定的字符串数组写入文件，然后关闭文件。
 **语法:**
 
-```
+```cs
 public static void WriteAllLines (string path, string[] contents);
 ```
 
@@ -30,7 +30,7 @@ public static void WriteAllLines (string path, string[] contents);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.WriteAllLines(String,
 // String[]) method

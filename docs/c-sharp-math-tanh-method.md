@@ -5,7 +5,7 @@
 ***数学。Tanh()*** 是内置的数学类方法，它返回给定双精度值参数的双曲线 tan。如果给定的参数是 NaN，结果将是 NaN。
 **语法:**
 
-```
+```cs
 public static double Tanh(double num)
 ```
 
@@ -16,7 +16,7 @@ public static double Tanh(double num)
 **返回值:**该方法返回 num 的双曲正切值。*系统类型。双*。如果 num 等于否定定义，则此方法返回-1。如果 num 等于 PositiveInfinity，则此方法返回 1。如果 num 等于 NaN，则此方法返回 NaN。
 **例:**
 
-```
+```cs
 Input  : num = 60.0
 Output : 1.0
 ```
@@ -26,7 +26,7 @@ Output : 1.0
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // Math.Tanh()
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The tanh of num1 = 1
 The tanh of num2 = 0
 The tanh of num3 = 0.761594155955765
@@ -65,7 +65,7 @@ The tanh of num3 = 0.761594155955765
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // Math.Tanh() Method
 using System;
@@ -94,7 +94,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The tanh of num1 = 0.480472778156452
 The tanh of num2 = 0.999999999442106
 The tanh of num3 = 1

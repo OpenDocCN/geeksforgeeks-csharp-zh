@@ -19,7 +19,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Single.Equals(Single) Method
     using System;
@@ -52,14 +52,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     10.5 is not equal to 20.6
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Single.Equals(Single) Method
     using System;
@@ -99,7 +99,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     5 is equal to 5
     5.5 is not equal to 4.5
     10 is equal to 10
@@ -120,7 +120,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Single.Equals(Single) Method
     using System;
@@ -153,14 +153,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     10.5 is not equal to 0
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Single.Equals(object) Method
     using System;
@@ -200,7 +200,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     5 is not equal to System.Object
     5.5 is equal to 5.5
     10 is not equal to 10

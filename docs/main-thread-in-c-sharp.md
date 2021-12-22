@@ -17,7 +17,7 @@ C#为多线程编程提供内置支持。多线程程序包含两个或多个可
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the working
 //  of main thread and child thread
 using System;
@@ -46,7 +46,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Welcome to the Main thread
 Welcome to the Child thread
 Welcome to the Child thread
@@ -61,7 +61,7 @@ Welcome to the Child thread
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate
 // how to access main thread
 using System;
@@ -110,7 +110,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Main thread does not have name
 
 The priority of main thread is: Normal
@@ -125,7 +125,7 @@ The name of main thread is: Main Thread
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate deadlock
 // using the Main thread
 using System;
@@ -157,7 +157,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Enter into DEADLOCK!!
 ```
 

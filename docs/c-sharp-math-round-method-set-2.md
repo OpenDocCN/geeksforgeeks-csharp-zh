@@ -14,7 +14,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static double Round (double val, int digits, MidpointRounding mode);
 
     ```
@@ -36,7 +36,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the 
     // Math.Round(Double, Int32, 
     // MidpointRounding) method
@@ -77,7 +77,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Rounded values are:
     4.125 == 4.12
     4.135 == 4.14

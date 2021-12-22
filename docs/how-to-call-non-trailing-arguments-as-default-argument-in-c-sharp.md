@@ -11,7 +11,7 @@ C#为函数提供了一个很好的特性，那就是函数参数可以有默认
 
 **语法:**
 
-```
+```cs
 public void methodName(arg1, arg2, arg3 = default_Value, arg4 = default_Value)
 ```
 
@@ -41,13 +41,13 @@ public void methodName(arg1, arg2, arg3 = default_Value, arg4 = default_Value)
 
 > *   创建一个方法，例如 defArgs()。在方法定义中，取 3 个参数，第 2 个和第 3 个参数使用赋值运算符(=)赋值。
 > 
-> ```
+> ```cs
 > static void defArgs(int a, int b = 1, int c = 2, int d = 3){}
 > ```
 > 
 > *   现在，从主方法调用 defArg()方法的非尾随参数作为默认参数。例如 defArg(100，200)，这里我们想给 a 赋值 100，给 c 赋值 200，给 b 赋值默认值。
 > 
-> ```
+> ```cs
 > defArgs(100, c:200); 
 > ```
 > 
@@ -57,7 +57,7 @@ public void methodName(arg1, arg2, arg3 = default_Value, arg4 = default_Value)
 
 ## C#
 
-```
+```cs
 // C# program to call non-trailing arguments 
 // as default argument in C#
 using System;
@@ -92,7 +92,7 @@ static void defArgs(int a, int b = 1, int c = 2, int d = 3)
 
 **Output**
 
-```
+```cs
 value of a = 100,    value of b = 1,    value of c = 200,    value of d = 3
 value of a = 100,    value of b = 1,    value of c = 200,    value of d = 300
 ```

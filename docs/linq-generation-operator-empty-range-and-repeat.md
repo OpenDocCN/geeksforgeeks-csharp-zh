@@ -19,7 +19,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of Empty operator
 using System;
@@ -48,7 +48,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 How many elements presentin the collection?: 0
 Type is: String[]
 
@@ -66,7 +66,7 @@ Range 运算符用于生成包含一系列数字的集合。或者换句话说�
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of Range operator
 using System;
@@ -100,7 +100,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Elements are:
 100
 101
@@ -128,7 +128,7 @@ repeat 运算符用于创建保存一个重复值的集合。或者换句话说�
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // concept of Repeat operator
 using System;
@@ -161,7 +161,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Welcome to GeeksforGeeks
 Welcome to GeeksforGeeks
 Welcome to GeeksforGeeks

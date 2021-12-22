@@ -28,7 +28,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式设置工具提示的 ToolTipIcon 属性:
 
-```
+```cs
 public System.Windows.Forms.ToolTipIcon ToolTipIcon { get; set; }
 ```
 
@@ -36,7 +36,7 @@ public System.Windows.Forms.ToolTipIcon ToolTipIcon { get; set; }
 
 *   **步骤 1:** 使用 ToolTip()构造函数创建工具提示，该构造函数由 ToolTip 类提供。
 
-    ```
+    ```cs
     // Creating a ToolTip
     ToolTip t = new ToolTip();
 
@@ -44,7 +44,7 @@ public System.Windows.Forms.ToolTipIcon ToolTipIcon { get; set; }
 
 *   **第二步:**创建工具提示后，设置工具提示类提供的工具提示的 ToolTipIcon 属性。
 
-    ```
+    ```cs
     // Setting the ToolTipIcon property
     t.ToolTipIcon = ToolTipIcon.Info;
 
@@ -52,13 +52,13 @@ public System.Windows.Forms.ToolTipIcon ToolTipIcon { get; set; }
 
 *   **Step 3:** And last add this ToolTip to the controls using SetToolTip() method. This method contains the control name and the text which you want to display in the ToolTip box.
 
-    ```
+    ```cs
     t.SetToolTip(box1, "Name should start with Capital letter");
     ```
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

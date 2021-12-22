@@ -15,7 +15,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToOADate() Method
 using System;
@@ -51,14 +51,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 OLE Automation date is 40544.1668402778
 
 ```
 
 **例 2:** 适用于*飞越异常*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToOADate() Method
 using System;
@@ -95,7 +95,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.OverflowException
 
 ```

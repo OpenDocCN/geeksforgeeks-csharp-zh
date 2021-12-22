@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Single.GetHashCode() Method
 using System;
@@ -39,14 +39,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode is 1092616192
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Single.GetHashCode() Method
 using System;
@@ -80,7 +80,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode is 1084227584
 HashCode is 1092091904
 HashCode is 1176256512

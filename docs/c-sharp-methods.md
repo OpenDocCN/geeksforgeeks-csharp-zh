@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 // Method Name --> GetCircleArea()
 // Return Type ---> double
 static double GetCircleArea(double radius)
@@ -23,7 +23,7 @@ static double GetCircleArea(double radius)
 
 **语法:**
 
-```
+```cs
 <Access_Modifier> <return_type> <method_name>([<param_list>])
 ```
 
@@ -49,7 +49,7 @@ static double GetCircleArea(double radius)
 **方法体:**如上所述，方法体由用户想要执行的代码语句组成。方法声明后，是否定义其实现取决于用户。不编写任何实现，使得方法不执行任何任务。然而，当用户想要使用方法执行某些任务时，它必须在方法的主体中编写要执行的语句。下面的语法描述了方法体的基本结构:
 **语法:**
 
-```
+```cs
 <return_type> <method_name>(<parameter_list>)
 {
 
@@ -70,7 +70,7 @@ static double GetCircleArea(double radius)
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate
 // method calling
 using System;
@@ -122,7 +122,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 The Value of the sum is 35
 ```
 
@@ -134,7 +134,7 @@ The Value of the sum is 35
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate method Without
 // Parameters & Without Return Type
 using System;
@@ -165,7 +165,7 @@ class Geeks {
 
 *   **输出:**
 
-```
+```cs
 No parameters and return type void
 ```
 
@@ -173,7 +173,7 @@ No parameters and return type void
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the method Without
 // Parameters & With Return Value Type
 using System;
@@ -208,7 +208,7 @@ class Geeks {
 
 *   **输出:**
 
-```
+```cs
 148
 ```
 
@@ -216,7 +216,7 @@ class Geeks {
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate Method With
 // Parameters & Without Return Value Type
 using System;
@@ -252,7 +252,7 @@ class Geeks {
 
 *   **输出:**
 
-```
+```cs
 Perimeter of the Square is 20
 ```
 
@@ -260,7 +260,7 @@ Perimeter of the Square is 20
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate Method With
 // Parameters & With Return Value Type
 using System;
@@ -299,7 +299,7 @@ class Geeks {
 
 *   **输出:**
 
-```
+```cs
 Factorial is : 24
 ```
 

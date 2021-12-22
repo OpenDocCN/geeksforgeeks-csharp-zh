@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 // One input parameter
 public delegate void Action < in P > (P obj);
 
@@ -19,7 +19,7 @@ public delegate void Action < in P1, in P2 >(P1 arg1, P2 arg2);
 
 **示例:**下面的程序说明了我们如何创建自定义委托。
 
-```
+```cs
 // C# program to illustrate delegates
 using System;
 
@@ -47,7 +47,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 5
 
 ```

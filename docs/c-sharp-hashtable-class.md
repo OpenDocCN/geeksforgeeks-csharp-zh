@@ -40,7 +40,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to create Hashtable
 using System;
 using System.Collections;
@@ -75,7 +75,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Hashtable:
 
 5-C#
@@ -109,7 +109,7 @@ Hashtable:
 
 ## C#
 
-```
+```cs
 // C# Program to illustrate the
 // Properties of Hashtable
 using System;
@@ -155,7 +155,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 has1 Hashtable is not synchronized.
 has2 Hashtable is synchronized.
 Total Number of Elements in has1: 5
@@ -193,7 +193,7 @@ Total Number of Elements in has1: 5
 
 ## C#
 
-```
+```cs
 // C# program to illustrate Add()
 // and Remove() Methods
 using System;
@@ -247,7 +247,7 @@ class Program {
 
 **输出:**
 
-```
+```cs
 Hashtable Contains:
 2-to
 3-Geeks

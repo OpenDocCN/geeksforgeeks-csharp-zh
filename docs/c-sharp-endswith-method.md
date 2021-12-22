@@ -13,7 +13,7 @@
 此方法用于检查字符串对象的结尾是否与特定字符串匹配。如果匹配，则返回字符串，否则返回 false。
 **语法:**
 
-```
+```cs
 public bool EndsWith(string input_string)
 ```
 
@@ -28,7 +28,7 @@ public bool EndsWith(string input_string)
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // String.EndsWith(String) Method
 using System;
@@ -59,7 +59,7 @@ public class GFG {
 
 **Output:** 
 
-```
+```cs
 True
 False
 ```
@@ -68,7 +68,7 @@ False
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // String.EndsWith (String) Method
 using System;
@@ -145,7 +145,7 @@ public class GFG {
 *当使用指定的区域性进行比较时，此方法用于检查当前字符串实例的结尾是否与指定的字符串匹配。如果找到匹配，则返回字符串，否则返回 false。
 **语法:*** 
 
-```
+```cs
 *public bool EndsWith(string str,
                    bool case,
                    CultureInfo cul)*
@@ -163,7 +163,7 @@ public class GFG {
 
 ## *c sharp . c sharp . c sharp . c sharp*
 
-```
+```cs
 *// C# program to illustrate the
 // String. Endswith()h (string,
 // bool, CultureInfo) Method
@@ -214,7 +214,7 @@ class StringStartWith {
 
 ***Output:** 
 
-```
+```cs
 False
 True
 False
@@ -227,7 +227,7 @@ False
 *使用指定的比较选项进行比较时，此方法用于检查当前字符串实例的结尾是否与指定的字符串匹配。如果找到匹配，则返回字符串，否则返回 false。
 **语法:*** 
 
-```
+```cs
 *bool EndsWith(String str, StringComparison cType)*
 ```
 
@@ -246,7 +246,7 @@ False
 
 ## *c sharp . c sharp . c sharp . c sharp*
 
-```
+```cs
 *// C# program to illustrate the
 // EndsWith(String, StringComparison)
 // method
@@ -299,7 +299,7 @@ class Sudo {
 
 ***Output:** 
 
-```
+```cs
 False
 False
 True

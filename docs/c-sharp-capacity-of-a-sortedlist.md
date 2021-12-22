@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual int Capacity { get; set; }
 
 ```
@@ -30,7 +30,7 @@ public virtual int Capacity { get; set; }
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // Capacity Property of SortedList
 using System;
@@ -88,7 +88,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Capacity Is: 16
 Count Is: 5
 Capacity Is: 32
@@ -98,7 +98,7 @@ Count Is: 17
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // Capacity Property of SortedList
 using System;
@@ -154,7 +154,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Capacity Is: 7
 Count Is: 0
 Capacity Is: 7

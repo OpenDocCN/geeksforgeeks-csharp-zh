@@ -5,7 +5,7 @@
 此方法用于返回从字节数组中指定位置的四个字节转换而来的 32 位无符号整数。
 **语法:**
 
-```
+```cs
 public static uint ToUInt32 (byte[] value, int startIndex);
 ```
 
@@ -26,7 +26,7 @@ T3】例 1:T5】
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToUInt32()
 // Method
@@ -101,7 +101,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Initial Array: 32 0 0 42 0 65 0 125 0 197 0 168 3 41 4 125 32 
 
 index     byte Array           uint value
@@ -115,7 +115,7 @@ index     byte Array           uint value
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToUInt32(Byte[], Int32);
 // Method
@@ -206,7 +206,7 @@ class GFG {
 
 **Output**
 
-```
+```cs
 Initial Array: 32 0 0 42 0 65 0 125 0 197 0 168 3 41 4 125 
 
 initial Array in string: 20-00-00-2A-00-41-00-7D-00-C5-00-A8-03-29-04-7D 
@@ -224,7 +224,7 @@ Exception Thrown: System.ArgumentException
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToUInt32(Byte[], Int32);
 // Method
@@ -315,7 +315,7 @@ class GFG {
 
 **Output**
 
-```
+```cs
 Initial Array: 32 0 0 42 0 65 0 125 0 197 0 168 3 41 4 125 
 
 initial Array in string: 20-00-00-2A-00-41-00-7D-00-C5-00-A8-03-29-04-7D 
@@ -334,7 +334,7 @@ Exception Thrown: System.ArgumentOutOfRangeException
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToUInt32(Byte[], Int32);
 // Method
@@ -377,7 +377,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Exception Thrown: System.ArgumentNullException
 ```
 

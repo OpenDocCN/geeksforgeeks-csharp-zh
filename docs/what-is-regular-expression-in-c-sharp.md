@@ -12,7 +12,7 @@ C#提供了一个名为 Regex 的类，可以在[系统中找到。](https://doc
 
 ## C#
 
-```
+```cs
 // C# program to validate the Mobile
 // Number using Regular Expressions
 using System;
@@ -64,7 +64,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 9925612824 is a valid mobile number.
 8238783138 is a valid mobile number.
 02812451830 is not a valid mobile number.
@@ -74,7 +74,7 @@ class GFG {
 
 ## C#
 
-```
+```cs
 // C# program to validate the Email
 // ID using Regular Expressions
 using System;
@@ -119,7 +119,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 parth@gmail.com is a valid E-mail address.
 parthmaniyargmail.com is not a valid E-mail address.
 @gmail.com is not a valid E-mail address.
@@ -148,7 +148,7 @@ parthmaniyargmail.com is not a valid E-mail address.
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // the * Quantifier
 using System;
@@ -174,7 +174,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Match Value: aaaab
 ```
 
@@ -182,7 +182,7 @@ Match Value: aaaab
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // the + Quantifier
 using System;
@@ -208,7 +208,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Match Value: aaab
 ```
 
@@ -216,7 +216,7 @@ Match Value: aaab
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // the ? Quantifier
 using System;
@@ -243,7 +243,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Match Value: ab
 ```
 
@@ -270,7 +270,7 @@ Match Value: ab
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // the ^ Special Character
 using System;
@@ -298,7 +298,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Match Value: Shyam
 ```
 
@@ -306,7 +306,7 @@ Match Value: Shyam
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // the $ Special Character
 using System;
@@ -334,7 +334,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Match Value: Parth
 ```
 
@@ -342,7 +342,7 @@ Match Value: Parth
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // the .(Dot) Special Character
 using System;
@@ -370,7 +370,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Match Value: seat
 ```
 
@@ -378,7 +378,7 @@ Match Value: seat
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // the \d Special Character
 using System;
@@ -406,7 +406,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Match Value: 1
 ```
 
@@ -427,7 +427,7 @@ Match Value: 1
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // the [] character class
 using System;
@@ -455,7 +455,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Match Value: a
 ```
 
@@ -463,7 +463,7 @@ Match Value: a
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // the [a-z] character class
 using System;
@@ -491,7 +491,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Match Value: x
 ```
 
@@ -499,7 +499,7 @@ Match Value: x
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // the [^a-z] character class
 using System;
@@ -527,7 +527,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Match Value: m
 ```
 
@@ -547,7 +547,7 @@ Match Value: m
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // the grouping in regex
 using System;
@@ -575,7 +575,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Match Value: cdcd
 ```
 
@@ -583,7 +583,7 @@ Match Value: cdcd
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // the grouping in regex
 using System;
@@ -611,6 +611,6 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Match Value: e
 ```

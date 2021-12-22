@@ -32,7 +32,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToString(String, 
 // IFormatProvider) Method
@@ -98,7 +98,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Converts the value of the currentDateTime object to its equivalent string
  01.10.2008 
  Mittwoch, 1\. Oktober 2008 
@@ -116,7 +116,7 @@ Converts the value of the currentDateTime object to its equivalent string
 
 **例 2:** 为*格式异常*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToString(String, 
 // IFormatProvider) Method
@@ -185,7 +185,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Converts the value of the currentDateTime object to its equivalent string
  01.10.2008 
  Mittwoch, 1\. Oktober 2008 
@@ -202,7 +202,7 @@ Exception Thrown: System.FormatException
 
 **例 3:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToString(String,
 // IFormatProvider) Method
@@ -273,7 +273,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Converts the value of the currentDateTime object to its equivalent string
 
 The date and time is outside the range of datessupported by the calendar used by ar-SA
@@ -299,7 +299,7 @@ Exception Thrown: System.ArgumentOutOfRangeException
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToString(String) Method
 using System;
@@ -359,7 +359,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Converts the value of the currentDateTime object to its equivalent string
  10/01/2008 
  Wednesday, 01 October 2008 
@@ -377,7 +377,7 @@ Converts the value of the currentDateTime object to its equivalent string
 
 **例 2:** 为*格式异常*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToString(String) Method
 using System;
@@ -439,7 +439,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Converts the value of the currentDateTime object to its equivalent string
  10/01/2008 
  Wednesday, 01 October 2008 
@@ -456,7 +456,7 @@ Exception Thrown: System.FormatException
 
 **例 3:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToString(String) Method
 using System;

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public DateTime AddMilliseconds (double value);
 ```
 
@@ -20,7 +20,7 @@ public DateTime AddMilliseconds (double value);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.AddMilliseconds() Method
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTime before operation: 04:00:15
 
 DateTime after operation: 04:00:18
@@ -70,7 +70,7 @@ DateTime after operation: 04:00:18
 
 **例 2:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.AddMilliseconds() Method
 using System;
@@ -114,7 +114,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTime before operation: 12/31/9999 23:59:59
 
 The resulting DateTime is greater than the DateTime.MaxValue 

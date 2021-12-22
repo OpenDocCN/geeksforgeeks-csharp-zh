@@ -8,7 +8,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the use
 // of interpolated verbatim strings
 using System;
@@ -32,7 +32,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Finding the area of a triangle:
 Height = "30" and Base = "10"
 Area = "150"
@@ -41,7 +41,7 @@ Area = "150"
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the use 
 // of interpolated verbatim strings
 using System;
@@ -71,7 +71,7 @@ class GFG {
 
 当我们在$ token 之前使用@ token 时，编译器会给出一个错误。这个问题在 C# 8.0 中得到了解决，现在您可以在$ token 之前使用@ token，或者在@ token 之前使用$ token
 
-```
+```cs
 $@"..."
 Or
 @{content}quot;..."
@@ -82,7 +82,7 @@ Or
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the use
 // of interpolated verbatim strings
 using System;
@@ -111,7 +111,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Finding the area of a triangle:
 Height = "80" and Base = "40"
 Area = "1600"

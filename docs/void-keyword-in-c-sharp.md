@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void function_name([parameters])
 {
     //body of the function
@@ -17,7 +17,7 @@ public void function_name([parameters])
 
 **示例:**
 
-```
+```cs
 Input: Geeks
        multi = 50*20
 
@@ -36,7 +36,7 @@ Output: GeeksforGeeks
 
 **例 1:**
 
-```
+```cs
 // C# program for void keyword
 using System;
 class GFG {
@@ -66,7 +66,7 @@ class Prog {
 
 **输出:**
 
-```
+```cs
 Geeks
 multi = 1000
 
@@ -74,7 +74,7 @@ multi = 1000
 
 **例 2:**
 
-```
+```cs
 // C# program for void keyword
 using System;
 using System.Text;
@@ -118,7 +118,7 @@ class Prog {
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks
 sum = 100
 sub = 30

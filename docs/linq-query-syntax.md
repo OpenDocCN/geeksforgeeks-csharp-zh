@@ -17,13 +17,13 @@ LINQ 查询语法以关键字中的*开始，以*选择*或*分组*关键字结�
 
 *   **第一步:**先添加*系统。Linq* 命名空间在你的代码中。
 
-    ```
+    ```cs
     using System.Linq;
     ```
 
 *   **步骤 2:** 接下来，创建要对其执行操作的数据源。例如:
 
-    ```
+    ```cs
     List my_list = new List(){
             "This is my Dog",
             "Name of my Dog is Robin",
@@ -35,7 +35,7 @@ LINQ 查询语法以关键字中的*开始，以*选择*或*分组*关键字结�
 
 *   **Step 3:** Now create the query using the query keywords like select, from, etc. For example:
 
-    ```
+    ```cs
 
     var res = from l in my_list
                   where l.Contains("my")
@@ -47,7 +47,7 @@ LINQ 查询语法以关键字中的*开始，以*选择*或*分组*关键字结�
 
 *   **步骤 4:** 最后一步是使用 foreach 循环执行查询。例如:
 
-    ```
+    ```cs
     foreach(var q in res)
     {
              Console.WriteLine(q);
@@ -57,7 +57,7 @@ LINQ 查询语法以关键字中的*开始，以*选择*或*分组*关键字结�
 
 **示例:**
 
-```
+```cs
 // Create first Query in C#
 using System;
 using System.Linq;
@@ -94,7 +94,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 This is my Dog
 Name of my Dog is Robin
 This is my Cat

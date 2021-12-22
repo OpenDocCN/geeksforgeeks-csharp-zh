@@ -20,7 +20,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // TimeSpan.FromMinutes(Double) Method
 using System;
@@ -48,14 +48,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Timespan is : 00:08:07.4070000
 
 ```
 
 **例 2:** 为*溢出异常*
 
-```
+```cs
 // C# program to demonstrate the
 // TimeSpan.FromMinutes(Double) Method
 using System;
@@ -85,7 +85,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.OverflowException
 
 ```

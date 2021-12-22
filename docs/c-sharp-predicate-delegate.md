@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public delegate bool Predicate <in P>(P obj);
 ```
 
@@ -14,7 +14,7 @@ public delegate bool Predicate <in P>(P obj);
 
 **例:**
 
-```
+```cs
 // C# program to illustrate delegates
 using System;
 
@@ -50,7 +50,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 True
 
 ```

@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input : array = {5, 9, 1, 4, 6, 8};
 Output : 9, 8, 6, 5, 4, 1
 
@@ -21,7 +21,7 @@ Output : 9 9 7 7 0 -8 -9
 **方法一:使用数组。排序()和数组。反向()方法**
 首先，使用[数组对数组进行排序。Sort()](https://www.geeksforgeeks.org/how-to-sort-an-array-in-c-sharp-array-sort-method-set-1/) 将一个数组按升序排序的方法，然后使用*数组将其反转。反向()*方法。
 
-```
+```cs
 // C# program sort an array in decreasing order
 // using Array.Sort() and Array.Reverse() Method
 using System;
@@ -52,7 +52,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 9 9 7 6 5 1
 
 ```
@@ -60,7 +60,7 @@ class GFG {
 **方法二:使用 CompareTo()方法**
 也可以使用 CompareTo()方法对数组进行降序排序。
 
-```
+```cs
 // C# program sort an array in 
 // decreasing order using 
 // CompareTo() Method
@@ -91,7 +91,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 9 9 7 6 5 1
 
 ```
@@ -99,7 +99,7 @@ class GFG {
 **方法 3:使用[委托](https://www.geeksforgeeks.org/c-delegates/)**
 这里，首先使用匿名方法对委托进行 Sort()。
 
-```
+```cs
 // C# program sort an array 
 // in decreasing order
 using System;
@@ -129,7 +129,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 9 9 7 6 5 1
 
 ```
@@ -138,7 +138,7 @@ class GFG {
 
 不使用任何内置函数，通过迭代方式对数组进行排序。
 
-```
+```cs
 // C# program sort an array 
 // in decreasing order using 
 // iterative way
@@ -180,7 +180,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 9 9 7 6 5 1
 
 ```
@@ -188,7 +188,7 @@ class GFG {
 **方法五:使用 LINQ 降序**
 LINQ 代表语言综合查询。这是一种统一的查询语法，用于检索和保存来自不同来源的数据。这里 *OrderByDescending* 排序方式用于降序排序。LINQ 返回 *IOrderedIEnumerable* ，使用 *ToArray()* 方法将其转换为数组。
 
-```
+```cs
 // C# program sort an array in decreasing 
 // order by using LINQ OrderByDescending 
 // method
@@ -220,7 +220,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 9 9 7 6 5 1
 
 ```

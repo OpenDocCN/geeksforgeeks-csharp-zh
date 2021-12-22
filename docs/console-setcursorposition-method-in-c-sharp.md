@@ -17,7 +17,7 @@
 
 **示例:**
 
-```
+```cs
 // C# Program to illustrate 
 // Console.CursorPosition() method
 using System;

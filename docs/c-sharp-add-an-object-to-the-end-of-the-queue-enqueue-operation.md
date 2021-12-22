@@ -17,7 +17,7 @@
 
 **语法:**
 
-```
+```cs
 void Enqueue(object obj);
 
 ```
@@ -26,7 +26,7 @@ Enqueue()方法在队列的末尾插入值。
 
 **示例:**
 
-```
+```cs
 // C# code to add an object
 // to the end of the Queue
 using System;
@@ -95,7 +95,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Queue are : 1
 Total number of elements in the Queue are : 2
 Total number of elements in the Queue are : 3

@@ -18,7 +18,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Subtract(Decimal, Decimal)
 // Method
@@ -55,14 +55,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Result is : -0.02
 
 ```
 
 **例 2:** 适用于*飞越异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Subtract(Decimal, Decimal)
 // Method
@@ -99,7 +99,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.OverflowException
 
 ```

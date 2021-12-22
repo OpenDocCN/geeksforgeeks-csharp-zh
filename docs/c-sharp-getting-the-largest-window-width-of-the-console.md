@@ -8,7 +8,7 @@
 
 **程序:**寻找最大窗宽
 
-```
+```cs
 // C# program to illustrate the
 // Console.LargestWindowWidth Property
 using System;

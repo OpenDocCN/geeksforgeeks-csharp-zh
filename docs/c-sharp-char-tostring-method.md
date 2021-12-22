@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public string ToString(IFormatProvider provider);
     ```
 
@@ -24,7 +24,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // Char.ToString(IFormatProvider) Method
     using System;
@@ -42,7 +42,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     G
 
     ```
@@ -55,7 +55,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public static string ToString(Char ch);
     ```
 
@@ -67,7 +67,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // Char.ToString(Char) Method
     using System;
@@ -86,7 +86,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     A
 
     ```
@@ -97,7 +97,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public override string ToString();
     ```
 
@@ -105,7 +105,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // Char.ToString() Method
     using System;
@@ -129,7 +129,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     P
 
     ```

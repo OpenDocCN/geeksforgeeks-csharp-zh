@@ -21,7 +21,7 @@
 
 *   **步骤 1:** 使用组合框类提供的组合框()构造函数创建组合框。
 
-    ```
+    ```cs
     // Creating combobox using ComboBox class
     ComboBox mybox = new ComboBox();
 
@@ -29,7 +29,7 @@
 
 *   **步骤 2:** 创建组合框后，设置组合框类提供的组合框属性。
 
-    ```
+    ```cs
     // Set the location of the ComboBox 
     mybox.Location = new Point(327, 77);
 
@@ -47,7 +47,7 @@
 
 *   **Step 3:** And last add this ComboBox control to form using Add() method.
 
-    ```
+    ```cs
     // Add this ComboBox to the form
     this.Controls.Add(mybox);
 
@@ -55,7 +55,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

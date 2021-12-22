@@ -19,7 +19,7 @@
 
 **示例 1:** 在这段代码中，我们使用 SyncRoot 来获得名为 *st* 的 StringCollection 的 Synchronized 访问，这不是一个线程安全的过程，可能会导致异常。所以为了避免异常，我们在枚举期间锁定集合。
 
-```
+```cs
 // C# program to illustrate the
 // use of SyncRoot property of
 // the StringCollection class
@@ -61,7 +61,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 C
 C++
 Java
@@ -72,7 +72,7 @@ HTML
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of SyncRoot property of
 // the StringCollection class
@@ -114,7 +114,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Geeks
 Classes
 on

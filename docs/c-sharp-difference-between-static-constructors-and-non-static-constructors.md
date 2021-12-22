@@ -11,7 +11,7 @@
 
 ## C#
 
-```
+```cs
 // C# Program to demonstrate
 // how to declare the static
 // constructor and non-static
@@ -57,7 +57,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 It is static constructor
 It is non-static constructor
 ```
@@ -69,7 +69,7 @@ It is non-static constructor
 
 ## C#
 
-```
+```cs
 // C# Program to demonstrate
 // the execution of static
 // constructor and non-static
@@ -114,7 +114,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Static constructor
 Non-Static constructor
 Non-Static constructor
@@ -128,7 +128,7 @@ Non-Static constructor
 
 ## C#
 
-```
+```cs
 // C# Program to demonstrate
 // initialization of fields
 // by using static constructor
@@ -177,7 +177,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Static constructor
 Value of s is: 0
 Non-Static constructor
@@ -190,7 +190,7 @@ Value of ns is: 0
 
 ## C#
 
-```
+```cs
 // C# Program to demonstrate
 // the passing of parameters
 // to constructor

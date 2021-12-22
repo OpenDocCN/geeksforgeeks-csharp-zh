@@ -13,7 +13,7 @@
 
 ****语法:****
 
-```
+```cs
 public Tuple (T1 item1, T2 item2, T3 item3, T4 item4, T5 item5);
 ```
 
@@ -27,7 +27,7 @@ public Tuple (T1 item1, T2 item2, T3 item3, T4 item4, T5 item5);
 
 ****示例:****
 
-```
+```cs
 // C# program to create 5-tuple
 // using the tuple constructor
 using System;
@@ -55,7 +55,7 @@ public class GFG {
 
 ****Output:**
 
-```
+```cs
 Element 1: GeeksforGeeks
 Element 2: 10
 Element 3: G
@@ -92,7 +92,7 @@ Element 5: Geeks
 
 ****示例:****
 
-```
+```cs
 // C# program to create 5-tuple
 // using create method
 using System;
@@ -118,7 +118,7 @@ public class GFG {
 
 ****Output:**
 
-```
+```cs
 Element 1: Geeks
 Element 2: 20
 Element 3: f

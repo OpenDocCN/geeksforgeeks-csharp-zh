@@ -5,7 +5,7 @@
 此方法用于使用指定的区域性特定格式信息，将逻辑值的指定字符串表示形式转换为其布尔等效形式。
 **语法:**
 
-```
+```cs
 public static bool ToBoolean (string value, IFormatProvider provider);
 ```
 
@@ -21,7 +21,7 @@ public static bool ToBoolean (string value, IFormatProvider provider);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToBoolean() Method
 using System;
@@ -72,7 +72,7 @@ public static void get(string s, CultureInfo cultures)
 
 **Output:** 
 
-```
+```cs
 Converted bool value of specified strings: 
  False,  True,  False,  False,
 ```
@@ -81,7 +81,7 @@ Converted bool value of specified strings:
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToBoolean() Method
 using System;
@@ -131,7 +131,7 @@ public static void get(string s, CultureInfo cultures)
 
 **Output:** 
 
-```
+```cs
 Converted bool value of specified strings: 
  False,  True,  False,  False, 
 

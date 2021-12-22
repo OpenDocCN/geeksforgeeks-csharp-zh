@@ -25,7 +25,7 @@
 
 *   **步骤 1:** 使用 numericpdown()构造函数创建 numericpdown 控件，该构造函数由 numericpdown 类提供。
 
-    ```
+    ```cs
     // Creating a NumericUpDown control
     NumericUpDown nbox = new NumericUpDown(); 
 
@@ -33,7 +33,7 @@
 
 *   **步骤 2:** 创建 NumericUpDown 控件后，设置 NumericUpDown 类提供的 NumericUpDown 控件的属性。
 
-    ```
+    ```cs
     // Setting the properties of NumericUpDown control
     nbox.Location = new Point(386, 130); 
     nbox.Size = new Size(126, 26); 
@@ -50,7 +50,7 @@
 
 *   **Step 3:** And last add this NumericUpDown control to the form using the following statement:
 
-    ```
+    ```cs
     // Adding this control 
     // to the form 
     this.Controls.Add(nbox); 
@@ -59,7 +59,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

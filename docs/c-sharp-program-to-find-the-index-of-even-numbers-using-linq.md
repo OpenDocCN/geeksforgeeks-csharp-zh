@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input : { 2, 3, 4, 5, 11 }
 Output : Index:0 - Number: 2
          Index:2 - Number: 4
@@ -23,7 +23,7 @@ Output : Index:0 - Number: 2
 
 **2。**获取列表中出现的数字的索引。
 
-```
+```cs
 var indexdata = data.Select((val, indexvalue) => new
                     { 
                         Data = val, 
@@ -38,7 +38,7 @@ var indexdata = data.Select((val, indexvalue) => new
 
 **3。**显示索引和数字。
 
-```
+```cs
 foreach (var i in indexdata)
 {
     Console.WriteLine("Index:" + i.IndexPosition + 
@@ -50,7 +50,7 @@ foreach (var i in indexdata)
 
 ## C#
 
-```
+```cs
 // C# program to find the index value of
 // the even numbers using LINQ
 using System;
@@ -99,7 +99,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Index Value:0 - Even Number: 2
 Index Value:2 - Even Number: 4
 Index Value:4 - Even Number: 6

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool IsSynchronized { get; }
 
 ```
@@ -15,7 +15,7 @@ public virtual bool IsSynchronized { get; }
 
 **示例:**
 
-```
+```cs
 // C# code to check if StringDictionary
 // is synchronized (thread safe)
 using System;
@@ -47,7 +47,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 
 ```

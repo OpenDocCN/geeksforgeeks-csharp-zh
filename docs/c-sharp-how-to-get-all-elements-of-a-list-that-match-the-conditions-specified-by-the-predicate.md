@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.Generic.List<T> FindAll (Predicate<T> match);
 ```
 
@@ -30,7 +30,7 @@ public System.Collections.Generic.List<T> FindAll (Predicate<T> match);
 
 **例 1:**
 
-```
+```cs
 // C# Program to get all the element that
 // match the specified conditions defined
 // by the predicate
@@ -90,7 +90,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Elements Present in List:
 
 2
@@ -112,7 +112,7 @@ Elements that Match:
 
 **例 2:**
 
-```
+```cs
 // C# Program to get all the element that
 // match the specified conditions defined
 // by the predicate
@@ -175,7 +175,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Elements Present in List:
 
 17

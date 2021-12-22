@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsArray{get;}
 ```
 
@@ -18,7 +18,7 @@ public bool IsArray{get;}
 > *   Declare an array of data type n.
 > *   IsArray is a method to check whether the type is an array, and GetType () method is also used. The GetType () method gets the type of the variable.
 > 
-> ```
+> ```cs
 > array.GetType().IsArray
 > ```
 > 
@@ -28,7 +28,7 @@ public bool IsArray{get;}
 
 ## C#
 
-```
+```cs
 // C# program to determine whether the
 // specified type is an array or not
 using System;
@@ -59,7 +59,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Type is array
 ```
 
@@ -67,7 +67,7 @@ Type is array
 
 ## C#
 
-```
+```cs
 // C# program to determine whether the
 // specified type is an array or not
 using System;
@@ -100,7 +100,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Is the type of array1 varaiable is array?False
 Is the type of array2 varaiable is array?False
 Is the type of array2 varaiable is array?True

@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 access specifier  className  operator Operator_symbol (parameters)
 {
     // Code
@@ -37,7 +37,7 @@ access specifier  className  operator Operator_symbol (parameters)
 
 以下语法显示了一元运算符–
 
-```
+```cs
 operator (object); 
 here, operator is a symbol that denotes a unary operator. 
 operator a; 
@@ -47,7 +47,7 @@ operator a;
 
 **例:**
 
-```
+```cs
 Input : 15, -25
 Output : -15, 25
 
@@ -57,7 +57,7 @@ Output : 22, -18
 
 ## c#
 
-```
+```cs
 // C# program to illustrate the
 // unary operator overloading
 using System;
@@ -111,7 +111,7 @@ class EntryPoint
 
 **输出:**
 
-```
+```cs
 Number1 = -15
 Number2 = 25
 ```
@@ -122,7 +122,7 @@ Number2 = 25
 
 **语法:**
 
-```
+```cs
 operator operator (object1, object2); 
 Here, second "operator" is a symbol that 
 denotes a binary operator. 
@@ -131,7 +131,7 @@ operator + (a, b);
 
 **例:**
 
-```
+```cs
 Input : 200, 40
 Output : 240
 
@@ -141,7 +141,7 @@ Output : 320
 
 ## c#
 
-```
+```cs
 // C# program to illustrate the
 // Binary Operator Overloading
 using System;
@@ -201,7 +201,7 @@ class CalNum {
 
 **输出:**
 
-```
+```cs
 200
 40
 240

@@ -10,7 +10,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to show the difference
 // between Console.Write and 
 // Console.WriteLine
@@ -31,7 +31,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 GeeksForGeeks
 
 ```
@@ -40,7 +40,7 @@ GeeksForGeeks
 
 ## C#
 
-```
+```cs
 // C# program to show the difference
 // between Console.Write and 
 // Console.WriteLine
@@ -61,7 +61,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Geeks
 For
 Geeks

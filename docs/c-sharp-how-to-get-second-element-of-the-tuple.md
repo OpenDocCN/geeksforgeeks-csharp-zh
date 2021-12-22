@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public T2 Item2 { get; }
 ```
 
@@ -14,7 +14,7 @@ public T2 Item2 { get; }
 
 **示例:**在下面的代码中，可以看到我们正在访问每个元组的第二个元素。
 
-```
+```cs
 // C# program to illustrate how to get 
 // the second element of the tuple
 using System;
@@ -66,7 +66,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Student-2 Age: 20
 Student-3 Age: 30
 Student-4 Age: 29

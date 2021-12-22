@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public DateTime AddDays (double value);
 ```
 
@@ -20,7 +20,7 @@ public DateTime AddDays (double value);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.AddDays(Double) Method
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTime before operation: 2010 January 01
 
 DateTime after operation: 2010 February 06
@@ -70,7 +70,7 @@ DateTime after operation: 2010 February 06
 
 **例 2:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.AddDays(Double) Method
 using System;
@@ -114,7 +114,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTime before operation: 9999 December 31
 
 The resulting DateTime is greater than the DateTime.MaxValue 

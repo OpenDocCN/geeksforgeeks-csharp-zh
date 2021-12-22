@@ -18,7 +18,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program demonstrate
 // the Chars[Int32] Property
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String is GeeksforGeeks
 Char at position 0 is G
 Char at position 1 is e
@@ -75,7 +75,7 @@ Char at position 12 is s
 
 **例 2:**
 
-```
+```cs
 // C# program demonstrate
 // the Chars[Int32] Property
 using System;
@@ -107,7 +107,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 StringBuilder Object contains = Geek
 Character at Position 1 in StringBuilder = e
 

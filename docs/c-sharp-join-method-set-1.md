@@ -16,7 +16,7 @@
 
 ****语法:****
 
-```
+```cs
 public static string Join(string separator, params obj[] array) 
 ```
 
@@ -26,7 +26,7 @@ public static string Join(string separator, params obj[] array)
 
 ****示例:**在下面的代码中，首先创建一个对象数组，然后将其与要使用的分隔符一起传递给 join 方法，这里使用了'，'逗号分隔符，在方法返回后，字符串作为输出。**
 
-```
+```cs
 // C# program to demonstrate the
 // Join(String, Obj [ ]) method
 using System;
@@ -57,7 +57,7 @@ class Geeks {
 
 ****输出:****
 
-```
+```cs
 Value of string  s1 is Hello, Geeks, 12345, 786
 ```
 
@@ -67,7 +67,7 @@ Value of string  s1 is Hello, Geeks, 12345, 786
 
 ****语法:****
 
-```
+```cs
 public static string Join(string separator, params string[ ] array) 
 ```
 
@@ -77,7 +77,7 @@ public static string Join(string separator, params string[ ] array)
 
 ****示例:**在下面的代码中，首先创建一个字符串数组，并将其与要使用的分隔符一起传递给 join 方法，这里使用“/”斜杠分隔符，在方法返回后，将字符串打印为输出。**
 
-```
+```cs
 // C# program to demonstrate the
 // Join(String, String [])
 using System;
@@ -109,7 +109,7 @@ class Geeks {
 
 ****输出:****
 
-```
+```cs
 Value of string  s1 is hello/ World /Geeks/ are /  here 
 ```
 
@@ -119,7 +119,7 @@ Value of string  s1 is hello/ World /Geeks/ are /  here
 
 ****语法:****
 
-```
+```cs
 public static string Join(string separator, params string[] array, int pos1, int pos2) 
 ```
 
@@ -129,7 +129,7 @@ public static string Join(string separator, params string[] array, int pos1, int
 
 ****示例:**在下面的代码中，创建了一个字符串数组，假设用户想要连接位置索引 2 中的字符串，并且想要覆盖五个元素。**
 
-```
+```cs
 // C# program to demonstrate the
 // Join(String, string [ ], int 
 // pos1, int pos2) method
@@ -163,7 +163,7 @@ class Geeks {
 
 ****输出:****
 
-```
+```cs
 Value of string is jumps-Over-the-Lazy-fox
 ```
 

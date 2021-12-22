@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsAlive { get; }
 ```
 
@@ -16,7 +16,7 @@ public bool IsAlive { get; }
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // use of IsAlive property
 using System;
@@ -44,14 +44,14 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Is main thread is alive ? : True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the 
 // use of IsAlive property
 using System;
@@ -97,7 +97,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Is thread 1 is alive : False
 Is thread 2 is alive : False
 Is thread 1 is alive : True

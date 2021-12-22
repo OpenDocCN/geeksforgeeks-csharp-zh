@@ -5,7 +5,7 @@
 此方法用于返回指定的字符串实例，并且不执行实际转换。
 **语法:**
 
-```
+```cs
 public static string ToString (String, IFormatProvider);
 ```
 
@@ -20,7 +20,7 @@ public static string ToString (String, IFormatProvider);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToString() Method
 using System;
@@ -82,7 +82,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Converted string value from a specified string:  amar  akbar  anthony
 ```
 
@@ -90,7 +90,7 @@ Converted string value from a specified string:  amar  akbar  anthony
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToString() Method
 using System;
@@ -122,7 +122,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Converted String: The Accidental Prime Minister
 ```
 

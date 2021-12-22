@@ -9,7 +9,7 @@
 
 **例:**
 
-```
+```cs
 Input  : [90, 87, 34, 23, 22, 56, 21, 89]
 Output : [21, 22, 23, 34, 56, 87, 89, 90] 
 
@@ -23,7 +23,7 @@ Output : [2, 3, 5, 10, 11, 18]
 
 **2。**使用 OrderBy()方法对列表(命名的 nums)进行排序
 
-```
+```cs
 var result_set = nums.OrderBy(num => num);
 ```
 
@@ -33,7 +33,7 @@ var result_set = nums.OrderBy(num => num);
 
 ## c#
 
-```
+```cs
 // C# program to sort a list of integers 
 // Using OrderBy() method
 using System;
@@ -62,7 +62,7 @@ static void Main(string[] args)
 
 **输出**
 
-```
+```cs
 Sorted in Ascending order:
 20 33 40 50 60 70 
 ```

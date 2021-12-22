@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public Thread(ThreadStart start);
 ```
 
@@ -16,7 +16,7 @@ public Thread(ThreadStart start);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of Thread(ThreadStart) 
 // constructor with static method
@@ -49,7 +49,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Number is :
 0
 1
@@ -60,7 +60,7 @@ Number is :
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of Thread(ThreadStart) 
 // constructor with Non-static method
@@ -97,7 +97,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 HELLO...!!
 HELLO...!!
 HELLO...!!

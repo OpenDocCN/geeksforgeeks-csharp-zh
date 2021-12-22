@@ -7,7 +7,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // Method overriding concept
 using System;
@@ -57,7 +57,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 My new parent class.. !
 My new child class.. !
 
@@ -67,7 +67,7 @@ My new child class.. !
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of method hiding
 using System;
@@ -110,7 +110,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 This is my child class.
 ```
 

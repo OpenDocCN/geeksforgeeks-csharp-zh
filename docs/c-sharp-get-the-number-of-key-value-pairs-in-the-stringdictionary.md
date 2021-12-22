@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual int Count { get; }
 
 ```
@@ -19,7 +19,7 @@ public virtual int Count { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get the number of key/value
 // pairs in the StringDictionary
 using System;
@@ -46,14 +46,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number of key/value pairs in myDict are : 0
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to get the number of key/value
 // pairs in the StringDictionary
 using System;
@@ -87,7 +87,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number of key/value pairs in myDict are : 5
 
 ```

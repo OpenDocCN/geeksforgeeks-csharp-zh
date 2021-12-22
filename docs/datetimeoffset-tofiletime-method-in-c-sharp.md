@@ -14,7 +14,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTimeOffset.ToFileTime()
 // Method
@@ -52,14 +52,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Windows file time is 128251761000000000
 
 ```
 
 **例 2:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTimeOffset.ToFileTime()
 // Method
@@ -97,7 +97,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.ArgumentOutOfRangeException
 
 ```

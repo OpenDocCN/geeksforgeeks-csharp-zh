@@ -29,7 +29,7 @@
 
 *   **步骤 1:** 使用列表框类提供的*列表框()*构造函数创建一个列表框控件。
 
-    ```
+    ```cs
     // Creating a ListBox control
     ListBox mylist = new ListBox(); 
 
@@ -37,7 +37,7 @@
 
 *   **步骤 2:** 创建 ListBox 控件后，设置 ListBox 类提供的 ListBox 控件的属性。
 
-    ```
+    ```cs
     ListBox mylist = new ListBox(); 
             mylist.Location = new Point(287, 109); 
             mylist.Size = new Size(120, 95); 
@@ -50,7 +50,7 @@
 
 *   **Step 3:** And last add this ListBox control to the form using the following statement:
 
-    ```
+    ```cs
     // Adding ListBox control 
     // to the form 
     this.Controls.Add(mylist);
@@ -59,7 +59,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

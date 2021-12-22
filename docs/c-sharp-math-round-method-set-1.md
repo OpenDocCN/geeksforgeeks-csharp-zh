@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public static double Round(double x)
 
 ```
@@ -27,7 +27,7 @@ public static double Round(double x)
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Math.Round(Double) method
 using System;
@@ -63,7 +63,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 Rounded value of 12.434565 is 12
 Rounded value of 12.634565 is 13
 
@@ -77,7 +77,7 @@ Rounded value of 12.634565 is 13
 
 **语法:**
 
-```
+```cs
 public static double Round(double x, Int32 y)
 
 ```
@@ -93,7 +93,7 @@ public static double Round(double x, Int32 y)
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Math.Round(Double, Int32) method
 using System;
@@ -123,7 +123,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 Rounded value of 12.434565 is 12.4346
 Rounded value of 12.634565 is 12.63
 
@@ -137,7 +137,7 @@ Rounded value of 12.634565 is 12.63
 
 **语法:**
 
-```
+```cs
 public static decimal Round(decimal x)
 
 ```
@@ -152,7 +152,7 @@ public static decimal Round(decimal x)
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Math.Round(Decimal) method
 using System;
@@ -190,7 +190,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 Value of dec1 is 12.345
 Rounded value of 12.345 is 12
 Value of dec2 is 12.785
@@ -204,7 +204,7 @@ Rounded value of 12.785 is 13
 
 **语法:**
 
-```
+```cs
 public static decimal Round(decimal x, Int32 y)
 
 ```
@@ -220,7 +220,7 @@ public static decimal Round(decimal x, Int32 y)
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Math.Round(Decimal, Int32) method
 using System;
@@ -255,7 +255,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 Rounded value of 12.2234565 is 12.223
 Rounded value of 12.8734765 is 12.8735
 

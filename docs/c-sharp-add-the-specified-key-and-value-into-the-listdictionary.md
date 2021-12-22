@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Add (object key, object value);
 
 ```
@@ -25,7 +25,7 @@ public void Add (object key, object value);
 
 **例 1:**
 
-```
+```cs
 // C# code to add an entry with
 // the specified key and value
 // into the ListDictionary
@@ -64,7 +64,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total number of elements in myDict are : 6
 Australia Canberra
 Belgium Brussels
@@ -77,7 +77,7 @@ India New Delhi
 
 **例 2:**
 
-```
+```cs
 // C# code to add an entry with
 // the specified key and value
 // into the ListDictionary

@@ -12,7 +12,7 @@
 下面是举例说明上述方法的使用:
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Sqrt(Single) Method
 using System;
@@ -43,7 +43,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 280.216
 NaN
 
@@ -51,7 +51,7 @@ NaN
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the MathF.Sqrt()
 // method when the argument is positive
 // or negative Zero
@@ -76,7 +76,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 0
 0
 

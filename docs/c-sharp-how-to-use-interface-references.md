@@ -8,7 +8,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // concept of Interface References
 using System;
@@ -152,7 +152,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Speed Method implemented by Person1
 Distance Method implemented by Person1
 The Speed of 1st person is: 10
@@ -168,7 +168,7 @@ The distance covered by 2nd person is: 45
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the 
 // concept of Interface References
 using System;
@@ -249,7 +249,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Bicycle Present State:
 speed: 3 gear: 4
 

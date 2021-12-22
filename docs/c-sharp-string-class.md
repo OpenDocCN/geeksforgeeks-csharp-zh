@@ -32,7 +32,7 @@ Unicode 字符的范围将是 **U+0000 到 U+FFFF** 。字符数组也被称为�
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the creation
 // of string using the constructor
 using System;
@@ -57,7 +57,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 GEEKS
 EEEEE
 

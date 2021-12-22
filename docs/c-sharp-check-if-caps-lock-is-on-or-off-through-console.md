@@ -10,7 +10,7 @@
 
 **程序 1:** 当大写锁定开启时
 
-```
+```cs
 // C# program to illustrate the
 // Console.CapsLock Property
 using System;
@@ -40,7 +40,7 @@ class Program {
 
 **程序 2:** 当大写锁定关闭时
 
-```
+```cs
 // C# program to illustrate the
 // Console.CapsLock Property
 using System;

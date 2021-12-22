@@ -13,7 +13,7 @@
 
 ****示例:****
 
-```
+```cs
 **Input :** 
 
 string strPath = "c://myfiles//ref//file1.txt";
@@ -26,7 +26,7 @@ filename = Path.GetFileName(strPath);
 file1.txt 
 ```
 
-```
+```cs
 // C# program to extract the 
 // filename from a given path
 using System;
@@ -59,7 +59,7 @@ class GFG {
 
 ****Output:**
 
-```
+```cs
 Filename = file1.txt
 
 ```** 

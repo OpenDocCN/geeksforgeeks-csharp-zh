@@ -8,7 +8,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to find the average 
 // the given array
 using System;
@@ -40,7 +40,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The sequence is:
 20
 45
@@ -58,7 +58,7 @@ Average is: 114.8
 
 **例 2:**
 
-```
+```cs
 // C# program to find the average
 // salary of the employee
 using System;
@@ -119,7 +119,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Average salary of the Employees: 36666.6666666667
 
 ```

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 Convert.ToInt32(input_string, Input_base);
 
 ```
@@ -18,7 +18,7 @@ Convert.ToInt32(input_string, Input_base);
 
 **示例:**
 
-```
+```cs
 Input : 56304
 Output : 353028
 
@@ -35,7 +35,7 @@ Output : 22927
 
 ## C#
 
-```
+```cs
 // C# program to convert array 
 // of hexadecimal strings to integers
 using System;
@@ -60,7 +60,7 @@ class Program {
 
 **输出:**
 
-```
+```cs
 Integer number: 353028
 
 ```
@@ -69,7 +69,7 @@ Integer number: 353028
 
 ## C#
 
-```
+```cs
 // C# program to convert array 
 // of hexadecimal strings
 // to integers
@@ -108,13 +108,13 @@ class GFG {
 
 **输入:**
 
-```
+```cs
 598f
 ```
 
 **输出:**
 
-```
+```cs
 Enter a hexadecimal number: 
 Integer number: 22927
 

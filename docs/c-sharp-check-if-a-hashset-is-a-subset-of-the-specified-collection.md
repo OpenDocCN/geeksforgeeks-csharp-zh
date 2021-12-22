@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 mySet1.IsSubsetOf(mySet2);
 
 ```
@@ -21,7 +21,7 @@ mySet1.IsSubsetOf(mySet2);
 
 **例子 1:**
 
-```
+```cs
 // C# code to Check if a HashSet is
 // a subset of the specified collection
 using System;
@@ -59,14 +59,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to Check if a HashSet is
 // a subset of the specified collection
 using System;
@@ -100,7 +100,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 
 ```

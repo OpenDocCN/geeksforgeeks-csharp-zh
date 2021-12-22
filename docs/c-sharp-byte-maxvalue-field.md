@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public const byte MaxValue = 255;
 ```
 
@@ -14,7 +14,7 @@ public const byte MaxValue = 255;
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // Byte.MaxValue Field
 using System;
@@ -50,7 +50,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Maximum Value is: 255
 Equal..!!
 Type of var1 is: Byte

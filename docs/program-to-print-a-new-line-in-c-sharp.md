@@ -10,7 +10,7 @@
 
 **示例:**
 
-```
+```cs
 Input  : GeeksForGeeks
 Output : Geeksfor
          Geeks
@@ -25,7 +25,7 @@ Output: Save
 
 **例 1:**
 
-```
+```cs
 // C# program to print a new line
 using System;
 using System.IO;
@@ -51,7 +51,7 @@ namespace geeks
 
 **输出:**
 
-```
+```cs
 Geeksfor
 Geeks
 Geeks
@@ -61,7 +61,7 @@ Geeks
 
 **例 2:**
 
-```
+```cs
 // C# program to print a new line
 using System;
 using System.IO;
@@ -95,7 +95,7 @@ namespace geeks
 
 **输出:**
 
-```
+```cs
 Print a new line
 
 Save

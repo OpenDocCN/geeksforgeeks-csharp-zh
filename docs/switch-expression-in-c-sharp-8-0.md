@@ -6,7 +6,7 @@ switch 语句是一个多路分支语句。它提供了一种简单的方法，�
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate
 // switch case statement
 using System;
@@ -50,7 +50,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Namaste
 
 ```
@@ -66,7 +66,7 @@ Namaste
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate
 // switch expression
 using System;
@@ -94,13 +94,13 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Bonjour
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate 
 // how to use string in
 // switch expression
@@ -129,6 +129,6 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Favorite Language: Java 
 ```

@@ -5,7 +5,7 @@
 **文件。Create(String，Int32)** 是一个内置的 File 类方法，用于覆盖现有文件，指定缓冲区大小，否则如果指定的文件不存在，则创建一个新文件。
 **语法:**
 
-```
+```cs
 public static System.IO.FileStream Create (string path, int bufferSize);
 ```
 
@@ -29,7 +29,7 @@ public static System.IO.FileStream Create (string path, int bufferSize);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Create(String, Int32) method
 

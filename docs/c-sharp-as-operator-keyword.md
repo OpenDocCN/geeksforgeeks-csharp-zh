@@ -6,13 +6,13 @@
 **as**运算符用于执行兼容引用类型或可空类型之间的转换。当对象与给定类型兼容时，该运算符返回对象，如果无法转换，则 ***返回空值*** ，而不是引发异常。*作为*操作者的工作方式与*非常相似，都是*操作者，只是方式有所缩短。
 **语法:*** 
 
-```
+```cs
 *expression as type*
 ```
 
 *上面的语法相当于下面的代码。但是表达式变量将只计算一次。* 
 
-```
+```cs
 *expression is type ? (type)expression : (type)null*
 ```
 
@@ -22,7 +22,7 @@
 
 ## *c sharp . c sharp . c sharp . c sharp*
 
-```
+```cs
 *// C# program to illustrate
 // the use of 'as' operator
 using System;
@@ -69,7 +69,7 @@ class GFG {
 
 ***Output**
 
-```
+```cs
 Successfully Cast
 Not Successful
 
@@ -79,7 +79,7 @@ Not Successful
 
 ## *c sharp . c sharp . c sharp . c sharp*
 
-```
+```cs
 *// C# program to illustrate the
 // concept of 'as' operator
 using System;
@@ -123,7 +123,7 @@ class GFG {
 
 ***Output:** 
 
-```
+```cs
 0:Is is not a string
 1:Is is not a string
 2:'C#'

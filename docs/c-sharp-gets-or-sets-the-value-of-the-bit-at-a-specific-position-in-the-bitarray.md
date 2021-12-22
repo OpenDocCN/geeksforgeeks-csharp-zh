@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool this[int index] { get; set; }
 ```
 
@@ -20,7 +20,7 @@ public bool this[int index] { get; set; }
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // BitArray.Item[Int32] Property
 using System;
@@ -70,7 +70,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Initially the bits are as : 
 False
 True
@@ -88,7 +88,7 @@ True
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // BitArray.Item[Int32] Property
 using System;

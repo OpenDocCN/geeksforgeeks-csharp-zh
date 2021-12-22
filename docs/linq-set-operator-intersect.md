@@ -23,7 +23,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to find the intersection
 // of the given sequence
 using System;
@@ -72,7 +72,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Sequence 1 is: 
 m
 q
@@ -95,7 +95,7 @@ y
 
 **例 2:**
 
-```
+```cs
 // C# program to find the commonly
 // known languages by the employees
 using System;
@@ -192,7 +192,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Commonly known Languages: 
 C#
 Java

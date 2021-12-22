@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void Remove (object key);
 
 ```
@@ -24,7 +24,7 @@ public virtual void Remove (object key);
 
 **示例:**
 
-```
+```cs
 // C# code to remove the element
 // with the specified key from Hashtable
 using System;
@@ -87,7 +87,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of entries in Hashtable : 4
 Total number of entries in Hashtable : 3
 Total number of entries in Hashtable : 2

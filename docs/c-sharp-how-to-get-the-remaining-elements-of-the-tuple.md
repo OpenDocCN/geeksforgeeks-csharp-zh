@@ -8,7 +8,7 @@ Rest 属性允许您获取元组的剩余元素，而不是开始的七个元素
 
 **语法:**
 
-```
+```cs
 public TRest Rest { get; }
 ```
 
@@ -16,7 +16,7 @@ public TRest Rest { get; }
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // concept of Rest property
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Student Name: Mohan
 Student Age: 24
 Student Branch: CSE
@@ -77,7 +77,7 @@ Student Rank: (1)
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to access 
 // nested tuple using Rest property
 using System;
@@ -123,7 +123,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Student Name: Guriya
 Student Age: 24
 Student Branch: CSE

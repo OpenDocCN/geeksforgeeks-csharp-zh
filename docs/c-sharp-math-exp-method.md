@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static double Exp (double num);
 ```
 
@@ -24,7 +24,7 @@ public static double Exp (double num);
 
 **例 1:**
 
-```
+```cs
 // C# Program to illustrate the
 // Math.Exp(Double) Method
 using System;
@@ -46,7 +46,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 22026.4657948067
 5780495.71030692
 9.54496417945595E+229
@@ -56,7 +56,7 @@ class Geeks {
 
 **例 2:**
 
-```
+```cs
 // C# Program to illustrate the
 // Math.Exp(Double) Method by 
 // taking NaN, PositiveInfinity
@@ -83,7 +83,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 NaN
 Infinity
 0

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static ArrayList Repeat (object item, int count);
 ```
 
@@ -23,7 +23,7 @@ public static ArrayList Repeat (object item, int count);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the use of 
 // ArrayList.Repeat(Object, Int32) Method
 using System;
@@ -53,7 +53,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 GFG
 GFG
 GFG
@@ -66,7 +66,7 @@ The count of the item is : 6
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the use of 
 // ArrayList.Repeat(Object, Int32) Method
 using System;

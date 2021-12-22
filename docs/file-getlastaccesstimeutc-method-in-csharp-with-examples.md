@@ -5,7 +5,7 @@
 **文件。getlasaccesstimeutc(String)**是一个内置的 File 类方法，用于返回上次访问指定文件或目录的日期和时间，以协调世界时(Utc)表示。
 **语法:**
 
-```
+```cs
 public static DateTime GetLastAccessTimeUtc (string path);
 ```
 
@@ -29,7 +29,7 @@ public static DateTime GetLastAccessTimeUtc (string path);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.GetLastAccessTimeUtc(String) method
 
@@ -54,7 +54,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 The last access time in UTC for this file was 5/4/2020 12:00:00 AM.
 ```
 
@@ -64,7 +64,7 @@ The last access time in UTC for this file was 5/4/2020 12:00:00 AM.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.GetLastAccessTimeUtc(String) method
 
@@ -92,6 +92,6 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 The last access time in UTC for this file was 5/4/2020 12:00:00 AM.
 ```

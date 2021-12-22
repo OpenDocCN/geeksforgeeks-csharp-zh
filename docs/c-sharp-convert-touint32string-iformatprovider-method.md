@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static uint ToUInt32 (string value, IFormatProvider provider);
 
 ```
@@ -27,7 +27,7 @@ public static uint ToUInt32 (string value, IFormatProvider provider);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToUInt32() Method
 using System;
@@ -88,14 +88,14 @@ public static void get(string s,
 
 **Output:**
 
-```
+```cs
 Converted uint value from a specified string  12345,  12345,  123456789,
 
 ```
 
 **例 2:** 为*格式异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToUInt32() Method
 using System;
@@ -168,7 +168,7 @@ public static void get(string s,
 
 **Output:**
 
-```
+```cs
 Converted uint value of specified strings:  12345,  12345,  123456789, 
 
 format of s is invalid 
@@ -178,7 +178,7 @@ Exception Thrown: System.FormatException
 
 **例 3:** 适用于*飞越异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToUInt32() Method
 using System;
@@ -250,7 +250,7 @@ public static void get(string s,
 
 **Output:**
 
-```
+```cs
 Converted uint value of specified strings:  12345,  12345,  123456789, 
 
 s is less than the MinValue

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool Contains (object key);
 ```
 
@@ -25,7 +25,7 @@ public virtual bool Contains (object key);
 
 **例 1:**
 
-```
+```cs
 // C# code to check whether the Hashtable
 // contains a specific key or not
 using System;
@@ -55,14 +55,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check whether the Hashtable
 // contains a specific key or not
 using System;

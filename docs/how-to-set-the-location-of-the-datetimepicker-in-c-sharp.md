@@ -26,7 +26,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式设置 DateTimePicker 控件的位置:
 
-```
+```cs
 public System.Drawing.Point Location { get; set; }
 ```
 
@@ -34,7 +34,7 @@ public System.Drawing.Point Location { get; set; }
 
 *   **步骤 1:** 使用 DateTimePicker 类提供的 DateTimePicker()构造函数创建一个 DateTimePicker。
 
-    ```
+    ```cs
     // Creating a DateTimePicker
     DateTimePicker dt = new DateTimePicker();
 
@@ -42,7 +42,7 @@ public System.Drawing.Point Location { get; set; }
 
 *   **步骤 2:** 创建日期时间选择器后，设置由日期时间选择器类提供的日期时间选择器的位置属性。
 
-    ```
+    ```cs
     // Setting the location
     dt.Location = new Point(360, 162);
 
@@ -50,7 +50,7 @@ public System.Drawing.Point Location { get; set; }
 
 *   **第 3 步:**最后使用下面的语句将这个 DateTimePicker 控件添加到表单中:
 
-    ```
+    ```cs
     // Adding this control to the form
     this.Controls.Add(dt);
 
@@ -58,7 +58,7 @@ public System.Drawing.Point Location { get; set; }
 
 **示例:**
 
-```
+```cs
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

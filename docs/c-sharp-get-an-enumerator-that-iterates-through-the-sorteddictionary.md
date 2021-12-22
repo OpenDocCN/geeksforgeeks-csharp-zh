@@ -16,7 +16,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# code to get an IDictionaryEnumerator
 // that iterates through the SortedDictionary
 using System;
@@ -58,7 +58,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Australia --> Canberra
 Belgium --> Brussels
 China --> Beijing
@@ -70,7 +70,7 @@ Russia --> Moscow
 
 **例 2:**
 
-```
+```cs
 // C# code to get an IDictionaryEnumerator
 // that iterates through the SortedDictionary
 using System;
@@ -112,7 +112,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 I --> C
 II --> C++
 III --> Java

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual System.Collections.IList GetValueList ();
 ```
 
@@ -16,7 +16,7 @@ public virtual System.Collections.IList GetValueList ();
 
 **例 1:**
 
-```
+```cs
 // C# code for getting the values
 // in a SortedList object
 using System;
@@ -54,7 +54,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 Value Stored in SortedList:
 C++
 Java
@@ -66,7 +66,7 @@ C#
 
 **例 2:**
 
-```
+```cs
 // C# code for getting the values
 // in a SortedList object
 using System;
@@ -104,7 +104,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 Value Stored in SortedList:
 Manish
 Ram

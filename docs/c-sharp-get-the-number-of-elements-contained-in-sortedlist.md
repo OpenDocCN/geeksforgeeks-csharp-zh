@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual int Count { get; }
 ```
 
@@ -16,7 +16,7 @@ public virtual int Count { get; }
 
 **例 1:**
 
-```
+```cs
 // C# Program to count the number
 // of elements in SortedList
 using System;
@@ -42,14 +42,14 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 0
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# Program to count the number
 // of elements in SortedList
 using System;
@@ -86,7 +86,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 0
 4
 

@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Double.GetHashCode() Method
 using System;
@@ -39,14 +39,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode is 1076101120
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Double.Equals(Double)
 // Method
@@ -81,7 +81,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode is 1075052544
 HashCode is 1075183616
 HashCode is 1076101120

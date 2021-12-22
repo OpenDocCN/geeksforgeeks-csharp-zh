@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Add (T item);
 
 ```
@@ -17,7 +17,7 @@ public void Add (T item);
 
 **例 1:**
 
-```
+```cs
 // C# code to add an object to
 // the end of the Collection
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The number of elements in myColl are : 5
 The elements in myColl are : 
 A
@@ -68,7 +68,7 @@ E
 
 **例 2:**
 
-```
+```cs
 // C# code to add an object to
 // the end of the Collection
 using System;
@@ -105,7 +105,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The number of elements in myColl are : 4
 The elements in myColl are : 
 2

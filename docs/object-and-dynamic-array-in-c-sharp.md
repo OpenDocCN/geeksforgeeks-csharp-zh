@@ -15,7 +15,7 @@
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of object array
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 3.899
 3
 g

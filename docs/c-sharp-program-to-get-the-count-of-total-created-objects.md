@@ -18,7 +18,7 @@ C#是一种通用编程语言，用于创建移动应用程序、桌面应用程
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the above concept
 using System;
 
@@ -68,7 +68,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Total objects = 0
 Total objects = 3
 ```
@@ -77,7 +77,7 @@ Total objects = 3
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the above concept
 using System;
 
@@ -130,7 +130,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Total objects = 0
 Total objects = 6
 ```

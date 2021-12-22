@@ -8,7 +8,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate how to
 // find the sum of the given sequence
 using System;
@@ -43,7 +43,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Sequence is: 
 20
 30
@@ -61,7 +61,7 @@ The sum of the given sequence is: 661
 
 **例 2:**
 
-```
+```cs
 // C# program to find the sum
 // of the salary of the employee
 using System;
@@ -121,7 +121,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total salary of the Employees: 220000
 
 ```

@@ -30,7 +30,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the 
 // methods of ValueTuple struct
 using System;
@@ -64,7 +64,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 HashCode of a value tuple with zero elements: 0
 CompareTo Method Result: -1
 

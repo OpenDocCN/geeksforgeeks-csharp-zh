@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 dynamic value = 123;
 ```
 
@@ -17,7 +17,7 @@ dynamic value = 123;
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how to get the
     // actual type of the dynamic type variable
     using System;
@@ -54,7 +54,7 @@ dynamic value = 123;
 
     **输出:**
 
-    ```
+    ```cs
     Get the actual type of value1: System.String
     Get the actual type of value2: System.Int32
     Get the actual type of value3: System.Double
@@ -67,7 +67,7 @@ dynamic value = 123;
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate how to pass
     // dynamic type parameters in the method
     using System;
@@ -96,7 +96,7 @@ dynamic value = 123;
 
     **输出:**
 
-    ```
+    ```cs
     GG
     GeeksforGeeks
     CatDog

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.Specialized.StringEnumerator GetEnumerator ();
 ```
 
@@ -16,7 +16,7 @@ public System.Collections.Specialized.StringEnumerator GetEnumerator ();
 
 **例 1:**
 
-```
+```cs
 // C# code to get an StringEnumerator
 // that iterates through the StringCollection
 using System;
@@ -54,7 +54,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 A
 B
 C
@@ -65,7 +65,7 @@ E
 
 **例 2:**
 
-```
+```cs
 // C# code to get an StringEnumerator
 // that iterates through the StringCollection
 using System;
@@ -103,7 +103,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 45
 78
 98

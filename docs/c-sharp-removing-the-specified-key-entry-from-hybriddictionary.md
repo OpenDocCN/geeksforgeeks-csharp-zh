@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Remove (object key);
 
 ```
@@ -19,7 +19,7 @@ public void Remove (object key);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the entry
 // with the specified key from
 // the HybridDictionary.
@@ -79,7 +79,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Number of key/value pairs in myDict are : 6
 The key/value pairs in myDict are : 
 A --> Apple
@@ -100,7 +100,7 @@ F --> Fish
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the entry
 // with the specified key from
 // the HybridDictionary.

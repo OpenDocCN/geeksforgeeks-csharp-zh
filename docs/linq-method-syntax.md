@@ -8,13 +8,13 @@
 
 *   **Step 1:** First add the system. The Linq namespace in the code.
 
-    ```
+    ```cs
     using System.Linq;
     ```
 
 *   **Step 2:** Next, create a data source to perform the operation. Example:
 
-    ```
+    ```cs
     List my_list = new List(){
             "This is my Dog",
             "Name of my Dog is Robin",
@@ -26,7 +26,7 @@
 
 *   **步骤 3:** 现在使用可枚举或可查询静态类提供的方法创建查询。例如:
 
-    ```
+    ```cs
 
     var res = my_list.Where(a=> a.Contains("Dog"));
 
@@ -36,7 +36,7 @@
 
 *   **Step 4:** The last step is to use the foreach loop to execute the query. Example:
 
-    ```
+    ```cs
     foreach(var q in res)
     {
              Console.WriteLine(q);
@@ -46,7 +46,7 @@
 
 **例:**
 
-```
+```cs
 // Create the first Query in C# using Method Syntax
 using System;
 using System.Linq;
@@ -81,7 +81,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 This is my Dog
 Name of my Dog is Robin
 

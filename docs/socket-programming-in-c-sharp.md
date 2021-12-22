@@ -10,7 +10,7 @@
 
 ## C#
 
-```
+```cs
 // A C# program for Client
 using System;
 using System.Net;
@@ -114,7 +114,7 @@ static void ExecuteClient()
 
 ## **C#**
 
-```
+```cs
 // A C# Program for Server
 using System;
 using System.Net;
@@ -214,11 +214,11 @@ public static void ExecuteServer()
 *   **首先用保存文件。cs 扩展。假设我们将文件保存为 *client.cs* 和 *server.cs* 。**
 *   **然后通过执行以下命令编译这两个文件:**
 
-```
+```cs
 $ csc client.cs
 ```
 
-```
+```cs
 $ csc server.cs
 ```
 

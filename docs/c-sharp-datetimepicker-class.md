@@ -25,7 +25,7 @@
 
 *   **步骤 1:** 使用 **DateTimePicker()** 构造函数创建一个 DateTimePicker，该构造函数由 DateTimePicker 类提供。
 
-    ```
+    ```cs
     // Creating a DateTimePicker
     DateTimePicker d = new DateTimePicker();
 
@@ -33,7 +33,7 @@
 
 *   **步骤 2:** 创建日期时间选择器后，设置由日期时间选择器类提供的日期时间选择器的属性。
 
-    ```
+    ```cs
     // Setting the location of the DateTimePicker
     d.Location = new Point(360, 162); 
 
@@ -65,7 +65,7 @@
 
 *   **Step 3:** And last add this DateTimePicker control to the form and also add other controls on the DateTimePicker using the following statements:
 
-    ```
+    ```cs
     // Adding this control 
     // to the form 
     this.Controls.Add(d); 
@@ -74,7 +74,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

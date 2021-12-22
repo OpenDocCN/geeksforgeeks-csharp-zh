@@ -20,7 +20,7 @@
 
 **示例:**
 
-```
+```cs
 // C# code to create a ListDictionary
 using System;
 using System.Collections;
@@ -59,7 +59,7 @@ public static void Main()
 
 **Output:**
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 The key/value pairs in myDict are : 
 Australia Canberra
@@ -85,7 +85,7 @@ India New Delhi
 
 **例 1:**
 
-```
+```cs
 // C# code to get the number
 // of key/value pairs contained
 // in the ListDictionary
@@ -119,14 +119,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 6
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if ListDictionary is read-only
 using System;
 using System.Collections;
@@ -156,7 +156,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```
@@ -178,7 +178,7 @@ False
 
 **例 1:**
 
-```
+```cs
 // C# code to add an entry with
 // the specified key and value
 // into the ListDictionary
@@ -217,7 +217,7 @@ public static void Main()
 
 **Output:**
 
-```
+```cs
 Total number of elements in myDict are : 6
 Australia Canberra
 Belgium Brussels
@@ -230,7 +230,7 @@ India New Delhi
 
 **例 2:**
 
-```
+```cs
 // C# code to remove all entries
 // from the ListDictionary
 using System;
@@ -287,7 +287,7 @@ public static void Main()
 
 **Output:**
 
-```
+```cs
 Total key/value pairs in myDict are : 5
 The key/value pairs in myDict are : 
 I first

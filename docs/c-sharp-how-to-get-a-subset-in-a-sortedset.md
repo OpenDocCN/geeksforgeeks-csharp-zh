@@ -25,7 +25,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# code to get the subset of a SortedSet
 using System;
 using System.Collections.Generic;
@@ -64,7 +64,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 C
 D
 E
@@ -75,7 +75,7 @@ G
 
 **例 2:**
 
-```
+```cs
 // C# code to get the subset of a SortedSet
 using System;
 using System.Collections.Generic;
@@ -108,7 +108,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 3
 4
 5

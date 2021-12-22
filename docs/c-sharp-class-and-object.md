@@ -21,7 +21,7 @@
 
 **示例:**
 
-```
+```cs
 // declaring public class
 public class Geeks
 {
@@ -66,7 +66,7 @@ public class Geeks
 
 就像我们声明变量一样(类型名；).这将通知编译器，我们将使用该名称来引用类型为 type 的数据。对于一个原始变量，这个声明也为变量保留了适当的内存量。所以对于引用变量，类型必须是严格的具体类名。
 
-```
+```cs
 Dog tuffy;
 ```
 
@@ -80,7 +80,7 @@ Dog tuffy;
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Initialization of an object
 using System;
@@ -149,7 +149,7 @@ public static void Main(String[] args)
 
 **输出:**
 
-```
+```cs
 Hi my name is tuffy.
 My breed, age and color are papillon, 5, white
 
@@ -157,7 +157,7 @@ My breed, age and color are papillon, 5, white
 
 **说明:**这个类包含单个构造函数。我们可以识别构造函数，因为它的声明使用与类相同的名称，并且没有返回类型。C#编译器根据参数的数量和类型来区分构造函数。Dog 类中的构造函数接受四个参数。下面的语句为这些参数提供了“tuffy”、“papillon”、5、“white”作为值:
 
-```
+```cs
 Dog tuffy = new Dog("tuffy", "papillon", 5, "white");
 ```
 

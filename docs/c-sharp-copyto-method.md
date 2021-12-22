@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void CopyTo(int sourceIndex, char[] destination, 
                       int destinationIndex, int count)
 
@@ -21,7 +21,7 @@ public void CopyTo(int sourceIndex, char[] destination,
 
 **示例:**
 
-```
+```cs
 Input : str  = "GeeksForGeeks"
         char [] Copystring = new char[15];     
         str.CopyTo(5, Copystring, 0, 3);
@@ -38,7 +38,7 @@ Output: Hello Geeks
 
 *   **例 1:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // ToCopy() string method
     using System;
@@ -66,14 +66,14 @@ Output: Hello Geeks
 
     **输出:**
 
-    ```
+    ```cs
     The Copied String in dest Variable is: For
 
     ```
 
 *   **例 2:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // ToCopy() string method
     using System;
@@ -102,7 +102,7 @@ Output: Hello Geeks
 
     **输出:**
 
-    ```
+    ```cs
     String Copied in dest is: Hello Geeks
 
     ```

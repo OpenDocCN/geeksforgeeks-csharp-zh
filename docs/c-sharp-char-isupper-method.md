@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool IsUpper(char ch);
 ```
 
@@ -24,7 +24,7 @@ public static bool IsUpper(char ch);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Char.IsUpper(Char) Method
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 False
 
@@ -67,7 +67,7 @@ False
 
 **语法:**
 
-```
+```cs
 public static bool IsUpper(string str, int index);
 ```
 
@@ -85,7 +85,7 @@ public static bool IsUpper(string str, int index);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Char.IsUpper(String, Int32) Method
 using System;
@@ -116,7 +116,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 False
 

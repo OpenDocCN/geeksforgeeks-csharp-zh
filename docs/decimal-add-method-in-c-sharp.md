@@ -18,7 +18,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Add(Decimal, Decimal) 
 // Method
@@ -57,14 +57,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Decimal Sum : 0.04
 
 ```
 
 **例 2:** 适用于*飞越异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Add(Decimal, Decimal)
 // Method
@@ -102,7 +102,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.OverflowException
 
 ```

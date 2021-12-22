@@ -7,7 +7,7 @@ Rest 属性允许您获取值元组的剩余元素，而不是开始的七个元
 
 **语法:**
 
-```
+```cs
 public TRest Rest;
 ```
 
@@ -15,7 +15,7 @@ public TRest Rest;
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate how to get
 // the eigth element of value tuple
 using System;
@@ -71,7 +71,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 C# Topics: 
 Methods
 Method Hiding
@@ -86,7 +86,7 @@ Delegates
 
 **例 2:**
 
-```
+```cs
 // C# program to get the
 // elements of nested value tuple
 using System;
@@ -120,7 +120,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Employee Details:
 Id: 23456
 Name: Anu

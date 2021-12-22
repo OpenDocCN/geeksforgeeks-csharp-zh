@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public int CompareTo (object obj);
 ```
 
@@ -22,7 +22,7 @@ public int CompareTo (object obj);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Boolean.CompareTo(Object) Method
 using System;
@@ -68,14 +68,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True is equal to True
 
 ```
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Boolean.CompareTo(Object) Method
 using System;
@@ -122,7 +122,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 value2 must be Boolean
 Exception Thrown: System.ArgumentException
 

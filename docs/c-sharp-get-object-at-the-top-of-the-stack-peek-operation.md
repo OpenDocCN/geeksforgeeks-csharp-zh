@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 object Peek(); 
 
 ```
@@ -25,7 +25,7 @@ object Peek();
 
 **例 1:**
 
-```
+```cs
 // C# code to Get object at
 // the top of the Stack
 using System;
@@ -73,7 +73,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total number of elements in the Stack are : 6
 Element at the top is : 6th Element
 Element at the top is : 6th Element
@@ -83,7 +83,7 @@ Total number of elements in the Stack are : 6
 
 **例 2:**
 
-```
+```cs
 // C# code to Get object at
 // the top of the Stack
 using System;

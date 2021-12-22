@@ -4,7 +4,7 @@
 
 一般来说，当我们试图将一个对象复制到另一个对象时，这两个对象将共享相同的内存地址。通常，我们使用赋值运算符，=，来复制引用，而不是对象，除非有*值类型*字段。这个操作符总是复制引用，而不是实际的对象。*举例:*假设 *G1* 指内存地址 *5000* 那么 *G2* 也会指 5000。因此，如果改变存储在地址 *5000* 的数据值，那么 *G1* 和 *G2* 将显示相同的数据。
 
-```
+```cs
 Geeks G1 = new Geeks();
 
 // Copy the instance using 
@@ -21,7 +21,7 @@ Geeks G2 = G1;
 
 **示例:**在这里，如果您要更改*值类型*，那么它将在 c2 和 c1 上工作，不受影响，但是在*参考类型*中，任何更改都将影响 c1 和 c2。
 
-```
+```cs
 // C# program to illustrate the 
 // concept of Shallow Copy
 using System;
@@ -106,7 +106,7 @@ class CompanyDescription 
 
 **Output:**
 
-```
+```cs
 Before Changing: 
 548
 548
@@ -129,7 +129,7 @@ GFG
 
 **例:**这里字段类型不管是*值类型*还是*引用类型*。深度复制会复制整个数据，并将其存储在不同的内存位置，因此如果我们更改 c2，c1 也不会受到影响，反之亦然。
 
-```
+```cs
 // C# program to demonstrate the
 // concept of Deep copy
 using System;
@@ -215,7 +215,7 @@ class CompanyDescription {
 
 **Output:**
 
-```
+```cs
 Before Changing: 
 548
 548

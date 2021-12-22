@@ -12,7 +12,7 @@
 
 **方法 1(使用温度数组)**
 
-```
+```cs
 Input arr[] = [1, 2, 3, 4, 5, 6, 7], d = 2, n =7
 1) Store the first d elements in a temp array
    temp[] = [1, 2]
@@ -27,7 +27,7 @@ T3】辅助空间: O(d)
 
 **方法 2(逐个旋转)**
 
-```
+```cs
 leftRotate(arr[], d, n)
 start
   For i = 0 to i < d
@@ -43,7 +43,7 @@ end
 
 ## C#
 
-```
+```cs
 // C# program for array rotation
 using System;
 
@@ -87,7 +87,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 3 4 5 6 7 1 2 
 ```
 
@@ -99,7 +99,7 @@ T3】辅助空间: O(1)
 如果 GCD 为 1，就像上面的示例数组(n = 7，d =2)一样，那么元素将只在一个集合内移动，我们只需从 temp = arr[0]开始，继续将 arr[I+d]移动到 arr[I]，最后将 temp 存储在正确的位置。
 这里有一个 n =12，d = 3 的例子。GCD 为 3 和
 
-```
+```cs
 Let arr[] be {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}
 
 a) Elements are first moved in first set – (See below 
@@ -108,7 +108,7 @@ a) Elements are first moved in first set – (See below
 
 ![](img/c27e607259a2ae2b6b4e245c00dc44b5.png)
 
-```
+```cs
           arr[] after this step --> {4 2 3 7 5 6 10 8 9 1 11 12}
 
 b)    Then in second set.
@@ -122,7 +122,7 @@ c)    Finally in third set.
 
 ## C#
 
-```
+```cs
 // C# program for array rotation
 using System;
 
@@ -184,7 +184,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 3 4 5 6 7 1 2 
 ```
 

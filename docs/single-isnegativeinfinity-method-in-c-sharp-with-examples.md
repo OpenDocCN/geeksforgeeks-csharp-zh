@@ -12,7 +12,7 @@
 
 **例:**演示*单。IsNegativeInfinity(单)法*:
 
-```
+```cs
 // C# program to illustrate the
 // Single.IsNegativeInfinity(Single)
 // Method
@@ -58,7 +58,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 -Infinity
 True
 -Infinity

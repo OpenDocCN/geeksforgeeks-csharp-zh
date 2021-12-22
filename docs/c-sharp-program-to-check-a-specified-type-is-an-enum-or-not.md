@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsEnum { get; }
 ```
 
@@ -16,7 +16,7 @@ public bool IsEnum { get; }
 
 ## C#
 
-```
+```cs
 // C# program to check whether the
 // given type is enum or not
 using System;
@@ -43,7 +43,7 @@ public static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 True
 ```
 
@@ -51,7 +51,7 @@ True
 
 ## C#
 
-```
+```cs
 // C# program to check whether the
 // given type is enum or not
 using System;
@@ -97,7 +97,7 @@ public static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Is courses is enum?: True
 Is Branch is enum?: False
 Is subject is enum?: False

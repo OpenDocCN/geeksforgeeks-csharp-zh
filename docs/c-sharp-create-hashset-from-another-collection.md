@@ -8,7 +8,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# code to Create HashSet
 // from another collection
 using System;
@@ -46,7 +46,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The elements in newly created HashSet are : 
 0
 2
@@ -58,7 +58,7 @@ The elements in newly created HashSet are :
 
 **例 2:**
 
-```
+```cs
 // C# code to Create HashSet
 // from another collection
 using System;
@@ -97,7 +97,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The elements in newly created HashSet are : 
 Delhi
 Noida

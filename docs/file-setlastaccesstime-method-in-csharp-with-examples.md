@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static void SetLastAccessTime (string path, DateTime lastAccessTime);
 ```
 
@@ -33,7 +33,7 @@ public static void SetLastAccessTime (string path, DateTime lastAccessTime);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.SetLastAccessTime() method
 
@@ -61,7 +61,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The last access date and time for this file was 5/4/2020 4:05:07 AM.
 ```
 
@@ -69,7 +69,7 @@ The last access date and time for this file was 5/4/2020 4:05:07 AM.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.SetLastAccessTime() method
 
@@ -102,6 +102,6 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The last access date and time for this file was 5/4/2019 4:05:07 AM.
 ```

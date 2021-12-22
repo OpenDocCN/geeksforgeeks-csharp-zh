@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 mySet.Clear(); 
 
 ```
@@ -17,7 +17,7 @@ mySet.Clear();
 
 **例 1:**
 
-```
+```cs
 // C# code to remove all elements from HashSet
 using System;
 using System.Collections.Generic;
@@ -52,7 +52,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 10
 0
 
@@ -60,7 +60,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# code to remove all elements from HashSet
 using System;
 using System.Collections.Generic;
@@ -105,7 +105,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 6
 0
 3

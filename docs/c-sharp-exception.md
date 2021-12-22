@@ -6,7 +6,7 @@
 
 **示例:**显示除零操作期间异常的发生，如下所示:
 
-```
+```cs
 // C# program to illustrate the exception
 using System;
 class Geeks {

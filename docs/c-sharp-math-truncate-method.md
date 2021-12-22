@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```cs
 public static decimal Truncate(decimal dec)
 ```
 
@@ -27,7 +27,7 @@ public static decimal Truncate(decimal dec)
 
 ## C#
 
-```
+```cs
 // C# Program to illustrate the
 // Math.Truncate(Decimal) Method
 using System;
@@ -51,7 +51,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 45
 54569
 ```
@@ -62,7 +62,7 @@ class Geeks {
 
 **语法:**
 
-```
+```cs
 public static double Truncate(decimal dob)
 ```
 
@@ -78,7 +78,7 @@ public static double Truncate(decimal dob)
 
 ## C#
 
-```
+```cs
 // C# Program to illustrate the
 // Math.Truncate(Double) Method
 using System;
@@ -102,7 +102,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 45649
 2000150
 ```

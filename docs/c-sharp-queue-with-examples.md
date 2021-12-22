@@ -35,13 +35,13 @@
 
 **语法:**
 
-```
+```cs
 using System.Collections;
 ```
 
 **步骤 2:** 使用队列类创建一个队列，如下所示:
 
-```
+```cs
 Queue queue_name = new Queue();
 ```
 
@@ -49,7 +49,7 @@ Queue queue_name = new Queue();
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate queue
 using System;
 using System.Collections;
@@ -84,7 +84,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 GFG
 1
 100

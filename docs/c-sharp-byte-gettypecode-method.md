@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public TypeCode GetTypeCode ();
 ```
 
@@ -16,7 +16,7 @@ public TypeCode GetTypeCode ();
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Byte.GetTypeCode() Method
 using System;
@@ -50,7 +50,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 TypeCode of val1 is Byte
 TypeCode of val2 is Boolean
 ```
@@ -59,7 +59,7 @@ TypeCode of val2 is Boolean
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Byte.GetTypeCode() Method
 using System;
@@ -111,7 +111,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 TypeCode of 12 is Byte
 TypeCode of True is Boolean
 ```

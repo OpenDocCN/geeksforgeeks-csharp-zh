@@ -16,7 +16,7 @@
 
 ## c#
 
-```
+```cs
 // C# program to find the name of the machine
 // Using Environment class
 using System;
@@ -36,6 +36,6 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Machine Name is Check
 ```

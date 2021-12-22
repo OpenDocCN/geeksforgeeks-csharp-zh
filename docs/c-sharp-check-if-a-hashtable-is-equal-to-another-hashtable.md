@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 myTable1.Equals(myTable2)
 
 ```
@@ -16,7 +16,7 @@ myTable1.Equals(myTable2)
 下面给出一些例子，以便更好地理解实现:
 **例子 1:**
 
-```
+```cs
 // C# code to check if a Hashtable is
 // equal to other Hashtable or not
 using System;
@@ -45,14 +45,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if a Hashtable is
 // equal to other Hashtable or not
 using System;
@@ -91,7 +91,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```

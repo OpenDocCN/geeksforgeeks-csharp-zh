@@ -10,7 +10,7 @@ LINQ 被称为语言集成查询，它是在年引入的。NET 3.5。它赋予�
 
 **示例:**
 
-```
+```cs
 Input  : [("bobby"),("srav"),("ramya"),("gopi"),("hari")("sai");]
 Output : [("srav"),("gopi"),("hari")]
 Input  : [("bobby"),("ramya"),("sai");]
@@ -30,7 +30,7 @@ Output : No Output
 
 ## C#
 
-```
+```cs
 // C# program to display the list of students whose 
 // name contains four characters using Where() method 
 using System;
@@ -70,7 +70,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Length 4 Details
 srav
 gopi

@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToBinary()
 // Method
@@ -42,14 +42,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 64-bit binary value : 634294512150000000
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.ToBinary()
 // Method
@@ -85,7 +85,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 64-bit binary value of 01/03/2010 04:00:15 is 633980880150000000
 64-bit binary value of 01/05/2010 04:00:15 is 633982608150000000
 

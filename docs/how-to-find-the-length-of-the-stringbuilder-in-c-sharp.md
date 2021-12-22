@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // the Length() Property
 using System;
@@ -45,7 +45,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String = WelcomeGeeks
 length of String = 12
 
@@ -53,7 +53,7 @@ length of String = 12
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate
 // the Length() Property
 using System;
@@ -83,7 +83,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String = India is Great
 length of String = 14
 

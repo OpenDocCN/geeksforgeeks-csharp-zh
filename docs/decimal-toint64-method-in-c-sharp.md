@@ -16,7 +16,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToInt64(Decimal) Method
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Int64 value is : -926534668654775808
 The Int64 value is : 4897498545
 
@@ -69,7 +69,7 @@ The Int64 value is : 4897498545
 
 **例 2:** 适用于*飞越异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToInt64(Decimal) Method
 using System;
@@ -119,7 +119,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.OverflowException
 
 ```

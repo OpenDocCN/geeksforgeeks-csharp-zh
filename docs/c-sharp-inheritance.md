@@ -15,7 +15,7 @@
 用于继承的符号为 **:** 。
 **语法:**
 
-```
+```cs
 class derived-class : base-class  
 {  
    // methods and fields  
@@ -27,7 +27,7 @@ class derived-class : base-class
 
 **示例:**在下面的继承示例中，类 GFG 是基类，类 GeeksforGeeks 是扩展 GFG 类的派生类，类 Sudo 是运行程序的驱动类。
 
-```
+```cs
 // C# program to illustrate the
 // concept of inheritance
 using System;
@@ -80,7 +80,7 @@ class Sudo {
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks
 Myself: Kirti
 My Favorite Subject is: C#

@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input: 
 First linked list: 1->2->3->4->6
 Second linked list be 2->4->6->8, 
@@ -32,7 +32,7 @@ intersection list.
 
 ## C#
 
-```
+```cs
 // C# program to implement 
 // the above approach
 using System;
@@ -148,7 +148,7 @@ public class GFG 
 
 **输出:**
 
-```
+```cs
 Linked list containing common items of a & b 
 2 4 6 
 ```

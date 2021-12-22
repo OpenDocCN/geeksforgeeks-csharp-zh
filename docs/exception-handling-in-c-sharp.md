@@ -18,7 +18,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to show how
 // Exceptions occur in a program
 using System;
@@ -54,7 +54,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 1
 2
 3
@@ -69,7 +69,7 @@ class GFG {
 下面给出的代码展示了如何使用 try-catch 块处理异常。可能生成异常的代码被放在 try 块中。在这种情况下，对第 7 个元素的访问被放在 try 块中。当执行该语句时，会生成一个异常，该异常被 catch 块捕获。类型为 *IndexOutOfRangeException* 的对象用于向用户显示已发生异常的消息。
 **语法:**
 
-```
+```cs
 try
 {
   // statements that may cause an exception
@@ -82,7 +82,7 @@ catch( Exception obj)
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // Exception handling of above code
 // using try catch blocks
 
@@ -120,7 +120,7 @@ class Program : System.Exception {
 
 **输出:**
 
-```
+```cs
 1
 2
 3
@@ -135,7 +135,7 @@ An Exception has occurred : Index was outside the bounds of the array.
 finally 块是代码中必须执行的部分，不管异常是否生成。在下面给出的程序中，数组的元素显示在 finally 块中。
 **语法:**
 
-```
+```cs
 try
 {
   // statements that may cause an exception
@@ -159,7 +159,7 @@ finally
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# Program to show use of
 // multiple try catch blocks
 using System;
@@ -209,7 +209,7 @@ class Program {
 
 **输出:**
 
-```
+```cs
 An Exception has occurred : Attempted to divide by zero.
  19 0 75 52
 ```
@@ -220,7 +220,7 @@ An Exception has occurred : Attempted to divide by zero.
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to show the user defined exceptions
 using System;
 
@@ -272,6 +272,6 @@ class Program {
 
 **输出:**
 
-```
+```cs
 Exception has occurred : Exception of type 'DivByZero' was thrown.
 ```

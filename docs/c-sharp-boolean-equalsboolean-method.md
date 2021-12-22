@@ -5,7 +5,7 @@
 此方法用于返回一个值，该值指示此实例是否等于指定的布尔对象。
 **语法:**
 
-```
+```cs
 public bool Equals (bool obj);
 ```
 
@@ -16,7 +16,7 @@ public bool Equals (bool obj);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Boolean.Parse(String)
 // Method
@@ -60,7 +60,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 True is equal to True
 True is not equal to False
 False is not equal to True
@@ -71,7 +71,7 @@ False is equal to False
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Boolean.Parse(String)
 // Method
@@ -106,7 +106,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 input1 is not equal to input2
 ```
 

@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# Program to create a Hash 
 // Function for String data
 using System;
@@ -72,7 +72,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 11 Tallypoints
 16 Alphanumeric
 19 Roman
@@ -83,7 +83,7 @@ class Geeks {
 
 **例 2:**
 
-```
+```cs
 // C# Program to create a Hash 
 // Function for String data
 using System;
@@ -146,7 +146,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 6 C#
 15 C++
 18 C

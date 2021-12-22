@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public override int GetHashCode ();
 ```
 
@@ -16,7 +16,7 @@ public override int GetHashCode ();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate 
 // the GetHashCode() method
 using System;
@@ -50,7 +50,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Display strings
 string 1: abc and hashcode: 1099313834
 string 2: geeks and hashcode: -1893508949
@@ -60,7 +60,7 @@ string 3: gfg and hashcode: -870054572
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate
 // the GetHashCode() method
 using System;
@@ -94,7 +94,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 String : Hello and HashCode: -327378614
 String : GFG and HashCode: 1999992308
 String : Geeks and HashCode: -1893476149

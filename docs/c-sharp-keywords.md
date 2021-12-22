@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 // C# Program to illustrate the keywords
 using System;
 
@@ -33,7 +33,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The value of a is: 10
 ```
 
@@ -133,7 +133,7 @@ C#中总共有 78 个关键字，如下所示:
 
     **示例:**
 
-    ```
+    ```cs
     // C# Program to illustrate the
     // value type keywords
     using System;
@@ -162,7 +162,7 @@ C#中总共有 78 个关键字，如下所示:
 
     **输出:**
 
-    ```
+    ```cs
     The value of a is: 47
     The value of b is: True
 
@@ -178,7 +178,7 @@ C#中总共有 78 个关键字，如下所示:
 
     **示例:**
 
-    ```
+    ```cs
     // C# Program to illustrate the
     // modifiers keywords
     using System;
@@ -211,7 +211,7 @@ C#中总共有 78 个关键字，如下所示:
 
     **输出:**
 
-    ```
+    ```cs
     Value of n1: 77
     ```
 
@@ -224,7 +224,7 @@ C#中总共有 78 个关键字，如下所示:
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the statement keywords
     using System; 
 
@@ -251,7 +251,7 @@ C#中总共有 78 个关键字，如下所示:
 
     **输出:**
 
-    ```
+    ```cs
     GeeksforGeeks
     ```
 
@@ -270,7 +270,7 @@ C#中总共有 78 个关键字，如下所示:
 
 **示例:**
 
-```
+```cs
 int a = 10;              // Here int is a valid keyword
 
 double int = 10.67;     // invalid because int is a keyword
@@ -281,7 +281,7 @@ int @null = 0;       // valid
 
 ```
 
-```
+```cs
 // C# Program to illustrate the use of 
 // prefixing @ in keywords
 using System;
@@ -310,7 +310,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The value of a is: 10
 The value of a is: 11
 
@@ -363,7 +363,7 @@ The value of a is: 11
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate contextual keywords
 using System; 
 
@@ -419,7 +419,7 @@ class TestStudent { 
 
 **输出:**
 
-```
+```cs
 Name: GFG
 Value of get is: 50
 Value of set is: 70

@@ -10,7 +10,7 @@
 
 **例:**
 
-```
+```cs
 Input: { 34, 27, 34, 5, 6 }
 Output: Sum = 106
 
@@ -24,7 +24,7 @@ Output: Sum = 466
 
 **2。**现在使用 Aggregate()函数求数组的和。
 
-```
+```cs
 sum = arr.Aggregate((element1,element2) => element1 + element2);
 ```
 
@@ -34,7 +34,7 @@ sum = arr.Aggregate((element1,element2) => element1 + element2);
 
 ## c#
 
-```
+```cs
 // C# program to finding the sum of the array elements
 // using Aggregate() Method
 using System;
@@ -62,6 +62,6 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Sum is : 166
 ```

@@ -16,7 +16,7 @@
 
 ## C#
 
-```
+```cs
 // C# Program to demonstrate
 // KeyAvailable property
 using System;

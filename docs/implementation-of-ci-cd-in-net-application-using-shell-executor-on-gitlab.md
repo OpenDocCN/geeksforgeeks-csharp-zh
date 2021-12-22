@@ -60,25 +60,25 @@ Shell Executor 是一个非常简单的执行器，它有助于在安装了 GitL
 
 **2。**下载成功后，保存在你的目录下(例如:C:\ Tools \ gitlb-Runner)，用以下命令重命名
 
-```
+```cs
 gitlab-runner.exe
 ```
 
 **3。**在管理模式下打开命令提示符，转到 GitLab-Runner 目录，并使用检查其状态
 
-```
+```cs
 gitlab-runner status
 ```
 
 **4。**如果它已经在运行，请在向 GitLab Runner 注册存储库之前停止它
 
-```
+```cs
 gitlab-runner.exe stop
 ```
 
 **5。**一旦 GitLab Runner 成功停止，则使用以下命令进行存储库注册
 
-```
+```cs
 gitlab-runner.exe register
 ```
 
@@ -94,7 +94,7 @@ gitlab-runner.exe register
 
 **7。**注册成功后，启动 GitLab Runner
 
-```
+```cs
 gitlab-runner start
 ```
 
@@ -131,7 +131,7 @@ gitlab-runner start
 
 **。**这是。gitlab-ci.yml 并根据需求进行更改
 
-```
+```cs
 variables:
  NUGET_PATH: 'C:\Tools\Nuget\nuget.exe'
  MSBUILD_PATH: 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Current\Bin\MSBuild.exe'

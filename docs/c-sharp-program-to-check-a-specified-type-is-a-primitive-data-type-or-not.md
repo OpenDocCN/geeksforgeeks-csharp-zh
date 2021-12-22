@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsPrimitive{ get; }
 ```
 
@@ -14,7 +14,7 @@ public bool IsPrimitive{ get; }
 
 ## C#
 
-```
+```cs
 // C# program to check a specified type 
 // is a primitive data type or not
 using System;
@@ -60,7 +60,7 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Primitive data type
 Primitive data type
 Primitive data type

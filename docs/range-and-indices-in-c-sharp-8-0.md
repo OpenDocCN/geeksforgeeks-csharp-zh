@@ -13,7 +13,7 @@
 
 *   **^ Operator:** It is known as the index from the end operator. It returns an index that is relative to the end of the sequence or collection. It is the most compact and easiest way to find the end elements compare to earlier methods.
 
-    ```
+    ```cs
     // Old Method
     var lastval = myarr[myarr.Length-1]
 
@@ -24,7 +24,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the use 
     // of the index from end operator(^)
     using System;
@@ -67,7 +67,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Values of the specified indexes:
     34
     56
@@ -87,7 +87,7 @@
 
     **解释:**在上面的例子中，我们有一个名为*myar*的 int 类型数组。在这里，我们首先简单地获取指定索引的值，即:
 
-    ```
+    ```cs
     34, 56, 77, 88, 90, 45
     Index : Value
      [0]  : 34
@@ -101,7 +101,7 @@
 
     现在我们在^算子的帮助下找到指定索引的最后一个值，即:
 
-    ```
+    ```cs
     Index : Value
      [^1]  : 45
      [^2]  : 90
@@ -119,7 +119,7 @@
 
         **示例:**
 
-        ```
+        ```cs
         // C# program to illustrate the use 
         // of the index from end operator(^)
         using System;
@@ -163,7 +163,7 @@
 
         **示例:**
 
-        ```
+        ```cs
         // C# program to illustrate how
         // to declare a index as a variable
         using System;
@@ -194,13 +194,13 @@
 
         **输出:**
 
-        ```
+        ```cs
         Number: 4
         ```
 
 *   **.. Operator:** It is known as the range operator. And it specifies the start and end as its operands of the given range. It is the most compact and easiest way to find the range of the elements from the specified sequence or collection in comparison to earlier methods.
 
-    ```
+    ```cs
     // Old Method
     var arr = myemp.GetRange(1, 5);
 
@@ -211,7 +211,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // use of the range operator(..)
     using System;
@@ -268,7 +268,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Name of the employees in project A:  [Anu] [Priya] [Rohit]
     Name of the employees in project B:  [Amit] [Shreya]
     Name of the employees in project C:  [Priya] [Rohit] [Amit] [Shreya] [Rinu]
@@ -288,7 +288,7 @@
 
         **示例:**
 
-        ```
+        ```cs
         // C# program to illustrate how to
         // declare a range as a variable
         using System;
@@ -321,7 +321,7 @@
 
         **输出:**
 
-        ```
+        ```cs
         Number:  [2] [3]
 
         ```

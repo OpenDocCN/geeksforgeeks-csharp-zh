@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public virtual int Next ();
     ```
 
@@ -20,7 +20,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // Random.Next() Method
     using System;
@@ -43,7 +43,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Printing 10 random numbers
     1 -> 1386420123
     2 -> 2133003862
@@ -64,7 +64,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public virtual int Next (int maxValue);
     ```
 
@@ -76,7 +76,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // Random.Next(Int32) Method
     using System;
@@ -99,7 +99,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Printing 10 random numbers less than 100
     1 -> 19
     2 -> 94
@@ -120,7 +120,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public virtual int Next (int minValue, int maxValue);
     ```
 
@@ -135,7 +135,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // Next(Int32, Int32) Method
     using System;
@@ -159,7 +159,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Printing 10 random numbers between 50 and 100
     1 -> 91
     2 -> 85

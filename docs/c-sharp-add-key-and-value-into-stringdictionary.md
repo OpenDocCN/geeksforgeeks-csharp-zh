@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void Add (string key, string value);
 
 ```
@@ -26,7 +26,7 @@ public virtual void Add (string key, string value);
 
 **例 1:**
 
-```
+```cs
 // C# code to add key and value
 // into the StringDictionary
 using System;
@@ -60,7 +60,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 d  Dog
 b  Banana
 c  Cat
@@ -71,7 +71,7 @@ a  Apple
 
 **例 2:**
 
-```
+```cs
 // C# code to add key and value
 // into the StringDictionary
 using System;

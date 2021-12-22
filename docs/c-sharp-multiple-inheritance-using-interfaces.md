@@ -10,7 +10,7 @@
 
 **例 1:** 首先我们尝试将 *Geeks1* 和 *Geeks2* 类的特性继承成 GeeksforGeeks 类，那么编译器会给出一个错误，因为 C#直接不支持多类继承。
 
-```
+```cs
 // C# program to illustrate
 // multiple class inheritance
 using System;
@@ -97,7 +97,7 @@ public class GFG {
 
 **例 2:** 两个 *GFG1* 和 *GFG2* 接口都是由 Geeks1 和 Geeks2 类实现的。现在极客 1 和极客 2 类定义了语言()和课程()方法。当 GeeksforGeeks 类继承 GFG1 和 GFG2 接口时，您不需要重新定义*语言()*和*课程()*方法，只需简单地创建 *Geeks1* 和 *Geeks2* 类的对象，并使用 GeeksforGeeks 类中的这些对象访问*语言()*和*课程()*方法。
 
-```
+```cs
 // C# program to illustrate how to
 // implement multiple class inheritance
 // using interfaces
@@ -201,7 +201,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Languages provided by GeeksforGeeks:
 C
 C++

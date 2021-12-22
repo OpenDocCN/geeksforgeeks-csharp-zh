@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool ContainsValue (string value);
 
 ```
@@ -19,7 +19,7 @@ public virtual bool ContainsValue (string value);
 
 **例 1:**
 
-```
+```cs
 // C# code to check if the
 // StringDictionary contains
 // a specific value
@@ -55,14 +55,14 @@ public static void Main()
 
 **Output:**
 
-```
+```cs
 StringDictionary myDict contains the value
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if the
 // StringDictionary contains
 // a specific value
@@ -99,7 +99,7 @@ public static void Main()
 
 **Output:**
 
-```
+```cs
 StringDictionary myDict does not contain the value
 
 ```

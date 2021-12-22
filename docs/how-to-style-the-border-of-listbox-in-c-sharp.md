@@ -19,7 +19,7 @@
 
 **2。RunTime:** 比上面的方法稍微复杂一点。在此方法中，您可以在给定语法的帮助下，以编程方式设置 ListBox 控件的边框样式:
 
-```
+```cs
 public System.Windows.Forms.BorderStyle BorderStyle { get; set; }
 ```
 
@@ -33,7 +33,7 @@ public System.Windows.Forms.BorderStyle BorderStyle { get; set; }
 
 *   **步骤 1:** 使用 list box 类提供的 ListBox()构造函数创建列表框。
 
-    ```
+    ```cs
     // Creating ListBox using ListBox class constructor
     ListBox mylist = new ListBox();
 
@@ -41,7 +41,7 @@ public System.Windows.Forms.BorderStyle BorderStyle { get; set; }
 
 *   **步骤 2:** 创建 ListBox 后，设置 ListBox 类提供的 ListBox 的 BorderStyle 属性。
 
-    ```
+    ```cs
     // Setting the BorderStyle of the ListBox
     mylist.BorderStyle = BorderStyle.Fixed3D;
 
@@ -49,7 +49,7 @@ public System.Windows.Forms.BorderStyle BorderStyle { get; set; }
 
 *   **Step 3:** And last add this ListBox control to the form using Add() method.
 
-    ```
+    ```cs
     // Add this ListBox to the form
     this.Controls.Add(mylist);
 
@@ -57,7 +57,7 @@ public System.Windows.Forms.BorderStyle BorderStyle { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

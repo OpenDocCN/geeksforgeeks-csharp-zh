@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public Type GetType ();
 ```
 
@@ -24,7 +24,7 @@ public Type GetType ();
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // Object.GetType() Method
 using System;
@@ -64,7 +64,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The X class object type is: X
 The G class object type is: G
 The obj2 object type is: X
@@ -73,7 +73,7 @@ The obj2 object type is: X
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate
 // Object.GetType() Method
 using System;
@@ -136,7 +136,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Author details:
 Author Name : Kirti
 Article Name : GetType() method

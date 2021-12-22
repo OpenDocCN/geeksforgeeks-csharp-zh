@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```cs
 public object Clone ();
 ```
 
 **示例:**
 
-```
+```cs
 // C# code to illustrate the use 
 // of BitArray.Clone Method
 using System;
@@ -68,7 +68,7 @@ public static void Result(IEnumerable bit) 
 
 **Output:**
 
-```
+```cs
 Elements of Original BitArray: 
 
 False

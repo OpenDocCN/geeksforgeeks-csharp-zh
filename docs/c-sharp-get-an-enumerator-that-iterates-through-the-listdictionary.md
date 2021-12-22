@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.IDictionaryEnumerator GetEnumerator ();
 ```
 
@@ -16,7 +16,7 @@ public System.Collections.IDictionaryEnumerator GetEnumerator ();
 
 **例 1:**
 
-```
+```cs
 // C# code to get an IDictionaryEnumerator
 // that iterates through the ListDictionary
 using System;
@@ -56,7 +56,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Australia --> Canberra
 Belgium --> Brussels
 Netherlands --> Amsterdam
@@ -68,7 +68,7 @@ India --> New Delhi
 
 **例 2:**
 
-```
+```cs
 // C# code to get an IDictionaryEnumerator
 // that iterates through the ListDictionary
 using System;
@@ -108,7 +108,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 I --> C
 II --> C++
 III --> Java

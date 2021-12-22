@@ -28,7 +28,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     // Constructor for single elements
     Tuple <T1>(T1)
 
@@ -43,7 +43,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to create tuple using tuple constructor.
     using System;
 
@@ -68,7 +68,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     // Method for 1-tuple
     Create(T1)
 
@@ -84,7 +84,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to create tuple 
     // using Create Method
     using System;
@@ -117,7 +117,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to access the tuple 
     // using Item and Rest property
     using System;
@@ -172,7 +172,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Element of My_Tuple1: GeeksforGeeks
 
     Element of My_Tuple2: 12
@@ -197,7 +197,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to illustrate nested tuple
     using System;
 
@@ -233,7 +233,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Element of My_Tuple: 13
     Element of My_Tuple: Geeks
     Element of My_Tuple: 67
@@ -251,7 +251,7 @@
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to illustrate nested tuple
     using System;
 
@@ -289,7 +289,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Element of My_Tuple: 13
     Element of Nested Tuple: 12
     Element of Nested Tuple: 30
@@ -309,7 +309,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // tuple as a method parameter.
     using System;
@@ -339,7 +339,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Element: GeeksforGeeks
     Element: 123
     Element: 90.8
@@ -352,7 +352,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate 
     // how a method return tuple
     using System;
@@ -379,7 +379,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Geeks
     For
     Geeks

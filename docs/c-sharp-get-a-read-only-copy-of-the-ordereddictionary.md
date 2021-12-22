@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.Specialized.OrderedDictionary AsReadOnly ();
 
 ```
@@ -17,7 +17,7 @@ public System.Collections.Specialized.OrderedDictionary AsReadOnly ();
 
 **例 1:**
 
-```
+```cs
 // C# code to get a read-only
 // copy of the OrderedDictionary
 using System;
@@ -52,14 +52,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to get a read-only
 // copy of the OrderedDictionary
 using System;
@@ -93,7 +93,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 True
 
 ```

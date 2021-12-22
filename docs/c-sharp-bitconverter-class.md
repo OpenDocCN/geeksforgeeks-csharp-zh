@@ -30,7 +30,7 @@ BitConverter 类的用途是将基本数据类型转换为字节数组，将字�
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of GetBytes(Int64) method
 using System;
@@ -71,7 +71,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Elements are:
 0
 9223372036854775807
@@ -92,7 +92,7 @@ Element: 56-55-55-55-55-55-FF-FF
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of Int64BitsToDouble(Int64)
 // method
@@ -120,7 +120,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Converted Element is : 1.28822975391943E-231
 ```
 

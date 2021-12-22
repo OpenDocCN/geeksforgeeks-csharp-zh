@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of the implicitly typed variable
 using System;
@@ -42,7 +42,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Type of 'a' is : System.Char 
 Type of 'b' is : System.String 
 Type of 'c' is : System.Double 
@@ -55,7 +55,7 @@ Type of 'e' is : System.Int32
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to get the
 // actual type of the dynamic type variable
 using System;
@@ -92,7 +92,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Get the actual type of val1: System.String
 Get the actual type of val2: System.Int32
 Get the actual type of val3: System.Double

@@ -38,7 +38,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to get
 // Background and Foreground color
 // of the console
@@ -63,7 +63,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Background color : Black
 Foreground color : Black
 
@@ -94,7 +94,7 @@ Foreground color : Black
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of WriteLine(String) method in console
 using System;
@@ -114,7 +114,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Welcome to GeeksforGeeks
 This is a tutorial of Console Class
 

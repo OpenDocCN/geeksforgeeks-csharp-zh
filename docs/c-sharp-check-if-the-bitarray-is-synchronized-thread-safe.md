@@ -14,7 +14,7 @@
 
 **语法:**
 
-```
+```cs
 public bool IsSynchronized { get; }
 
 ```
@@ -23,7 +23,7 @@ public bool IsSynchronized { get; }
 
 **示例:**
 
-```
+```cs
 // C# code to check if the BitArray
 // is synchronized (thread safe)
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks
 GeeksforGeeks
 GeeksforGeeks

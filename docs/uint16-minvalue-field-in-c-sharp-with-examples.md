@@ -6,7 +6,7 @@ UInt16 Struct 的 **MinValue** 字段用于表示 16 位无符号整数的最小
 
 **语法:**
 
-```
+```cs
 public const ushort MinValue = 0;
 ```
 
@@ -14,7 +14,7 @@ public const ushort MinValue = 0;
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // UInt16.MinValue field
 using System;
@@ -58,7 +58,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Minimum Value is: 0
 Not Possible
 Conversion is Possible.

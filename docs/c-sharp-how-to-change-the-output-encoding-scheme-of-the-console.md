@@ -8,7 +8,7 @@
 
 **程序 1:** 获取输出编码方案的值
 
-```
+```cs
 // C# program to illustrate the
 // Console.OutputEncoding Property
 using System;
@@ -38,7 +38,7 @@ class Program {
 
 **程序 2:** 设置输出编码方案的值
 
-```
+```cs
 // C# program to illustrate the
 // Console.OutputEncoding Property
 using System;

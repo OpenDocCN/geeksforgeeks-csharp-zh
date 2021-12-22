@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool Equals (object obj);
 ```
 
@@ -18,7 +18,7 @@ public virtual bool Equals (object obj);
 
 **例 1:**
 
-```
+```cs
 // C# code to check if two
 // StringCollections are equal or not
 using System;
@@ -49,14 +49,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if two
 // StringCollections are equal or not
 using System;
@@ -107,7 +107,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 True
 

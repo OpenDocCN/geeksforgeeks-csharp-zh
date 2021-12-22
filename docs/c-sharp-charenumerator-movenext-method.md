@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool MoveNext();
 ```
 
@@ -16,7 +16,7 @@ public bool MoveNext();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of CharEnumerator.MoveNext()
 // Method
@@ -44,14 +44,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 A Computer Science Portal for Geeks!
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of CharEnumerator.MoveNext()
 // Method
@@ -84,7 +84,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Best
 Data
 Structure

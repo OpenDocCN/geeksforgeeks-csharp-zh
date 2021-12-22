@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool Contains (object key);
 ```
 
@@ -23,7 +23,7 @@ public virtual bool Contains (object key);
 
 **例 1:**
 
-```
+```cs
 // C# code to Check whether a SortedList
 // object contains a specific key
 using System;
@@ -54,14 +54,14 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to Check whether a SortedList
 // object contains a specific key
 using System;
@@ -92,7 +92,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 False
 
 ```

@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public int CompareTo (float value);
     ```
 
@@ -28,7 +28,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Single.CompareTo(Single) Method
     using System;
@@ -65,14 +65,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     10.5 is less than 20.6
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Single.CompareTo(Single) Method
     using System;
@@ -113,7 +113,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     5.4 is less than 7.5
     30.4 is greater than 20.3
     10.4 is equal to 10.4
@@ -127,7 +127,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public int CompareTo (object value);
     ```
 
@@ -145,7 +145,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Single.CompareTo(Object) Method
     using System;
@@ -192,14 +192,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     10.4 is less than 10.5
 
     ```
 
     **示例 2:** 适用于*参数异常*
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Single.CompareTo(object) Method
     using System;
@@ -246,7 +246,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     value2 must be Single
     Exception Thrown: System.ArgumentException
 

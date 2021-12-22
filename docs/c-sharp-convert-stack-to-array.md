@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public T[] ToArray ();
 
 ```
@@ -23,7 +23,7 @@ public T[] ToArray ();
 
 **例 1:**
 
-```
+```cs
 // C# code to Convert Stack to array
 using System;
 using System.Collections.Generic;
@@ -58,7 +58,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 GeeksforGeeks
 Data Structures
 Noida
@@ -69,7 +69,7 @@ Geeks
 
 **例 2:**
 
-```
+```cs
 // C# code to Convert Stack to array
 using System;
 using System.Collections.Generic;
@@ -104,7 +104,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 6
 5
 4

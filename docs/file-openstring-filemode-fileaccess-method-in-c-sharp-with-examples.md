@@ -31,7 +31,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Open(String, FileMode,
 // FileAccess) method
@@ -70,7 +70,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 GFG is a CS Portal.
 ```
 
@@ -82,7 +82,7 @@ GFG is a CS Portal.
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Open(String, FileMode,
 // FileAccess) method
@@ -116,6 +116,6 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks
 ```

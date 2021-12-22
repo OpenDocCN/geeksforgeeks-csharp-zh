@@ -8,7 +8,7 @@
 
 **在 C#中声明属性的语法:**
 
-```
+```cs
 [access_modifier] [return_type] [PropertyName]  
 {
 //body of property
@@ -20,7 +20,7 @@
 
 **在 C#中创建索引器的语法:**
 
-```
+```cs
 [access_modifier] [return_type] this [parameter]
 {
   get 

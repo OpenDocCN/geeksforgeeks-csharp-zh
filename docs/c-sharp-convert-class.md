@@ -43,7 +43,7 @@ Convert 类提供了不同的方法来将一个基本数据类型转换为另一
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of ToBase64String(Byte[])
 // method
@@ -77,7 +77,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 BArray is :02-04-08-10-20
 
 Base 64 string is :AgQIECA=
@@ -86,7 +86,7 @@ Base 64 string is :AgQIECA=
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of ToDecimal(Int16) method
 using System;
@@ -127,7 +127,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Elements are:
 1
 -32768

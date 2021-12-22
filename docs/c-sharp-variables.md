@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 type variable_name = value; 
 or
 type variable_names;
@@ -15,7 +15,7 @@ type variable_names;
 
 **例:**
 
-```
+```cs
 char var = 'h'; // Declaring and Initializing character variable
 int a, b, c; // Declaring variables a, b and c of int type
 
@@ -37,7 +37,7 @@ int a, b, c; // Declaring variables a, b and c of int type
 
 *   **有效变量名称**
 
-    ```
+    ```cs
     int age;
 
     float _studentname;
@@ -45,7 +45,7 @@ int a, b, c; // Declaring variables a, b and c of int type
 
 *   **无效变量名称**
 
-    ```
+    ```cs
     int if; // "if" is a keyword
 
     float 12studentname; // Cannot start with digit
@@ -62,7 +62,7 @@ int a, b, c; // Declaring variables a, b and c of int type
 
 **例:**
 
-```
+```cs
 int geeks;
 float interest;
 
@@ -74,7 +74,7 @@ float interest;
 
 **例:**
 
-```
+```cs
 int y = 7; // Declaring and initializing the variable at same time
 int x; // Declaring variable x
 x = 5; // initializing x with value 5
@@ -93,7 +93,7 @@ x = 5; // initializing x with value 5
 
 **例:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Compile Time Initialization
 using System;
@@ -126,7 +126,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Value of x is 32
 Value of y is 0
 
@@ -138,7 +138,7 @@ Value of y is 0
 
 **例:**
 
-```
+```cs
 Input : 45
 Output : Value of num is 45
 
@@ -147,7 +147,7 @@ Output : Value of num is 27
 
 ```
 
-```
+```cs
 // C# program to demonstrate the 
 // Run Time Initialization
 using System;
@@ -171,7 +171,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Value of num is 45
 
 ```

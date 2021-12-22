@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public override bool Equals (object obj);
 ```
 
@@ -24,7 +24,7 @@ public override bool Equals (object obj);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // Equals method
 using System;
@@ -53,7 +53,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 True
 False
@@ -62,7 +62,7 @@ False
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate Equals
 // method with nested tuple
 using System;
@@ -94,7 +94,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 False
 True

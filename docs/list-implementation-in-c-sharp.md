@@ -23,13 +23,13 @@
 
 **第一步:**包含系统。集合。通过使用关键字，在您的程序中借助*的泛型命名空间。*
 
-```
+```cs
 using System.Collections.Generic;
 ```
 
 **步骤 2:** 使用列表< T >类创建列表，如下所示:
 
-```
+```cs
 List list_name = new List(); 
 ```
 
@@ -88,7 +88,7 @@ List list_name = new List();
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how
 // to create a list
 using System;
@@ -126,7 +126,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 1
 10
 100
@@ -150,7 +150,7 @@ class GFG {
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how
 // to remove objects from the list
 using System;
@@ -202,7 +202,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Initial count:9
 2nd count:8
 3rd count:7
@@ -218,7 +218,7 @@ Initial count:9
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how
 // sort a list
 using System;
@@ -266,7 +266,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 UnSorted List:
 496
 1000

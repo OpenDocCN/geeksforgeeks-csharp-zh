@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 char variable_name = value;
 ```
 
@@ -14,7 +14,7 @@ char variable_name = value;
 
 **示例:**
 
-```
+```cs
 Input: S
 
 Output: chr: S
@@ -30,7 +30,7 @@ Output: Type of chr: System.Char
 
 **例 1:**
 
-```
+```cs
 // C# program for char keyword
 using System;
 using System.Text;
@@ -53,7 +53,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 chr: S
 Size of a char variable: 2
 
@@ -61,7 +61,7 @@ Size of a char variable: 2
 
 **例 2:**
 
-```
+```cs
 // C# program for char keyword
 using System;
 using System.Text;
@@ -93,7 +93,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Type of chr: System.Char
 chr: G
 Size of a char variable: 2
@@ -102,7 +102,7 @@ Size of a char variable: 2
 
 **例 3:**
 
-```
+```cs
 // C# program for char keyword
 using System;
 using System.Text;

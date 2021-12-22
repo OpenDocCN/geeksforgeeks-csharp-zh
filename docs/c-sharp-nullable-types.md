@@ -10,21 +10,21 @@
 
 **语法:**
 
-```
+```cs
 Nullable<data_type> variable_name = null;
 
 ```
 
 或者也可以使用包含**的快捷方式？**数据类型的运算符。
 
-```
+```cs
 datatype? variable_name = null;
 
 ```
 
 **示例:**
 
-```
+```cs
 // this will give compile time error
 int j = null;           
 
@@ -43,7 +43,7 @@ int? j = null;
 
 ## C#
 
-```
+```cs
 // C# program to illustrate Nullable Types
 using System;
 
@@ -90,7 +90,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 0
 0
 47
@@ -107,7 +107,7 @@ class Geeks {
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // use of Nullable type
 using System;
@@ -138,7 +138,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 2345
 
 ```
@@ -149,7 +149,7 @@ class GFG {
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // use of Nullable<L>.Hasvalue
 using System;
@@ -180,7 +180,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 True
 
@@ -194,7 +194,7 @@ True
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // use of  null-coalescing operator(??)
 using System;
@@ -221,7 +221,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 3
 
 ```

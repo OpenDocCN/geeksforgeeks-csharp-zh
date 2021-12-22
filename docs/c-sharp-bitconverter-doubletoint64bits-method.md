@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static long DoubleToInt64Bits (double value);
 ```
 
@@ -18,7 +18,7 @@ public static long DoubleToInt64Bits (double value);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.DoubleToInt64Bits()
 // Method
@@ -52,7 +52,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 double-precision floating point: 1.23456789012346
 
 64-bit signed integer: 4608238818662570490
@@ -61,7 +61,7 @@ double-precision floating point: 1.23456789012346
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.DoubleToInt64Bits()
 // Method
@@ -100,7 +100,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 double-precision floating point: 1
 
 64-bit signed integer: 4607182418800017408

@@ -11,7 +11,7 @@
 
 还有另一种读取文件的方法，那就是使用 StreamReader 对象。StreamReader 也一次读取一行，并返回一个字符串。所有上述读取文件的方法都在下面给出的示例代码中进行了说明。
 
-```
+```cs
 // C# program to illustrate how 
 // to read a file in C#
 using System;
@@ -80,7 +80,7 @@ class Program {
 
 还有另一种写入文件的方法，那就是使用 StreamWriter 对象。StreamWriter 也是一次写一行。如果文件不存在，所有三种写入方法都会创建一个新文件，但是如果文件已经存在于指定的位置，那么它就会被覆盖。上面提到的所有写入文本文件的方法都在下面给出的示例代码中进行了说明。
 
-```
+```cs
 // C# program to illustrate how 
 // to write a file in C#
 using System;
@@ -138,7 +138,7 @@ class Program {
 
 如果您想在现有文件中添加更多文本而不覆盖已经存储在其中的数据，可以使用 System.IO 的 file 类提供的追加方法
 
-```
+```cs
 using System;
 using System.IO;
 

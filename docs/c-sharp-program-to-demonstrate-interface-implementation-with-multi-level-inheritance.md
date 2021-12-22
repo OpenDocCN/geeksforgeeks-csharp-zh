@@ -6,7 +6,7 @@
 
 **语法**:
 
-```
+```cs
 class P : Q
 {
     // Methods
@@ -17,7 +17,7 @@ class P : Q
 
 **语法:**
 
-```
+```cs
 interface interface_name
 {
     //Method Declaration   
@@ -26,7 +26,7 @@ interface interface_name
 
 在理解了多级继承和接口之后，现在我们用多级继承实现接口。为此，我们可以将父类扩展到接口。
 
-```
+```cs
 class GFG1 : interface1
 {
     // Method definition
@@ -50,7 +50,7 @@ class GFG1 : interface1
 
 ## C#
 
-```
+```cs
 // C# program to implement interface 
 // with multi-level inheritance
 using System;
@@ -115,7 +115,7 @@ public static void Main(String[] args)
 
 **输出:**
 
-```
+```cs
 Hey! This is Parent
 Hey! This is first child
 Hey! This is second child

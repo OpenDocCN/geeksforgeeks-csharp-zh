@@ -20,7 +20,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式设置按钮的可见属性:
 
-```
+```cs
 public bool Visible { get; set; }
 ```
 
@@ -28,7 +28,7 @@ public bool Visible { get; set; }
 
 *   **步骤 1:** 使用 button 类提供的 Button()构造函数创建按钮。
 
-    ```
+    ```cs
     // Creating Button using Button class
     Button MyButton = new Button();
 
@@ -36,7 +36,7 @@ public bool Visible { get; set; }
 
 *   **步骤 2:** 创建按钮后，设置按钮类提供的按钮的可见属性。
 
-    ```
+    ```cs
     // Set the visibility of the button
     MyButton.Visible = true;
 
@@ -44,7 +44,7 @@ public bool Visible { get; set; }
 
 *   **Step 3:** And last add this button control to from using Add() method.
 
-    ```
+    ```cs
     // Add this Button to form
     this.Controls.Add(Mybutton);
 
@@ -52,7 +52,7 @@ public bool Visible { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

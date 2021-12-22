@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public T6 Item6;
 ```
 
@@ -14,7 +14,7 @@ public T6 Item6;
 
 **示例 1:** 在下面的代码中，可以看到我们正在访问每个值元组的第六个元素。
 
-```
+```cs
 // C# program to illustrate how to get
 // the sixth element of value tuple
 using System;
@@ -59,7 +59,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 C# Topics:
 Loops
 Partial Classes
@@ -69,7 +69,7 @@ Local Function
 
 **例 2:**
 
-```
+```cs
 // C# program to get the hash code of
 // sixth element in a value tuple
 using System;
@@ -97,7 +97,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Passing Year: 2017
 Hash Code: 2017
 

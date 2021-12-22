@@ -16,7 +16,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToUInt64(Decimal) Method
 using System;
@@ -58,7 +58,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The UInt64 value is : 9223372036854775807
 The UInt64 value is : 18446744073709551615
 
@@ -66,7 +66,7 @@ The UInt64 value is : 18446744073709551615
 
 **例 2:** 适用于*飞越异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToUInt64(Decimal) Method
 using System;
@@ -102,7 +102,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.OverflowException
 
 ```

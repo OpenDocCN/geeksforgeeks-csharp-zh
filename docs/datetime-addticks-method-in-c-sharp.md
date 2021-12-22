@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public DateTime AddTicks (long value);
 ```
 
@@ -20,7 +20,7 @@ public DateTime AddTicks (long value);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.AddTicks(Double) Method
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 No. of ticks before operation: 633979152150000000
 
 No. of ticks after operation: 633979152150003000
@@ -70,7 +70,7 @@ No. of ticks after operation: 633979152150003000
 
 **例 2:** 为*argumentout of range exception*
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.AddTicks(long) Method
 using System;
@@ -114,7 +114,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 DateTime before operation: 3155378975999999999
 
 The resulting DateTime is greater than the DateTime.MaxValue 

@@ -12,7 +12,7 @@
 
 **示例:**
 
-```
+```cs
 Input  : [6.0, 7.89, 8.9, 89.5, 13.3]
 Output : true
 
@@ -24,7 +24,7 @@ Output : false
 
 ## C#
 
-```
+```cs
 // C# program to check if all the items of a 
 // Float Array is greater than 5.0
 using System;
@@ -58,7 +58,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Elements in the array are not greater than 5
 ```
 
@@ -66,7 +66,7 @@ Elements in the array are not greater than 5
 
 ## C#
 
-```
+```cs
 // C# program to check if all the items of a 
 // Float Array is greater than 5.0
 using System;
@@ -99,7 +99,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Is nums1 contain all the elements greater than 5.0f: False
 Is nums2 contain all the elements greater than 5.0f: True
 ```

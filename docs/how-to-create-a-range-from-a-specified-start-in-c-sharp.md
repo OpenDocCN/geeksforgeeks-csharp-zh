@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static Range StartAt(Index start);
 ```
 
@@ -14,7 +14,7 @@ public static Range StartAt(Index start);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate 
 // how to create a range using
 // StartAt() method of Range struct
@@ -50,7 +50,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Range_1: 2..4
 Range_2: 1..10
 Range_3: 4..^0
@@ -59,7 +59,7 @@ Range_3: 4..^0
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate how 
 // to create a range using
 // StartAt() method of Range struct
@@ -95,7 +95,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Range: 2..^0
 Numbers:  [300] [400] [500] [600] [700] [800]
 

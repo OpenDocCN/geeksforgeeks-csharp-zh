@@ -19,7 +19,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.Equals(Type) Method
     using System;
@@ -52,14 +52,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     System.String is not equal to System.Int32
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.Equals(Type) Method
     using System;
@@ -98,7 +98,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     System.String is equal to System.String
     System.String is not equal to System.Int32
     System.Decimal is not equal to System.Double
@@ -118,7 +118,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.Equals(Object) Method
     using System;
@@ -151,14 +151,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     System.Int32 is equal to System.Int32
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Type.Equals(Object) Method
     using System;
@@ -196,7 +196,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     System.Int32 is not equal to System.Object
     System.String is not equal to 5.5
     System.String is not equal to

@@ -14,7 +14,7 @@ T3】例 1:
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.FromBinary(Int64) Method
 using System;
@@ -58,7 +58,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 DateTime before operation: 2010 January 01
 
 DateTime after operation: 2010 January 01
@@ -68,7 +68,7 @@ DateTime after operation: 2010 January 01
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.FromBinary() Method
 using System;
@@ -103,7 +103,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The resulting dateData is less than the MinValue 
 Exception Thrown: System.ArgumentException
 ```

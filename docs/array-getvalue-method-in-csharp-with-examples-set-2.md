@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public object GetValue (int index);
 ```
 
@@ -29,7 +29,7 @@ public object GetValue (int index);
 
 **语法:**
 
-```
+```cs
 public object GetValue (long index);
 ```
 
@@ -44,7 +44,7 @@ public object GetValue (long index);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Array.GetValue(Int32) Method
 using System;
@@ -66,7 +66,7 @@ public class GFG  {
 
 输出:
 
-```
+```cs
 element at index 3 is : D
 element at index 1 is : B
 element at index 2 is : C
@@ -76,7 +76,7 @@ element at index 0 is : A
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Array.GetValue(Int64) Method
 using System;
@@ -107,7 +107,7 @@ public class GFG  {
 
 **输出:**
 
-```
+```cs
 element at index 3 is : Perl
 element at index 1 is : Java
 element at index 2 is : C#

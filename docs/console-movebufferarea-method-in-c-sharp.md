@@ -26,7 +26,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to print GeeksForGeeks
 using System;
 
@@ -48,7 +48,7 @@ class Program {
 
 **例 2:**
 
-```
+```cs
 // C# program to change area
 // of GeeksForGeeks
 using System;

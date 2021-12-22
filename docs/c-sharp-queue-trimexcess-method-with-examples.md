@@ -17,7 +17,7 @@
 
 **语法:**
 
-```
+```cs
 public void TrimExcess ();
 
 ```
@@ -32,7 +32,7 @@ public void TrimExcess ();
 
 **示例:**
 
-```
+```cs
 // C# code to set the capacity to the
 // actual number of elements in the Queue
 using System;
@@ -71,7 +71,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 5
 0
 

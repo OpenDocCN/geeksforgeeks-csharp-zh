@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 static class Class_Name
 {
 
@@ -20,7 +20,7 @@ static class Class_Name
 *   **静态数据成员:**由于静态类总是包含静态数据成员，所以静态数据成员是用 Static 关键字声明的，直接用类名访问。静态数据成员的内存是单独分配的，与对象没有任何关系。
     **语法:**
 
-```
+```cs
 static class Class_name 
 {
     public static nameofdatamember;
@@ -30,7 +30,7 @@ static class Class_name
 *   **静态方法:**由于静态类总是包含静态方法，所以静态方法是使用 Static 关键字声明的。这些方法只访问静态数据成员，不能访问非静态数据成员。
     **语法:**
 
-```
+```cs
 static class Class_name {
 
     public static nameofmethod()
@@ -44,7 +44,7 @@ static class Class_name {
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // concept of static class
 using System;
@@ -89,7 +89,7 @@ public class GFG {
 
 **Output:** 
 
-```
+```cs
 The details of Author is:
 Author name : Ankita 
 Language : CSharp 

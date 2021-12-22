@@ -14,7 +14,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // MathF.Pow(Single, Single) Method
 using System;
@@ -52,7 +52,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 4096
 56.25
 4.357186E+21

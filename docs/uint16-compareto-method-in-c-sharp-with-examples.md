@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public int CompareTo (ushort value);
     ```
 
@@ -28,7 +28,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt16.CompareTo(UInt16) Method
     using System;
@@ -64,14 +64,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     7 is less than 98
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt16.CompareTo(UInt16) Method
     using System;
@@ -112,7 +112,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     54 is less than 77
     70 is less than 95
     10 is less than 24
@@ -126,7 +126,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public int CompareTo (object value);
     ```
 
@@ -144,7 +144,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt16.CompareTo(object) Method
     using System;
@@ -191,14 +191,14 @@
 
     **Output:**
 
-    ```
+    ```cs
     10 is less than 56
 
     ```
 
     **示例 2:** 适用于*参数异常*
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // UInt16.CompareTo(Object) Method
     using System;
@@ -246,7 +246,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     value2 must be null or an instance of UInt16
     Exception Thrown: System.ArgumentException
 

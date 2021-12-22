@@ -17,7 +17,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of LongCount method
 using System;
@@ -44,14 +44,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 5
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to find the total
 // number of employees
 using System;
@@ -131,7 +131,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 How many employee present in the company: 6
 
 ```

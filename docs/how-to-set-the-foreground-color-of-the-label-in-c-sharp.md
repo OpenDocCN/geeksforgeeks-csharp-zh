@@ -19,7 +19,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式设置 Label 控件的前景色:
 
-```
+```cs
 public virtual System.Drawing.Color ForeColor { get; set; }
 ```
 
@@ -27,7 +27,7 @@ public virtual System.Drawing.Color ForeColor { get; set; }
 
 *   **步骤 1:** 使用标签类提供的标签()构造函数创建标签。
 
-    ```
+    ```cs
     // Creating label using Label class
     Label mylab = new Label();
 
@@ -35,7 +35,7 @@ public virtual System.Drawing.Color ForeColor { get; set; }
 
 *   **第 2 步:**创建标签后，设置标签类提供的标签的前景色属性。
 
-    ```
+    ```cs
     // Set ForeColor property of the label
     mylab.ForeColor = Color.DarkBlue;
 
@@ -43,7 +43,7 @@ public virtual System.Drawing.Color ForeColor { get; set; }
 
 *   **Step 3:** And last add this Label control to form using Add() method.
 
-    ```
+    ```cs
     // Add this label to the form
     this.Controls.Add(mylab);
 
@@ -51,7 +51,7 @@ public virtual System.Drawing.Color ForeColor { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

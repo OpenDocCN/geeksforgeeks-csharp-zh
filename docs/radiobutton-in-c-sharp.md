@@ -26,14 +26,14 @@
 
 *   **步骤 1:** 使用 RadioButton 类提供的 radio button()构造函数创建单选按钮。
 
-```
+```cs
 // Creating radio button
 RadioButton r1 = new RadioButton();
 ```
 
 *   **步骤 2:** 创建 RadioButton 后，设置 RadioButton 类提供的 RadioButton 的属性。
 
-```
+```cs
 // Set the AutoSize property 
 r1.AutoSize = true;
 
@@ -49,7 +49,7 @@ r1.Font = new Font("Berlin Sans FB", 12);
 
 *   **第 3 步:**最后使用 add()方法将这个 RadioButton 控件添加到表单中。
 
-```
+```cs
 // Add this radio button to the form
 this.Controls.Add(r1);
 ```
@@ -58,7 +58,7 @@ this.Controls.Add(r1);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

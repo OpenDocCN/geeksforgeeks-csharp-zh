@@ -15,7 +15,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetTypeHandle() Method
 using System;
@@ -55,14 +55,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Type referenced is System.RuntimeTypeHandle
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetTypeHandle() Method
 using System;
@@ -102,7 +102,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 object is null.
 Exception Thrown: System.ArgumentNullException
 

@@ -5,7 +5,7 @@
 在编程语言中，标识符用于识别目的。或者换句话说，标识符是程序组件的用户定义名称。在 C#中，标识符可以是类名、方法名、变量名或标签。
 **例:**
 
-```
+```cs
 public class GFG {
     static public void Main () 
     {
@@ -37,7 +37,7 @@ public class GFG {
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // Simple C# program to illustrate identifiers
 using System;
 
@@ -61,7 +61,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The sum of two number is: 49
 ```
 

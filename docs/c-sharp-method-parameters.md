@@ -15,7 +15,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // concept of the named parameters
     using System;
@@ -42,7 +42,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Final string is: GeeksforGeeks
 
     ```
@@ -53,7 +53,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // concept of ref parameter
     using System;
@@ -90,7 +90,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Matched!
     Cat
 
@@ -102,7 +102,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // concept of out parameter
     using System;
@@ -140,7 +140,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     The sum of the value is: 80
 
     ```
@@ -151,7 +151,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // concept of optional parameters 
     using System; 
@@ -189,7 +189,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Employee name: XYZ
     Employee ID: 123
     Blood Group: A+
@@ -211,7 +211,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the concept 
     // of the dynamic parameters
     using System;
@@ -237,7 +237,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     900
 
     ```
@@ -248,7 +248,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate value parameters
     using System;
 
@@ -275,7 +275,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Geeksgeeks
 
     ```
@@ -286,7 +286,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate params
     using System;
     namespace Examples {
@@ -321,7 +321,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     295364160
 
     ```**

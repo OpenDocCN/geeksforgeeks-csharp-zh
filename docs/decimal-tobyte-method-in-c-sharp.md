@@ -17,7 +17,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToByte(Decimal) Method
 using System;
@@ -52,14 +52,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Byte value is : 127
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToByte(Decimal) Method
 using System;
@@ -94,14 +94,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Byte value is : 0
 
 ```
 
 **示例 3:*飞越异常*的**程序
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.ToByte(Decimal) Method
 using System;
@@ -136,7 +136,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.OverflowException
 
 ```

@@ -27,7 +27,7 @@ ValueTuple <t1>结构用于创建六元组或六值元组。它表示一个存�
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to
 // access the element of ValueTuple<T1, 
 // T2, T3, T4, T5, T6>
@@ -58,7 +58,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Book Details: 
 Book Id: 3456
 Book Name: The Guide
@@ -80,7 +80,7 @@ Language: English
 
 **示例:**
 
-```
+```cs
 // C# program to check the given value 
 // tuples are equal or not
 using System;
@@ -113,7 +113,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Code is correct...!!
 
 ```

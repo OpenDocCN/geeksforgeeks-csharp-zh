@@ -6,7 +6,7 @@
 
 **例:**
 
-```
+```cs
 Input :  X = 'a'
 Output : string S = "a"
 
@@ -17,7 +17,7 @@ Output : string S = "A"
 
 **方法:**想法是使用 [ToString(](https://www.geeksforgeeks.org/c-sharp-char-tostring-method/) ) 方法，参数是字符，它返回字符串将 Unicode 字符转换为字符串。
 
-```
+```cs
 // convert the character x
 // to string s
 public string ToString(IFormatProvider provider);
@@ -26,7 +26,7 @@ public string ToString(IFormatProvider provider);
 
 ## c#
 
-```
+```cs
 // C# program to character to the string
 using System;
 
@@ -58,7 +58,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Type of A : System.Char
 Type of A : System.String
 

@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```cs
 public static Index FromEnd(int value);
 ```
 
 **例:1**
 
-```
+```cs
 // C# program to illustrate the 
 // concept of the FromEnd() Method
 using System;
@@ -43,7 +43,7 @@ class Program {
 
 **输出:**
 
-```
+```cs
 Index position is : ^2 
 Index position is : ^1 
 Index position is : ^0 
@@ -53,7 +53,7 @@ Index position is : ^6
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of the FromEnd() method
 using System;
@@ -95,7 +95,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Index: ^3 Value: Bonjour
 Index: ^1 Value: Ahnyounghaseyo
 Index: ^4 Value: Namaste

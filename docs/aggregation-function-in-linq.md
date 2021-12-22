@@ -19,7 +19,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate how to
 // find the sum of the given sequence
 using System;
@@ -46,7 +46,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 The sum of the given sequence is: 
 591
 

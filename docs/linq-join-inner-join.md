@@ -23,7 +23,7 @@ join 子句总是取两个数据源，呈现数据源的元素必须包含一些
 
     **语法:**
 
-    ```
+    ```cs
     join … in … 
     on … equals …
 
@@ -38,7 +38,7 @@ join 子句总是取两个数据源，呈现数据源的元素必须包含一些
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of inner join in Query Syntax
 using System;
@@ -155,7 +155,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Employee and their Salary: 
 Employee Name: Anu Salary: 23000
 Employee Name: Mohit Salary: 40000
@@ -166,7 +166,7 @@ Employee Name: Lana Salary: 60000
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of inner join in Method Syntax
 using System;
@@ -281,7 +281,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Employee Name and their Department:
 Employee Name: Anu Department: Designing
 Employee Name: Mohit Department: Developing

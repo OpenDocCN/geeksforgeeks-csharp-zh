@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // Boolean.GetTypeCode() Method
 using System;
@@ -39,14 +39,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for True is: Boolean
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // Boolean.GetTypeCode() Method
 using System;
@@ -77,7 +77,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 TypeCode for True is Boolean
 TypeCode for False is Boolean
 

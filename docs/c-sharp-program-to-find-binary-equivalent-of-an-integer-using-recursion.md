@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input : 10
 Output: 1010
 
@@ -41,7 +41,7 @@ Output: 1011
 
 ## C#
 
-```
+```cs
 // C# program to display the binary equivalent
 // of an integer
 using System;
@@ -80,7 +80,7 @@ public static int decimaltobinary(int val)
 
 **Output**
 
-```
+```cs
 1111
 ```
 
@@ -88,7 +88,7 @@ public static int decimaltobinary(int val)
 
 ## C#
 
-```
+```cs
 // C# program to display the binary equivalent
 // of an integer
 using System;
@@ -129,7 +129,7 @@ public static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Hi! Enter the number:10
 1010
 ```

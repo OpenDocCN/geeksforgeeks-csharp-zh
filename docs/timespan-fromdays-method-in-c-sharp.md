@@ -20,7 +20,7 @@
 
 **程序 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // TimeSpan.FromDays(Double) Method
 using System;
@@ -48,14 +48,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Timespan is : 43.23:59:59.9140000
 
 ```
 
 **程序 2:** 为*溢出异常*
 
-```
+```cs
 // C# program to demonstrate the
 // TimeSpan.FromDays(Double) Method
 using System;
@@ -85,7 +85,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.OverflowException
 
 ```

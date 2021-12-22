@@ -5,7 +5,7 @@
 在 C# 8.0 中引入了[范围结构](https://www.geeksforgeeks.org/range-structure-in-c-sharp-8-0/)。它表示具有开始和结束索引的范围。您可以借助范围结构提供的**开始属性**找到给定范围的开始索引。
 **语法:**
 
-```
+```cs
 public property Index Start { Index get(); };
 ```
 
@@ -14,7 +14,7 @@ public property Index Start { Index get(); };
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the use
 // of Start property of Range struct
 using System;
@@ -50,7 +50,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Starting index of r1 range: 0
 Starting index of r2 range: 3
 ```
@@ -59,7 +59,7 @@ Starting index of r2 range: 3
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate how to use
 // Start property of Range structure
 using System;
@@ -98,7 +98,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Start Index of Range 0..3 is 0 and the item is Archery
 Start Index of Range 4..7 is 4 and the item is Boxing
 ```

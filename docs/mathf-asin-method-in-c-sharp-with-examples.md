@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Asin(Single)  Method
 using System;
@@ -39,14 +39,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Angle is 0.7753975
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // MathF.Asin(Single) Method
 using System;
@@ -81,7 +81,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Asin(0.19) will be 0.1911621
 Asin(NaN) will be NaN
 Asin(-Infinity) will be NaN

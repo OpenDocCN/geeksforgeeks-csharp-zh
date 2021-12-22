@@ -5,7 +5,7 @@
 ***排序列表。TrimToSize 方法*** 用于将容量设置为 SortedList 对象中元素的实际数量。
 **语法:**
 
-```
+```cs
 public virtual void TrimToSize ();
 ```
 
@@ -15,7 +15,7 @@ public virtual void TrimToSize ();
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // SortedList.TrimToSize() Method
 using System;
@@ -54,7 +54,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Before trimming the capacity is: 16
 After trimming the capacity is: 6
 ```
@@ -63,7 +63,7 @@ After trimming the capacity is: 6
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate
 // SortedList.TrimToSize() Method
 using System;
@@ -155,7 +155,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Before Using TrimToSize Method:
 
 Count: 5

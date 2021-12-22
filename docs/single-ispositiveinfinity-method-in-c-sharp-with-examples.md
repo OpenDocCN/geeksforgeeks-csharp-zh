@@ -13,7 +13,7 @@
 
 **例:**演示*单。is 阳性(单一)法*
 
-```
+```cs
 // C# program to illustrate the
 // Single.IsPositiveInfinity(Single)
 // Method
@@ -57,7 +57,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Infinity
 True
 Infinity

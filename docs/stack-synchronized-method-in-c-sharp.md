@@ -16,7 +16,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# code to illustrate the
 // Stack.Synchronized() Method
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 myStack is Not Synchronized.
 st is Synchronized.
 
@@ -63,7 +63,7 @@ st is Synchronized.
 
 **例 2:**
 
-```
+```cs
 // C# code to illustrate the
 // Stack.Synchronized() Method
 using System;

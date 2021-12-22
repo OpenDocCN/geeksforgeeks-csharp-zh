@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public Type GetType ();
 ```
 
@@ -16,7 +16,7 @@ public Type GetType ();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // use of GetType method
 using System;
@@ -69,7 +69,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Type of the element of 1-Tuple: System.String
 
 Type of the First Element of 2-Tuple: System.String

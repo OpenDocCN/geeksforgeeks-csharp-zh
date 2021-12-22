@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool IsFixedSize { get; }
 
 ```
@@ -26,7 +26,7 @@ public virtual bool IsFixedSize { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to check if the ArrayList
 // has fixed size or not
 using System;
@@ -58,14 +58,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if the ArrayList 
 // has fixed size or not 
 using System; 
@@ -109,7 +109,7 @@ class GFG { 
 
 **输出:**
 
-```
+```cs
 False
 True
 

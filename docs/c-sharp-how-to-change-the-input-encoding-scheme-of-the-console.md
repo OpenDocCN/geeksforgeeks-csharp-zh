@@ -8,7 +8,7 @@
 
 **程序 1:** 获取输入编码方案的值
 
-```
+```cs
 // C# program to illustrate the
 // Console.InputEncoding Property
 using System;
@@ -38,7 +38,7 @@ class Program {
 
 **程序 2:** 设置输入编码方案的值
 
-```
+```cs
 // C# program to illustrate the
 // Console.InputEncoding Property
 using System;

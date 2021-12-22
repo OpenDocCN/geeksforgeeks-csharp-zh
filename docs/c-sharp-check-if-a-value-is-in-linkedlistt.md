@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool Contains (T value);
 
 ```
@@ -19,7 +19,7 @@ public bool Contains (T value);
 
 **例 1:**
 
-```
+```cs
 // C# code to check if a
 // value is in LinkedList
 using System;
@@ -49,14 +49,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to check if a
 // value is in LinkedList
 using System;
@@ -86,7 +86,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 
 ```

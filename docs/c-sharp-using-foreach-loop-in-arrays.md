@@ -4,7 +4,7 @@
 
 C#语言提供了几种读取项目集合的技术。其中一个是**[foreach loop](https://www.geeksforgeeks.org/c-foreach-loop/)T4。foreach 循环提供了一种简单、干净的方式来遍历*集合或项目数组*的元素。有一点我们必须知道，在使用 foreach 循环之前，我们必须在程序中声明数组或集合。因为 foreach 循环只能迭代之前声明的任何数组或任何集合。我们无法像 for loop 一样使用 foreach 循环打印数字或字符序列，请参见下面的:**
 
-```
+```cs
 for(i = 0; i <= 10; i++)
 // we cannot use foreach loop in this way to print 1 to 10
 // to print 1 to 10 using foreach loop we need to declare 
@@ -14,7 +14,7 @@ for(i = 0; i <= 10; i++)
 
 **foreach 循环的语法:**
 
-```
+```cs
 foreach (Data_Type variable_name in Collection_or_array_Object_name)
  {
    //body of foreach loop
@@ -27,7 +27,7 @@ foreach (Data_Type variable_name in Collection_or_array_Object_name)
 
 **示例 1:** 下面是使用数组
 
-```
+```cs
 // C# program to show the use of
 // "for" loop and "foreach" loop
 using System;
@@ -70,7 +70,7 @@ class GFG {
 
 **实现“for”和“foreach”循环输出:**
 
-```
+```cs
 Array printing using for loop = GeeksforGeeks
 Array printing using foreach loop = GeeksforGeeks
 

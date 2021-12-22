@@ -24,7 +24,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式设置 DateTimePicker 控件的可见性:
 
-```
+```cs
 public bool Visible { get; set; }
 ```
 
@@ -32,7 +32,7 @@ public bool Visible { get; set; }
 
 *   **步骤 1:** 使用 DateTimePicker 类提供的 DateTimePicker()构造函数创建一个 DateTimePicker。
 
-    ```
+    ```cs
     // Creating a DateTimePicker
     DateTimePicker dt = new DateTimePicker();
 
@@ -40,7 +40,7 @@ public bool Visible { get; set; }
 
 *   **步骤 2:** 创建日期选择器后，设置由日期选择器类提供的日期选择器的可见属性。
 
-    ```
+    ```cs
     // Setting the visibility
     dt.Visible = false;
 
@@ -48,7 +48,7 @@ public bool Visible { get; set; }
 
 *   **Step 3:** And last add this DateTimePicker control to the form using the following statement:
 
-    ```
+    ```cs
     // Adding this control to the form
     this.Controls.Add(dt);
 
@@ -56,7 +56,7 @@ public bool Visible { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

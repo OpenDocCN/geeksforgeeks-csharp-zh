@@ -16,7 +16,7 @@ SortedList 类是按键排序的**(键，值)对**的集合。这些对可以通
 
 **语法:**
 
-```
+```cs
 public virtual bool IsReadOnly { get; }
 
 ```
@@ -25,7 +25,7 @@ public virtual bool IsReadOnly { get; }
 
 **示例:**
 
-```
+```cs
 // C# code to check if a
 // SortedList is read-only
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 
 ```

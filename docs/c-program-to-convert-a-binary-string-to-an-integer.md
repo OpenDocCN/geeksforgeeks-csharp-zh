@@ -6,14 +6,14 @@
 
 **语法:**
 
-```
+```cs
  Convert.ToInt32(String, Base/Int32);
 
 ```
 
 **示例:**
 
-```
+```cs
 Input  : 1010101010101010
 Output : 43690
 
@@ -31,7 +31,7 @@ Output : 792
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to convert array
 // of binary string to an integer
 using System;
@@ -57,7 +57,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Number value of binary "1010101010101010" is = 43690
 
 ```
@@ -66,7 +66,7 @@ Number value of binary "1010101010101010" is = 43690
 
 ## C#
 
-```
+```cs
 // C# program to convert array
 // of binary string to an integer
 using System;
@@ -115,7 +115,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Number value of binary "1100011000" is = 792
 Number value of binary "111100001111" is = 3855
 Number value of binary "11001100110011001100" is = 838860

@@ -10,7 +10,7 @@ C# **StringBuilder** 类似于 [Java StringBuilder](https://www.geeksforgeeks.or
 
 StringBuilder 可以像类一样声明和初始化，
 
-```
+```cs
 StringBuilder s = new StringBuilder();
 
 or
@@ -25,7 +25,7 @@ StringBuilder s = new StringBuilder("GeeksforGeeks");
 
 虽然**字符串生成器**是一个动态对象，允许您扩展它封装的字符串中的字符数，但是您可以为它可以容纳的最大字符数指定一个值。这个值叫做 **StringBuilder** 对象的容量。
 
-```
+```cs
 StringBuilder s = new StringBuilder(20);
 
 or
@@ -55,7 +55,7 @@ StringBuilder s = new StringBuilder("GeeksForGeeks", 20);
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the 
 // StringBuilder.Append(value) and
 // StringBuilder.AppendLine(value) method
@@ -85,7 +85,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HELLO GFGGEEKS
 GeeksForGeeks
 
@@ -95,7 +95,7 @@ GeeksForGeeks
 
 此方法使用将输入字符串格式化为指定的格式，然后追加它。此方法还将文本追加到 StringBuilder 对象的末尾。
 
-```
+```cs
 // C# program to demonstrate the 
 // StringBuilder.AppendFormat() method
 using System;
@@ -118,7 +118,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Your total amount is Â¤50.00
 
 ```

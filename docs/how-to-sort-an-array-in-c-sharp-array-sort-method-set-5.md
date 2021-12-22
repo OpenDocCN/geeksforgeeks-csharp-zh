@@ -25,7 +25,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the use of
 // Array.Sort<TKey, TValue>(TKey[],
 // TValue[], IComparer<TKey>) Method
@@ -87,7 +87,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The original order of elements in the array:
 H : A
 J : E
@@ -131,7 +131,7 @@ N : B
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the use of
 // Array.Sort<TKey, TValue>(TKey[], TValue[],
 // Int32, Int32) Method
@@ -180,7 +180,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The original order of elements in the array:
 H : A
 J : E
@@ -227,7 +227,7 @@ N : G
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the use of
 // Array.Sort<TKey, TValue>(TKey[], TValue[],
 // Int32, Int32, IComparer<TKey>) Method
@@ -290,7 +290,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The original order of elements in the array:
 H : A
 J : E

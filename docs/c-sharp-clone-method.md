@@ -7,7 +7,7 @@
 
 **语法:**
 
-```
+```cs
 public object Clone()
 
 ```
@@ -16,7 +16,7 @@ public object Clone()
 
 下面的程序说明了克隆()方法的使用:
 
-```
+```cs
 // C# program to illustrate 
 // Clone() method
 using System;
@@ -42,7 +42,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 String : GeeksForgeeks
 Clone String : GeeksForgeeks
 

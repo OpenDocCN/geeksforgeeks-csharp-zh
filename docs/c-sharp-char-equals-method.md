@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```cs
 public bool Equals(Char ob);
 ```
 
@@ -25,7 +25,7 @@ public bool Equals(Char ob);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Char.Equals(Char) Method
 using System;
@@ -61,7 +61,7 @@ public class GeeksforGeeks {
 
 **Output:**
 
-```
+```cs
 True
 False
 
@@ -73,7 +73,7 @@ False
 
 **语法:**
 
-```
+```cs
 public override bool Equals(object ob);
 ```
 
@@ -85,7 +85,7 @@ public override bool Equals(object ob);
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // Char.Equals(Object) Method
 using System;
@@ -121,7 +121,7 @@ public class GeeksforGeeks {
 
 **Output:**
 
-```
+```cs
 True
 False
 

@@ -8,7 +8,7 @@
 
 **语法**:
 
-```
+```cs
 DirectoryInfo object = new DirectoryInfo(path);
 ```
 
@@ -18,7 +18,7 @@ DirectoryInfo object = new DirectoryInfo(path);
 
 **语法**:
 
-```
+```cs
 DirectoryInfo_object.GetFiles()
 ```
 
@@ -32,19 +32,19 @@ DirectoryInfo_object.GetFiles()
 
 **1。**使用目录信息类创建和读取目录
 
-```
+```cs
 DirectoryInfo place  = new DirectoryInfo(@"C:\Train");
 ```
 
 **2。**使用 GetFiles()方法创建一个数组来获取所有文件列表
 
-```
+```cs
             FileInfo[] Files = place.GetFiles();
 ```
 
 **3。**通过 foreach 循环显示带有 Name 属性的文件名
 
-```
+```cs
 foreach(FileInfo i in Files)
 {           
     Console.WriteLine("File Name - {0}",
@@ -60,7 +60,7 @@ foreach(FileInfo i in Files)
 
 ## C#
 
-```
+```cs
 // C# program to listing the files in a directory
 using System;
 using System.IO;
@@ -90,7 +90,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Files are:
 File Name - crop_yielding.csv
 File Name - cropdamage.csv

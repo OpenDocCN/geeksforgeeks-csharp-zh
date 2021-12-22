@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static System.IO.FileStream Create (string path);
 ```
 
@@ -30,7 +30,7 @@ public static System.IO.FileStream Create (string path);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Create(String) method
 
@@ -75,7 +75,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 GeeksforGeeks
@@ -91,7 +91,7 @@ GeeksforGeeks
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Create(String) method
 
@@ -135,7 +135,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 GFG is a CS Portal

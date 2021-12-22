@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public void Remove (object key);
 
 ```
@@ -24,7 +24,7 @@ public void Remove (object key);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the entry
 // with the specified key from
 // the OrderedDictionary
@@ -73,7 +73,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Number of elements are : 5
 key1 -- value1
 key2 -- value2
@@ -90,7 +90,7 @@ key5 -- value5
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the entry
 // with the specified key from
 // the OrderedDictionary

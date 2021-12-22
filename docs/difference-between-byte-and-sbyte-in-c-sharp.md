@@ -10,7 +10,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate 
 // the byte Struct Fields
 
@@ -32,7 +32,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Minimum value of byte: 0
 Maximum value of byte: 255
 
@@ -44,7 +44,7 @@ Maximum value of byte: 255
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate 
 // the sbyte Struct Fields
 
@@ -66,7 +66,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Minimum value of sbyte: -128
 Maximum value of sbyte: 127
 
@@ -84,13 +84,13 @@ Maximum value of sbyte: 127
 | **5。**T3】 | T 他的字节范围是从 0 到 255。 | 字节范围从 -128 到 127 |
 | **6。**T3】 | 声明字节的语法:
 
-```
+```cs
 ***byte variable_name;***  
 ```
 
  | 声明字节的语法:
 
-```
+```cs
 ***sbyte variable_name;***  
 ```
 

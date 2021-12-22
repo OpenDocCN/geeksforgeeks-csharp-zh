@@ -23,7 +23,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Decimal.Round(Decimal) Method
     using System;
@@ -58,13 +58,13 @@
 
     **输出:**
 
-    ```
+    ```cs
     Rounded value is 184467440737096
     ```
 
     **例 2:** 适用于*飞越异常*
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Decimal.Round(Decimal) Method
     using System;
@@ -121,7 +121,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Decimal.Round(Decimal) Method
     using System;
@@ -156,13 +156,13 @@
 
     **输出:**
 
-    ```
+    ```cs
     Rounded value is 7922816251426433759354.3950
     ```
 
     **例 2:** 为*argumentout of range exception*
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Decimal.Round(Decimal) Method
     using System;
@@ -198,7 +198,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Decimal place is not within bound
     Exception Thrown: System.ArgumentOutOfRangeException
 

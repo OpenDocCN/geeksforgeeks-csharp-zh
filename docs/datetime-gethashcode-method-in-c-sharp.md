@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.GetHashCode()
 // Method
@@ -40,14 +40,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 hashcode is 103491886
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // DateTime.GetHashCode()
 // Method
@@ -82,7 +82,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 HashCode of 01/03/2010 04:00:15 is 1802939328
 HashCode of 01/05/2010 04:00:15 is -1337841070
 

@@ -18,7 +18,7 @@
 
 **程序 1:**
 
-```
+```cs
 // C# program to illustrate the
 // Console.Beep Method
 using System;
@@ -43,7 +43,7 @@ class Program {
 
 **程序 2:** 播放哔哔声 n 次。
 
-```
+```cs
 // C# program to illustrate the
 // Console.Beep Method
 using System;

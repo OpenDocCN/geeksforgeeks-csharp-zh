@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool Equals (object obj);
 ```
 
@@ -18,7 +18,7 @@ public virtual bool Equals (object obj);
 
 **例 1:**
 
-```
+```cs
 // C# program to if a SortedList
 // is equal to another SortedList
 using System;
@@ -49,14 +49,14 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to if a SortedList
 // is equal to another SortedList
 using System;
@@ -107,7 +107,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 False
 True
 

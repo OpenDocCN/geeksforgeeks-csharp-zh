@@ -16,7 +16,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void Sort ();
 ```
 
@@ -26,7 +26,7 @@ public virtual void Sort ();
 
 ## C#
 
-```
+```cs
 // C# program to illustrate Sort() Method
 using System;
 using System.Collections;
@@ -71,7 +71,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 ArrayList before sort:
 Welcome
 to
@@ -95,7 +95,7 @@ Welcome
 
 **语法:**
 
-```
+```cs
 public virtual void Sort (IComparer comparer);
 ```
 
@@ -111,7 +111,7 @@ public virtual void Sort (IComparer comparer);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate Sort(IComparer) Method
 using System;
 using System.Collections;
@@ -157,7 +157,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Welcome
 to
 geeks
@@ -173,7 +173,7 @@ for
 
 **语法:**
 
-```
+```cs
 public virtual void Sort (int index, int count, IComparer comparer);
 ```
 
@@ -194,7 +194,7 @@ public virtual void Sort (int index, int count, IComparer comparer);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the use of
 // Sort(Int32, Int32, IComparer) Method
 using System;
@@ -231,7 +231,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 for
 geeks
 to

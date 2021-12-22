@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.CheckSchemeName(string) Method
 using System;
@@ -44,14 +44,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Scheme name is valid
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.CheckSchemeName(string) Method
 using System;
@@ -82,7 +82,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Scheme name is valid
 
 ```

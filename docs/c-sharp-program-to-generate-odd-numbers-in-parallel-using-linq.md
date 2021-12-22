@@ -6,14 +6,14 @@ LINQ 被称为语言集成查询，它是在年引入的。NET 3.5。它赋予�
 
 **语法:**
 
-```
+```cs
 IEnumerable<int> variable = ((ParallelQuery<int>)ParallelEnumerable.Range(start, 
                              stop)).Where(x => x % 2 != 0).Select(i => i);
 ```
 
 **例:**
 
-```
+```cs
 Input: Range(start, stop)= Range(10,11)
 Output:
 13
@@ -43,7 +43,7 @@ Output:
 
 ## c#
 
-```
+```cs
 // C# program to print odd numbers in parallel 
 // Using LINQ
 using System;
@@ -76,7 +76,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 13
 17
 19

@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public string PadLeft(int totalWidth)
 ```
 
@@ -25,7 +25,7 @@ public string PadLeft(int totalWidth)
 
 **示例:**程序演示**公共字符串 PadLeft(int totalWidth)** 方法。字符串是右对齐的，并根据需要在左边填充空白，以创建一个长度为 totalWidth 的字符串。但是，如果 totalWidth 小于或等于字符串的长度，该方法将返回一个与字符串相同的新字符串。例如，如果当前字符串是“极客”，总宽度是 7，那么 PadLeft 方法返回“极客”。
 
-```
+```cs
 // C# program to illustrate the
 // String.PadLeft(totalWidth) method
 using System;
@@ -52,7 +52,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 String : GeeksForGeeks
 Pad  2 :'GeeksForGeeks'
 Pad 13 :'GeeksForGeeks'
@@ -68,7 +68,7 @@ Pad 20 :'       GeeksForGeeks'
 
 **语法:**
 
-```
+```cs
 public string PadLeft(int totalWidth, char paddingChar)
 
 ```
@@ -79,7 +79,7 @@ public string PadLeft(int totalWidth, char paddingChar)
 
 **示例:**程序演示**公共字符串 PadLeft(int totalWidth，char paddingChar)** 方法。该字符串是右对齐的，并根据需要在左侧填充任意数量的字符，以创建总宽度长度。但是，如果 totalWidth 小于或等于此实例的长度，则该方法将返回与此实例相同的新字符串。例如，如果当前字符串是“极客”，totalWidth 是 7，paddingChar 是“*”，那么 PadLeft 方法返回“* *极客”。
 
-```
+```cs
 // C# program to illustrate the
 // String.PadLeft(int totalWidth, 
 // char paddingChar) method
@@ -109,7 +109,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 String : GeeksForGeeks
 Pad 2 :'GeeksForGeeks'
 Pad 13 :'GeeksForGeeks'

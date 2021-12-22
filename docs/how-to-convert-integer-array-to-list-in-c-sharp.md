@@ -8,7 +8,7 @@
 
 ****语法:****
 
-```
+```cs
 List<int> lst = new List<int> { 1, 2, 3}; 
 ```
 
@@ -16,7 +16,7 @@ List<int> lst = new List<int> { 1, 2, 3};
 
 ## **C#**
 
-```
+```cs
 // C# program to convert a 
 // given an integer array 
 // to the list
@@ -51,7 +51,7 @@ public class GFG{
 
 ****输出:****
 
-```
+```cs
 10 20 30 40 50 
 ```
 
@@ -59,7 +59,7 @@ public class GFG{
 
 ****语法:****
 
-```
+```cs
 List<int> lst = new List<int>(integer_array); 
 ```
 
@@ -67,7 +67,7 @@ List<int> lst = new List<int>(integer_array);
 
 ## **C#**
 
-```
+```cs
 // C# program to convert a 
 // given an integer array 
 // to the list
@@ -111,7 +111,7 @@ public class GFG{
 
 ****输出:****
 
-```
+```cs
 10 20 30 40 50 
 ```
 
@@ -119,7 +119,7 @@ public class GFG{
 
 ****语法:****
 
-```
+```cs
 List<int> lst = new List<int>();
 lst.AddRange(integer_array) 
 ```
@@ -128,7 +128,7 @@ lst.AddRange(integer_array)
 
 ## **C#**
 
-```
+```cs
 // C# program to convert a 
 // given an integer array 
 // to the list
@@ -172,7 +172,7 @@ public class GFG{
 
 ****输出:****
 
-```
+```cs
 10 20 30 40 50 
 ```
 
@@ -180,7 +180,7 @@ public class GFG{
 
 ****语法:****
 
-```
+```cs
 List<int> lst = integer_array.ToList(); 
 ```
 
@@ -188,7 +188,7 @@ List<int> lst = integer_array.ToList();
 
 ## **C#**
 
-```
+```cs
 // C# program to convert a 
 // given an integer array 
 // to the list
@@ -229,7 +229,7 @@ public class GFG{
 
 ****输出:****
 
-```
+```cs
 10 20 30 40 50 
 ```
 
@@ -237,7 +237,7 @@ public class GFG{
 
 ****语法:****
 
-```
+```cs
 List<int> lst = new List<int>();
 lst.Add(int val); 
 ```
@@ -246,7 +246,7 @@ lst.Add(int val);
 
 ## **C#**
 
-```
+```cs
 // C# program to convert a 
 // given an integer array 
 // to the list
@@ -292,6 +292,6 @@ public class GFG{
 
 ****输出:****
 
-```
+```cs
 10 20 30 40 50 
 ```

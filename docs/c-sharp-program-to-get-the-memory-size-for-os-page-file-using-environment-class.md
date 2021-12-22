@@ -14,7 +14,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to find the size of operating 
 // system's memory page. Using Environment Class
 using System;
@@ -38,7 +38,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 The memory size for OS page file is 4096
 ```
 
@@ -46,7 +46,7 @@ The memory size for OS page file is 4096
 
 ## C#
 
-```
+```cs
 // C# program to find the size of operating 
 // system's memory page. Using Environment Class
 using System;
@@ -75,7 +75,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 Sum:4
 The memory size for OS page file is 4096
 ```

@@ -4,7 +4,7 @@
 
 固定值称为**。文字是变量使用的值。值可以是整数、浮点数或字符串等。**
 
-```
+```cs
 // Here 100 is a constant/literal.
 int x = 100; 
 ```
@@ -17,14 +17,14 @@ int x = 100;
 
 ***   **Decimal character (radix 10):** In this form, the allowed number of digits is 0-9.**
 
- **```
+```cs
 int x = 101;
 
 ```
 
 *   **Octal character (radix 8):** In this form, the allowed number of digits is 0-7.
 
-```
+```cs
 // The octal number should be prefix with 0.
 int x = 0146; 
 
@@ -32,7 +32,7 @@ int x = 0146;
 
 *   **Six decimal characters (base16):** In this form, the allowed numbers are 0-9 and the characters are A-F. We can use both uppercase and lowercase characters. As we know, c# is a case-sensitive programming language, but here c# is case-insensitive.
 
-```
+```cs
 // The hexa-decimal number should be prefix
 // with 0X or 0x.
 int x = 0X123Face; 
@@ -41,7 +41,7 @@ int x = 0X123Face;
 
 *   **Binary characters (radix 2):** In this form, only of **1 and** of **0 are allowed.**
 
-```
+```cs
 // The binary number should be prefix with 0b.
 int x = 0b101
 
@@ -49,7 +49,7 @@ int x = 0b101
 
 **例:**
 
-```
+```cs
 07778    // invalid: 8 is not an octal digit 
 045uu    // invalid: suffix (u) is repeated
 0b105    // invalid: 5 is not a binary digit
@@ -68,7 +68,7 @@ int x = 0b101
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the use of Integer Literals
 using System;
 
@@ -98,7 +98,7 @@ class Geeks{
 }
 ```
 
-```
+```cs
 101
 145
 64206
@@ -110,7 +110,7 @@ class Geeks{
 
 **例:**
 
-```
+```cs
 Double d = 3.14145       // Valid
 Double d = 312569E-5      // Valid
 Double d = 125E             // invalid: Incomplete exponent 
@@ -123,7 +123,7 @@ Double d = .e45           // invalid: missing integer or fraction
 
 ## c#
 
-```
+```cs
 // C# program to illustrate the use of
 // floating-point literals
 using System;
@@ -147,7 +147,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 101.23
 123.222
 
@@ -159,21 +159,21 @@ class Geeks {
 
 *   **Single quotation mark:** We can specify the text as the character data type within the single quotation mark.
 
-```
+```cs
 char ch = 'a';
 
 ```
 
 *   **Unicode representation:** We can specify the character' \ uxxxx' in the Unicode representation. Xxxx here represents four hexadecimal numbers.
 
-```
+```cs
 char ch = '\u0061';// Here /u0061 represent a.
 
 ```
 
 *   **Escape sequence:** Each escape character can be designated as a character literal.
 
-```
+```cs
 char ch = '\n';
 
 ```
@@ -197,7 +197,7 @@ char ch = '\n';
 
 ## c#
 
-```
+```cs
 // C# program to illustrate the use of char literals
 using System;
 
@@ -222,7 +222,7 @@ class Geeks {
 }
 ```
 
-```
+```cs
 a
 a
 Hello
@@ -235,7 +235,7 @@ Geeks    !
 
 **例:**
 
-```
+```cs
 String s1 = "Hello Geeks!";
 
 String s2 = @"Hello Geeks!";
@@ -246,7 +246,7 @@ String s2 = @"Hello Geeks!";
 
 ## c#
 
-```
+```cs
 // C#  program to illustrate the use of String literals
 using System;
 
@@ -272,7 +272,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Hello Geeks!
 Hello Geeks!
 
@@ -282,7 +282,7 @@ Hello Geeks!
 
 **例:**
 
-```
+```cs
 bool b = true;
 bool c = false;
 
@@ -292,7 +292,7 @@ bool c = false;
 
 ## c#
 
-```
+```cs
 // C# program to illustrate the use
 // of boolean literals
 using System;
@@ -319,7 +319,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 True
 False
 

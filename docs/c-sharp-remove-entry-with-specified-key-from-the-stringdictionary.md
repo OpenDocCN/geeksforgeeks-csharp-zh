@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void Remove (string key);
 
 ```
@@ -22,7 +22,7 @@ public virtual void Remove (string key);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the entry
 // with the specified key from
 // the StringDictionary
@@ -72,7 +72,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The number of key/value pairs are : 6
 b Banana
 c Cat
@@ -91,7 +91,7 @@ e Elephant
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the entry
 // with the specified key from
 // the StringDictionary

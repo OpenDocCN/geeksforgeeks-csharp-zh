@@ -25,7 +25,7 @@ Take 运算符用于从序列开始返回指定数量的相邻元素。或者换
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of Taking operator
 using System;
@@ -59,7 +59,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 New Sequence: 
 13
 45
@@ -71,7 +71,7 @@ New Sequence:
 
 **例 2:**
 
-```
+```cs
 // C# program to find the names
 // of the first 4 employees
 using System;
@@ -152,7 +152,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Employee Name: Anjita
 Employee Name: Soniya
 Employee Name: Rohit

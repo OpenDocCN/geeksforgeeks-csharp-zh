@@ -11,7 +11,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the problems
 // with public and private members
 using System;
@@ -58,7 +58,7 @@ public static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Name:   
 Roll No: 10000
 ```
@@ -77,7 +77,7 @@ Roll No: 10000
 
 **定义属性的语法:**
 
-```
+```cs
 <access_modifier> <return_type> <property_name>
 {
         get { // body }
@@ -90,7 +90,7 @@ Roll No: 10000
 *   **Get Accessor:** 指定字段的值可以公开访问。它返回一个值，并指定*只读属性*。
     **例:**
 
-```
+```cs
 class Geeks {
 // Declare roll_no field
 private int roll_no;
@@ -111,7 +111,7 @@ public int Roll_no
 *   **Set Accessor:** 它将指定一个值分配给属性中的私有字段。它返回一个值，并指定了*只写属性*。
     **例:**
 
-```
+```cs
 class Geeks {
 
 // Declare roll_no field
@@ -146,7 +146,7 @@ public int Roll_no
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // read-only property
 using System;
@@ -204,7 +204,7 @@ class StudentTest {
 
 **输出:**
 
-```
+```cs
 Total No of Student: 3
 ```
 
@@ -212,7 +212,7 @@ Total No of Student: 3
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // read and write property
 using System;
@@ -259,6 +259,6 @@ class TestStudent {
 
 **输出:**
 
-```
+```cs
 Name: GFG
 ```

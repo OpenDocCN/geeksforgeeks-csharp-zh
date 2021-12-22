@@ -16,7 +16,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.BitArray And (System.Collections.BitArray value);
 
 ```
@@ -34,7 +34,7 @@ public System.Collections.BitArray And (System.Collections.BitArray value);
 
 **例 1:**
 
-```
+```cs
 // C# code to do bitwise
 // AND between BitArray
 using System;
@@ -81,7 +81,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 False
 False
@@ -91,7 +91,7 @@ True
 
 **例 2:**
 
-```
+```cs
 // C# code to do bitwise
 // AND between BitArray
 using System;

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static int ToInt32 (string value, IFormatProvider provider);
 ```
 
@@ -26,7 +26,7 @@ public static int ToInt32 (string value, IFormatProvider provider);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToInt32() Method
 using System;
@@ -89,14 +89,14 @@ public static void get(string s,
 
 **Output:**
 
-```
+```cs
 Converted int value of specified strings:  12345,  12345,  -12345,
 
 ```
 
 **例 2:** 为*格式异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToInt32() Method
 using System;
@@ -168,7 +168,7 @@ Console.Write(" {0}, ", val);
 
 **Output:**
 
-```
+```cs
 Converted int value of specified strings: 
  12345,  12345,  -12345, 
 
@@ -179,7 +179,7 @@ Exception Thrown: System.FormatException
 
 **例 3:** 适用于*飞越异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToInt32() Method
 using System;
@@ -252,7 +252,7 @@ public static void get(string s,
 
 **Output:**
 
-```
+```cs
 Converted int value of specified strings: 
  12345,  12345,  -12345, 
 

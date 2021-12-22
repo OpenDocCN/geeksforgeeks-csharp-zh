@@ -10,13 +10,13 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool Equals(Index other);
 ```
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of the Equals(index) method
 using System;
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The given index is start index and the element is Hello
 ```
 
@@ -65,13 +65,13 @@ The given index is start index and the element is Hello
 
 **语法:**
 
-```
+```cs
 public override bool Equals(System::Object ^ value);
 ```
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of the Equals(object) method
 using System;
@@ -114,6 +114,6 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Both the indexes are not equal and their elements are: Ahnyounghaseyo, Namaste
 ```

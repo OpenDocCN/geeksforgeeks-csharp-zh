@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static string GetName (Type enumType, object value);
 ```
 
@@ -24,7 +24,7 @@ public static string GetName (Type enumType, object value);
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // Enum.GetName(Type, Object) Method
 using System;
@@ -49,7 +49,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 2nd value is Cat
 4th value is Monkey
 

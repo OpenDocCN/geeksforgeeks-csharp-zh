@@ -21,7 +21,7 @@
 
 **语法:**
 
-```
+```cs
 public static string Format (IFormatProvider provider, string format, params object[] args);
 
 ```
@@ -40,7 +40,7 @@ public static string Format (IFormatProvider provider, string format, params obj
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the 
 // String.Format(IFormatProvider,
 // String,Object[]) Method
@@ -71,7 +71,7 @@ public class GFG    
 
 **输出:**
 
-```
+```cs
 en-US       Wednesday, May 20, 2020
 
 ```
@@ -82,7 +82,7 @@ en-US       Wednesday, May 20, 2020
 
 **语法:**
 
-```
+```cs
 public static string Format (string format, object arg0, object arg1);
 
 ```
@@ -101,7 +101,7 @@ public static string Format (string format, object arg0, object arg1);
 
 ## **C#**
 
-```
+```cs
 // C# program to illustrate the 
 // String.Format(String, Object,
 // Object) Method
@@ -130,7 +130,7 @@ public class GFG    
 
 ****输出:****
 
-```
+```cs
 Value: 169
 NOT of Value: -170 
 ```
@@ -141,7 +141,7 @@ NOT of Value: -170
 
 ****语法:****
 
-```
+```cs
 public static string Format (string format, object arg0, object arg1, object arg2); 
 ```
 
@@ -161,7 +161,7 @@ public static string Format (string format, object arg0, object arg1, object arg
 
 ## **C#**
 
-```
+```cs
 // C# program to illustrate the 
 // String.Format(String, Object,
 // Object, Object) Method
@@ -193,7 +193,7 @@ public class GFG    
 
 ****输出:****
 
-```
+```cs
 Value 1: 169
 Value 2: 961
 Sum of Values : 1130 

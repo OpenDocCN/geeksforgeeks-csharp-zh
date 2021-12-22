@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual int IndexOfKey (object key);
 ```
 
@@ -23,7 +23,7 @@ public virtual int IndexOfKey (object key);
 
 **例 1:**
 
-```
+```cs
 // C# code to get the zero-based index
 // of the specified key in a SortedList
 // object
@@ -71,7 +71,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Index          Keys         Values
 [0]        Fifth        Manish
 [1]        First        Ram
@@ -86,7 +86,7 @@ The index of key 'Sixth' is: -1
 
 **例 2:** 演示`ArgumentNullException` 可能发生的情况
 
-```
+```cs
 // C# code to get the zero-based index
 // of the specified key in a SortedList
 // object

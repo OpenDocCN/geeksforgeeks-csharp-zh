@@ -13,7 +13,7 @@
 
 **语法:**
 
-```
+```cs
 public ValueTuple (T1 item1);
 ```
 
@@ -21,7 +21,7 @@ public ValueTuple (T1 item1);
 
 **示例:**
 
-```
+```cs
 // C# program to create singleton ValueTuple
 // using the value tuple constructor
 using System;
@@ -43,7 +43,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Component is: GeeksforGeeks
 
 ```
@@ -54,7 +54,7 @@ Component is: GeeksforGeeks
 
 **语法:**
 
-```
+```cs
 public static ValueTuple<T1> Create<T1> (T1 item1);
 ```
 
@@ -64,7 +64,7 @@ public static ValueTuple<T1> Create<T1> (T1 item1);
 
 **示例:**
 
-```
+```cs
 // C# program to create a singleton value 
 // tuple using Create<T1>(T1) method
 using System;
@@ -86,7 +86,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Component: Geeks123
 
 ```

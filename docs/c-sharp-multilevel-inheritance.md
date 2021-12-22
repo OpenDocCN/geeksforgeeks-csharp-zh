@@ -12,7 +12,7 @@
 
 这个例子也涵盖了派生类中构造函数的概念。我们知道，子类从它的超类继承所有成员(字段、方法)，但是构造函数不是成员，所以它们不能被子类继承，但是超类的构造函数可以从子类调用。如下例所示，base 引用最接近的基类中的构造函数。颜色矩形中的基调用矩形中的构造函数，矩形类中的基调用形状中的构造函数。
 
-```
+```cs
 // C# program to illustrate the
 // concept of multilevel inheritance
 using System;
@@ -164,7 +164,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Details of r1: 
 Rectangle is  Fibonacci rectangle
 Width and Length are 2 and 3.236

@@ -6,7 +6,7 @@
 
 **语法** :
 
-```
+```cs
 FileInfo info = new FileInfo("C:\\sravan\\data.txt"); 
 ```
 
@@ -16,7 +16,7 @@ FileInfo info = new FileInfo("C:\\sravan\\data.txt");
 
 ## c#
 
-```
+```cs
 // C# program to display the information of file
 using System;
 using System.IO;
@@ -40,6 +40,6 @@ static void Main()
 
 **输出:**
 
-```
+```cs
 Attribute of the File is Archive
 ```

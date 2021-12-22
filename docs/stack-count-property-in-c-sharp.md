@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual int Count { get; }
 ```
 
@@ -16,7 +16,7 @@ public virtual int Count { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code illustrate the
 // Stack.Count Property
 using System;
@@ -51,14 +51,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Stack are : 6
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code illustrate the
 // Stack.Count Property
 using System;
@@ -88,7 +88,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Stack are : 0
 
 ```

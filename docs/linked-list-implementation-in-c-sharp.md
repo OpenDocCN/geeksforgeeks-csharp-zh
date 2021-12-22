@@ -30,7 +30,7 @@
 
 **第一步:**包含*系统。集合。通用*命名空间在您的程序中借助*使用*关键字:
 
-```
+```cs
 using System.Collections.Generic;
 ```
 
@@ -49,7 +49,7 @@ using System.Collections.Generic;
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how 
 // to create a LinkedList
 using System;
@@ -88,7 +88,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Best students of XYZ university:
 Zoya
 Shilpa
@@ -111,7 +111,7 @@ Zoya
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to
 // remove elements from LinkedList
 using System;
@@ -202,7 +202,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Best students of XYZ university initially:
 Zoya
 Shilpa
@@ -238,7 +238,7 @@ Number of students: 0
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how 
 // to check whether the given 
 // element is present or not 
@@ -280,7 +280,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Element Found...!!
 
 ```

@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Byte.Equals(Object) Method
 using System;
@@ -45,14 +45,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 10 is not equal to 0
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Byte.Equals(Object) Method
 using System;
@@ -92,7 +92,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 5 is not equal to 5
 5 is not equal to 4
 10 is not equal to 20

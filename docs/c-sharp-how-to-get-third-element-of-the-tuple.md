@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public T3 Item3 { get; }
 ```
 
@@ -14,7 +14,7 @@ public T3 Item3 { get; }
 
 **示例:**在下面的代码中，可以看到我们正在访问每个元组的第三个元素。
 
-```
+```cs
 // C# program to illustrate how to get 
 // the third element of the tuple
 using System;
@@ -62,7 +62,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Student-3 Branch: CSE
 Student-4 Branch: EC
 Student-5 Branch: EEE

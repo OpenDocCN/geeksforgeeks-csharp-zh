@@ -15,14 +15,14 @@
 
 **语法:**
 
-```
+```cs
 public const double E
 
 ```
 
 **程序 1:** 说明数学。数学课上的电场
 
-```
+```cs
 // C# program to demonstrate the
 // Constant values of Math.E function
 using System;
@@ -44,14 +44,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Math.E  = 2.71828182845905
 
 ```
 
 **程序 2:** 我们来看一个比较数学的例子。e 用幂级数计算的值。
 
-```
+```cs
 // C# program to demonstrate the to
 // find the values of Math.E field
 using System;
@@ -90,7 +90,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 1
 1.71828182845905
 2
@@ -122,14 +122,14 @@ class GFG {
 
 **语法:**
 
-```
+```cs
 public const double PI
 
 ```
 
 **程序 1:** 说明数学。数学课中的圆周率字段
 
-```
+```cs
 // C# program to demonstrate the
 // Constant values of Math.PI function
 using System;
@@ -151,14 +151,14 @@ class GFG
 
 **Output:**
 
-```
+```cs
 Math.PI = 3.14159265358979
 
 ```
 
 **程序 2:** 用数学演示不同数据类型的乘法运算。PI 常数值。
 
-```
+```cs
 // C# program to demonstrate the
 // Constant values of Math.PI function
 using System;
@@ -183,7 +183,7 @@ class GFG
 
 **Output:**
 
-```
+```cs
 3.14159265358979
 6.28318530717959
 4.71238898038469
@@ -193,7 +193,7 @@ class GFG
 
 **程序 3:** 我们来演示 PI 的访问，求出圆柱体的体积。
 
-```
+```cs
 // C# program to demonstrate the
 // Constant values of Math.PI function
 using System;
@@ -225,7 +225,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Area of cylinder is : 113.097335529233
 Volume of cylinder is : 1017.87601976309
 

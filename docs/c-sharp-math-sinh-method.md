@@ -5,7 +5,7 @@
 ***数学。Sinh()*** 是内置的数学类方法，它返回给定的双曲正弦值参数(指定角度)。
 **语法:**
 
-```
+```cs
 public static double Sinh(double num)
 ```
 
@@ -15,7 +15,7 @@ public static double Sinh(double num)
 
 **返回值:**该方法返回类型为*系统的数字的双曲正弦值。双*。如果 num 等于 NegativeInfinity、PositiveInfinity 或 NaN，此方法将返回一个等于 num 的 Double。
 
-```
+```cs
 Input  : num = 60.0
 Output : 5.71003695E25
 ```
@@ -25,7 +25,7 @@ Output : 5.71003695E25
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // Math.Sinh()
 using System;
@@ -54,7 +54,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The sinh of num1 = 8.34401696285252E+33
 The sinh of num2 = 0
 The sinh of num3 = 1.1752011936438
@@ -64,7 +64,7 @@ The sinh of num3 = 1.1752011936438
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // Math.Sinh() Method
 using System;
@@ -93,7 +93,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The sinh of num1 = 0.54785347388804
 The sinh of num2 = 29937.0708492481
 The sinh of num3 = 1.74671355287425E+19

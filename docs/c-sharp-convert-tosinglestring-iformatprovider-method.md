@@ -5,7 +5,7 @@
 此方法用于使用指定的区域性特定格式信息，将数字的指定字符串表示形式转换为等效的单精度浮点数。
 **语法:**
 
-```
+```cs
 public static float ToSingle (string value, IFormatProvider provider);
 ```
 
@@ -25,7 +25,7 @@ T3】例 1:
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToSingle() Method
 using System;
@@ -87,7 +87,7 @@ public static void get(string s,
 
 **Output**
 
-```
+```cs
 Converted float value from a specified string  123.45,  12.345,  -1234.5, 
 ```
 
@@ -95,7 +95,7 @@ Converted float value from a specified string  123.45,  12.345,  -1234.5,
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToSingle() Method
 using System;
@@ -167,7 +167,7 @@ public static void get(string s,
 
 **Output:** 
 
-```
+```cs
 Converted float value of specified strings:  12.345,  1234.5,  -123.45, 
 
 format of s is invalid 

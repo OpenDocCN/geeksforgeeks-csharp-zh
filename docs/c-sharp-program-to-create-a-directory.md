@@ -26,7 +26,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how
 // to create directory
 using System;
@@ -48,7 +48,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 Created
 ```
 

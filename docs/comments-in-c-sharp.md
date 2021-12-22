@@ -7,14 +7,14 @@
 1.  **单行评论:**用来评论单行。这些注释可以写在单独的一行中，也可以与代码一起写在同一行中。但是为了更好地理解，请始终在单独的一行中使用注释。
     **语法:**
 
-    ```
+    ```cs
     // Single Line Comments
     ```
 
 2.  **Multiline Comments :** It is used to comment more than one line. Generally this is used to comment out an entire block of code statements.
     **Syntax :**
 
-    ```
+    ```cs
     /* Multiline
     Comment */
 
@@ -22,7 +22,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the single 
     // line and multiline comments
     using System;
@@ -56,7 +56,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     GeeksforGeeks
 
     ```

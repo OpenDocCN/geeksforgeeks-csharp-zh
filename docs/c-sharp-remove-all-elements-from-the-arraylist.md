@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void Clear ();
 
 ```
@@ -32,7 +32,7 @@ public virtual void Clear ();
 
 **例 1 :**
 
-```
+```cs
 // C# code to remove all elements
 // from an ArrayList
 using System;
@@ -71,7 +71,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number of elements in ArrayList initially : 6
 Number of elements in ArrayList : 0
 
@@ -79,7 +79,7 @@ Number of elements in ArrayList : 0
 
 **例 2:**
 
-```
+```cs
 // C# code to remove all elements
 // from an ArrayList
 using System;
@@ -117,7 +117,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number of elements in ArrayList initially : 5
 Number of elements in ArrayList : 0
 

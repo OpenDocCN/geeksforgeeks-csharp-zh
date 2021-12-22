@@ -23,7 +23,7 @@ Distinct 运算符返回不包含重复值的集合。或者换句话说，我�
 
 **例 1:**
 
-```
+```cs
 // C# program to find the sequence 
 // which contains unique elements
 using System;
@@ -62,7 +62,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Sequence is: 
 m
 q
@@ -87,7 +87,7 @@ c
 
 **例 2:**
 
-```
+```cs
 // C# program to find the salary of 
 // the employees with dissimilar values
 using System;
@@ -171,7 +171,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Employee Salary: 
 20000
 30000

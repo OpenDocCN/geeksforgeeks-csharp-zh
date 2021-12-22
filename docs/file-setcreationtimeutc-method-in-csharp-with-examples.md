@@ -5,7 +5,7 @@
 **文件。SetCreationTimeUtc(字符串，日期时间)**是一个内置的文件类方法，用于设置文件创建的日期和时间，以协调世界时(Utc)表示。
 **语法:**
 
-```
+```cs
 public static void SetCreationTimeUtc (string path, DateTime creationTimeUtc);
 ```
 
@@ -32,7 +32,7 @@ public static void SetCreationTimeUtc (string path, DateTime creationTimeUtc);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.SetCreationTimeUtc(String, DateTime) method
 
@@ -60,7 +60,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The File Creation Time in UTC is : 25/12/2017 02:06:08 AM
 ```
 
@@ -70,7 +70,7 @@ The File Creation Time in UTC is : 25/12/2017 02:06:08 AM
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.SetCreationTimeUtc(String, DateTime) method
 
@@ -103,7 +103,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 File Creation Old Time in UTC is: 4/25/2020 11:26:14 AM
 File Creation new Time in UTC is : 25/12/2017 02:06:08 AM
 ```

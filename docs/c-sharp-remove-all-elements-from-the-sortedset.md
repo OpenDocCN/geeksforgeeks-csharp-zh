@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 mySortedSet.Clear();
 
 ```
@@ -23,7 +23,7 @@ mySortedSet.Clear();
 
 **例 1:**
 
-```
+```cs
 // C# code to remove all the elements
 // from SortedSet
 using System;
@@ -69,7 +69,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number of elements in mySortedSet are : 5
 A
 B
@@ -82,7 +82,7 @@ Number of elements in mySortedSet are : 0
 
 **例 2:**
 
-```
+```cs
 // C# code to remove all the elements
 // from SortedSet
 using System;
@@ -126,7 +126,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number of elements in mySortedSet are : 6
 3
 5

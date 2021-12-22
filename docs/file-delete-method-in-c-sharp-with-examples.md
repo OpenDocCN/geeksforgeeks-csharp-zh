@@ -5,7 +5,7 @@
 **文件。删除(字符串)**是一个内置的文件类方法，用于删除指定的文件。
 **语法:**
 
-```
+```cs
 public static void Delete (string path);
 ```
 
@@ -30,7 +30,7 @@ public static void Delete (string path);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Delete(String) method
 
@@ -57,7 +57,7 @@ public class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 Specified file has been deleted
@@ -72,7 +72,7 @@ Specified file has been deleted
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Delete(String) method
 
@@ -101,7 +101,7 @@ public class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 Specified files have been deleted.

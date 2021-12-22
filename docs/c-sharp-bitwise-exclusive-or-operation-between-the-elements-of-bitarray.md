@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.BitArray Xor (System.Collections.BitArray value);
 
 ```
@@ -33,7 +33,7 @@ public System.Collections.BitArray Xor (System.Collections.BitArray value);
 
 **例 1:**
 
-```
+```cs
 // C# code to perform the bitwise exclusive 
 // OR operation between BitArray
 using System;
@@ -80,7 +80,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 False
 True
 True
@@ -90,7 +90,7 @@ False
 
 **例 2:**
 
-```
+```cs
 // C# code to perform the bitwise exclusive 
 // OR operation between BitArray
 using System;

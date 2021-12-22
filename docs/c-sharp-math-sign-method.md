@@ -14,7 +14,7 @@
 
 **上述所有方法的通用语法:**
 
-```
+```cs
 public static int Sign(data_type value)
 
 ```
@@ -30,7 +30,7 @@ public static int Sign(data_type value)
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the 
 // Math.Sign() method
 using System;
@@ -91,7 +91,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Decimal: 150 greater than zero
 Double: 34.5432 greater than zero
 Int16: 0 equal to zero

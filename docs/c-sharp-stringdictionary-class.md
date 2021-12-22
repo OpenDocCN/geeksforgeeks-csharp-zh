@@ -17,7 +17,7 @@
 
 **示例:**
 
-```
+```cs
 // C# code to create a StringDictionary
 using System;
 using System.Collections;
@@ -50,7 +50,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 d Dog
 b Banana
 c Cat
@@ -71,7 +71,7 @@ a Apple
 
 **示例:**
 
-```
+```cs
 // C# code illustrate the Properties of
 // StringDictionary class
 using System; 
@@ -113,7 +113,7 @@ class GFG { 
 
 **输出:**
 
-```
+```cs
 prime & even
 prime & odd
 non-prime & odd
@@ -140,7 +140,7 @@ False
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the entry
 // with the specified key from
 // the StringDictionary
@@ -180,7 +180,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The number of key/value pairs are : 6
 The number of key/value pairs are : 5
 
@@ -188,7 +188,7 @@ The number of key/value pairs are : 5
 
 **例 2:**
 
-```
+```cs
 // C# code to copy StringDictionary
 // to Array at the specified index
 using System;
@@ -232,7 +232,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 d Dog
 b Banana
 c Cat

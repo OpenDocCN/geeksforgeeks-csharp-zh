@@ -20,7 +20,7 @@
 
 **示例:**
 
-```
+```cs
 // C# code to create a Collection
 using System;
 using System.Collections.Generic;
@@ -51,7 +51,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 2
 3
 4
@@ -68,7 +68,7 @@ class GFG {
 
 **示例:**
 
-```
+```cs
 // C# Code to illustrate the 
 // Properties of Collection class
 using System;
@@ -110,7 +110,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Count : 5
 Element at index 2 is : C
 Element at index 3 is : D
@@ -141,7 +141,7 @@ Element at index 3 is : D
 
 **示例:**
 
-```
+```cs
 // C# code to check if an
 // element is in the Collection
 using System;
@@ -173,14 +173,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 True
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to copy the entire Collection
 // to a compatible one-dimensional Array,
 // starting at the specified index of
@@ -223,7 +223,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 A
 B
 C

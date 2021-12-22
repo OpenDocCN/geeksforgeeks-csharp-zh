@@ -13,7 +13,7 @@ C#中的 ref 关键字用于传递或返回对[方法](https://www.geeksforgeeks
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // use of ref keyword
 using System;
@@ -68,7 +68,7 @@ class GFG {
 
 **Output**
 
-```
+```cs
 Initial value of a is 10
 Initial value of b is 12
 
@@ -80,7 +80,7 @@ Value of b after subtraction operation is 7
 
 ## C#
 
-```
+```cs
 // C# program to show the use of ref
 // with  an instance of a class
 using System;
@@ -142,7 +142,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Complex number C = 2 + i 4
 After updating C
 Complex number C = 7 + i 9

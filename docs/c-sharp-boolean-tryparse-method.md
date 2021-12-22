@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static bool TryParse (string value, out bool result);
 ```
 
@@ -22,7 +22,7 @@ public static bool TryParse (string value, out bool result);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // Boolean.TryParse(String, Boolean)
 // Method
@@ -60,7 +60,7 @@ public static void checkParse(string value) {
 
 **Output:**
 
-```
+```cs
 true --> True 
 false --> True 
 '     true     ' --> False 
@@ -71,7 +71,7 @@ false --> True
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate
 // Boolean.TryParse(String, Boolean)
 // Method
@@ -108,7 +108,7 @@ public static void checkParse(string value) {
 
 **Output:**
 
-```
+```cs
 true1 --> False 
  --> False 
  --> False

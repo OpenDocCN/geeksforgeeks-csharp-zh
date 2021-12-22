@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public void AddFirst (System.Collections.Generic.LinkedListNode<T> node);
 
     ```
@@ -26,7 +26,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# code to add new node
     // at the start of LinkedList
     using System;
@@ -102,7 +102,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public System.Collections.Generic.LinkedListNode AddFirst (T value);
 
     ```
@@ -113,7 +113,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# code to add new node containing
     // the specified value at the start
     // of LinkedList
@@ -166,7 +166,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Total nodes in myList are : 6
     2
     4

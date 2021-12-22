@@ -26,7 +26,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以借助给定的语法以编程方式设置 GroupBox 的大小:
 
-```
+```cs
 public System.Drawing.Size Size { get; set; }
 ```
 
@@ -34,7 +34,7 @@ public System.Drawing.Size Size { get; set; }
 
 *   **步骤 1:** 使用 GroupBox 类提供的 GroupBox()构造函数创建一个 GroupBox。
 
-    ```
+    ```cs
     // Creating a GroupBox
     GroupBox gbox = new GroupBox(); 
 
@@ -42,7 +42,7 @@ public System.Drawing.Size Size { get; set; }
 
 *   **第二步:**创建完 GroupBox 后，设置 GroupBox 类提供的 GroupBox 的 Size 属性。
 
-    ```
+    ```cs
     // Setting the size
     gbox.Size = new Size(329, 94);
 
@@ -50,7 +50,7 @@ public System.Drawing.Size Size { get; set; }
 
 *   **Step 3:** And last add this GroupBox control to the form and also add other controls on the GroupBox using the following statements:
 
-    ```
+    ```cs
     // Adding groupbox in the form
     this.Controls.Add(gbox);
 
@@ -64,7 +64,7 @@ public System.Drawing.Size Size { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

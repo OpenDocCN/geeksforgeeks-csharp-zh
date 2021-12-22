@@ -18,7 +18,7 @@
 
 ****例 1:****
 
-```
+```cs
 // C# program to demonstrate the 
 // use of List<T>.Sort() method
 using System;
@@ -64,7 +64,7 @@ class GFG {
 
 ****输出:**
 
-```
+```cs
 Original List
 1
 5
@@ -85,7 +85,7 @@ Sorted List
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the 
 // use of List<T>.Sort() method
 using System;
@@ -136,7 +136,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Original List
 A I G B E H F C D 
 Sorted List
@@ -146,7 +146,7 @@ A B C D E F G H I
 
 **例 3:**
 
-```
+```cs
 // C# program to demonstrate the
 // use of List<T>.Sort() method
 using System;
@@ -193,7 +193,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 List in unsorted order: 
 C++    Java    C    Python    HTML    CSS    Scala    Ruby    Perl    
 

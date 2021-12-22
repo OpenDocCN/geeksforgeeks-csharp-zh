@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void RemoveRange (int index, int count);
 
 ```
@@ -38,7 +38,7 @@ public virtual void RemoveRange (int index, int count);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove a range of
 // elements from the ArrayList
 using System;
@@ -91,7 +91,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The initial ArrayList is: 
 A
 B
@@ -117,7 +117,7 @@ J
 
 **例 2:**
 
-```
+```cs
 // C# code to remove a range of
 // elements from the ArrayList
 using System;
@@ -170,7 +170,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The initial ArrayList is: 
 2
 4

@@ -5,7 +5,7 @@
 **文件。GetLastWriteTime(String)** 是一个内置的 File 类方法，用于返回指定文件或目录上次写入的日期和时间。
 **语法:**
 
-```
+```cs
 public static DateTime GetLastWriteTime (string path);
 ```
 
@@ -29,7 +29,7 @@ public static DateTime GetLastWriteTime (string path);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.GetLastWriteTime(String) method
 
@@ -54,7 +54,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 The last write time for this file was 4/19/2020 4:43:24 AM.
 ```
 
@@ -64,7 +64,7 @@ The last write time for this file was 4/19/2020 4:43:24 AM.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.GetLastWriteTime(String) method
 
@@ -92,6 +92,6 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 The last write time for this file was 4/3/2020 12:00:00 AM.
 ```

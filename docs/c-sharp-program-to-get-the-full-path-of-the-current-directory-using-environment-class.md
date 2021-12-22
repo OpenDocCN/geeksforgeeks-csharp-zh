@@ -20,7 +20,7 @@
 
 ## c#
 
-```
+```cs
 // C# program to find the current directory path
 // Using Environment Class
 using System;
@@ -46,7 +46,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 System Directory:
 /Users/Projects/newprogram/
 ```

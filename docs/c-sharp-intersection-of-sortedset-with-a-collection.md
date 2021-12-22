@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 mySortedSet1.IntersectWith(mySortedSet2);
 
 ```
@@ -25,7 +25,7 @@ mySortedSet1.IntersectWith(mySortedSet2);
 
 **例 1:**
 
-```
+```cs
 // C# code to get the Intersection of 2 SortedSets
 using System;
 using System.Collections.Generic;
@@ -72,7 +72,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The intersection of mySortedSet1 and mySortedSet2: 
 4
 8
@@ -81,7 +81,7 @@ The intersection of mySortedSet1 and mySortedSet2:
 
 **例 2:**
 
-```
+```cs
 // C# code to get the Intersection of 2 SortedSets
 using System;
 using System.Collections.Generic;
@@ -128,7 +128,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Intersection of mySortedSet1 and mySortedSet2 is: 
 Geeks
 Noida

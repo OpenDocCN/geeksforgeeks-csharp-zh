@@ -16,7 +16,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to 
 // create custom delegates
 using System;
@@ -47,7 +47,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 485520
 ```
 
@@ -71,7 +71,7 @@ Func 是内置的泛型类型委托。这个委托使您不必像上面的例子
 
 **示例 1:** 这里，我们使用 Func 委托只在一行中创建委托，而不使用上述过程。该 Func 委托包含四个输入参数和一个输出参数。
 
-```
+```cs
 // C# program to illustrate Func delegate
 using System;
 
@@ -99,13 +99,13 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 1000000
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate Func delegate
 using System;
 
@@ -133,7 +133,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 20
 ```
 
@@ -144,7 +144,7 @@ class GFG {
 
     **示例:**
 
-    ```
+    ```cs
     Func<int, int, int> val = delegate(int x, int y, int z)
     {
         return x + y + z;
@@ -155,6 +155,6 @@ class GFG {
 
     **示例:**
 
-    ```
+    ```cs
     Func<int, int, int, int> val = (int x, int y, int z) = > x + y + z;
     ```

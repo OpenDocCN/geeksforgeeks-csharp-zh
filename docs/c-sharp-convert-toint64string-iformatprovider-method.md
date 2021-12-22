@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static long ToInt64 (string value, IFormatProvider provider);
 ```
 
@@ -26,7 +26,7 @@ public static long ToInt64 (string value, IFormatProvider provider);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToInt64() Method
 using System;
@@ -87,14 +87,14 @@ public static void get(string s,
 
 **Output:**
 
-```
+```cs
 Converted long value from a specified string  12345,  12345,  -12345,
 
 ```
 
 **例 2:** 为*格式异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToInt64() Method
 using System;
@@ -167,7 +167,7 @@ public static void get(string s,
 
 **Output:**
 
-```
+```cs
 Converted long value of specified strings:  12345,  12345,  -12345, 
 
 format of s is invalid 
@@ -177,7 +177,7 @@ Exception Thrown: System.FormatException
 
 **例 3:** 适用于*飞越异常*
 
-```
+```cs
 // C# program to demonstrate the
 // Convert.ToInt64() Method
 using System;
@@ -249,7 +249,7 @@ public static void get(string s,
 
 **Output:**
 
-```
+```cs
 Converted long value of specified strings:  12345,  12345,  -12345, 
 
 s is less than the MinValue

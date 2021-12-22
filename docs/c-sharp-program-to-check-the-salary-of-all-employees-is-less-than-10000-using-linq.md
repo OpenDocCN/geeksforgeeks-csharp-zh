@@ -14,7 +14,7 @@
 
 **例:**
 
-```
+```cs
 Input: {id = 301, Name = Mohit, Salary = 10000}
        {id = 302, Name = Priya, Salary = 20000}
        {id = 303, Name = Sohan, Salary = 40000}
@@ -30,7 +30,7 @@ Output: True
 
 ## C#
 
-```
+```cs
 // C# program to determine the salary of all employees
 // is less than 10000 
 using System;
@@ -79,7 +79,7 @@ static void Main(string[] args)
 
 **Output**
 
-```
+```cs
 All the salaries are not less than 10000
 ```
 
@@ -87,7 +87,7 @@ All the salaries are not less than 10000
 
 ## c#
 
-```
+```cs
 // C# program to determine the salary of all employees
 // is less than 10000 
 using System;
@@ -127,6 +127,6 @@ static void Main(string[] args)
 
 **输出**
 
-```
+```cs
 Is the salary of the Geek's employees is < 10000: True
 ```

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool Remove (T value);
 
 ```
@@ -19,7 +19,7 @@ public bool Remove (T value);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the first
 // occurrence of the specified
 // value from LinkedList
@@ -72,7 +72,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total nodes in myList are : 6
 2
 4
@@ -91,7 +91,7 @@ Total nodes in myList are : 5
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the first
 // occurrence of the specified
 // value from LinkedList
@@ -145,7 +145,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total nodes in myList are : 5
 A
 B

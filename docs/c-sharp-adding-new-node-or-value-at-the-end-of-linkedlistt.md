@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public void AddLast (System.Collections.Generic.LinkedListNode<T> node);
 
     ```
@@ -26,7 +26,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# code to add new node
     // at the end of LinkedList
     using System;
@@ -94,7 +94,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public System.Collections.Generic.LinkedListNode<T> AddLast (T value);
 
     ```
@@ -105,7 +105,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# code to add new node containing
     // the specified value at the end
     // of LinkedList
@@ -158,7 +158,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Total nodes in myList are : 6
     2
     4

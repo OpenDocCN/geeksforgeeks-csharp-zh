@@ -23,7 +23,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to find the difference
 // of the given sequences
 using System;
@@ -69,7 +69,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Sequence 1 is: 
 m
 q
@@ -94,7 +94,7 @@ a
 
 **例 2:**
 
-```
+```cs
 // C# program to find the languages which is 
 // not known by employees of the Department 2
 using System;
@@ -193,7 +193,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Language: 
 C
 

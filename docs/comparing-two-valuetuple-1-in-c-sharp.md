@@ -7,7 +7,7 @@
 
 **语法:**
 
-```
+```cs
 public int CompareTo (ValueTuple<T1> other);
 ```
 
@@ -19,7 +19,7 @@ public int CompareTo (ValueTuple<T1> other);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the
 // use of CompareTo method
 using System;
@@ -52,7 +52,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Result 1: -1
 Result 2: 1
 Result 3: 0
@@ -61,7 +61,7 @@ Result 3: 0
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of CompareTo method
 using System;
@@ -91,7 +91,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Value tuples are equal!!
 
 ```

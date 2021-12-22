@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public string Insert(int Indexvalue, string value)
 
 ```
@@ -25,7 +25,7 @@ public string Insert(int Indexvalue, string value)
 
 **例:**
 
-```
+```cs
 Input : str  = "GeeksForGeeks"
         str.Insert(5, "GFG");
 Output: GeeksGFGForGeeks
@@ -40,7 +40,7 @@ Output: GeeksFor Geeks
 
 *   **Program 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the 
     // Insert method
     using System;
@@ -63,7 +63,7 @@ Output: GeeksFor Geeks
 
     **Output:**
 
-    ```
+    ```cs
     Current string: GeeksForGeeks
     New string: GeeksGFGForGeeks
 
@@ -71,7 +71,7 @@ Output: GeeksFor Geeks
 
 *   **Program 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the 
     // Insert method
     using System;
@@ -94,7 +94,7 @@ Output: GeeksFor Geeks
 
     **Output:**
 
-    ```
+    ```cs
     Current string: GeeksForGeeks
     New string: GeeksFor Geeks
 
@@ -102,7 +102,7 @@ Output: GeeksFor Geeks
 
 *   **Program 3:**
 
-    ```
+    ```cs
     // C# program to demonstrate the 
     // Insert method
     using System;
@@ -118,7 +118,7 @@ Output: GeeksFor Geeks
 
     **Output:**
 
-    ```
+    ```cs
     Hey ProGeek2.0 Started
 
     ```

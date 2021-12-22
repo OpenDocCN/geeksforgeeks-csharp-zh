@@ -13,7 +13,7 @@
 
 ****语法:****
 
-```
+```cs
 public Tuple (T1 item1, T2 item2);
 ```
 
@@ -24,7 +24,7 @@ public Tuple (T1 item1, T2 item2);
 
 ****示例:****
 
-```
+```cs
 // C# program to create 2-tuple
 // using the tuple constructor
 using System;
@@ -47,7 +47,7 @@ public class GFG {
 
 ****Output:**
 
-```
+```cs
 Element 1: GeeksforGeeks
 Element 2: 10
 
@@ -59,7 +59,7 @@ Element 2: 10
 
 ****语法:****
 
-```
+```cs
 public static Tuple<T1,T2> Create<T1, T2> (T1 item1, T2 item2);
 ```
 
@@ -77,7 +77,7 @@ public static Tuple<T1,T2> Create<T1, T2> (T1 item1, T2 item2);
 
 ****示例:****
 
-```
+```cs
 // C# program to create 2-tuple
 // using create method
 using System;
@@ -100,7 +100,7 @@ public class GFG {
 
 ****Output:**
 
-```
+```cs
 Element 1: Geeks
 Element 2: 20
 

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public Type GetType ();
 ```
 
@@ -16,7 +16,7 @@ public Type GetType ();
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // GetType() method
 using System;
@@ -40,7 +40,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Type of str1: System.String
 Type of str2: System.String
 
@@ -48,7 +48,7 @@ Type of str2: System.String
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the 
 // GetType() method
 using System;
@@ -87,7 +87,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Str 1 is : C#
 Str 2 is : DSA
 Str 3 is : 43

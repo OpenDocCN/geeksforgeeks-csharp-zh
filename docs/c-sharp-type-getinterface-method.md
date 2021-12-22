@@ -22,7 +22,7 @@
 
 ****例 1:****
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetInterface(String) Method
 using System;
@@ -61,14 +61,14 @@ class GFG {
 
 ****Output:**
 
-```
+```cs
 interface is: System.IFormattable
 
 ```** 
 
 ****示例 2:** 适用于*参数异常***
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetInterface(String) Method
 using System;
@@ -107,7 +107,7 @@ class GFG {
 
 ****Output:**
 
-```
+```cs
 name is null.
 Exception Thrown: System.ArgumentNullException
 
@@ -133,7 +133,7 @@ Exception Thrown: System.ArgumentNullException
 
 ****例 1:****
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetInterface(String, 
 // Boolean) Method
@@ -172,14 +172,14 @@ class GFG {
 
 ****Output:**
 
-```
+```cs
 interface is: System.IFormattable
 
 ```** 
 
 ****示例 2:** 适用于*参数异常***
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetInterface(String, 
 // Boolean) Method
@@ -219,7 +219,7 @@ class GFG {
 
 ****输出:****
 
-```
+```cs
 name is null.
 Exception Thrown: System.ArgumentNullException 
 ```

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public string DnsSafeHost { get; }
 
 ```
@@ -19,7 +19,7 @@ public string DnsSafeHost { get; }
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.DnsSafeHost property
 using System;
@@ -40,7 +40,7 @@ public static void Main() {
 
 **输出:**
 
-```
+```cs
 Hostname: www.geeksforgeeks.org
 
 ```
@@ -49,7 +49,7 @@ Hostname: www.geeksforgeeks.org
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the  
 // Uri.DnsSafeHost property  
 using System;  
@@ -71,7 +71,7 @@ class GFG {  
 
 **输出:**
 
-```
+```cs
 Hostname: docs.microsoft.com`
 
 ```

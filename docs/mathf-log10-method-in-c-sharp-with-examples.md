@@ -19,7 +19,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate working
 // of MathF.Log10(Single) method
 using System;
@@ -68,7 +68,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 0.9950646
 -Infinity
 NaN

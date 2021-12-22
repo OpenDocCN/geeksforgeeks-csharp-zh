@@ -8,7 +8,7 @@
 
 **程序 1:** 获取 CursorLeft 的值
 
-```
+```cs
 // C# program to illustrate the
 // Console.CursorLeft Property
 using System;
@@ -45,7 +45,7 @@ class Program {
 
 **程序 2:** 设置 CursorLeft 的值
 
-```
+```cs
 // C# program to illustrate the
 // Console.CursorLeft Property
 using System;

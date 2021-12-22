@@ -5,7 +5,7 @@
 **文件。ReadAllText(String)** 是一个内置的 File 类方法，用于打开一个文本文件，然后读取文件中的所有文本，然后关闭文件。
 **语法:**
 
-```
+```cs
 public static string ReadAllText (string path);
 ```
 
@@ -33,7 +33,7 @@ public static string ReadAllText (string path);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.ReadAllText(String) method
 
@@ -60,7 +60,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 GFG
 gfg
 Geeks
@@ -72,7 +72,7 @@ geeksforgeeks
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.ReadAllText(String) method
 
@@ -103,7 +103,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 GFG
 is
 a

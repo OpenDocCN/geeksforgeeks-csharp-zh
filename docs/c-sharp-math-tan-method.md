@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static double Tan(double num)
 ```
 
@@ -20,7 +20,7 @@ public static double Tan(double num)
 
 **程序 1:** 展示数学的工作原理。谭()法。
 
-```
+```cs
 // C# program to demonstrate working
 // Math.Tan() method
 using System;
@@ -64,7 +64,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 0.212556561670022
 1.96261050550515
 0.122784560902905
@@ -74,7 +74,7 @@ class Geeks {
 
 **节目 2:** 展示数学作品。谭()法时的论点是 *NaN 或无穷大】。*
 
-```
+```cs
 // C# program to demonstrate working
 // Math.Tan() method in infinity case
 using System;
@@ -111,7 +111,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 NaN
 NaN
 NaN

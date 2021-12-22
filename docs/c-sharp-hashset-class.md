@@ -25,7 +25,7 @@ A **HashSet < T >** 是**独特元素**的无序集合。它属于*T5 系统。�
 
 **示例:**
 
-```
+```cs
 // C# code to create a HashSet
 using System;
 using System.Collections.Generic;
@@ -55,7 +55,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 1
 3
 5
@@ -72,7 +72,7 @@ class GFG {
 
 **示例:**
 
-```
+```cs
 // C# code to get the number of
 // elements that are contained in HashSet
 using System;
@@ -101,7 +101,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 5
 
 ```
@@ -139,7 +139,7 @@ class GFG {
 
 **示例:**
 
-```
+```cs
 // C# code to Check if a HashSet is
 // a subset of the specified collection
 using System;
@@ -177,14 +177,14 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 True
 
 ```
 
 **示例:**
 
-```
+```cs
 // C# code to check if a HashSet
 // contains the specified element
 using System;
@@ -217,7 +217,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Required Element is present
 
 ```

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Clear ();
 
 ```
@@ -15,7 +15,7 @@ public void Clear ();
 
 **例 1:**
 
-```
+```cs
 // C# code to remove all entries
 // from the ListDictionary
 using System;
@@ -71,7 +71,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 The key/value pairs in myDict are : 
 Australia Canberra

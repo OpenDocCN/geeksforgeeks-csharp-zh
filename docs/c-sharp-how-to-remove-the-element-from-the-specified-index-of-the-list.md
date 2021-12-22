@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public void RemoveAt (int index);
 ```
 
@@ -27,7 +27,7 @@ public void RemoveAt (int index);
 
 **例 1:**
 
-```
+```cs
 // C# Program to remove the element at
 // the specified index of the List<T>
 using System;
@@ -88,7 +88,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Elements Present in List:
 
 At Position 0: 17
@@ -112,7 +112,7 @@ At Position 5: 73
 
 **例 2:**
 
-```
+```cs
 // C# Program to remove the element at
 // the specified index of the List<T>
 using System;
@@ -180,7 +180,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Elements Present in List:
 
 At Position 0: 17

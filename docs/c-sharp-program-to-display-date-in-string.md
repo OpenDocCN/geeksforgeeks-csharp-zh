@@ -120,7 +120,7 @@ C#语言中的系统命名空间和 mscorlib.dll 程序集提供了多种类和�
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how we can 
 // display date and time in a string format
 using System;
@@ -209,7 +209,7 @@ static public void Main()
 
 **输出:**
 
-```
+```cs
 currentDate1 : 12/07/2021
 currentDate2 : Tuesday, 07 December 2021
 currentDate3 : December 07

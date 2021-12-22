@@ -14,7 +14,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public string Substring(int startIndex)
 
     ```
@@ -26,7 +26,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     Input : str  = "GeeksForGeeks"
             str.Substring(5);
     Output: ForGeeks
@@ -39,7 +39,7 @@
 
     下面的程序说明了上面讨论的方法:
 
-    ```
+    ```cs
     // C# program to demonstrate the 
     // String.Substring Method (startIndex)
     using System;
@@ -65,7 +65,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     String    : GeeksForGeeks
     Sub String1: ForGeeks
     Sub String2: Geeks
@@ -80,7 +80,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public string Substring(int startIndex, int length)
 
     ```
@@ -95,7 +95,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     Input : str  = "GeeksForGeeks"
             str.Substring(0,8);
     Output: GeeksFor
@@ -112,7 +112,7 @@
 
     下面的程序说明了上面讨论的方法:
 
-    ```
+    ```cs
     // C# program to demonstrate the 
     // String.Substring Method 
     // (int startIndex, int length)
@@ -139,7 +139,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     String    : GeeksForGeeks
     Sub String1: GeeksFor
     Sub String2: For

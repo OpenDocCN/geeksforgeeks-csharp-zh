@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input: chr = 'a'
 Output: 97
 
@@ -21,7 +21,7 @@ Output: 72
 > 
 > ***步骤 2:** 使用字节结构*转换字符
 > 
-> ```
+> ```cs
 > byte b = (byte) chr;
 > 
 > ```
@@ -32,7 +32,7 @@ Output: 72
 
 ## C#
 
-```
+```cs
 // C# program to convert 
 // ascii char to byte.
 
@@ -59,7 +59,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Byte of char 'G' : 71
 
 ```
@@ -68,7 +68,7 @@ Byte of char 'G' : 71
 
 **语法:**
 
-```
+```cs
 byte byt = Convert.ToByte(char); 
 
 ```
@@ -77,7 +77,7 @@ byte byt = Convert.ToByte(char);
 
 ## C#
 
-```
+```cs
 // C# program to convert 
 // ascii char to byte.
 
@@ -106,7 +106,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Byte of char 'G' : 71
 
 ```
@@ -115,7 +115,7 @@ Byte of char 'G' : 71
 
 **语法:**
 
-```
+```cs
 byte byt = Encoding.ASCII.GetBytes(string str)[0]; 
 
 ```
@@ -132,7 +132,7 @@ byte byt = Encoding.ASCII.GetBytes(string str)[0];
 
 ## C#
 
-```
+```cs
 // C# program to convert 
 // ascii char to byte.
 
@@ -166,7 +166,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Byte of char 'G' : 71
 
 ```

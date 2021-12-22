@@ -20,7 +20,7 @@
 
 **语法:**
 
-```
+```cs
 public int IndexOf(char x)
 
 ```
@@ -30,7 +30,7 @@ public int IndexOf(char x)
 
 **示例:**在下面的代码中，用户想要知道字符‘F’在指定字符串“GeeksForGeeks”中的索引，因此，该方法返回各自的结果，主要是字符‘F’的第一次出现。同样在第二种情况下，字符“C”不存在，所以它只返回-1。
 
-```
+```cs
 // C# program to illustrate the 
 // String.IndexOf(char x) method
 using System;
@@ -64,7 +64,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 The Index Value of character 'F' is 5
 The Index Value of character 'C' is -1
 ```
@@ -75,7 +75,7 @@ The Index Value of character 'C' is -1
 
 **语法:**
 
-```
+```cs
 public int IndexOf(char x, int start1)
 
 ```
@@ -86,7 +86,7 @@ public int IndexOf(char x, int start1)
 
 **示例:**在下面的代码中，用户想要知道指定字符串“HelloGeeks”中字符“H”的索引，因此，该方法返回字符“H”的相应索引。然而，如果**开始 1** 大于 1，那么很明显返回-1。
 
-```
+```cs
 // C# program to illustrate the 
 // String.IndexOf(char x, int start1) method
 using System;
@@ -122,7 +122,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 The Index Value of character 'H' with start index 0 is 0
 The Index Value of character 'H' is -1
 ```
@@ -133,7 +133,7 @@ The Index Value of character 'H' is -1
 
 **语法:**
 
-```
+```cs
 public int IndexOf(char x, int start1, int start2)
 
 ```
@@ -144,7 +144,7 @@ public int IndexOf(char x, int start1, int start2)
 
 **示例:**在下面的代码中，用户想知道指定字符串“我的生活我的规则”中字符“R”的索引，因此，该方法返回字符“R”的索引值。同样，对于开始 1 > 1 和开始 2 < 8 的情况，它再次返回-1，因为它没有找到任何字符。
 
-```
+```cs
 // C# program to illustrate the
 // String.IndexOf(char x, int start1,
 //  int start2) method
@@ -181,7 +181,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Index Value of 'R' with start Index =2 and end Index = 15 is 11
 Index Value of 'R' with start Index = 1 and end Index = 8 is -1
 
@@ -193,7 +193,7 @@ Index Value of 'R' with start Index = 1 and end Index = 8 is -1
 
 **语法:**
 
-```
+```cs
 public int IndexOf(string s1)
 
 ```
@@ -204,7 +204,7 @@ public int IndexOf(string s1)
 
 **示例:**在下面的代码中，已知字符串“How”存在于主字符串中，因此它将简单地返回其第一个字符的索引值。但是，在下一种情况下，没有名为“Chair”的子字符串，所以它只返回-1。
 
-```
+```cs
 // C# program to illustrate the
 // String.IndexOf(string  s1) method
 using System;
@@ -240,7 +240,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 First value Index of 'How' is 17
 First value Index of 'Chair' is -1
 ```

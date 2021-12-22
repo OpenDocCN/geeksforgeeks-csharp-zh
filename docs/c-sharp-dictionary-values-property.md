@@ -14,7 +14,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# code to get the Values
 // in the Dictionary
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 Value = Canberra
 Value = Brussels
@@ -74,7 +74,7 @@ Value = New Delhi
 
 **例 2:**
 
-```
+```cs
 // C# code to get the values
 // in the Dictionary
 using System;
@@ -119,7 +119,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total key/value pairs in myDict are : 4
 Values = 8
 Values = 4

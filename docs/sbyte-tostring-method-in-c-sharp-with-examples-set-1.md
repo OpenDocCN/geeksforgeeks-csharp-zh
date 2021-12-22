@@ -14,7 +14,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public string ToString (IFormatProvider provider);
     ```
 
@@ -24,7 +24,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate
     // SByte.ToString(IFormatProvider)
     // Method
@@ -56,7 +56,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The Value is 15 and provider is en-US
 
     ```
@@ -67,7 +67,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public string ToString (string format, IFormatProvider provider);
     ```
 
@@ -80,7 +80,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // SByte.ToString(String, IFormatProvider)
     // Method
@@ -116,7 +116,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The value is 00127
     The Format is D5
     The Provider is fr-FR

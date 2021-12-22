@@ -31,7 +31,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the working
 // of Binary Arithmetic Operators
 using System;
@@ -73,7 +73,7 @@ namespace Arithmetic
 
 **输出:**
 
-```
+```cs
 Addition Operator: 15
 Subtraction Operator: 5
 Multiplication Operator: 50
@@ -92,7 +92,7 @@ Modulo Operator: 0
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the working
 // of Unary Arithmetic Operators
 using System;
@@ -144,7 +144,7 @@ namespace Arithmetic {
 
 **输出:**
 
-```
+```cs
 a is 11 and res is 10
 a is 10 and res is 11
 a is 11 and res is 11
@@ -166,7 +166,7 @@ a is 10 and res is 10
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the working
 // of Relational Operators
 using System;
@@ -210,7 +210,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Equal to Operator: False
 Greater than Operator: False
 Less than Operator: True
@@ -231,7 +231,7 @@ Not Equal to Operator: True
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the working
 // of Logical Operators
 using System;
@@ -263,7 +263,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 AND Operator: False
 OR Operator: True
 NOT Operator: False
@@ -283,7 +283,7 @@ NOT Operator: False
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the working
 // of Bitwise Operators
 using System;
@@ -327,7 +327,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Bitwise AND: 0
 Bitwise OR: 15
 Bitwise XOR: 15
@@ -345,7 +345,7 @@ Bitwise Right Shift: 1
 *   **"= "(简单赋值)**:这是最简单的赋值运算符。该运算符用于将右边的值赋给左边的变量。
     例:
 
-```
+```cs
 a = 10;
 b = 20;
 ch = 'y';
@@ -354,7 +354,7 @@ ch = 'y';
 *   **“+=”(添加赋值)**:这个运算符是“+”和“=”运算符的组合。该运算符首先将左边变量的当前值与右边的值相加，然后将结果赋给左边的变量。
     例:
 
-```
+```cs
 (a += b) can be written as (a = a + b)
 ```
 
@@ -363,7 +363,7 @@ ch = 'y';
 *   **"-= "(减法赋值)**:这个运算符是'-'和' = '运算符的组合。该运算符首先从右边的值中减去左边变量的当前值，然后将结果赋给左边的变量。
     例:
 
-```
+```cs
 (a -= b) can be written as (a = a - b)
 ```
 
@@ -372,7 +372,7 @@ ch = 'y';
 *   **"*= "(乘法赋值)**:该运算符是' * '和' = '运算符的组合。该运算符首先将左边变量的当前值乘以右边的值，然后将结果赋给左边的变量。
     例:
 
-```
+```cs
 (a *= b) can be written as (a = a * b)
 ```
 
@@ -381,7 +381,7 @@ ch = 'y';
 *   **"/= "(除法赋值):**这个运算符是“/”和“=”运算符的组合。该运算符首先将左边变量的当前值除以右边的值，然后将结果赋给左边的变量。
     例:
 
-```
+```cs
 (a /= b) can be written as (a = a / b)
 ```
 
@@ -390,7 +390,7 @@ ch = 'y';
 *   **“% =”(模数赋值):**这个运算符是“%”和“=”运算符的组合。该运算符首先用右边的值对左边变量的当前值取模，然后将结果赋给左边的变量。
     例:
 
-```
+```cs
 (a %= b) can be written as (a = a % b)
 ```
 
@@ -399,7 +399,7 @@ ch = 'y';
 *   **“<”T4】=”(左移分配)**:该运算符是“< <”和“=”运算符的组合。该运算符首先将左边变量的当前值左移右边的值，然后将结果赋给左边的变量。
     例:
 
-```
+```cs
 (a <<= 2) can be written as (a = a << 2)
 ```
 
@@ -408,7 +408,7 @@ ch = 'y';
 *   **“>”T4】=”(右移赋值)**:该运算符是“> >”和“=”运算符的组合。该运算符首先将左边变量的当前值右移右边的值，然后将结果赋给左边的变量。
     例:
 
-```
+```cs
 (a >>= 2) can be written as (a = a >> 2)
 ```
 
@@ -417,7 +417,7 @@ ch = 'y';
 *   **“&=”(按位 AND 赋值)**:这个运算符是“&”和“=”运算符的组合。这个运算符首先用右边的值“按位与”左边变量的当前值，然后将结果赋给左边的变量。
     例:
 
-```
+```cs
 (a &= 2) can be written as (a = a & 2)
 ```
 
@@ -426,7 +426,7 @@ ch = 'y';
 *   **【^="(bitwise 异或】**:这个运算符是'^'和' = '运算符的组合。该运算符首先用右边的值“按位异或”左边变量的当前值，然后将结果赋给左边的变量。
     例:
 
-```
+```cs
 (a ^= 2) can be written as (a = a ^ 2)
 ```
 
@@ -435,7 +435,7 @@ ch = 'y';
 *   **"|= "(按位包含或)**:该运算符是“|”和“=”运算符的组合。这个运算符首先用右边的值“按位异或”左边变量的当前值，然后将结果赋给左边的变量。
     例:
 
-```
+```cs
 (a |= 2) can be written as (a = a | 2)
 ```
 
@@ -445,7 +445,7 @@ ch = 'y';
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the working
 // of Assignment Operators
 using System;
@@ -536,7 +536,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Add Assignment Operator: 25
 Subtract Assignment Operator: 15
 Multiply Assignment Operator: 75
@@ -555,7 +555,7 @@ Bitwise Inclusive OR Assignment Operator: 12
 
 **语法:**
 
-```
+```cs
 condition ? first_expression : second_expression;
 ```
 
@@ -570,7 +570,7 @@ second_expression 被求值并成为结果。
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the working
 // of Conditional Operator
 using System;
@@ -603,7 +603,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Result: 10
 Result: 5
 ```

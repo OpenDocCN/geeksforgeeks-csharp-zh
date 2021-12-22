@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Add (object key, object value);
 
 ```
@@ -25,7 +25,7 @@ public void Add (object key, object value);
 
 **例 1:**
 
-```
+```cs
 // C# code to add an entry with
 // the specified key and value
 // into the HybridDictionary.
@@ -67,7 +67,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total key/value pairs in myDict are : 6
 The key/value pairs in myDict are : 
 Australia --> Canberra
@@ -81,7 +81,7 @@ India --> New Delhi
 
 **例 2:**
 
-```
+```cs
 // C# code to add an entry with
 // the specified key and value
 // into the HybridDictionary.
@@ -122,7 +122,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Total key/value pairs in myDict are : 5
 The key/value pairs in myDict are : 
 I --> first

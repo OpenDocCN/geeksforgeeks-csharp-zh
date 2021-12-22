@@ -9,7 +9,7 @@
 *   在隐式类型数组中，当用户用任何数据类型初始化数组时，编译器会自动将这些数组转换为该数据类型。
 *   隐式类型的数组通常使用 **var** 关键字声明，这里 var 不跟在[]。例如:
 
-```
+```cs
 var iarray = new []{1, 2, 3};
 ```
 
@@ -20,7 +20,7 @@ var iarray = new []{1, 2, 3};
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate
 // 1-D implicitly typed array
 using System;
@@ -49,7 +49,7 @@ public class GFG {
 
 **Output:** 
 
-```
+```cs
 List of Authors is: 
 Shilpa
 Soniya
@@ -61,7 +61,7 @@ Ritika
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate
 // 2-D implicitly typed array
 using System;
@@ -95,7 +95,7 @@ public class GFG {
 
 **Output:** 
 
-```
+```cs
 Programming Languages: 
 Python
 Java
@@ -105,7 +105,7 @@ Java
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate
 // implicitly typed jagged array
 using System;
@@ -139,7 +139,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Data of jagged array is :
 785 721 344 123 
 234 600 

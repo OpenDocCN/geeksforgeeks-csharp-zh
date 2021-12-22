@@ -62,7 +62,7 @@ Visual Studio 是微软开发的集成开发环境(IDE)，用于开发 GUI(图�
 
 [![Executing-the-hello-geeks-code](img/633bbcaabcf6297927a5ea738cfb4b53.png)](https://media.geeksforgeeks.org/wp-content/uploads/20190606130703/Executing-the-hello-geeks-code.png)
 
-```
+```cs
 <%@ Page Language="C#" AutoEventWireup="true" CodeBehind="TestingWebForm.aspx.cs" Inherits="GeeksforGeeks.TestingWebForm" %>
 
 <!DOCTYPE html>

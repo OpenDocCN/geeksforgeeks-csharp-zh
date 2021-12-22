@@ -5,7 +5,7 @@
 **文件。ReadAllBytes(String)** 是一个内置的 File 类方法，用于打开指定或创建的二进制文件，然后将文件内容读入字节数组，然后关闭文件。
 **语法:**
 
-```
+```cs
 public static byte[] ReadAllBytes (string path);
 ```
 
@@ -33,7 +33,7 @@ public static byte[] ReadAllBytes (string path);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.ReadAllBytes(String) method
 
@@ -61,7 +61,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 53
 ```
 
@@ -69,7 +69,7 @@ class GFG {
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.ReadAllBytes(String) method
 
@@ -101,7 +101,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 71
 70
 71

@@ -8,7 +8,7 @@
 
     **示例:**这里，我们有两个常规参数，即 *str1* 和 *str2* 以及一个可选参数，即 *str3* 及其默认值。这里，当我们不向可选参数传递任何值时，可选参数使用此默认值，当我们在方法调用中传递可选参数的值时，它将采用传递的值。
 
-    ```
+    ```cs
     // C# program to illustrate how to create
     // optional parameters using default value
     using System;
@@ -35,7 +35,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     WelcometoGeeksforGeeks
     ThisisC# Tutorial
 
@@ -45,7 +45,7 @@
 
     **例:**这里我们有两个同名的方法，但是这些方法的参数表不同，即第一个 *my_mul* 方法只取一个参数，第二个 *mu_mul* 方法取三个参数。
 
-    ```
+    ```cs
     // C# program to illustrate how to create
     // optional parameters using method overloading
     using System;
@@ -78,7 +78,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     16
     3000
 

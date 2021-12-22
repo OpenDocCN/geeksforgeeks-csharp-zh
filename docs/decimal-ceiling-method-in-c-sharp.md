@@ -13,7 +13,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Ceiling(Decimal) Method
 using System;
@@ -42,14 +42,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Ceiling Value is : 5
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Ceiling(Decimal) Method
 using System;
@@ -78,14 +78,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Ceiling Value is : -5
 
 ```
 
 **例 3:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Ceiling(Decimal) Method
 using System;
@@ -114,7 +114,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Ceiling Value is : 2
 
 ```

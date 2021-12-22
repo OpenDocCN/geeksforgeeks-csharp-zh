@@ -6,7 +6,7 @@ C# 8.0 中[索引结构](https://www.geeksforgeeks.org/index-struct-in-c-sharp-8
 
 **语法:**
 
-```
+```cs
 public Index (int Value, bool FromEnd = false);
 ```
 
@@ -14,7 +14,7 @@ public Index (int Value, bool FromEnd = false);
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate
 // the use of Index constructor
 using System;
@@ -61,7 +61,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Index:^1 Value: Ahnyounghaseyo
 Index:^2 Value: Ohayo
 Index:^3 Value: Bonjour
@@ -73,7 +73,7 @@ Index:3 Value: Bonjour
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate 
 // the use of Index constructor
 using System;
@@ -112,7 +112,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Index:^1 Start from end?: True
 Index:^2 Start from end?: True
 Index:1 Start from end?: False

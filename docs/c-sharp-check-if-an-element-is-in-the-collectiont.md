@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public bool Contains (T item);
 
 ```
@@ -19,7 +19,7 @@ public bool Contains (T item);
 
 ****例 1:****
 
-```
+```cs
 // C# code to check if an
 // element is in the Collection
 using System;
@@ -51,13 +51,13 @@ class GFG {
 
 ****输出:****
 
-```
+```cs
 True 
 ```
 
 ****例 2:****
 
-```
+```cs
 // C# code to check if an
 // element is in the Collection
 using System;
@@ -88,7 +88,7 @@ class GFG {
 
 ****输出:****
 
-```
+```cs
 False 
 ```
 

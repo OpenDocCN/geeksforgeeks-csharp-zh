@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual int Count { get; }
 
 ```
@@ -26,7 +26,7 @@ public virtual int Count { get; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get the number of elements
 // actually contained in the ArrayList
 using System;
@@ -60,7 +60,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number of elements : 0
 Number of elements : 5
 
@@ -68,7 +68,7 @@ Number of elements : 5
 
 **例 2:**
 
-```
+```cs
 // C# code to get the number of elements
 // actually contained in the ArrayList
 using System;
@@ -105,7 +105,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number of elements : 0
 Number of elements : 8
 

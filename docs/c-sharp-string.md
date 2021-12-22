@@ -16,7 +16,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to declare string using
 // string, String and System.String
 // and initialization of string
@@ -65,7 +65,7 @@ class Geeks {
 
 **Output:** 
 
-```
+```cs
 Name: Geek
 Id: 33
 Marks: 97
@@ -91,7 +91,7 @@ Rank: 1
 
 *   **语法:**
 
-```
+```cs
 String [] array_variable  =  new  String[Length_of_array]
 ```
 
@@ -99,7 +99,7 @@ String [] array_variable  =  new  String[Length_of_array]
 
 ## C#
 
-```
+```cs
 // C# program for an array of strings
 using System;
 class Geeks {
@@ -127,7 +127,7 @@ static void Main(string[] args)
 
 **Output:** 
 
-```
+```cs
 value at Index position 0 is Geeks
 value at Index position 1 is For
 value at Index position 2 is Geeks
@@ -139,7 +139,7 @@ value at Index position 2 is Geeks
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate Reading
 // String from User-Input
 using System;
@@ -170,7 +170,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 Enter the String
 User Entered: Hello Geeks !
 ```
@@ -189,7 +189,7 @@ User Entered: Hello Geeks !
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the
 // string creation using literals
 using System;
@@ -215,7 +215,7 @@ class Geeks {
 
 **Output:** 
 
-```
+```cs
 GeeksforGeeks
 X:\Home\GFG\program.cs
 ```
@@ -226,7 +226,7 @@ X:\Home\GFG\program.cs
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the use of
 // the string concatenation operator.
 using System;
@@ -250,7 +250,7 @@ class Geeks {
 
 **Output:** 
 
-```
+```cs
 GeeksForGeeks
 ```
 
@@ -260,7 +260,7 @@ GeeksForGeeks
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the creation
 // of string using the constructor
 using System;
@@ -314,7 +314,7 @@ class Geeks {
 
 **Output:** 
 
-```
+```cs
 GEEKS
 GGGGGGGGGG
 ```
@@ -325,7 +325,7 @@ GGGGGGGGGG
 
 ## C#
 
-```
+```cs
 // C# program to extract a substring from a larger
 // string using methods of the String class
 using System;
@@ -354,7 +354,7 @@ class Geeks {
 
 **Output:** 
 
-```
+```cs
 For
 ```
 
@@ -364,7 +364,7 @@ For
 
 ## C#
 
-```
+```cs
 // C# method to illustrate the creation
 // of string using format method
 using System;
@@ -387,7 +387,7 @@ class Geeks {
 
 **Output:** 
 
-```
+```cs
 10 BMW Cars color are Red
 ```
 

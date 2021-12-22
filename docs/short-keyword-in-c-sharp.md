@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 short variable_name = value;
 ```
 
@@ -14,7 +14,7 @@ short variable_name = value;
 
 **示例:**
 
-```
+```cs
 Input: num: 2
 
 Output: num: 2
@@ -30,7 +30,7 @@ Output: num: 20200
 
 **例 1:**
 
-```
+```cs
 // C# program for short keyword
 using System;
 using System.Text;
@@ -53,7 +53,7 @@ class Prog {
 
 **输出:**
 
-```
+```cs
 num: 2
 Size of a short variable: 2
 
@@ -61,7 +61,7 @@ Size of a short variable: 2
 
 **例 2:**
 
-```
+```cs
 // C# program for short keyword
 using System;
 using System.Text;
@@ -97,7 +97,7 @@ class Prog {
 
 **输出:**
 
-```
+```cs
 num: 20200
 Type of num: System.Int16
 Size of a short variable: 2

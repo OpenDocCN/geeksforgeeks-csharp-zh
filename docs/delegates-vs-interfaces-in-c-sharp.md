@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate Delegates
 using System;
 
@@ -39,7 +39,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 [190 + 70] = [260]
 
 ```
@@ -48,7 +48,7 @@ class GFG {
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // concept of interface
 using System;
@@ -85,7 +85,7 @@ class Geeks : inter {
 
 **输出:**
 
-```
+```cs
 Welcome to GeeksforGeeks..!
 
 ```

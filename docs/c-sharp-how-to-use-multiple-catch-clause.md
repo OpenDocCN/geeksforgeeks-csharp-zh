@@ -9,7 +9,7 @@ catch 块的主要目的是处理 try 块中引发的异常。只有当程序中
 
 **语法:**
 
-```
+```cs
 try {
 
 // Your code 
@@ -41,7 +41,7 @@ catch(Exception_Name) {
 
 **示例 1:** 在下面的示例中，try block 生成两种不同类型的异常，即 **DivideByZeroException** 和 **IndexOutOfRangeException** 。现在，我们使用两个 catch 块来处理这些与单个 try 块相关联的异常。每个 catch 块捕获不同类型的异常，比如 catch 块 1 用于捕获 DivideByZeroException，catch 块 2 用于捕获 IndexOutOfRangeException。
 
-```
+```cs
 // C# program to illustrate the
 // use of multiple catch block
 using System;
@@ -92,7 +92,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number: 8
 Divisor: 2
 Quotient: 4
@@ -112,7 +112,7 @@ Index is Out of Range
 
 **示例 2:** 在下面的示例中，尝试阻止引发异常。因此，我们将使用三种不同类型的 catch 块来处理 try 块引发的异常。捕捉块 1 将处理**指数超出范围异常**，捕捉块 2 将处理**格式异常**，捕捉块 3 将处理**超出范围异常**。
 
-```
+```cs
 // C# program to illustrate the concept
 // of multiple catch clause
 using System;
@@ -162,7 +162,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Entered value in not a number!
 
 ```

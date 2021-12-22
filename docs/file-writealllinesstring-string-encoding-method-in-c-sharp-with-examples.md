@@ -29,7 +29,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.WriteAllLines(String, String[], 
 // Encoding) method
@@ -66,7 +66,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 GFG
 is a
 CS portal.
@@ -84,7 +84,7 @@ CS portal.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.WriteAllLines(String, 
 // String[], Encoding) method
@@ -121,7 +121,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 GFG
 Geeks
 GeeksforGeeks

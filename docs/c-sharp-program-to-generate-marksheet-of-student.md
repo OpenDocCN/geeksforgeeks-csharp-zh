@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input:
 Enter Student Roll-Number: 1
 Enter Student Name: manoj
@@ -26,13 +26,13 @@ Grade is A
 > *   Read student data from users.
 > *   Calculate the total scores of three subjects.
 > 
-> ```
+> ```cs
 > total = marks1 + marks2 + marks3;
 > ```
 > 
 > *   Find the percentage.
 > 
-> ```
+> ```cs
 >  percentage = total / 3.0f;
 > ```
 > 
@@ -43,7 +43,7 @@ Grade is A
 
 ## C#
 
-```
+```cs
 // C# program to create marksheet for students.
 using System;
 using System.Collections.Generic;
@@ -128,7 +128,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Enter Student Roll Number :
 13
 Enter Student Name :

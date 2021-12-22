@@ -16,7 +16,7 @@ OfType 运算符根据序列或数据源将集合中的元素强制转换为指�
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // concept of OfType operator
     using System;
@@ -89,7 +89,7 @@ OfType 运算符根据序列或数据源将集合中的元素强制转换为指�
 
     **Output:**
 
-    ```
+    ```cs
     GeeksforGeeks
     Anjita
     Soniya
@@ -101,7 +101,7 @@ OfType 运算符根据序列或数据源将集合中的元素强制转换为指�
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // concept of OfType operator
     using System;
@@ -164,7 +164,7 @@ OfType 运算符根据序列或数据源将集合中的元素强制转换为指�
 
     **Output:**
 
-    ```
+    ```cs
     Employee Id: 209
     Employee Id: 210
     Employee Id: 300

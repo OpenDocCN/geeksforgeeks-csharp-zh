@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 public abstract void geek();
 // this indicates the method 'geek()' is abstract
 
@@ -18,7 +18,7 @@ abstract class gfg
 
 **语法:**
 
-```
+```cs
 public abstract void geek();
 // the method 'geek()' is abstract
 ```
@@ -27,7 +27,7 @@ public abstract void geek();
 
 **语法:**
 
-```
+```cs
 abstract class gfg{}
 // class 'gfg' is abstract
 ```
@@ -46,7 +46,7 @@ abstract class gfg{}
 
 ## C#
 
-```
+```cs
 // C# program to show the
 // working of abstract class
 using System;
@@ -116,7 +116,7 @@ public class main_method {
 
 **Output:** 
 
-```
+```cs
 class Geek1
 class Geek2
 ```
@@ -125,7 +125,7 @@ class Geek2
 
 ## C#
 
-```
+```cs
 // C# program to calculate the area
 // of a Square using abstract class
 // and abstract method
@@ -173,7 +173,7 @@ class gfg {
 
 **Output:** 
 
-```
+```cs
 Area  = 36
 ```
 
@@ -182,7 +182,7 @@ Area  = 36
 
 **语法:**
 
-```
+```cs
 abstract class gfg
 {
     public void geek()
@@ -196,7 +196,7 @@ abstract class gfg
 
 ## C#
 
-```
+```cs
 // C# program to show the working of
 // the non-abstract method in the
 // abstract class
@@ -247,7 +247,7 @@ class geek {
 
 **Output:** 
 
-```
+```cs
 Addition : 10
 Multiplication :24
 ```
@@ -258,7 +258,7 @@ Multiplication :24
 
 ## C#
 
-```
+```cs
 // C# program to show the working
 // of abstract class with the
 // get and set accessors
@@ -306,6 +306,6 @@ class geek {
 
 **Output:** 
 
-```
+```cs
 5
 ```

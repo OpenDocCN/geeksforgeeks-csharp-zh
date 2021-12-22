@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 mySortedSet.Count
 
 ```
@@ -23,7 +23,7 @@ mySortedSet.Count
 
 **例 1:**
 
-```
+```cs
 // C# code to get the number of
 // elements in the SortedSet
 using System;
@@ -55,14 +55,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The number of elements in mySortedSet are: 5
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to get the number of
 // elements in the SortedSet
 using System;
@@ -93,7 +93,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The number of elements in mySortedSet are: 4
 
 ```

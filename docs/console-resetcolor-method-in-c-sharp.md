@@ -5,7 +5,7 @@
 **控制台。ResetColor()方法**用于将控制台的前景和背景颜色设置为默认值，即背景为黑色，前景为白色。
 **语法:**
 
-```
+```cs
 public static void ResetColor ();
 ```
 
@@ -19,7 +19,7 @@ public static void ResetColor ();
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to set the colors to red and yellow
 // to demonstrate ResetColor() in next example
 using System;
@@ -51,7 +51,7 @@ class Program {
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to illustrate the
 // Console.ResetColor Property
 using System;

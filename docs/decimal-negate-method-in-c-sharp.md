@@ -15,7 +15,7 @@
 
 **例 1:** 当 a 为正时
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Negate(Decimal) Method
 using System;
@@ -42,14 +42,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The negative value is : -127.97
 
 ```
 
 **例 2:** 当 a 为负时
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Negate(Decimal) Method
 using System;
@@ -77,14 +77,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The value is : 12.39
 
 ```
 
 **例 3:** 如果 a 为零。
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Negate(Decimal) Method
 using System;
@@ -111,7 +111,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The Negate value is : 0.00
 
 ```

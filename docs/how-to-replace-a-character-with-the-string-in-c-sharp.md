@@ -12,7 +12,7 @@
 
 **示例:**
 
-```
+```cs
 Input: A portal in India
 Replace A with Hello
 Output: Hello portal in India
@@ -29,7 +29,7 @@ Output: Python was not equal to java
 *   Declaration string
 *   Use the replace () function to replace the character (that is, "a") with a string (that is, "geek represents geek").
 
-```
+```cs
 input_string.Replace("A", "Geeks For Geeks")
 ```
 
@@ -39,7 +39,7 @@ input_string.Replace("A", "Geeks For Geeks")
 
 ## c#
 
-```
+```cs
 // C# program to replace a character
 // with a specified string
 using System;
@@ -63,7 +63,7 @@ public static void Main()
 
 **输出:**
 
-```
+```cs
 Actual String : A portal in India
 Replaced String: Geeks For Geeks portal in India
 ```

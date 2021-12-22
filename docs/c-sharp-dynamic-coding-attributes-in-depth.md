@@ -8,7 +8,7 @@
 
 [属性](https://www.geeksforgeeks.org/attributes-in-c-sharp/)来源于系统。属性类。属性可以被定位在任何启示上，然而，一个特定的特征可能会限制它所基于的呈现的种类。英寸 NET 代码中，我们可以通过将包含在方形部分([])中的属性的名称放在它所应用的元素的声明上来确定属性。此外，我们可以将额外的元数据整合到一个利用质量的聚会中。更重要的是，属性类似于描述性的词语，用于元数据解释，比如可以应用于给定种类的组件、集合、模块、技术等等。以下是中属性的语法。NET 编程如下；
 
-```
+```cs
 [type: attributeName(parameter1, parameter2, ………n)]
 ```
 
@@ -16,7 +16,7 @@
 
 ## C#
 
-```
+```cs
 using System;
 
 namespace attributes {
@@ -53,7 +53,7 @@ ILDASM 实用程序将 IL 代码后面的代码生成为. NET 程序集，因此
 
 ## C#
 
-```
+```cs
 // Serialization class declaration with attribute
 [Serializable] public class xyz {
     public xyz() {}
@@ -75,7 +75,7 @@ ILDASM 实用程序将 IL 代码后面的代码生成为. NET 程序集，因此
 
 ## C#
 
-```
+```cs
 public class xyz {
     // Dll Import API call for MessageBox display
     [DllImport("user32.dll", EntryPoint = "MessageBox")]
@@ -100,7 +100,7 @@ class Program {
 
 ## C#
 
-```
+```cs
 class Program {
     static void Main(string[] args)
     {

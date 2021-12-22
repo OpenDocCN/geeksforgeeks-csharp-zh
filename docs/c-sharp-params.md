@@ -14,7 +14,7 @@ Params 是 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中的�
 
 *   Simple program to show the params keyword usage
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // use of params keyword
     using System;
@@ -52,7 +52,7 @@ Params 是 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中的�
 
     **输出:**
 
-    ```
+    ```cs
     106
 
     ```
@@ -67,7 +67,7 @@ Params 是 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中的�
 
 *   Object type Params will allow any type of arguments and any number of arguments as follows :
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // use of object type params
     using System; 
@@ -103,7 +103,7 @@ Params 是 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中的�
 
     **输出:**
 
-    ```
+    ```cs
     Geeks
     GFG
     ProGeek Cup 2.0

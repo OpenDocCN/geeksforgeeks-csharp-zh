@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public const ulong MinValue = 0;
 ```
 
@@ -14,7 +14,7 @@ public const ulong MinValue = 0;
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the
 // UInt64.MinValue Field
 using System;
@@ -50,7 +50,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Minimum Value is: 0
 Not equal..!!
 Type of var1 is: UInt64

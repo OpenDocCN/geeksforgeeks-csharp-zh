@@ -27,7 +27,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // use of MaxValue and MinValue field
 using System;
@@ -50,7 +50,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Display Maximum value of Decimal: 79228162514264337593543950335
 Display Minimum value of Decimal: -79228162514264337593543950335
 
@@ -95,7 +95,7 @@ Display Minimum value of Decimal: -79228162514264337593543950335
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // use of Add(Decimal, Decimal)
 // method
@@ -122,7 +122,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Addition is: 939
 
 ```
@@ -170,7 +170,7 @@ Addition is: 939
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the
 // use of Decrement and Increment
 // operator
@@ -197,7 +197,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 My value 1 is: 1000
 Decrease myval1 by 1:999
 

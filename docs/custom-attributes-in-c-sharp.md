@@ -10,28 +10,28 @@
 
 1.  **属性目标。所有**指定属性可以应用于程序的所有部分，而*属性。类*表示它可以应用于类和*属性目标。方法*来一个方法。
 
-    ```
+    ```cs
     [AttributeUsageAttribute( AttributeTargets.All )]
 
     ```
 
 2.  继承成员指示属性是否可以继承。它采用布尔值(真/假)。如果未指定，则默认为真。
 
-    ```
+    ```cs
     [AttributeUsage(AttributeTargets.All, Inherited = false)]
 
     ```
 
 3.  AllowMultiple 成员告诉我们该属性是否可以存在多个实例。它还需要一个布尔值。默认为假。
 
-    ```
+    ```cs
     [AttributeUsage(AttributeTargets.Method, AllowMultiple = true)]
 
     ```
 
     **2。定义属性类:**它的定义方式与普通类相同，类名通常以“属性”结尾。这个类必须直接或间接继承*系统。属性*类。
 
-    ```
+    ```cs
     [AttributeUsage(AttributeTargets.All, Inherited = true, AllowMultiple = false)]
     public class MyAttribute : Attribute
     {
@@ -42,7 +42,7 @@
 
     **3。定义构造函数和属性:**构造函数用于设置属性类的值，非常像典型的类。构造函数重载可用于处理不同的赋值，同时激发属性类对象。
 
-    ```
+    ```cs
     public MyAttribute(dataType value)
     {
         this.value = value;
@@ -52,7 +52,7 @@
 
     **注意:**自定义属性也可以为其成员设置 get 和 set 等属性。
 
-    ```
+    ```cs
     public dataType MyProperty
     {
         get {return this.value;}
@@ -63,7 +63,7 @@
 
     **示例 1:** 下面给出的代码显示了一个名为 MyAttribute 的自定义属性的示例，它有两个私有成员，即名称和操作。“名称”用于定义属性可能应用到的任何程序元素的名称。“动作”描述了元素应该做什么。这里的属性应用于学生类的方法。
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // use of custom attributes
     using System;
@@ -150,7 +150,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Student Details
     Roll Number : 1
     Name : Taylor
@@ -160,7 +160,7 @@
 
     **示例 2:** 在本例中，我们可以显示我们创建的自定义属性的内容。这里的 NewAttribute 是一个自定义属性，有两个字段，即标题和描述。图块存储标题，描述存储应用新属性的方法的功能。要将自定义属性应用于程序的任何部分，必须在定义之前调用其构造函数。NewAttribute 还包括一个参数化构造函数和一个显示属性内容的方法。主要是使用类名调用 AttributeDisplay 方法，因为它是一个静态方法，它显示关于应用了该属性的类的方法的信息。
 
-    ```
+    ```cs
     // C# program to display the custom attributes
     using System;
     using System.Reflection;
@@ -296,7 +296,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     Methods of class Employer
     getId - Accessor, Gives value of Employer Id 
     getName - Accessor, Gives value of Employer Name 

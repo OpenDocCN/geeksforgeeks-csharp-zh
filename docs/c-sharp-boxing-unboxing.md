@@ -15,7 +15,7 @@
 *   值类型始终存储在堆栈中。引用的类型存储在堆中。
 *   **例:**
 
-    ```
+    ```cs
     int num = 23; // 23 will assigned to num
     Object Obj = num; // Boxing
 
@@ -27,7 +27,7 @@
 
 *   让我们用 C#编程代码来理解**拳击**:
 
-    ```
+    ```cs
     // C# implementation to demonstrate
     // the Boxing
     using System;
@@ -57,7 +57,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Value - type value of num is : 100
     Object - type value of obj is : 2020
 
@@ -71,7 +71,7 @@
 *   它是显式的转换过程。
 *   **例:**
 
-    ```
+    ```cs
     int num = 23;         // value type is int and assigned value 23
     Object Obj = num;    // Boxing
     int i = (int)Obj;    // Unboxing
@@ -84,7 +84,7 @@
 
 *   让我们来理解**用 C#编程代码打开**的锁:
 
-    ```
+    ```cs
     // C# implementation to demonstrate
     // the Unboxing
     using System;
@@ -113,7 +113,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Value of ob object is : 23
     Value of i is : 23
 

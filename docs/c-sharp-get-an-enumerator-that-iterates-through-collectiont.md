@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.Generic.IEnumerator<T> GetEnumerator ();
 ```
 
@@ -18,7 +18,7 @@ public System.Collections.Generic.IEnumerator<T> GetEnumerator ();
 
 **例 1:**
 
-```
+```cs
 // C# code to get an Enumerator that
 // iterates through the Collection<T>
 using System;
@@ -60,7 +60,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The number of elements in myColl are: 5
 A
 B
@@ -72,7 +72,7 @@ E
 
 **例 2:**
 
-```
+```cs
 // C# code to get an Enumerator that
 // iterates through the Collection<T>
 using System;
@@ -114,7 +114,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The number of elements in myColl are: 4
 45
 56

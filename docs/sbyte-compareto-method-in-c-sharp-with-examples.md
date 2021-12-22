@@ -12,7 +12,7 @@ SByte。方法用于将当前实例与指定的对象或字节进行比较，并
 
     **语法:**
 
-    ```
+    ```cs
     public int CompareTo (sbyte value);
     ```
 
@@ -28,7 +28,7 @@ SByte。方法用于将当前实例与指定的对象或字节进行比较，并
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // SByte.CompareTo(SByte) Method
     using System;
@@ -65,14 +65,14 @@ SByte。方法用于将当前实例与指定的对象或字节进行比较，并
 
     **Output:**
 
-    ```
+    ```cs
     10 is less than 20
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // SByte.CompareTo(SByte) Method
     using System;
@@ -113,7 +113,7 @@ SByte。方法用于将当前实例与指定的对象或字节进行比较，并
 
     **Output:**
 
-    ```
+    ```cs
     5 is less than 7
     30 is greater than 20
     10 is less than 20
@@ -127,7 +127,7 @@ SByte。方法用于将当前实例与指定的对象或字节进行比较，并
 
     **语法:**
 
-    ```
+    ```cs
     public int CompareTo (object value);
     ```
 
@@ -145,7 +145,7 @@ SByte。方法用于将当前实例与指定的对象或字节进行比较，并
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // SByte.CompareTo(object) Method
     using System;
@@ -193,14 +193,14 @@ SByte。方法用于将当前实例与指定的对象或字节进行比较，并
 
     **Output:**
 
-    ```
+    ```cs
     10 is greater than 9
 
     ```
 
     **示例 2:** 适用于*参数异常*
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // SByte.CompareTo(object) Method
     using System;
@@ -247,7 +247,7 @@ SByte。方法用于将当前实例与指定的对象或字节进行比较，并
 
     **Output:**
 
-    ```
+    ```cs
     value2 must be sbyte
     Exception Thrown: System.ArgumentException
 

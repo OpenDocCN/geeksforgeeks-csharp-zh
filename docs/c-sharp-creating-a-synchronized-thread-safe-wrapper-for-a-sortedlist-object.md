@@ -16,7 +16,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# code to create a synchronized
 // (thread-safe) wrapper for a
 // SortedList object
@@ -60,7 +60,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 mySortedList SortedList is not synchronized.
 mySortedList_1 SortedList is synchronized.
 
@@ -68,7 +68,7 @@ mySortedList_1 SortedList is synchronized.
 
 **例 2:**
 
-```
+```cs
 // C# code to create a synchronized
 // (thread-safe) wrapper for a
 // SortedList object

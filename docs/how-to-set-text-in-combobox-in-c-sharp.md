@@ -19,7 +19,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以在给定语法的帮助下以编程方式设置组合框中的文本:
 
-```
+```cs
 public override string Text { get; set; }
 ```
 
@@ -27,7 +27,7 @@ public override string Text { get; set; }
 
 *   **步骤 1:** 使用组合框类提供的组合框()构造函数创建组合框。
 
-    ```
+    ```cs
     // Creating ComboBox using ComboBox class
     ComboBox mybox = new ComboBox();
 
@@ -35,7 +35,7 @@ public override string Text { get; set; }
 
 *   **步骤 2:** 创建组合框后，在组合框元素中设置文本。
 
-    ```
+    ```cs
     // Set text in the combobox
     mybox.Text = "Rohit";
 
@@ -43,7 +43,7 @@ public override string Text { get; set; }
 
 *   **Step 3:** And last add this combobox control to form using Add() method.
 
-    ```
+    ```cs
     // Add this ComboBox to form
     this.Controls.Add(mybox);
 
@@ -51,7 +51,7 @@ public override string Text { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

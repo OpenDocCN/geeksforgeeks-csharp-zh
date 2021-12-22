@@ -12,7 +12,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public virtual void Reverse ();
 
     ```
@@ -25,7 +25,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# code to reverse the order of
     // the elements in the entire ArrayList
     using System;
@@ -60,7 +60,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     Fifth
     Fourth
     Third
@@ -71,7 +71,7 @@
 
     **例 2:**
 
-    ```
+    ```cs
     // C# code to reverse the order of
     // the elements in the entire ArrayList
     using System;
@@ -106,7 +106,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     5
     4
     3
@@ -121,7 +121,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public virtual void Reverse (int index, int count);
 
     ```
@@ -144,7 +144,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# code to reverse a sub 
     // range in the ArrayList
     using System; 
@@ -180,7 +180,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     First
     Fourth
     Third
@@ -191,7 +191,7 @@
 
     **例 2:**
 
-    ```
+    ```cs
     // C# code to reverse a sub 
     // range in the ArrayList
     using System; 
@@ -227,7 +227,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     8
     4
     12

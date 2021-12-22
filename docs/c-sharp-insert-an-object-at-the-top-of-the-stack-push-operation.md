@@ -12,14 +12,14 @@
 
 **语法:**
 
-```
+```cs
 void Push(object obj);
 
 ```
 
 **示例:**
 
-```
+```cs
 // C# code to insert an object
 // at the top of the Stack
 using System;
@@ -88,7 +88,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Stack are : 1
 Total number of elements in the Stack are : 2
 Total number of elements in the Stack are : 3

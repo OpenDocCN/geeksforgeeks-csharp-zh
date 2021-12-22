@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public T Dequeue ();
 
 ```
@@ -17,7 +17,7 @@ public T Dequeue ();
 
 以下程序说明了上述方法的使用:
 
-```
+```cs
 // C# Program to illustrate the use
 // of Queue<T>.Dequeue Method
 using System;
@@ -53,7 +53,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number of elements in the Queue: 4
 Top element of queue is:
 3
@@ -63,7 +63,7 @@ Number of elements in the Queue: 3
 
 **例 2:**
 
-```
+```cs
 // C# Program to illustrate the use
 // of Queue<T>.Dequeue Method
 using System;
@@ -97,7 +97,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Number of elements in the Queue: 2
 Top element of queue is:
 2

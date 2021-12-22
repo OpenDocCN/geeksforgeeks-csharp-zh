@@ -6,13 +6,13 @@
 
 **语法:**
 
-```
+```cs
 public int Value { int get(); };
 ```
 
 **例 1:**
 
-```
+```cs
 // C# program to illustrate the 
 // concept of the value property
 using System;
@@ -49,7 +49,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Index value is : 1
 Index value is : 2
 Index value is : 1
@@ -59,7 +59,7 @@ Index value is : 3
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the 
 // concept of the value property
 using System;
@@ -101,6 +101,6 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Both the indexes are not equal and their elements are : Ahnyounghaseyo, Namaste
 ```

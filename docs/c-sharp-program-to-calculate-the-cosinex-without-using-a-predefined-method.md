@@ -8,7 +8,7 @@
 
 **例:**
 
-```
+```cs
 Input  : cos(45)
 Output : 0.7071
 
@@ -20,7 +20,7 @@ Output : 1
 
 ## c#
 
-```
+```cs
 // C# program to calculate the Cosine(X) 
 // Without using a predefined method
 using System;
@@ -56,7 +56,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Cos(0):1
 Cos(3):0.540302303791887
 Cos(8):-0.41615520282187

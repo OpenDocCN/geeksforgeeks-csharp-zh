@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual string this[string key] { get; set; }
 ```
 
@@ -20,7 +20,7 @@ public virtual string this[string key] { get; set; }
 
 **例 1:**
 
-```
+```cs
 // C# code to get or set the value at
 // the specified key in StringDictionary
 using System;
@@ -67,7 +67,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 3 Java
 5 C#
 4 Python
@@ -86,7 +86,7 @@ After Item[String] Property:
 
 **例 2:**
 
-```
+```cs
 // C# code to get or set the value at
 // the specified key in StringDictionary
 using System;
@@ -136,7 +136,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 3 PHP
 5 AngularJS
 4 MongoDB

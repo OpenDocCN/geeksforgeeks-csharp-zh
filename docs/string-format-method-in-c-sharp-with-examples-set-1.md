@@ -21,7 +21,7 @@
 
 **语法:**
 
-```
+```cs
 public static string Format (string format, object arg0);
 
 ```
@@ -38,7 +38,7 @@ public static string Format (string format, object arg0);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the 
 // String.Format(String first, 
 // Object second) Method
@@ -61,7 +61,7 @@ public class GFG    
 
 **输出:**
 
-```
+```cs
 Monday, 11 November 2019
 
 ```
@@ -72,7 +72,7 @@ Monday, 11 November 2019
 
 **语法:**
 
-```
+```cs
 public static string Format (string format, params object[] args);
 
 ```
@@ -89,7 +89,7 @@ public static string Format (string format, params object[] args);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the 
 // String.Format(String, 
 // params Object[]) Method
@@ -118,7 +118,7 @@ public class GFG    
 
 **输出:**
 
-```
+```cs
 Temperature on 05/20/2020:
    14:17:32: 24.1 degrees (hi)
    03:16:10: 21.8 degrees (lo)
@@ -131,7 +131,7 @@ Temperature on 05/20/2020:
 
 **语法:**
 
-```
+```cs
 public static string Format (IFormatProvider provider, string format, object arg0);
 
 ```
@@ -150,7 +150,7 @@ public static string Format (IFormatProvider provider, string format, object arg
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the
 // String.Format(IFormatProvider, 
 // String, Object) Method
@@ -173,7 +173,7 @@ public static void Main(string[] args) {
 
 **输出:**
 
-```
+```cs
 Wednesday, May 20, 2020 
 
 ```

@@ -15,7 +15,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Floor(Decimal) Method
 using System;
@@ -43,14 +43,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Floor Value is : 4
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Floor(Decimal) Method
 using System;
@@ -78,14 +78,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Floor Value is : -6
 
 ```
 
 **例 3:**
 
-```
+```cs
 // C# program to demonstrate the
 // Decimal.Floor(Decimal) Method
 using System;
@@ -114,7 +114,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Floor Value is : 2
 
 ```

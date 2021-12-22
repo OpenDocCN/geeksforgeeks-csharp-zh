@@ -7,7 +7,7 @@ T5】string collection。RemoveAt(Int32) 方法用于移除 StringCollection 指
 
 **语法:**
 
-```
+```cs
 public void RemoveAt (int index);
 
 ```
@@ -22,7 +22,7 @@ public void RemoveAt (int index);
 
 **例 1:**
 
-```
+```cs
 // C# code to remove the string at the
 // specified index of the StringCollection
 using System;
@@ -67,7 +67,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Elements in StringCollection myCol are : 
 A
 B
@@ -84,7 +84,7 @@ E
 
 **例 2:**
 
-```
+```cs
 // C# code to remove the string at the
 // specified index of the StringCollection
 using System;

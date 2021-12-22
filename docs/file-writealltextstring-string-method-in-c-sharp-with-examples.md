@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static void WriteAllText (string path, string contents);
 ```
 
@@ -30,7 +30,7 @@ public static void WriteAllText (string path, string contents);
 
 **程序 1:** 最初，没有创建文件。下面代码自己创建一个文件 *file.txt* 并将指定的字符串数组写入文件。
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.WriteAllText(String, String) method
 
@@ -61,7 +61,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks
 
 ```
@@ -76,7 +76,7 @@ GeeksforGeeks
 
 下面的代码用指定的字符串覆盖文件内容。
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.WriteAllText(String, String) method
 
@@ -107,7 +107,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 GFG is a cs portal.
 
 ```

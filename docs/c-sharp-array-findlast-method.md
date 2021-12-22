@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static T FindLast<T> (T[] array, Predicate<T> match);
 ```
 
@@ -25,7 +25,7 @@ public static T FindLast<T> (T[] array, Predicate<T> match);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Array.FindLast(T[], Predicate<T>)
 // Method
@@ -88,7 +88,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Initial Array:
 Sun
 Son
@@ -103,7 +103,7 @@ Last occurrence: Son
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // Array.FindLast(T[], Predicate<T>)
 // Method
@@ -158,7 +158,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.ArgumentNullException
 
 ```

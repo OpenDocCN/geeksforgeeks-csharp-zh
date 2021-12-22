@@ -19,7 +19,7 @@
 此方法用于使用指定的区域性特定格式信息将当前实例的数值转换为其等效的字符串表示形式。
 **语法:**
 
-```
+```cs
 public string ToString (IFormatProvider provider);
 ```
 
@@ -29,7 +29,7 @@ public string ToString (IFormatProvider provider);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // UInt32.ToString(IFormatProvider)
 // Method
@@ -61,7 +61,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The Value is 49848 and provider is en-US
 ```
 
@@ -70,7 +70,7 @@ The Value is 49848 and provider is en-US
 此方法用于使用指定的格式和区域性特定的格式信息将此实例的数值转换为其等效的字符串表示形式。
 **语法:**
 
-```
+```cs
 public string ToString (string format, IFormatProvider provider);
 ```
 
@@ -85,7 +85,7 @@ public string ToString (string format, IFormatProvider provider);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // UInt32.ToString(String,
 // IFormatProvider) Method
@@ -121,7 +121,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 The value is 4294967295
 The Format is D5
 The Provider is fr-FR

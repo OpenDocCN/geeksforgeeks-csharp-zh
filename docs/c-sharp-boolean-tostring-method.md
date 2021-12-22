@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public override string ToString ();
 ```
 
@@ -18,7 +18,7 @@ public override string ToString ();
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // Boolean.ToString()
 // Method
@@ -47,7 +47,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 cat.ToString() returns False
 dog.ToString() returns True
 ```
@@ -56,7 +56,7 @@ dog.ToString() returns True
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // Boolean.ToString()
 // Method
@@ -98,7 +98,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 False
 True
 True

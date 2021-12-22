@@ -10,7 +10,7 @@
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the concept 
 // of deconstruction with the tuple
 using System;
@@ -70,7 +70,7 @@ class GFG {
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the concept 
 // of deconstruction with the tuple
 using System;
@@ -137,7 +137,7 @@ class GFG {
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the concept 
 // of deconstruction with the tuple
 using System;
@@ -206,7 +206,7 @@ class GFG {
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of deconstruction with tuple
 using System;

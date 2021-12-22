@@ -6,7 +6,7 @@
 
 ****语法:****
 
-```
+```cs
 public static bool TryParse(string str, out char result) 
 ```
 
@@ -20,7 +20,7 @@ public static bool TryParse(string str, out char result)
 
 **例 1:** 下面是演示 *Char 用法的程序。*方法。**
 
-```
+```cs
 // C# program to illustrate the
 // Char.TryParse () Method
 using System;
@@ -75,7 +75,7 @@ using System;
 
 ****Output:**
 
-```
+```cs
 True
 A
 True
@@ -91,7 +91,7 @@ z
 
 ****示例 2:** 下面是一个演示*字符使用的程序。TryParse()* 输入不是单个字符并以符号开头的方法。**
 
-```
+```cs
 // C# program to illustrate the
 // Char.TryParse () Method
 using System;
@@ -125,7 +125,7 @@ class GFG {
 
 ****Output:**
 
-```
+```cs
 False
 
 False

@@ -30,7 +30,7 @@ LINQ 被称为语言集成查询，它是在年引入的。NET 3.5。它提供�
 
 **示例:**
 
-```
+```cs
 Input:
 
 Student
@@ -63,7 +63,7 @@ ID: 7072--> Name: harsha--> Department: CSE--> Address: railu-peta
 
 **3。**根据学生证、学部证、地址证进行加入。
 
-```
+```cs
 var result = (from stu in students
 
 join dept in departments on stu.dept_id equals dept.dept_id
@@ -73,7 +73,7 @@ join add in addresses on stu.add_id equals add.add_id).ToList();
 
 **4。**使用 Select()方法选择数据。
 
-```
+```cs
 select new
 {
     ID = stu.id,
@@ -85,7 +85,7 @@ select new
 
 **5。**显示每个循环的使用情况。
 
-```
+```cs
 foreach (var e in result)
 {
     Console.WriteLine("\tID: " + e.ID + "--> Name: " + 
@@ -98,7 +98,7 @@ foreach (var e in result)
 
 ## C#
 
-```
+```cs
 // C# program to join multiple data sources
 // Using LINQ
 using System;
@@ -192,7 +192,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 ID: 7058--> Name: sravan kumar--> Department: CSE--> Address: hyd
 ID: 7059--> Name: jyothika--> Department: CSE--> Address: railu-peta
 ID: 7072--> Name: harsha--> Department: CSE--> Address: railu-peta

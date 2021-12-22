@@ -6,7 +6,7 @@
 
 **示例:**
 
-```
+```cs
 Input: aA
 Output: [97, 65 ]
 
@@ -21,7 +21,7 @@ Output: [ 72, 101, 108, 108, 111 ]
 
 **语法:**
 
-```
+```cs
 byte byt = Convert.ToByte(char); 
 
 ```
@@ -38,7 +38,7 @@ byte byt = Convert.ToByte(char);
 
 ## C#
 
-```
+```cs
 // C# program to convert a given
 // string to its equivalent byte[]
 
@@ -71,7 +71,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Byte of char 'G' : 71
 Byte of char 'e' : 101
 Byte of char 'e' : 101
@@ -94,7 +94,7 @@ Byte of char 's' : 115
 
 **语法:**
 
-```
+```cs
 byte[] byte_array = Encoding.ASCII.GetBytes(string str); 
 
 ```
@@ -109,7 +109,7 @@ byte[] byte_array = Encoding.ASCII.GetBytes(string str);
 
 ## C#
 
-```
+```cs
 // C# program to convert a given
 // string to its equivalent byte[]
 
@@ -141,7 +141,7 @@ public class GFG{
 
 **输出:**
 
-```
+```cs
 Byte of char 'G' : 71
 Byte of char 'e' : 101
 Byte of char 'e' : 101

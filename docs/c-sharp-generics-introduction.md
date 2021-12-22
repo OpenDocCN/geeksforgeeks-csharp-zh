@@ -14,13 +14,13 @@ C#中的泛型是它最强大的特性。它允许您定义类型安全的数据
 
 **要创建泛型类的对象，使用以下语法:**
 
-```
+```cs
 BaseType obj = new BaseType <type>()</type> 
 ```
 
 **示例:**
 
-```
+```cs
 // C# program to show working of 
 // user defined Generic classes
 using System;
@@ -73,7 +73,7 @@ class Test {
 
 **输出:**
 
-```
+```cs
 GeeksforGeeks
 5
 
@@ -85,7 +85,7 @@ GeeksforGeeks
 
 *   **Example:**
 
-    ```
+    ```cs
     // C# program to show multiple
     // type parameters in Generics
     using System;
@@ -120,7 +120,7 @@ GeeksforGeeks
 
     **输出:**
 
-    ```
+    ```cs
     Integer:122
     Character:H
     Decimal:255.67

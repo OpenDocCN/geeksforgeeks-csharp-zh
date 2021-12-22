@@ -23,13 +23,13 @@ HashSet 类提供了 *7 种不同类型的构造函数*，用来创建一个 Has
 
 **第一步:**包含*系统。集合。通用*命名空间在您的程序中借助*使用*关键字:
 
-```
+```cs
 using System.Collections.Generic;
 ```
 
 **步骤 2:** 使用 HashSet 类创建 HashSet，如下所示:
 
-```
+```cs
 HashSet<Type_of_hashset> Hashset_name = new HashSet<Type_of_hashset>(); 
 ```
 
@@ -41,7 +41,7 @@ HashSet<Type_of_hashset> Hashset_name = new HashSet<Type_of_hashset>();
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how to
 // create hashset
 using System;
@@ -91,7 +91,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Elements of myhash1:
 C
 C++
@@ -118,7 +118,7 @@ Elements of myhash2:
 
 ## C#
 
-```
+```cs
 // C# program to illustrate how to
 // remove elements of HashSet
 using System;
@@ -165,7 +165,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Total number of elements present in myhash: 5
 Total number of elements present in myhash: 4
 Total number of elements present in myhash:0
@@ -180,7 +180,7 @@ HashSet 类还提供了一些用于对集合执行不同操作的方法，这些
 
 ## C#
 
-```
+```cs
 // C# program to illustrate set operations
 using System;
 using System.Collections.Generic;
@@ -225,7 +225,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 C
 C++
 C#
@@ -240,7 +240,7 @@ Perl
 
 ## C#
 
-```
+```cs
 // C# program to illustrate set operations
 using System;
 using System.Collections.Generic;
@@ -286,7 +286,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 C++
 Java
 ```
@@ -296,7 +296,7 @@ Java
 
 ## C#
 
-```
+```cs
 // C# program to illustrate set operations
 using System;
 using System.Collections.Generic;
@@ -342,7 +342,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 C
 C#
 Ruby

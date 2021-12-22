@@ -6,7 +6,7 @@
 
 **例:**
 
-```
+```cs
 // C# program to illustrate Dictionary
 using System;
 using System.Collections.Generic;
@@ -39,7 +39,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Key:- a.01 and Value:- C
 Key:- a.02 and Value:- C++
 Key:- a.03 and Value:- C#
@@ -50,7 +50,7 @@ Key:- a.03 and Value:- C#
 
 **例:**
 
-```
+```cs
 // C# program to illustrate a hashtable
 using System;
 using System.Collections;
@@ -82,7 +82,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Key:- A3 and Value:- GeeksforGeeks 
 Key:- A2 and Value:- to 
 Key:- A1 and Value:- Welcome 

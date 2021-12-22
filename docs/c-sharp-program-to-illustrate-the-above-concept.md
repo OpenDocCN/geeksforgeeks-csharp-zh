@@ -16,7 +16,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the above concept
 using System;
 
@@ -71,7 +71,7 @@ static public void Main()
 
 **Output**
 
-```
+```cs
 My name is Rohan. My father name is Ravi.
 My name is Nikhil. My father name is Ravi.
 ```
@@ -82,7 +82,7 @@ My name is Nikhil. My father name is Ravi.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the above concept
 using System;
 
@@ -160,7 +160,7 @@ static public void Main()
 
 **Output**
 
-```
+```cs
 teacher ID:      25054
 teacher Name:    Sanjay
 teacher Salary:  50000

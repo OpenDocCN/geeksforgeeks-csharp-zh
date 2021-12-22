@@ -16,7 +16,7 @@ T32】T33
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of SortedDictionary<TKey, TValue>()
 // in SortedDictionary
@@ -51,7 +51,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Key: One and Value: C
 Key: Three and Value: C#
 Key: Two and Value: C++
@@ -69,7 +69,7 @@ Key: Two and Value: C++
 
 **例:**
 
-```
+```cs
 // C# program to illustrate the concept
 // of count property in SortedDictionary
 using System;
@@ -105,7 +105,7 @@ public class GFG {
 
 **输出:**
 
-```
+```cs
 Total number of pairs present in myDr : 7
 
 ```

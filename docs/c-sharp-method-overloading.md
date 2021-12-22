@@ -23,7 +23,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the function
 // overloading by changing the Number
 // of parameters
@@ -64,7 +64,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 sum of the two integer value : 3
 sum of the three integer value : 6
 ```
@@ -73,7 +73,7 @@ sum of the three integer value : 6
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the function
 // overloading by changing the Data types
 //  of the parameters
@@ -114,7 +114,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 sum of the three integer value : 6
 sum of the three double value : 6
 ```
@@ -123,7 +123,7 @@ sum of the three double value : 6
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate the function
 // overloading by changing the
 // Order of the parameters
@@ -161,7 +161,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Name1 : Akku, Id1 : 1
 Name2 : Abby, Id2 : 2
 ```
@@ -173,7 +173,7 @@ Name2 : Abby, Id2 : 2
 
 ## C#
 
-```
+```cs
 // C# program to show error when method signature
 // is the same and the return type is different.
 using System;

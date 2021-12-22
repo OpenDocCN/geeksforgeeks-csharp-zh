@@ -15,7 +15,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void Insert (int index, object value);
 
 ```
@@ -35,7 +35,7 @@ public virtual void Insert (int index, object value);
 
 **例 1:**
 
-```
+```cs
 // C# code to insert an element
 // into the ArrayList at the
 // specified index
@@ -83,7 +83,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The initial ArrayList is : 
 A
 B
@@ -100,7 +100,7 @@ F
 
 **例 2:**
 
-```
+```cs
 // C# code to insert an element
 // into the ArrayList at the
 // specified index
@@ -148,7 +148,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The initial ArrayList is : 
 1
 2

@@ -10,7 +10,7 @@
 
 **示例 1:** 让我们看一个不使用 Clone()方法，而是使用赋值运算符“=”直接复制堆栈的示例。在下面的代码中，我们可以看到，即使我们从 *myStack2* 中弹出()元素，myStack 的内容也会发生变化。这是因为“=”只是将 myStack 的引用分配给 myStack2，并没有创建任何新的 Stack。但是 Clone()会创建一个新的堆栈。
 
-```
+```cs
 // C# program to Copy a Stack using 
 // the assignment operator
 using System;
@@ -49,7 +49,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Java
 C++
 C

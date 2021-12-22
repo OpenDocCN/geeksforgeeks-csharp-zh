@@ -5,7 +5,7 @@
 **文件。setlastwittimeutc(String)**是一个内置的 File 类方法，用于设置指定文件上次写入的日期和时间，以协调世界时(Utc)表示。
 **语法:**
 
-```
+```cs
 public static void SetLastWriteTimeUtc (string path, DateTime lastWriteTime);
 ```
 
@@ -31,7 +31,7 @@ public static void SetLastWriteTimeUtc (string path, DateTime lastWriteTime);
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.SetLastWriteTimeUtc() method
 
@@ -61,7 +61,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 The last written date and time in UTC for this file was 5/4/2020 4:05:07 AM.
 ```
 
@@ -69,7 +69,7 @@ The last written date and time in UTC for this file was 5/4/2020 4:05:07 AM.
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.SetLastWriteTimeUtc() method
 
@@ -104,6 +104,6 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 The last written date and time in UTC for this file was 5/4/2019 4:05:07 AM.
 ```

@@ -6,14 +6,14 @@
 
 **语法:**
 
-```
+```cs
 public virtual void Push (object obj);
 
 ```
 
 **示例:**
 
-```
+```cs
 // C# code to demonstrate the 
 // Stack.Push() Method
 using System;
@@ -88,7 +88,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Total number of elements in the Stack are : 1
 Total number of elements in the Stack are : 2
 Total number of elements in the Stack are : 3

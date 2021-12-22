@@ -27,7 +27,7 @@ ValueTuple <t1>结构用于创建三值元组或 3 值元组。它表示存储�
 
 **示例:**
 
-```
+```cs
 // C# program to illustrate how to
 // access the element of ValueTuple<T1, 
 // T2, T3>
@@ -55,7 +55,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Book Details: 
 Book Id: 3456
 Book Name: The Guide
@@ -74,7 +74,7 @@ Author Name: R. K. Narayan
 
 **示例:**
 
-```
+```cs
 // C# program to check the given 
 // value tuples are equal or not
 using System;
@@ -106,7 +106,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Incorrect Code...!!
 
 ```

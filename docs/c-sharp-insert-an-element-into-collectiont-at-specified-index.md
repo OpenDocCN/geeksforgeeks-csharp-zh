@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void Insert (int index, T item);
 
 ```
@@ -22,7 +22,7 @@ public void Insert (int index, T item);
 
 **例 1:**
 
-```
+```cs
 // C# code to insert an element into
 // the Collection at the specified index
 using System;
@@ -71,7 +71,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Count : 5
 A
 B
@@ -90,7 +90,7 @@ E
 
 **例 2:**
 
-```
+```cs
 // C# code to insert an element into
 // the Collection at the specified index
 using System;

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static ushort Parse (string str);
 ```
 
@@ -24,7 +24,7 @@ public static ushort Parse (string str);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate
 // UInt16.Parse(String) Method
 using System;
@@ -70,7 +70,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 '65535' parsed as 65535
 Can't Parsed '15,784'
 Can't Parsed '-4589'
@@ -80,7 +80,7 @@ Can't Parsed '-4589'
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // UInt16.Parse(String) Method
 // for ArgumentNullException
@@ -127,7 +127,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Exception Thrown: System.ArgumentNullException
 
 ```

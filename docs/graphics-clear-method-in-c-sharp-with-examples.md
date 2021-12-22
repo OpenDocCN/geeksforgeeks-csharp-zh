@@ -10,7 +10,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# snippet to print GeeksForGeeks
 using System;
 using System.Drawing;
@@ -47,7 +47,7 @@ class PrintableForm : Form {
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the Clear Method
 // C# snippet to print GeeksForGeeks
 using System;

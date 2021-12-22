@@ -29,7 +29,7 @@
 
     **例 1:**
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // List<T>.FindLastIndex(Int32,
     // Predicate <T>) Method
@@ -76,14 +76,14 @@
 
     **输出:**
 
-    ```
+    ```cs
     0
 
     ```
 
     **例 2:**
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // List<T>.FindLastIndex(Int32,
     // Predicate <T>) Method
@@ -133,14 +133,14 @@
 
     **输出:**
 
-    ```
+    ```cs
     2
 
     ```
 
     **示例 3:** 在本例中，我们使用一个 XML 文件，从起始索引中搜索一个项目，并打印该项目的索引，如果找不到该项目，则打印“-1”，如果找到，则打印索引。物品是“*极客 forgesks*”。但是这里我们没有 XML 文件，这里编译器给出了一个异常。
 
-    ```
+    ```cs
     // C# program to illustrate the 
     // List<T>.FindLastIndex(Int32,
     // Predicate <T>) Method
@@ -219,7 +219,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# Program to illustrate the 
     // FindLastIndex(Int32, Int32, 
     // Predicate<T>) Method
@@ -268,7 +268,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     The index of Java is: 2
 
     ```

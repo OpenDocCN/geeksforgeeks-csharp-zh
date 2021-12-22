@@ -6,7 +6,7 @@
 
 **以下是密封类的**语法**:**
 
-```
+```cs
 sealed class class_name
 {
     // data members
@@ -26,7 +26,7 @@ sealed class class_name
 
 ## **C#**
 
-```
+```cs
 // C# code to define
 // a Sealed Class
 using System;
@@ -59,7 +59,7 @@ class Program {
 
 ****输出:****
 
-```
+```cs
 Total = 10
 ```
 
@@ -67,7 +67,7 @@ Total = 10
 
 ## **C#**
 
-```
+```cs
 // C# code to show restrictions
 // of a Sealed Class
 using System;
@@ -102,7 +102,7 @@ class Program {
 
 ## **C#**
 
-```
+```cs
 // C# program to
 // define Sealed Class
 using System;
@@ -178,7 +178,7 @@ class Program {
 
 ****输出:****
 
-```
+```cs
 display dimension : 6*6
 Printer printing....
 

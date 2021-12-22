@@ -19,7 +19,7 @@
 
 **示例 1:** 在这段代码中，我们使用 SyncRoot 来获得对名为 *sd* 的 StringDictionary 的同步访问，这不是一个线程安全的过程，可能会导致异常。所以为了避免异常，我们在枚举期间锁定集合。
 
-```
+```cs
 // C# program to illustrate the
 // use of SyncRoot property of
 // the StringDictionary class
@@ -62,7 +62,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 china ---- Beijing
 netherlands ---- Amsterdam
 belgium ---- Brussels
@@ -74,7 +74,7 @@ russia ---- Moscow
 
 **例 2:**
 
-```
+```cs
 // C# program to illustrate the
 // use of SyncRoot property of
 // the StringDictionary class
@@ -116,7 +116,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 3 ----> Java
 5 ----> HTML
 4 ----> C#

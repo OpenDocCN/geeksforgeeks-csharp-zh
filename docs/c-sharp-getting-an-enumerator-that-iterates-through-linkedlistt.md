@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public System.Collections.Generic.LinkedList<T>.Enumerator GetEnumerator ();
 ```
 
@@ -16,7 +16,7 @@ public System.Collections.Generic.LinkedList<T>.Enumerator GetEnumerator ();
 
 **例 1:**
 
-```
+```cs
 // C# code to get an enumerator that
 // iterates through the LinkedList<T>
 using System;
@@ -56,7 +56,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 2
 4
 6
@@ -66,7 +66,7 @@ class GFG {
 
 **例 2:**
 
-```
+```cs
 // C# code to get an enumerator that
 // iterates through the LinkedList<T>
 using System;
@@ -106,7 +106,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 GeeksforGeeks
 GFG
 Data Structures

@@ -14,7 +14,7 @@
 
 **例:**
 
-```
+```cs
 Input  : Hello Geeks
 Output : Hello Geeks
 
@@ -24,7 +24,7 @@ Output : Hello 123
 
 ## c#
 
-```
+```cs
 // C# program to display the command line arguments
 // using Environment Class
 using System;
@@ -51,7 +51,7 @@ static public void Main()
 
 **输出** :
 
-```
+```cs
 E:\> example.exe Hello Geeks
 Command Line Data:
 example.exe Hello Geeks

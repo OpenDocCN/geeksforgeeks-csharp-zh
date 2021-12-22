@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 mySet.Max
 
 ```
@@ -23,7 +23,7 @@ mySet.Max
 
 **例 1:**
 
-```
+```cs
 // C# code to get the maximum value
 // in the SortedSet
 using System;
@@ -51,14 +51,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The maximum element in SortedSet is : 9
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to get the maximum value
 // in the SortedSet
 using System;
@@ -89,7 +89,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 The maximum element in SortedSet is : F
 
 ```

@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool Equals (object obj);
 ```
 
@@ -18,7 +18,7 @@ public virtual bool Equals (object obj);
 
 **例 1:**
 
-```
+```cs
 // C# code to if specified 
 // BitArray object is equal 
 // to the current object
@@ -59,14 +59,14 @@ class GFG { 
 
 **输出:**
 
-```
+```cs
 False
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# code to if specified
 // BitArray object is equal
 // to the current object
@@ -119,7 +119,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 True
 

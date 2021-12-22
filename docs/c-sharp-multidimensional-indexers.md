@@ -8,7 +8,7 @@
 
 **示例 1:** 使用获取和设置访问器
 
-```
+```cs
 // C# program to illustrate the 
 // Multidimensional Indexers
 using System;
@@ -83,7 +83,7 @@ class Geeks {
 
 **Output:**
 
-```
+```cs
 1    2    3
 4    5    6
 7    8    9
@@ -92,7 +92,7 @@ class Geeks {
 
 **示例 2:** 不使用“set”访问器，即仅使用 **[只读属性](https://www.geeksforgeeks.org/c-properties/)**
 
-```
+```cs
 // C# program to illustrate the Multidimesional 
 // Indexer without using set accessor 
 using System;
@@ -141,7 +141,7 @@ public static void Main(String []args)
 
 **Output:**
 
-```
+```cs
 1    2    3    
 2    3    4    
 3    4    5

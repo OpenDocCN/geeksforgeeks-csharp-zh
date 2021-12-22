@@ -8,7 +8,7 @@
 
 **语法:**
 
-```
+```cs
 <access_modifier> <return_type> <property_name>
 {
         get { // body }
@@ -22,7 +22,7 @@
 *   **属性不能通过 ref 或 out 参数传递给方法:**属性不能通过 out 或 ref 传递，因为**属性实际上是方法**。在编译时，*参考*和*输出*都不被认为是方法签名的一部分。因此，它会给出一个编译时错误。除了从程序中完全删除 ref 或 out 之外，没有解决这个限制的办法。
 *   **You cannot overload a property:** A property cannot be overloaded. It means that one can only put a single get and set accessor and mutator in a class respectively. The program given below shows what happens when we give more than one get accessor in the same class.
 
-    ```
+    ```cs
     // C# program to show what happens when
     // we try to overload a property
     using System;
@@ -77,7 +77,7 @@
 
     但是通过在同一个程序中使用不同类中的**属性，可以多次使用 get 和 set。下面给出了一个说明这一点的例子。**
 
-    ```
+    ```cs
     // C# program to demonstrate the use
     // of properties in different classes
     using System;
@@ -143,7 +143,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     The value set in the class Myprop is: 5
     The value set in the class Myprops is: 7
 
@@ -151,7 +151,7 @@
 
 *   **A property should not alter the state of the underlying variable when the get accessor is called:** The **get** accessor of properties is preset to read-only mode while the **set** command is set to write-only mode. Due to this, if we try to enter values or modify in the scope of the get accessor we’ll get a warning which tells that the code we are trying to access is unreachable. The example given below illustrates that.
 
-    ```
+    ```cs
     // C# program to demonstrate the 
     // above-mentioned restriction
     using System;
@@ -198,7 +198,7 @@
 
     **输出:**
 
-    ```
+    ```cs
     5
     ```
 

@@ -26,7 +26,7 @@
 
 **2。运行时:**比上面的方法稍微复杂一点。在此方法中，您可以在给定语法的帮助下，以编程方式在 NumericUpDown 控件中设置十六进制格式:
 
-```
+```cs
 public bool Hexadecimal { get; set; }
 ```
 
@@ -34,7 +34,7 @@ public bool Hexadecimal { get; set; }
 
 *   **步骤 1:** 使用 numericpdown()构造函数创建 numericpdown，该构造函数由 numericpdown 类提供。
 
-    ```
+    ```cs
     // Creating a NumericUpDown
     NumericUpDown n = new NumericUpDown();
 
@@ -42,7 +42,7 @@ public bool Hexadecimal { get; set; }
 
 *   **第 2 步:**创建 numericpdown 后，设置 numericpdown 类提供的 numericpdown 的十六进制属性。
 
-    ```
+    ```cs
     // Setting the Hexadecimal values
     n.Hexadecimal = true; 
 
@@ -50,7 +50,7 @@ public bool Hexadecimal { get; set; }
 
 *   **Step 3:** And last add this NumericUpDown control to the form using the following statement:
 
-    ```
+    ```cs
     // Adding NumericUpDown control on the form
     this.Controls.Add(n);
 
@@ -58,7 +58,7 @@ public bool Hexadecimal { get; set; }
 
     **示例:**
 
-    ```
+    ```cs
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;

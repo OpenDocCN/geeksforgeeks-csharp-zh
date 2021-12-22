@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual bool Contains(object obj);
 ```
 
@@ -20,7 +20,7 @@ public virtual bool Contains(object obj);
 
 ## c#
 
-```
+```cs
 // C# code to illustrate the
 // Queue.Contains() Method
 using System;
@@ -54,7 +54,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 False
 ```
 
@@ -62,7 +62,7 @@ False
 
 ## c#
 
-```
+```cs
 // C# code to illustrate the
 // Queue.Contains() Method
 using System;
@@ -96,7 +96,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 True
 ```
 

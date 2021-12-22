@@ -12,7 +12,7 @@
 
 **语法:**
 
-```
+```cs
 public struct Span<T>.Enumerator
 ```
 
@@ -21,7 +21,7 @@ public struct Span<T>.Enumerator
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate Span<T>.Enumerator Struct
 using System;
 using System.Threading.Tasks;
@@ -79,7 +79,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 52
 239
 0

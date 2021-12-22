@@ -19,7 +19,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // TimeSpan.Compare(TimeSpan, 
 // TimeSpan) Method
@@ -49,14 +49,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 t1 is greater than t2
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // TimeSpan.Compare(TimeSpan, 
 // TimeSpan) Method
@@ -86,14 +86,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 t2 is greater than t1
 
 ```
 
 **例 3:**
 
-```
+```cs
 // C# program to demonstrate the
 // TimeSpan.Compare(TimeSpan, 
 // TimeSpan) Method
@@ -123,7 +123,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 t1 is equal to t2
 
 ```

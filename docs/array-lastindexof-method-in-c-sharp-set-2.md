@@ -29,7 +29,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Array.LastIndexOf<T>(T[], T)
 using System;
@@ -65,7 +65,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Original Array
 Original arrayABC
 Original arrayEFG
@@ -98,7 +98,7 @@ The position of STW is 4
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Array.LastIndexOf<T>(T[], T, Int32)
 using System;
@@ -134,7 +134,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Original Array
 ABC
 EFG
@@ -168,7 +168,7 @@ the position of STW is 4
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Array.LastIndexOf(T[], T,
 // Int32, Int32)
@@ -208,7 +208,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 Original Array
 ABC
 EFG

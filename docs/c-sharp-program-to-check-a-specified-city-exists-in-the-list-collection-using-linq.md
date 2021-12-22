@@ -17,7 +17,7 @@
 
 **示例:**
 
-```
+```cs
 Input  : ["Mumbai", "Pune", "Bangalore", "Hyderabad"]
 search_city : "Mumbai"
 Output : True
@@ -32,7 +32,7 @@ Output : False
 > *   Create an isPresent () method with the list of cities and the name of the city to be searched as parameters.
 > *   In the isPresent () method, use contains () to check whether the city exists in the list.
 > 
-> ```
+> ```cs
 > bool isExist = City_List.AsEnumerable().Contains(city);
 > ```
 > 
@@ -41,13 +41,13 @@ Output : False
 > *   In the main method, use arrayList to create a list of city names.
 > *   Call the isPresent () method with two parameters, one is list, and the other is whether the city name we want to check exists.
 > 
-> ```
+> ```cs
 > isPresent(City_List, "Mumbai");
 > ```
 
 ## c#
 
-```
+```cs
 // C# program to check if the given city 
 // is available in the list or not
 using System;
@@ -84,7 +84,7 @@ static void Main(string[] args)
 
 **输出:**
 
-```
+```cs
 Mumbai is present in list
 Chennai is not present in list
 ```

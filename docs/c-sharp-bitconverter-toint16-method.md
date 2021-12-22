@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static short ToInt16 (byte[] value, int startIndex);
 ```
 
@@ -29,7 +29,7 @@ public static short ToInt16 (byte[] value, int startIndex);
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToInt16(Byte[], Int32);
 // Method
@@ -99,7 +99,7 @@ public static void PrintIndexAndValues(byte[] myArr)
 
 **输出:**
 
-```
+```cs
 Initial Array: 32 0 0 42 0 65 0 125 0 197 0 168 3 41 4 125 32 
 
 index    byte Array     short value
@@ -117,7 +117,7 @@ index    byte Array     short value
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToInt16(Byte[], Int32);
 // Method
@@ -202,7 +202,7 @@ public static void PrintIndexAndValues(byte[] myArr)
 
 **输出:**
 
-```
+```cs
 Initial Array: 32 0 0 42 0 65 0 125 0 197 0 168 3 41 4 125 
 
 initial Array in string: 20-00-00-2A-00-41-00-7D-00-C5-00-A8-03-29-04-7D 
@@ -224,7 +224,7 @@ Exception Thrown: System.ArgumentException
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToInt16(Byte[], Int32);
 // Method
@@ -304,7 +304,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Initial Array: 32 0 0 42 0 65 0 125 0 197 0 168 3 41 4 125 
 
 initial Array in string: 20-00-00-2A-00-41-00-7D-00-C5-00-A8-03-29-04-7D 
@@ -327,7 +327,7 @@ Exception Thrown: System.ArgumentOutOfRangeException
 
 ## C#
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToInt16(Byte[], Int32);
 // Method
@@ -370,7 +370,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Exception Thrown: System.ArgumentNullException
 ```
 

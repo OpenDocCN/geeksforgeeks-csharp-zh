@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public void CopyTo (Array array, int index);
 
 ```
@@ -28,7 +28,7 @@ public void CopyTo (Array array, int index);
 
 **例 1:**
 
-```
+```cs
 // C# code to copy ListDictionary to
 // Array instance at the specified index
 using System;
@@ -67,7 +67,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Australia-->Canberra
 Belgium-->Brussels
 Netherlands-->Amsterdam
@@ -79,7 +79,7 @@ India-->New Delhi
 
 **例 2:**
 
-```
+```cs
 // C# code to copy ListDictionary to
 // Array instance at the specified index
 using System;

@@ -14,7 +14,7 @@
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.IsBaseOf(Uri) Method
 using System;
@@ -47,7 +47,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 address1 instance is a base of the specified address2
 ```
 
@@ -55,7 +55,7 @@ address1 instance is a base of the specified address2
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate the
 // Uri.IsBaseOf(Uri) Method
 using System;
@@ -96,7 +96,7 @@ class GFG {
 
 **Output:** 
 
-```
+```cs
 address1 instance is a base of the specified address2
 address1 instance is not a base of the specified address2
 ```

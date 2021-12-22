@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public virtual void SetByIndex (int index, object value);
 ```
 
@@ -22,7 +22,7 @@ public virtual void SetByIndex (int index, object value);
 
 **例 1:**
 
-```
+```cs
 // C# code for replacing the value at a
 // specific index in a SortedList object
 using System;
@@ -78,7 +78,7 @@ class Geeks {
 
 **输出:**
 
-```
+```cs
 ----- Before Replacing -----
 Index          Keys         Values
 [0]        Fifth        Manish
@@ -99,7 +99,7 @@ Index          Keys         Values
 
 **例 2:** 演示了*argumentout of range exception*可能发生的情况
 
-```
+```cs
 // C# code giving ArgumentOutOfRangeException 
 // specific index in a SortedList object
 // but giving ArgumentOutOfRangeException 

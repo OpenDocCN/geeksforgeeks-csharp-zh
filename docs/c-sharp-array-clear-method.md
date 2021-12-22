@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public static void Clear (Array array, int index, int length);
 ```
 
@@ -25,7 +25,7 @@ public static void Clear (Array array, int index, int length);
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate Array.Clear()
 // method for int type value
 using System;
@@ -68,7 +68,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Array Before Operation:
 10
 20
@@ -85,7 +85,7 @@ Array After Operation:
 
 **示例 2:** 适用于*参数异常*
 
-```
+```cs
 // C# program to demonstrate
 // Array.Clear() method
 // for ArgumentNullException
@@ -140,7 +140,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Try to clear the element from null Array:
 
 Exception Thrown: System.ArgumentNullException
@@ -149,7 +149,7 @@ Exception Thrown: System.ArgumentNullException
 
 **示例 3:** 适用于 *IndexOutOfRangeException*
 
-```
+```cs
 // C# program to demonstrate
 // Array.Clear() method
 // for IndexOutOfRangeException
@@ -208,7 +208,7 @@ public class GFG {
 
 **Output:**
 
-```
+```cs
 Array Before Operation:
 10
 20

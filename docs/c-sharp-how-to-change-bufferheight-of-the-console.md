@@ -10,7 +10,7 @@
 
 **程序 1:** 查找默认缓冲高度
 
-```
+```cs
 // C# program to illustrate the
 // BufferHeight Property
 using System;
@@ -40,7 +40,7 @@ class Program {
 
 **程序 2:** 将缓冲高度改为 100
 
-```
+```cs
 // C# program to illustrate the
 // BufferHeight Property
 using System;

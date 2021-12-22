@@ -6,7 +6,7 @@
 
 **语法:**
 
-```
+```cs
 public TValue this[TKey key] { get; set; }
 ```
 
@@ -21,7 +21,7 @@ public TValue this[TKey key] { get; set; }
 
 **示例:**
 
-```
+```cs
 // C# code to get or set the value
 // associated with the specified key
 using System;
@@ -91,7 +91,7 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Key = Australia, Value = Canberra
 Key = Belgium, Value = Brussels
 Key = Netherlands, Value = Amsterdam

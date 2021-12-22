@@ -14,7 +14,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public override string ToString ();
     ```
 
@@ -22,7 +22,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to illustrate the
     // Int32.ToString() Method
     using System;
@@ -59,7 +59,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The String values are: 
     The Corresponding String Value is: 2147483647
     The Corresponding String Value is: -2147483648
@@ -74,7 +74,7 @@
 
     **语法:**
 
-    ```
+    ```cs
     public string ToString (string format);
     ```
 
@@ -84,7 +84,7 @@
 
     **示例:**
 
-    ```
+    ```cs
     // C# program to demonstrate the
     // Int32.ToString(String) Method
     using System;
@@ -121,7 +121,7 @@
 
     **Output:**
 
-    ```
+    ```cs
     The value of string is 2.15E+005
 
     ```

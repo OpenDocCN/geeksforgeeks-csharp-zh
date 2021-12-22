@@ -5,7 +5,7 @@
 此方法用于返回从字节数组中指定位置的八个字节转换而来的 64 位有符号整数。
 **语法:**
 
-```
+```cs
 public static long ToInt64 (byte[] value, int startIndex);
 ```
 
@@ -26,7 +26,7 @@ public static long ToInt64 (byte[] value, int startIndex);
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToInt64(Byte[], Int32);
 // Method
@@ -101,7 +101,7 @@ public class GFG {
 
 **Output:** 
 
-```
+```cs
 Initial Array: 32 0 0 42 0 65 0 125 0 197 0 168 3 41 4 125 32 
 
 index       byte Array                            long value
@@ -113,7 +113,7 @@ index       byte Array                            long value
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToInt64(Byte[], Int32);
 // Method
@@ -203,7 +203,7 @@ public class GFG {
 
 **Output**
 
-```
+```cs
 Initial Array: 32 0 0 42 0 65 0 125 0 197 0 168 3 41 4 125 
 
 initial Array in string: 20-00-00-2A-00-41-00-7D-00-C5-00-A8-03-29-04-7D 
@@ -219,7 +219,7 @@ Exception Thrown: System.ArgumentException
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToInt64(Byte[], Int32);
 // Method
@@ -309,7 +309,7 @@ public class GFG {
 
 **Output**
 
-```
+```cs
 Initial Array: 32 0 0 42 0 65 0 125 0 197 0 168 3 41 4 125 
 
 Initial Array in string: 20-00-00-2A-00-41-00-7D-00-C5-00-A8-03-29-04-7D 
@@ -326,7 +326,7 @@ Exception Thrown: System.ArgumentOutOfRangeException
 
 ## c sharp . c sharp . c sharp . c sharp
 
-```
+```cs
 // C# program to demonstrate
 // BitConverter.ToInt64(Byte[], Int32);
 // Method
@@ -369,7 +369,7 @@ public class GFG {
 
 **Output:** 
 
-```
+```cs
 Exception Thrown: System.ArgumentNullException
 ```
 

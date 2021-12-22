@@ -12,7 +12,7 @@
 
 **例 1:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetDefaultMembers() Method
 using System;
@@ -45,14 +45,14 @@ class GFG {
 
 **Output:**
 
-```
+```cs
 Result is:  Char Chars [Int32]
 
 ```
 
 **例 2:**
 
-```
+```cs
 // C# program to demonstrate the
 // Type.GetDefaultMembers() Method
 using System;
@@ -101,7 +101,7 @@ using System.Reflection;
 
 **Output:**
 
-```
+```cs
 Result is:  System.String name
 
 ```

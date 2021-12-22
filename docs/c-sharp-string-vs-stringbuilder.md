@@ -10,7 +10,7 @@ StringBuilder 用于表示字符的*可变字符串*。可变是指可以改变�
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the
 // difference between String,
 // StringBuilder
@@ -59,7 +59,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 Using String Class: Geeks
 Using StringBuilder Class: GeeksforGeeks
 
@@ -80,7 +80,7 @@ Using StringBuilder Class: GeeksforGeeks
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the
 // conversion from String to StringBuilder.
 using System;
@@ -104,7 +104,7 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 GeeksForGeeks
 ```
 
@@ -113,7 +113,7 @@ GeeksForGeeks
 
 **示例:**
 
-```
+```cs
 // C# program to demonstrate the
 // conversion from String to StringBuilder
 using System;
@@ -139,6 +139,6 @@ class GFG {
 
 **输出:**
 
-```
+```cs
 StringBuilder object to String: Builder
 ```

@@ -24,7 +24,7 @@
 
 ****示例:****
 
-```
+```cs
 // C# code to create a LinkedList
 using System;
 using System.Collections;
@@ -56,7 +56,7 @@ class GFG {
 
 ****输出:****
 
-```
+```cs
 LinkedList is not empty 
 ```
 
@@ -69,7 +69,7 @@ LinkedList is not empty
 
 ****示例:****
 
-```
+```cs
 // C# code to illustrate the
 // LinkedList<T> class properties
 using System;
@@ -113,7 +113,7 @@ class GFG {
 
 ****输出:****
 
-```
+```cs
 GeeksforGeeks
 Noida 
 ```
@@ -145,7 +145,7 @@ Noida
 
 ****示例:****
 
-```
+```cs
 // C# code to check if a
 // value is in LinkedList
 using System;
@@ -175,13 +175,13 @@ class GFG {
 
 ****输出:****
 
-```
+```cs
 True 
 ```
 
 ****示例:****
 
-```
+```cs
 // C# code to remove the specified
 // node from the LinkedList
 using System;
@@ -231,7 +231,7 @@ class GFG {
 
 ****输出:****
 
-```
+```cs
 Total nodes in myList are : 4
 2
 4

@@ -29,7 +29,7 @@
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Create(String, Int32, 
 // FileOptions) method
@@ -68,7 +68,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 GeeksforGeeks
@@ -84,7 +84,7 @@ GeeksforGeeks
 
 ## C#
 
-```
+```cs
 // C# program to illustrate the usage
 // of File.Create(String, Int32,
 // FileOptions) method
@@ -123,7 +123,7 @@ class GFG {
 
 **执行:**
 
-```
+```cs
 mcs -out:main.exe main.cs
 mono main.exe
 GFG is a CS Portal.
