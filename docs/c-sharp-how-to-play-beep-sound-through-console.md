@@ -4,9 +4,9 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-how-play-beep-sound-through-console/](https://www.geeksforgeeks.org/c-sharp-how-to-play-beep-sound-through-console/)
 
-给定一个普通的 C#控制台，任务是通过控制台播放哔哔声。
+给定一个普通的 C# 控制台，任务是通过控制台播放哔哔声。
 
-**方法:**这可以借助 C#的**系统**包中**控制台**类的**哔()**方法来实现。
+**方法:**这可以借助 C# 的**系统**包中**控制台**类的**哔()**方法来实现。
 
 **控制台类**的**哔()**方法用于通过控制台扬声器播放哔声。
 

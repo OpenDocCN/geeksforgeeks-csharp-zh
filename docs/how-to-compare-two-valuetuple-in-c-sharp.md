@@ -1,4 +1,4 @@
-# 如何在 C#中比较两个 ValueTuple？
+# 如何在 C# 中比较两个 ValueTuple？
 
 > 原文:[https://www . geeksforgeeks . org/how-to-compare-two-value tuple in-c-sharp/](https://www.geeksforgeeks.org/how-to-compare-two-valuetuple-in-c-sharp/)
 

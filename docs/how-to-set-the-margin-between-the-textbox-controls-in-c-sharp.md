@@ -1,4 +1,4 @@
-# 如何在 C#中设置文本框控件之间的边距？
+# 如何在 C# 中设置文本框控件之间的边距？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中文本框控件之间的边距/](https://www.geeksforgeeks.org/how-to-set-the-margin-between-the-textbox-controls-in-c-sharp/)
 

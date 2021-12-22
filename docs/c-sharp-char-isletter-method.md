@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-char-isletter-method/](https://www.geeksforgeeks.org/c-sharp-char-isletter-method/)
 
-在 C#中， ***Char。*** 是一个*系统。Char* 结构方法，用于检查一个 Unicode 字符是否可以归类为 Unicode 字母。Unicode 字母由*大写字母、小写字母、标题大小写字母、修饰符字母和其他字母*组成。通过向该方法传递不同类型和数量的参数，可以重载该方法。
+在 C# 中， ***Char。*** 是一个*系统。Char* 结构方法，用于检查一个 Unicode 字符是否可以归类为 Unicode 字母。Unicode 字母由*大写字母、小写字母、标题大小写字母、修饰符字母和其他字母*组成。通过向该方法传递不同类型和数量的参数，可以重载该方法。
 
 ***   Char.T4【查尔特(查尔特)法。**
 

@@ -1,4 +1,4 @@
-# c#中数组指定维度的元素总数
+# c# 中数组指定维度的元素总数
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp 数组中指定维度的元素总数/](https://www.geeksforgeeks.org/total-number-of-elements-in-a-specified-dimension-of-an-array-in-c-sharp/)
 

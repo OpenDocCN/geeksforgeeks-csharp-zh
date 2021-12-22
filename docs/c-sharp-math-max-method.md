@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-math-max-method/](https://www.geeksforgeeks.org/c-sharp-math-max-method/)
 
-在 C#中， ***Max()*** 是一个 Math 类方法，用于返回两个指定数字中较大的一个。该方法总是采用两个参数，并且可以通过*将传递的参数的数据类型*更改如下来重载:
+在 C# 中， ***Max()*** 是一个 Math 类方法，用于返回两个指定数字中较大的一个。该方法总是采用两个参数，并且可以通过*将传递的参数的数据类型*更改如下来重载:
 
 *   **数学。Max(Byte，Byte):** 返回两个 8 位无符号整数中较大的一个。
 *   **数学。最大值(十进制，十进制):**返回两个十进制数中较大的一个。

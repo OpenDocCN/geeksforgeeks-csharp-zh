@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-nullable-types/](https://www.geeksforgeeks.org/c-sharp-nullable-types/)
 
-在 C#中，编译器不允许您将空值赋给变量。因此， **C# 2.0** 提供了一个特殊的特性，为一个称为可空类型的变量分配一个空值。可空类型允许您将空值赋给变量。C#2.0 中引入的可空类型只能用于[值类型](https://www.geeksforgeeks.org/c-data-types-2/)，不能用于[引用类型](https://www.geeksforgeeks.org/c-data-types-2/)。
+在 C# 中，编译器不允许您将空值赋给变量。因此， **C# 2.0** 提供了一个特殊的特性，为一个称为可空类型的变量分配一个空值。可空类型允许您将空值赋给变量。C# 2.0 中引入的可空类型只能用于[值类型](https://www.geeksforgeeks.org/c-data-types-2/)，不能用于[引用类型](https://www.geeksforgeeks.org/c-data-types-2/)。
 
 引用类型的可空类型稍后将在 2019 年的 C# 8.0 中介绍，这样我们就可以明确定义引用类型是否可以包含空值。这帮助我们在不使用条件的情况下解决了 NullReferenceException 的问题。在本文中，讨论围绕值类型的可空类型展开。
 

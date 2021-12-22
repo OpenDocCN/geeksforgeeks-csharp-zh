@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-tolower-method/](https://www.geeksforgeeks.org/c-sharp-tolower-method/)
 
-在[c#](https://www.geeksforgeeks.org/introduction-to-c-sharp/)**T3【to lower()T5【是一个串法。它会将每个字符转换为小写(如果有小写字符)。如果一个字符没有对应的小写字母，它将保持不变。例如，特殊符号保持不变。可以通过向该方法传递不同类型的参数来重载该方法。**
+在[c# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/)**T3【to lower()T5【是一个串法。它会将每个字符转换为小写(如果有小写字符)。如果一个字符没有对应的小写字母，它将保持不变。例如，特殊符号保持不变。可以通过向该方法传递不同类型的参数来重载该方法。**
 
 *   **字符串。ToLower()方法***   **String.ToLower(CultureInfo) Method
 

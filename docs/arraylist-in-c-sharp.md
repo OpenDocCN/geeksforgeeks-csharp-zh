@@ -1,8 +1,8 @@
-# c#中的数组列表
+# c# 中的数组列表
 
 > 原文:[https://www.geeksforgeeks.org/arraylist-in-c-sharp/](https://www.geeksforgeeks.org/arraylist-in-c-sharp/)
 
-**ArrayList** 是 C#语言的一个强大功能。这是在*系统中定义的非类属类型的集合。集合*命名空间。它用来创建一个动态数组意味着数组的大小是根据你的程序要求自动增减的，没有必要指定数组列表的大小。或者换句话说，数组列表代表一个可以单独索引的对象的有序集合。在数组列表中，可以存储相同类型和不同类型的元素。它属于非泛型集合。下图说明了 [**数组列表类**](https://www.geeksforgeeks.org/c-sharp-arraylist-class/) 的层次结构:
+**ArrayList** 是 C# 语言的一个强大功能。这是在*系统中定义的非类属类型的集合。集合*命名空间。它用来创建一个动态数组意味着数组的大小是根据你的程序要求自动增减的，没有必要指定数组列表的大小。或者换句话说，数组列表代表一个可以单独索引的对象的有序集合。在数组列表中，可以存储相同类型和不同类型的元素。它属于非泛型集合。下图说明了 [**数组列表类**](https://www.geeksforgeeks.org/c-sharp-arraylist-class/) 的层次结构:
 
 [![](img/a5cb213ed3119f22b8db3cd3eb3f3ca9.png)](https://media.geeksforgeeks.org/wp-content/uploads/arraylist-class-hierarchy-1.jpg)
 

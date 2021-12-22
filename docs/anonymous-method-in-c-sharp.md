@@ -1,4 +1,4 @@
-# c#中的匿名方法
+# c# 中的匿名方法
 
 > 原文:[https://www.geeksforgeeks.org/anonymous-method-in-c-sharp/](https://www.geeksforgeeks.org/anonymous-method-in-c-sharp/)
 

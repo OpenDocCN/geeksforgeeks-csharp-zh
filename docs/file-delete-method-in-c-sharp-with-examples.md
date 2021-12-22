@@ -1,4 +1,4 @@
-# 文件。用例子删除 C#中的()方法
+# 文件。用例子删除 C# 中的()方法
 
 > 原文:[https://www . geesforgeks . org/file-delete-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-delete-method-in-c-sharp-with-examples/)
 

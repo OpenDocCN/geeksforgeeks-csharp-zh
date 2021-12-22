@@ -108,4 +108,4 @@ My thread is in progress...!!
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . threading . thread-ctor？view = net framework-4 . 7 . 2 # System _ Threading _ Thread _ ctor _ System _ Threading _ parameterizedsthreadstart _](https://docs.microsoft.com/en-us/dotnet/api/system.threading.thread.-ctor?view=netframework-4.7.2#System_Threading_Thread__ctor_System_Threading_ParameterizedThreadStart_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . threading . thread-ctor？view = net framework-4 . 7 . 2 # System _ Threading _ Thread _ ctor _ System _ Threading _ parameterizedsthreadstart _](https://docs.microsoft.com/en-us/dotnet/api/system.threading.thread.-ctor?view=netframework-4.7.2# System_Threading_Thread__ctor_System_Threading_ParameterizedThreadStart_)

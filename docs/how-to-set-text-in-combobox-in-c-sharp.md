@@ -1,4 +1,4 @@
-# 如何在 C#中设置组合框中的文本？
+# 如何在 C# 中设置组合框中的文本？
 
 > 原文:[https://www . geesforgeks . org/how-set-text-in-combobox-in-c-sharp/](https://www.geeksforgeeks.org/how-to-set-text-in-combobox-in-c-sharp/)
 

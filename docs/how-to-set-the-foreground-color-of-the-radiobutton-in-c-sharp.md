@@ -1,4 +1,4 @@
-# 如何在 C#中设置单选按钮的前景色？
+# 如何在 C# 中设置单选按钮的前景色？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中 radiobutton 的前景色/](https://www.geeksforgeeks.org/how-to-set-the-foreground-color-of-the-radiobutton-in-c-sharp/)
 

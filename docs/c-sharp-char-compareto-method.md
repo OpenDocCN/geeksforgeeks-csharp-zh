@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-char-compare to-method/](https://www.geeksforgeeks.org/c-sharp-char-compareto-method/)
 
-在 C#中， ***Char。**T3 是一个*系统。Char* struct 方法，用于比较指定对象或值类型的此实例，并检查给定实例是否在指定对象或值类型之前、之后或出现在排序顺序中的相同位置。可以通过向该方法传递不同类型的参数来重载该方法。*
+在 C# 中， ***Char。**T3 是一个*系统。Char* struct 方法，用于比较指定对象或值类型的此实例，并检查给定实例是否在指定对象或值类型之前、之后或出现在排序顺序中的相同位置。可以通过向该方法传递不同类型的参数来重载该方法。*
 
 *   **Char。比较(充电)方法**
 *   **Char。**

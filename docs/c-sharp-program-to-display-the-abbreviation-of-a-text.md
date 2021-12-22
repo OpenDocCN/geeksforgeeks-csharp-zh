@@ -1,4 +1,4 @@
-# 显示文本缩写的 C#程序
+# 显示文本缩写的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-display-a-text 的缩写/](https://www.geeksforgeeks.org/c-sharp-program-to-display-the-abbreviation-of-a-text/)
 

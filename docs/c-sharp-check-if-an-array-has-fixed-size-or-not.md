@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-check-如果一个阵列有固定大小或没有固定大小/](https://www.geeksforgeeks.org/c-sharp-check-if-an-array-has-fixed-size-or-not/)
 
-**阵列。**用于获取一个指示数组是否有固定大小的值。该属性实现`[IList.IsFixedSize](https://docs.microsoft.com/en-us/dotnet/api/system.collections.ilist.isfixedsize?view=netframework-4.7.2#System_Collections_IList_IsFixedSize)` 属性。
+**阵列。**用于获取一个指示数组是否有固定大小的值。该属性实现`[IList.IsFixedSize](https://docs.microsoft.com/en-us/dotnet/api/system.collections.ilist.isfixedsize?view=netframework-4.7.2# System_Collections_IList_IsFixedSize)` 属性。
 
 **语法:**
 
@@ -37,7 +37,7 @@ class GFG {
                         "Exception, ", "Operators"};
 
         // Displaying Elements of the array
-        Console.WriteLine("Topic of C#:");
+        Console.WriteLine("Topic of C# :");
 
         foreach(string ele in topic)
             Console.WriteLine(ele + " ");
@@ -55,7 +55,7 @@ class GFG {
 **Output:**
 
 ```cs
-Topic of C#:
+Topic of C# :
 Array,  
 String,  
 Stack,  

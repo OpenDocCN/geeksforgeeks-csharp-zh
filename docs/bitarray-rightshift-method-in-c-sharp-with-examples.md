@@ -1,4 +1,4 @@
-# BitArray。C#中的 RightShift()方法，示例
+# BitArray。C# 中的 RightShift()方法，示例
 
 > 原文:[https://www . geesforgeks . org/bitarray-right shift-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/bitarray-rightshift-method-in-c-sharp-with-examples/)
 

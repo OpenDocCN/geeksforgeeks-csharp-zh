@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-char-tostring-method/](https://www.geeksforgeeks.org/c-sharp-char-tostring-method/)
 
-在 C#中， **Char。ToString()** 是一个*系统。Char* struct 方法，用于将此实例的值转换为其等效的字符串表示形式。这个方法可以通过传递不同类型的参数来重载。
+在 C# 中， **Char。ToString()** 是一个*系统。Char* struct 方法，用于将此实例的值转换为其等效的字符串表示形式。这个方法可以通过传递不同类型的参数来重载。
 
 *   **夏尔。ToString(表单提供商)方法***   **夏尔。字符串(字符)方法***   **Char.ToString() Method
 

@@ -1,6 +1,6 @@
 # 使用 LINQ
 
-检查列表集合中存在指定城市的 C#程序
+检查列表集合中存在指定城市的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-check-a-specified-city-exists-in-list-collection-use-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-check-a-specified-city-exists-in-the-list-collection-using-linq/)
 

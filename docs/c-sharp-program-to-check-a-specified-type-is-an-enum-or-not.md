@@ -1,8 +1,8 @@
-# 检查指定类型是否为枚举的 C#程序
+# 检查指定类型是否为枚举的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-check-a-specified-type-is-enum-or-not/](https://www.geeksforgeeks.org/c-sharp-program-to-check-a-specified-type-is-an-enum-or-not/)
 
-[枚举](https://www.geeksforgeeks.org/c-sharp-enumeration-or-enum/)或也称为枚举，用于存储用户定义的数据。它用于将字符串值赋给一个整数常量，这使得程序易于读取和管理。我们可以使用 enum 关键字后跟 enum 名称来创建 enum 数据。在 C#中，我们可以通过使用 type 类的 is enum 属性来检查具体的类型是枚举还是非枚举。如果类型是枚举，它将返回 true。否则，此属性将返回 false。它是只读属性。
+[枚举](https://www.geeksforgeeks.org/c-sharp-enumeration-or-enum/)或也称为枚举，用于存储用户定义的数据。它用于将字符串值赋给一个整数常量，这使得程序易于读取和管理。我们可以使用 enum 关键字后跟 enum 名称来创建 enum 数据。在 C# 中，我们可以通过使用 type 类的 is enum 属性来检查具体的类型是枚举还是非枚举。如果类型是枚举，它将返回 true。否则，此属性将返回 false。它是只读属性。
 
 **语法:**
 

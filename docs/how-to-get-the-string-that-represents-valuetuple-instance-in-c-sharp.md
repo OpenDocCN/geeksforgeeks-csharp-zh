@@ -1,4 +1,4 @@
-# 如何在 C#中获取表示 ValueTuple 实例的字符串？
+# 如何在 C# 中获取表示 ValueTuple 实例的字符串？
 
 > 原文:[https://www . geeksforgeeks . org/如何获取表示-value tuple-instance-in-c-sharp/](https://www.geeksforgeeks.org/how-to-get-the-string-that-represents-valuetuple-instance-in-c-sharp/)
 

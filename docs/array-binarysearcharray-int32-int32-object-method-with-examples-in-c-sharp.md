@@ -1,4 +1,4 @@
-# 阵列。BinarySearch(Array，Int32，Int32，Object)方法，用 C#举例
+# 阵列。BinarySearch(Array，Int32，Int32，Object)方法，用 C# 举例
 
 > 原文:[https://www . geeksforgeeks . org/array-binarysearcharay-int 32-int 32-object-method-with-examples-in-c-sharp/](https://www.geeksforgeeks.org/array-binarysearcharray-int32-int32-object-method-with-examples-in-c-sharp/)
 
@@ -155,4 +155,4 @@ Index :-7
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . array . binary search？view = net framework-4 . 7 . 2 # System _ Array _ binary search _ System _ Array _ System _ int 32 _ System _ int 32 _ System _ Object _](https://docs.microsoft.com/en-us/dotnet/api/system.array.binarysearch?view=netframework-4.7.2#System_Array_BinarySearch_System_Array_System_Int32_System_Int32_System_Object_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . array . binary search？view = net framework-4 . 7 . 2 # System _ Array _ binary search _ System _ Array _ System _ int 32 _ System _ int 32 _ System _ Object _](https://docs.microsoft.com/en-us/dotnet/api/system.array.binarysearch?view=netframework-4.7.2# System_Array_BinarySearch_System_Array_System_Int32_System_Int32_System_Object_)

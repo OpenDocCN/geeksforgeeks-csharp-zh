@@ -1,4 +1,4 @@
-# 如何在 C#中设置工具提示的标题？
+# 如何在 C# 中设置工具提示的标题？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的工具提示标题/](https://www.geeksforgeeks.org/how-to-set-the-title-of-the-tooltip-in-c-sharp/)
 

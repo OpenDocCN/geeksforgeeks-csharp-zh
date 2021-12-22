@@ -1,4 +1,4 @@
-# 使用 LINQ 聚合()方法计算数组元素之和的 C#程序
+# 使用 LINQ 聚合()方法计算数组元素之和的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-使用 linq 聚合方法计算数组元素总和的程序/](https://www.geeksforgeeks.org/c-sharp-program-to-calculate-the-sum-of-array-elements-using-the-linq-aggregate-method/)
 

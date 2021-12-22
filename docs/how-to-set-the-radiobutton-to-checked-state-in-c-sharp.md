@@ -1,4 +1,4 @@
-# 如何在 C#中将单选按钮设置为选中状态？
+# 如何在 C# 中将单选按钮设置为选中状态？
 
 > 原文:[https://www . geeksforgeeks . org/如何将 radiobutton 设置为 c-sharp 中的选中状态/](https://www.geeksforgeeks.org/how-to-set-the-radiobutton-to-checked-state-in-c-sharp/)
 

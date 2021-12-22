@@ -1,9 +1,9 @@
-# 什么是 C#中的正则表达式？
+# 什么是 C# 中的正则表达式？
 
 > 原文:[https://www . geesforgeks . org/什么是 c-sharp 中的正则表达式/](https://www.geeksforgeeks.org/what-is-regular-expression-in-c-sharp/)
 
-在 C#中，正则表达式是一种模式，用于解析和检查给定的输入文本是否与给定的模式匹配。在 C#中，正则表达式通常被称为 C#正则表达式。[。Net Framework](https://www.geeksforgeeks.org/introduction-to-net-framework/) 提供了一个允许模式匹配的正则表达式引擎。模式可以由任何字符文字、运算符或构造函数组成。
-C#提供了一个名为 Regex 的类，可以在[系统中找到。](https://docs.microsoft.com/en-us/dotnet/api/system.text.regularexpressions?view=netframework-4.8)命名空间。这门课将做两件事:
+在 C# 中，正则表达式是一种模式，用于解析和检查给定的输入文本是否与给定的模式匹配。在 C# 中，正则表达式通常被称为 C# 正则表达式。[。Net Framework](https://www.geeksforgeeks.org/introduction-to-net-framework/) 提供了一个允许模式匹配的正则表达式引擎。模式可以由任何字符文字、运算符或构造函数组成。
+C# 提供了一个名为 Regex 的类，可以在[系统中找到。](https://docs.microsoft.com/en-us/dotnet/api/system.text.regularexpressions?view=netframework-4.8)命名空间。这门课将做两件事:
 
 *   解析正则表达式模式的输入文本。
 *   识别给定文本中的正则表达式模式。
@@ -538,8 +538,8 @@ Match Value: m
 | 子表达式 | 比赛 |
 | --- | --- |
 | () | 它用于组表达式 |
-| (a&#124;b) | &#124;运算符用于替代项 a 或 b。 |
-| (?是&#124;否) | 如果表达式匹配，则给出是，否则给出否。 |
+| (a&# 124;b) | &# 124;运算符用于替代项 a 或 b。 |
+| (?是&# 124;否) | 如果表达式匹配，则给出是，否则给出否。 |
 
 </figure>
 

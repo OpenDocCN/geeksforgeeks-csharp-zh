@@ -1,6 +1,6 @@
 # 使用 LINQ
 
-检查课程长度是否超过 2 个字符的 C#程序
+检查课程长度是否超过 2 个字符的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-check-课程长度超过 2 个字符-使用-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-check-the-length-of-courses-is-more-than-2-characters-using-linq/)
 

@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-char-issymbol-method/](https://www.geeksforgeeks.org/c-sharp-char-issymbol-method/)
 
-在 C#中， ***Char。*** 是一个*系统。Char* 结构方法，用于检查 Unicode 字符是否是在 *UnicodeCategory* 下定义的有效符号，如 *MathSymbol* 、 *CurrencySymbol* 、 *ModifierSymbol* 或 *OtherSymbol* 。通过向该方法传递不同类型和数量的参数，可以重载该方法。
+在 C# 中， ***Char。*** 是一个*系统。Char* 结构方法，用于检查 Unicode 字符是否是在 *UnicodeCategory* 下定义的有效符号，如 *MathSymbol* 、 *CurrencySymbol* 、 *ModifierSymbol* 或 *OtherSymbol* 。通过向该方法传递不同类型和数量的参数，可以重载该方法。
 
 ***   □这个符号(char)□T4【Char】。IsSymbol(String，Int32)方法**
 

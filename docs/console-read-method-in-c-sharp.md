@@ -1,4 +1,4 @@
-# 控制台。C#中的 Read()方法
+# 控制台。C# 中的 Read()方法
 
 > 原文:[https://www . geesforgeks . org/console-read-method-in-c-sharp/](https://www.geeksforgeeks.org/console-read-method-in-c-sharp/)
 

@@ -1,6 +1,6 @@
 # 使用 LINQ
 
-检查所有员工工资低于 10000 的 C#程序
+检查所有员工工资低于 10000 的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-check-所有员工的工资低于-10000-using-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-check-the-salary-of-all-employees-is-less-than-10000-using-linq/)
 
@@ -39,7 +39,7 @@ using System.Collections.Generic;
 
 class Geek{
 
-#pragma warning disable 169, 414
+# pragma warning disable 169, 414
 int emp_id;
 string Emp_Name;
 int Emp_Salary;
@@ -96,7 +96,7 @@ using System.Collections.Generic;
 
 class Geek{
 
-#pragma warning disable 169, 414
+# pragma warning disable 169, 414
 int emp_id;
 string Emp_Name;
 int Emp_Salary;

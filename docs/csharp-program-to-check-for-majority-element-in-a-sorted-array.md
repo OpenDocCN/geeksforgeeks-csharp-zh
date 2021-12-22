@@ -1,4 +1,4 @@
-# C#程序检查排序数组中的多数元素
+# C# 程序检查排序数组中的多数元素
 
 > 原文:[https://www . geeksforgeeks . org/cs harp-程序检查排序数组中的多数元素/](https://www.geeksforgeeks.org/csharp-program-to-check-for-majority-element-in-a-sorted-array/)
 

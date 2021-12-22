@@ -1,8 +1,8 @@
-# 如何在 C#中设置 MaskedTextBox 的位置？
+# 如何在 C# 中设置 MaskedTextBox 的位置？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的 maskedtxbox/](https://www.geeksforgeeks.org/how-to-set-the-location-of-the-maskedtextbox-in-c-sharp/)
 
-在 C#中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在屏蔽文本框控件中，可以使用**位置属性**设置屏蔽文本框在表单上的位置。该属性给出了 MashedTextBox 控件左上角相对于其窗体或容器左上角的坐标。您可以通过两种不同的方式设置此属性:
+在 C# 中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在屏蔽文本框控件中，可以使用**位置属性**设置屏蔽文本框在表单上的位置。该属性给出了 MashedTextBox 控件左上角相对于其窗体或容器左上角的坐标。您可以通过两种不同的方式设置此属性:
 
 **1。设计时:**设置掩码文本框的位置是最简单的方法，如下步骤所示:
 

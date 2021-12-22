@@ -1,4 +1,4 @@
-# c#中文件处理的基础知识
+# c# 中文件处理的基础知识
 
 > 原文:[https://www . geesforgeks . org/c-sharp 文件处理基础知识/](https://www.geeksforgeeks.org/basics-of-file-handling-in-c-sharp/)
 

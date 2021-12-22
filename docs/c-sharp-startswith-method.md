@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-startswith-method/](https://www.geeksforgeeks.org/c-sharp-startswith-method/)
 
-在 C#中， ***StartsWith()*** 是一个字符串方法。此方法用于检查当前字符串实例的开头是否与指定的字符串匹配。如果匹配，则返回字符串，否则返回 false。使用 *foreach-loop* ，可以检查许多字符串。通过向该方法传递不同类型和数量的参数，可以重载该方法。
+在 C# 中， ***StartsWith()*** 是一个字符串方法。此方法用于检查当前字符串实例的开头是否与指定的字符串匹配。如果匹配，则返回字符串，否则返回 false。使用 *foreach-loop* ，可以检查许多字符串。通过向该方法传递不同类型和数量的参数，可以重载该方法。
 
 #### 字符串。用(字符串)方法开始
 

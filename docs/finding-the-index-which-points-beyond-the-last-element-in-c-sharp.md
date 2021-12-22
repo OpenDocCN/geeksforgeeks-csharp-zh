@@ -1,4 +1,4 @@
-# 找到指向 C#中最后一个元素之外的索引
+# 找到指向 C# 中最后一个元素之外的索引
 
 > 原文:[https://www . geeksforgeeks . org/find-the-index-指向 c-sharp 中最后一个元素之外的内容/](https://www.geeksforgeeks.org/finding-the-index-which-points-beyond-the-last-element-in-c-sharp/)
 

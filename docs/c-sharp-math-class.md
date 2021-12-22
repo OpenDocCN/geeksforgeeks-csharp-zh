@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-math-class/](https://www.geeksforgeeks.org/c-sharp-math-class/)
 
-在 C#中，**数学类**属于系统命名空间。它用于为对数函数、三角函数和其他有用的数学函数提供静态方法和常数。它是一个静态类，继承了对象类。
+在 C# 中，**数学类**属于系统命名空间。它用于为对数函数、三角函数和其他有用的数学函数提供静态方法和常数。它是一个静态类，继承了对象类。
 
 ```cs
 public static class Math

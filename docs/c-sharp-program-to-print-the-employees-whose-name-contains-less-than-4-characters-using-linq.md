@@ -1,4 +1,4 @@
-# 使用 LINQ 打印姓名少于 4 个字符的员工的 C#程序
+# 使用 LINQ 打印姓名少于 4 个字符的员工的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-print-the-employees-name-包含少于 4 个字符-使用-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-print-the-employees-whose-name-contains-less-than-4-characters-using-linq/)
 

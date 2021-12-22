@@ -1,4 +1,4 @@
-# 在 C#中查找从开始到结束的范围的所有元素
+# 在 C# 中查找从开始到结束的范围的所有元素
 
 > 原文:[https://www . geeksforgeeks . org/find-从起点到终点的所有要素-in-c-sharp/](https://www.geeksforgeeks.org/finding-all-the-elements-of-a-range-from-start-to-end-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# 如何用 C#中的字符串替换字符？
+# 如何用 C# 中的字符串替换字符？
 
 > 原文:[https://www . geesforgeks . org/如何用 c-sharp 中的字符串替换字符/](https://www.geeksforgeeks.org/how-to-replace-a-character-with-the-string-in-c-sharp/)
 

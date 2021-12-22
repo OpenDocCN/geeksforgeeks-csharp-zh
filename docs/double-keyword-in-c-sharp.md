@@ -1,4 +1,4 @@
-# 在 C#中双关键字
+# 在 C# 中双关键字
 
 > 原文:[https://www.geeksforgeeks.org/double-keyword-in-c-sharp/](https://www.geeksforgeeks.org/double-keyword-in-c-sharp/)
 

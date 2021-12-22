@@ -1,4 +1,4 @@
-# 文件。C#中的 OpenRead()方法，示例
+# 文件。C# 中的 OpenRead()方法，示例
 
 > 原文:[https://www . geesforgeks . org/file-open read-method-in-csharp-with-examples/](https://www.geeksforgeeks.org/file-openread-method-in-csharp-with-examples/)
 

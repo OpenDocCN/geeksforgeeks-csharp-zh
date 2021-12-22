@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-如何将数组列表转换为数组/](https://www.geeksforgeeks.org/c-sharp-how-to-convert-an-arraylist-to-array/)
 
-在 C#中， [**数组**](https://www.geeksforgeeks.org/c-sharp-arrays/) 是一组相似类型的变量，用一个共同的名字来指代。每个数据项被称为数组的一个元素。元素的数据类型可以是任何有效的数据类型，如 char、int、float 等。并且元素被存储在连续的位置。
+在 C# 中， [**数组**](https://www.geeksforgeeks.org/c-sharp-arrays/) 是一组相似类型的变量，用一个共同的名字来指代。每个数据项被称为数组的一个元素。元素的数据类型可以是任何有效的数据类型，如 char、int、float 等。并且元素被存储在连续的位置。
 [**数组列表**](https://www.geeksforgeeks.org/c-arraylist-class/) 表示可以单独索引的对象的有序集合。它基本上是数组的替代。它允许动态内存分配，添加，搜索和排序列表中的项目。
 
 ![](img/c60d36f71a3d10e2bb1478880dabe269.png)

@@ -1,8 +1,8 @@
-# MathF。用例子截断 C#中的()方法
+# MathF。用例子截断 C# 中的()方法
 
 > 原文:[https://www . geesforgeks . org/mathf-truncate-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-truncate-method-in-c-sharp-with-examples/)
 
-在 C#中 ***MathF。Truncate(Single)*** 是一种 MathF 类方法，用于计算指定的单个数或单精度浮点数的整数部分。
+在 C# 中 ***MathF。Truncate(Single)*** 是一种 MathF 类方法，用于计算指定的单个数或单精度浮点数的整数部分。
 **语法:**
 
 ```cs

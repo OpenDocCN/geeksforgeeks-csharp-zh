@@ -1,8 +1,8 @@
-# 检查指定类型是否为指针的 C#程序
+# 检查指定类型是否为指针的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-check-a-specified-type-is-a-pointer-or-not/](https://www.geeksforgeeks.org/c-sharp-program-to-check-a-specified-type-is-a-pointer-or-not/)
 
-指针是包含另一个变量引用的变量。或者换句话说，指针是一个存储同一类型变量地址的变量。例如，字符串指针可以存储字符串的地址。在 C#中，我们可以通过使用 type 类的 IsPointer 属性来检查给定的类型是否是指针。如果指定的类型是指针，则此属性返回 true。否则，它将返回 false。它是只读属性。
+指针是包含另一个变量引用的变量。或者换句话说，指针是一个存储同一类型变量地址的变量。例如，字符串指针可以存储字符串的地址。在 C# 中，我们可以通过使用 type 类的 IsPointer 属性来检查给定的类型是否是指针。如果指定的类型是指针，则此属性返回 true。否则，它将返回 false。它是只读属性。
 
 **语法:**
 

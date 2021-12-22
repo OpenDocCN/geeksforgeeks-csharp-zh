@@ -1,4 +1,4 @@
-# 图形。C#中的 DrawArc()方法，带示例
+# 图形。C# 中的 DrawArc()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/graphics-draw arc-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/graphics-drawarc-method-in-c-sharp-with-examples/)
 

@@ -1,8 +1,8 @@
-# 如何在 C#中设置 RichTextBox 的大小？
+# 如何在 C# 中设置 RichTextBox 的大小？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中 richtextbox 的大小/](https://www.geeksforgeeks.org/how-to-set-the-size-of-the-richtextbox-in-c-sharp/)
 
-在 C#中，RichTextBox 控件是一个文本框，它为您提供富文本编辑控件和高级格式功能，还包括加载富文本格式(RTF)文件。或者换句话说，RichTextBox 控件允许您显示或编辑流内容，包括段落、图像、表格等。在 RichTextBox 中，使用**大小属性**设置 RichTextBox 控件的大小。在这个属性的帮助下，您可以以像素为单位设置 RichTextBox 的高度和宽度。您可以通过两种不同的方式设置此属性:
+在 C# 中，RichTextBox 控件是一个文本框，它为您提供富文本编辑控件和高级格式功能，还包括加载富文本格式(RTF)文件。或者换句话说，RichTextBox 控件允许您显示或编辑流内容，包括段落、图像、表格等。在 RichTextBox 中，使用**大小属性**设置 RichTextBox 控件的大小。在这个属性的帮助下，您可以以像素为单位设置 RichTextBox 的高度和宽度。您可以通过两种不同的方式设置此属性:
 
 **1。设计时:**设置 RichTextBox 的大小是最简单的方法，如下步骤所示:
 

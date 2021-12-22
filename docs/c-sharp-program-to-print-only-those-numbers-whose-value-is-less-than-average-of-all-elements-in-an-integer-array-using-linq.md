@@ -1,10 +1,10 @@
-# C#程序，使用 LINQ
+# C# 程序，使用 LINQ
 
 只打印那些数值小于整数数组中所有元素平均值的数字
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-print-only-那些值小于整数数组中所有元素平均值的数字-使用-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-print-only-those-numbers-whose-value-is-less-than-average-of-all-elements-in-an-integer-array-using-linq/)
 
-语言集成查询(LINQ)是 C#中统一的查询语法，用于从不同的来源检索数据。它消除了编程语言和数据库之间的不匹配，还为不同类型的数据源提供了单一的查询接口。在本文中，我们将学习如何使用 C#中的 LINQ 只打印那些值小于整数数组中所有元素平均值的数字。
+语言集成查询(LINQ)是 C# 中统一的查询语法，用于从不同的来源检索数据。它消除了编程语言和数据库之间的不匹配，还为不同类型的数据源提供了单一的查询接口。在本文中，我们将学习如何使用 C# 中的 LINQ 只打印那些值小于整数数组中所有元素平均值的数字。
 
 **例:**
 

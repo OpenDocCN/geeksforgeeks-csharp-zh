@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-math-sqrt-method/](https://www.geeksforgeeks.org/c-sharp-math-sqrt-method/)
 
-在 C#中 ***数学。*sqrt()**是一种数学类方法，用于计算指定数字的平方根。
+在 C# 中 ***数学。*sqrt()**是一种数学类方法，用于计算指定数字的平方根。
 Sqrt 是一种较慢的计算。可以缓存它以提高性能。
 **语法:**
 
@@ -37,7 +37,7 @@ Output : 0
 
 ```
 
-下面 C#程序说明了数学的工作原理。Sqrt():
+下面 C# 程序说明了数学的工作原理。Sqrt():
 
 *   **程序 1:** 当参数为正双精度值时，该方法返回给定值的平方根。
 

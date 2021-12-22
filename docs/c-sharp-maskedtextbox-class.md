@@ -2,8 +2,8 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-maskedtextbox-class/](https://www.geeksforgeeks.org/c-sharp-maskedtextbox-class/)
 
-在 C#中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。MaskedTextBox 类用于表示窗口屏蔽文本框，还提供不同类型的属性、方法和事件。在**系统下定义。Windows.Forms** 命名空间。
-这个类增强了 TextBox 控件的版本，它支持声明性语法来接收或拒绝用户输入，当这个控件在运行时显示时，它将掩码表示为一系列提示字符和可选的文字字符。在 C#中，您可以使用两种不同的方法在 windows 窗体中创建一个 MaskedTextBox:
+在 C# 中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。MaskedTextBox 类用于表示窗口屏蔽文本框，还提供不同类型的属性、方法和事件。在**系统下定义。Windows.Forms** 命名空间。
+这个类增强了 TextBox 控件的版本，它支持声明性语法来接收或拒绝用户输入，当这个控件在运行时显示时，它将掩码表示为一系列提示字符和可选的文字字符。在 C# 中，您可以使用两种不同的方法在 windows 窗体中创建一个 MaskedTextBox:
 
 **1。设计时:**创建掩码文本框的最简单方法如下所示:
 

@@ -1,4 +1,4 @@
-# 如何在 C#的 DateTimePicker 中设置上下按钮？
+# 如何在 C# 的 DateTimePicker 中设置上下按钮？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置和按下按钮-in-datetime picker-in-c-sharp/](https://www.geeksforgeeks.org/how-to-set-up-and-down-button-in-datetimepicker-in-c-sharp/)
 

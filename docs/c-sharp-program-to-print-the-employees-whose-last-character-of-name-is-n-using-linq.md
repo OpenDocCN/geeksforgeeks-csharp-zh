@@ -1,4 +1,4 @@
-# 使用 LINQ 打印姓氏为“n”的员工的 C#程序
+# 使用 LINQ 打印姓氏为“n”的员工的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-print-the-employees-of-name-n-use-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-print-the-employees-whose-last-character-of-name-is-n-using-linq/)
 

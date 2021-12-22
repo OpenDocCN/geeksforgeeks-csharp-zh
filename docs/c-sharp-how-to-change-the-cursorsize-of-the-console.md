@@ -2,9 +2,9 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-如何改变控制台的大小/](https://www.geeksforgeeks.org/c-sharp-how-to-change-the-cursorsize-of-the-console/)
 
-给定 C#中的正常控制台，任务是更改控制台的光标大小。
+给定 C# 中的正常控制台，任务是更改控制台的光标大小。
 
-**方法:**这可以使用 C#中系统包的**控制台**类中的 **CursorSize** 属性来完成。它获取或设置字符单元格内光标的高度(百分比)。
+**方法:**这可以使用 C# 中系统包的**控制台**类中的 **CursorSize** 属性来完成。它获取或设置字符单元格内光标的高度(百分比)。
 
 **程序 1:** 获取 CursorSize 的值
 

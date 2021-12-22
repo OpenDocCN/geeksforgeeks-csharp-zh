@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-math-log-method/](https://www.geeksforgeeks.org/c-sharp-math-log-method/)
 
-在 C#中 ***数学。*log()**是一个数学类的方法。它用于返回指定数字的对数。通过更改传递的参数数量，可以重载此方法。*数学的过载列表中总共有 2 种方法。Log()* 方法如下:
+在 C# 中 ***数学。*log()**是一个数学类的方法。它用于返回指定数字的对数。通过更改传递的参数数量，可以重载此方法。*数学的过载列表中总共有 2 种方法。Log()* 方法如下:
 
 *   **数学。对数(双)法***   **Math.Log(Double, Double) Method
 

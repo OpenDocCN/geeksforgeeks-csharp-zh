@@ -1,6 +1,6 @@
 # 使用 LINQ
 
-打印工资在 6000 到 8000 之间的员工的 C#程序
+打印工资在 6000 到 8000 之间的员工的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-print-the-employees-first-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-print-the-employees-whose-salary-is-between-6000-and-8000-using-linq/)
 

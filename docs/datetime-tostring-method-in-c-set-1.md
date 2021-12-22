@@ -1,4 +1,4 @@
-# 日期时间。C#中的 ToString()方法| Set–1
+# 日期时间。C# 中的 ToString()方法| Set–1
 
 > 原文:[https://www . geesforgeks . org/datetime-tostring-method-in-c-set-1/](https://www.geeksforgeeks.org/datetime-tostring-method-in-c-set-1/)
 

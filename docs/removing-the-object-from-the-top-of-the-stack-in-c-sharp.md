@@ -1,4 +1,4 @@
-# 在 C#中从堆栈顶部移除对象
+# 在 C# 中从堆栈顶部移除对象
 
 > 原文:[https://www . geeksforgeeks . org/从 c-sharp 堆栈顶部移除对象/](https://www.geeksforgeeks.org/removing-the-object-from-the-top-of-the-stack-in-c-sharp/)
 

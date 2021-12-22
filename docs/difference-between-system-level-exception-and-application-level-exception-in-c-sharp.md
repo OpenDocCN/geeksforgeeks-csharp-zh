@@ -1,8 +1,8 @@
-# c#中系统级异常和应用级异常的区别
+# c# 中系统级异常和应用级异常的区别
 
 > 原文:[https://www . geeksforgeeks . org/系统级异常和应用程序级异常的区别-in-c-sharp/](https://www.geeksforgeeks.org/difference-between-system-level-exception-and-application-level-exception-in-c-sharp/)
 
-异常是指在程序执行期间(即运行时)发生的不必要或意外的事件，它会中断程序指令的正常流动。有时在程序执行过程中，用户可能会面临程序在运行时执行过程中崩溃或显示意外事件的可能性。这种不需要的事件被称为异常，通常表示代码中有问题。在 C#中，异常可以是*系统*或*应用程序*级别的异常。
+异常是指在程序执行期间(即运行时)发生的不必要或意外的事件，它会中断程序指令的正常流动。有时在程序执行过程中，用户可能会面临程序在运行时执行过程中崩溃或显示意外事件的可能性。这种不需要的事件被称为异常，通常表示代码中有问题。在 C# 中，异常可以是*系统*或*应用程序*级别的异常。
 
 [![](img/198ce57cd341ca7ec36dfd77a5c0428e.png)](https://media.geeksforgeeks.org/wp-content/uploads/exception.jpg)
 

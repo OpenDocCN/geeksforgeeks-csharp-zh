@@ -3,7 +3,7 @@
 > 原文:[https://www . geesforgeks . org/c-sharp-how-to-multi-catch-子句/](https://www.geeksforgeeks.org/c-sharp-how-to-use-multiple-catch-clause/)
 
 catch 块的主要目的是处理 try 块中引发的异常。只有当程序中出现异常时，该块才会执行。
-在 C#中，可以使用多个 catch 块和 try 块。通常，多个 catch 块用于处理不同类型的异常，这意味着每个 catch 块用于处理不同类型的异常。如果您对同一类型的异常使用多个 catch 块，那么它会给您一个编译时错误，因为 **C#不允许您对同一类型的异常使用多个 catch 块**。catch 块的前面总是有 try 块。
+在 C# 中，可以使用多个 catch 块和 try 块。通常，多个 catch 块用于处理不同类型的异常，这意味着每个 catch 块用于处理不同类型的异常。如果您对同一类型的异常使用多个 catch 块，那么它会给您一个编译时错误，因为 **C# 不允许您对同一类型的异常使用多个 catch 块**。catch 块的前面总是有 try 块。
 
 一般来说，catch 块按照它们在程序中出现的顺序进行检查。如果给定类型的异常与第一个 catch 块匹配，则执行第一个 catch 块，其余的 catch 块被忽略。并且如果起始 catch 块不适合异常类型，那么编译器搜索下一个 catch 块。
 

@@ -1,8 +1,8 @@
-# C#估算句子中“是”字出现频率的程序
+# C# 估算句子中“是”字出现频率的程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-estate-frequency-of-word-in-in-a-句子/](https://www.geeksforgeeks.org/c-sharp-program-to-estimate-the-frequency-of-the-word-is-in-a-sentence/)
 
-给定一个字符串作为输入，我们需要用 C#编写一个程序来计算字符串中“is”这个词的出现频率。该程序的任务是统计字符串中给定单词“is”的出现次数，并打印“is”的出现次数。
+给定一个字符串作为输入，我们需要用 C# 编写一个程序来计算字符串中“is”这个词的出现频率。该程序的任务是统计字符串中给定单词“is”的出现次数，并打印“is”的出现次数。
 
 **示例:**
 

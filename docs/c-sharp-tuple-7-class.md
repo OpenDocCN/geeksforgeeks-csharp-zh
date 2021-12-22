@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-tuple-7-class/](https://www.geeksforgeeks.org/c-sharp-tuple-7-class/)
 
-元组<t1 t2="" t3="" t4="" t5="" t6="" t7="">类用于创建 7 元组或七元组。它代表一个包含七个元素的元组。您可以通过调用 [**元组< T1、T2、T3、T4、T5、T6、T7 > (T1、T2、T3、T4、T5、T6、T7)构造函数**](https://www.geeksforgeeks.org/how-to-create-7-tuple-or-septuple-in-c-sharp/#Using%20Tuple%3CT1,T2,T3,T4,T5,T6,T7%3E(T1,%20T2,%20T3,%20T4,%20T5,%20T6,%20T7)%20Constructor) 或静态的 [**元组来实例化元组<t1 t2="" t3="" t4="" t5="" t6="" t7="">对象。创建</t1>**](https://www.geeksforgeeks.org/how-to-create-7-tuple-or-septuple-in-c-sharp/#Using%20the%20Create%20method) 方法。您可以使用只读的*项目 1* 、*项目 2* 、*项目 3* 、*项目 4* 、*项目 5* 、*项目 6* 和*项目 7* 实例属性来检索元组元素的值。
+元组<t1 t2="" t3="" t4="" t5="" t6="" t7="">类用于创建 7 元组或七元组。它代表一个包含七个元素的元组。您可以通过调用 [**元组< T1、T2、T3、T4、T5、T6、T7 > (T1、T2、T3、T4、T5、T6、T7)构造函数**](https://www.geeksforgeeks.org/how-to-create-7-tuple-or-septuple-in-c-sharp/# Using%20Tuple%3CT1,T2,T3,T4,T5,T6,T7%3E(T1,%20T2,%20T3,%20T4,%20T5,%20T6,%20T7)%20Constructor) 或静态的 [**元组来实例化元组<t1 t2="" t3="" t4="" t5="" t6="" t7="">对象。创建</t1>**](https://www.geeksforgeeks.org/how-to-create-7-tuple-or-septuple-in-c-sharp/# Using%20the%20Create%20method) 方法。您可以使用只读的*项目 1* 、*项目 2* 、*项目 3* 、*项目 4* 、*项目 5* 、*项目 6* 和*项目 7* 实例属性来检索元组元素的值。
 **要点:**</t1>
 
 *   它实现了*结构可比较*、*结构可比较*、*我可比较*接口。
@@ -20,7 +20,7 @@
 <figure class="table">
 
 | 构造器 | 描述 |
-| [**元组< T1、T2、T3、T4、T5、T6、T7 > (T1、T2、T3、T4、T5、T6、T7)**](https://www.geeksforgeeks.org/how-to-create-7-tuple-or-septuple-in-c-sharp/#Using%20Tuple%3CT1,T2,T3,T4,T5,T6,T7%3E(T1,%20T2,%20T3,%20T4,%20T5,%20T6,%20T7)%20Constructor) | 初始化元组<t1 t2="" t3="" t4="" t5="" t6="" t7="">类的新实例。</t1> |
+| [**元组< T1、T2、T3、T4、T5、T6、T7 > (T1、T2、T3、T4、T5、T6、T7)**](https://www.geeksforgeeks.org/how-to-create-7-tuple-or-septuple-in-c-sharp/# Using%20Tuple%3CT1,T2,T3,T4,T5,T6,T7%3E(T1,%20T2,%20T3,%20T4,%20T5,%20T6,%20T7)%20Constructor) | 初始化元组<t1 t2="" t3="" t4="" t5="" t6="" t7="">类的新实例。</t1> |
 
 </figure>
 

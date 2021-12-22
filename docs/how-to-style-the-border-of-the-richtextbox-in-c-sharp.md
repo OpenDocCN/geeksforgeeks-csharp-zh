@@ -1,8 +1,8 @@
-# 如何在 C#中设置 RichTextBox 的边框样式？
+# 如何在 C# 中设置 RichTextBox 的边框样式？
 
 > 原文:[https://www . geeksforgeeks . org/how-style-the-richtextbox-in-c-sharp/](https://www.geeksforgeeks.org/how-to-style-the-border-of-the-richtextbox-in-c-sharp/)
 
-在 C#中，RichTextBox 控件是一个文本框，它为您提供富文本编辑控件和高级格式功能，还包括加载富文本格式(RTF)文件。或者换句话说，RichTextBox 控件允许您显示或编辑流内容，包括段落、图像、表格等。在 RichTextBox 中，您可以使用**边框样式属性**设置 RichTextBox 控件的边框样式。此属性有三个不同的值，在 BorderStyle 枚举下定义，这些值是:
+在 C# 中，RichTextBox 控件是一个文本框，它为您提供富文本编辑控件和高级格式功能，还包括加载富文本格式(RTF)文件。或者换句话说，RichTextBox 控件允许您显示或编辑流内容，包括段落、图像、表格等。在 RichTextBox 中，您可以使用**边框样式属性**设置 RichTextBox 控件的边框样式。此属性有三个不同的值，在 BorderStyle 枚举下定义，这些值是:
 
 *   无值表示无边框。
 *   三维边框的固定三维值。

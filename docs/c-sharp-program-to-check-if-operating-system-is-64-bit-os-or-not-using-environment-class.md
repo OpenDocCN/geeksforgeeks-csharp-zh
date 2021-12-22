@@ -1,4 +1,4 @@
-# 检查操作系统是 64 位操作系统还是不使用环境类的 C#程序
+# 检查操作系统是 64 位操作系统还是不使用环境类的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-程序检查操作系统是否为 64 位操作系统或不使用环境类/](https://www.geeksforgeeks.org/c-sharp-program-to-check-if-operating-system-is-64-bit-os-or-not-using-environment-class/)
 

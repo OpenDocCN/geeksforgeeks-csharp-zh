@@ -1,4 +1,4 @@
-# DateTimeOffset。C#中的 FromFileTime()方法
+# DateTimeOffset。C# 中的 FromFileTime()方法
 
 > 原文:[https://www . geesforgeks . org/datetime offset-from file time-method-in-c-sharp/](https://www.geeksforgeeks.org/datetimeoffset-fromfiletime-method-in-c-sharp/)
 

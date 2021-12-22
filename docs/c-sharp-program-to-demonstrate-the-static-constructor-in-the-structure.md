@@ -1,4 +1,4 @@
-# C#程序演示结构中的静态构造函数
+# C# 程序演示结构中的静态构造函数
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-程序演示结构中的静态构造函数/](https://www.geeksforgeeks.org/c-sharp-program-to-demonstrate-the-static-constructor-in-the-structure/)
 

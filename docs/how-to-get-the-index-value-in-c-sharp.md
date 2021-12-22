@@ -1,4 +1,4 @@
-# 如何在 C#中获取索引值？
+# 如何在 C# 中获取索引值？
 
 > 原文:[https://www . geeksforgeeks . org/如何获取 c-sharp 中的索引值/](https://www.geeksforgeeks.org/how-to-get-the-index-value-in-c-sharp/)
 

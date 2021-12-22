@@ -1,4 +1,4 @@
-# c#中的 uint 关键字
+# c# 中的 uint 关键字
 
 > 原文:[https://www.geeksforgeeks.org/uint-keyword-in-c-sharp/](https://www.geeksforgeeks.org/uint-keyword-in-c-sharp/)
 

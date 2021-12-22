@@ -1,4 +1,4 @@
-# 将二进制字符串转换为整数的 C#程序
+# 将二进制字符串转换为整数的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-program-to-convert-a-binary-string-to-a-integer/](https://www.geeksforgeeks.org/c-program-to-convert-a-binary-string-to-an-integer/)
 

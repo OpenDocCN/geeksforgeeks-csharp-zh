@@ -1,4 +1,4 @@
-# 小数。C#中的 ToOACurrency()方法
+# 小数。C# 中的 ToOACurrency()方法
 
 > 原文:[https://www . geeksforgeeks . org/decimal-tooaccurrency-method-in-c-sharp/](https://www.geeksforgeeks.org/decimal-tooacurrency-method-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# 在 C#中从集合开始处的指定索引创建索引
+# 在 C# 中从集合开始处的指定索引创建索引
 
 > 原文:[https://www . geeksforgeeks . org/在 c-sharp 中的集合开始时从指定索引创建索引/](https://www.geeksforgeeks.org/creating-an-index-from-the-specified-index-at-the-start-of-a-collection-in-c-sharp/)
 

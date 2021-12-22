@@ -1,4 +1,4 @@
-# 控制台。C#中的 SetError()方法
+# 控制台。C# 中的 SetError()方法
 
 > 原文:[https://www . geesforgeks . org/console-set error-method-in-c-sharp/](https://www.geeksforgeeks.org/console-seterror-method-in-c-sharp/)
 
@@ -49,4 +49,4 @@ class GFG {
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . console . set error？view = net framework-4 . 7 . 2 # System _ Console _ SetError _ System _ IO _ TextWriter _](https://docs.microsoft.com/en-us/dotnet/api/system.console.seterror?view=netframework-4.7.2#System_Console_SetError_System_IO_TextWriter_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . console . set error？view = net framework-4 . 7 . 2 # System _ Console _ SetError _ System _ IO _ TextWriter _](https://docs.microsoft.com/en-us/dotnet/api/system.console.seterror?view=netframework-4.7.2# System_Console_SetError_System_IO_TextWriter_)

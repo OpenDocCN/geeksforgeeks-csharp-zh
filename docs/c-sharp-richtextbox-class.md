@@ -2,8 +2,8 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-richtextbox-class/](https://www.geeksforgeeks.org/c-sharp-richtextbox-class/)
 
-在 C#中，RichTextBox 控件是一个文本框，它为您提供富文本编辑控件和高级格式功能，还包括加载富文本格式(RTF)文件。或者换句话说，RichTextBox 控件允许您显示或编辑流内容，包括段落、图像、表格等。RichTextBox 类用于表示窗口富文本框，还提供不同类型的属性、方法和事件。在**系统下定义。Windows.Forms** 命名空间。
-它不像 TextBox 控件那样有 64K 字符的容量限制。它用于提供文本操作和显示功能，类似于微软 word 等文字处理应用程序。在 C#中，您可以使用两种不同的方法在 windows 窗体中创建一个 RichTextBox:
+在 C# 中，RichTextBox 控件是一个文本框，它为您提供富文本编辑控件和高级格式功能，还包括加载富文本格式(RTF)文件。或者换句话说，RichTextBox 控件允许您显示或编辑流内容，包括段落、图像、表格等。RichTextBox 类用于表示窗口富文本框，还提供不同类型的属性、方法和事件。在**系统下定义。Windows.Forms** 命名空间。
+它不像 TextBox 控件那样有 64K 字符的容量限制。它用于提供文本操作和显示功能，类似于微软 word 等文字处理应用程序。在 C# 中，您可以使用两种不同的方法在 windows 窗体中创建一个 RichTextBox:
 
 **1。设计时:**创建 RichTextBox 的最简单方法如下所示:
 

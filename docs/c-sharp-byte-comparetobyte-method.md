@@ -124,4 +124,4 @@ class GFG {
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . byte . compare to？view = net framework-4 . 7 . 2 # System _ Byte _ compare to _ System _ Byte _](https://docs.microsoft.com/en-us/dotnet/api/system.byte.compareto?view=netframework-4.7.2#System_Byte_CompareTo_System_Byte_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . byte . compare to？view = net framework-4 . 7 . 2 # System _ Byte _ compare to _ System _ Byte _](https://docs.microsoft.com/en-us/dotnet/api/system.byte.compareto?view=netframework-4.7.2# System_Byte_CompareTo_System_Byte_)

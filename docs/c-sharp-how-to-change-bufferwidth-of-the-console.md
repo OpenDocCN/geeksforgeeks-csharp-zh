@@ -2,11 +2,11 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-how-change-bufferwidth-of-the-console/](https://www.geeksforgeeks.org/c-sharp-how-to-change-bufferwidth-of-the-console/)
 
-给定 C#中的正常控制台，任务是找到缓冲区宽度的默认值，并将其更改为其他值。
+给定 C# 中的正常控制台，任务是找到缓冲区宽度的默认值，并将其更改为其他值。
 
 ***缓冲区宽度*** 是指控制台缓冲区的当前宽度，以列为单位。
 
-**方法:**这可以使用 C#中系统包的**控制台**类中的**缓冲区宽度**属性来完成。
+**方法:**这可以使用 C# 中系统包的**控制台**类中的**缓冲区宽度**属性来完成。
 
 **程序 1:** 查找默认缓冲区宽度
 

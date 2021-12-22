@@ -1,4 +1,4 @@
-# 使用 LINQ 并行查询生成 5 的倍数的 C#程序
+# 使用 LINQ 并行查询生成 5 的倍数的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-使用-linq-parallel-query 程序生成 5 的倍数的数字/](https://www.geeksforgeeks.org/c-sharp-program-to-generate-numbers-that-are-multiples-of-5-using-the-linq-parallel-query/)
 

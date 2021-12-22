@@ -1,8 +1,8 @@
-# 在 C#中命名一个线程并获取当前线程的名称
+# 在 C# 中命名一个线程并获取当前线程的名称
 
 > 原文:[https://www . geeksforgeeks . org/命名线程并获取当前 c-sharp 中线程的名称/](https://www.geeksforgeeks.org/naming-a-thread-and-fetching-name-of-current-thread-in-c-sharp/)
 
-线程是进程中的轻量级进程。在 C#中，允许用户给线程分配一个名称，也可以使用**线程找到当前工作线程的名称。线程类的名称属性**。
+线程是进程中的轻量级进程。在 C# 中，允许用户给线程分配一个名称，也可以使用**线程找到当前工作线程的名称。线程类的名称属性**。
 
 **语法:**
 

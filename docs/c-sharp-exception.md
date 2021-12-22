@@ -56,11 +56,11 @@ class Geeks {
 
 异常层次结构
 
-在 C#中，所有的异常都是从基类**异常**派生出来的，基类又进一步分为两个分支**应用异常**和另一个分支**系统异常**。 *SystemException* 是所有 CLR 或程序代码生成错误的基类。*应用异常*是所有应用相关异常的基类。所有异常类都是直接或间接从异常类派生的。在*应用异常*的情况下，用户可以创建自己的异常类型和类。但是 SystemException 包含所有已知的异常类型，如 *DivideByZeroException* 或 *NullReferenceException* 等。
+在 C# 中，所有的异常都是从基类**异常**派生出来的，基类又进一步分为两个分支**应用异常**和另一个分支**系统异常**。 *SystemException* 是所有 CLR 或程序代码生成错误的基类。*应用异常*是所有应用相关异常的基类。所有异常类都是直接或间接从异常类派生的。在*应用异常*的情况下，用户可以创建自己的异常类型和类。但是 SystemException 包含所有已知的异常类型，如 *DivideByZeroException* 或 *NullReferenceException* 等。
 
 [![ExceptionClassHierarchy](img/1165e4d9113e0687b3d76ed639a6947f.png)](https://media.geeksforgeeks.org/wp-content/uploads/ExceptionClassHierarchy-1.jpg)
 
-**不同的异常类:**c#程序中可以生成不同种类的异常:
+**不同的异常类:**c# 程序中可以生成不同种类的异常:
 
 *   **除零异常**:用户尝试除零时出现
 *   **内存不足异常**:当程序试图使用过多内存时出现

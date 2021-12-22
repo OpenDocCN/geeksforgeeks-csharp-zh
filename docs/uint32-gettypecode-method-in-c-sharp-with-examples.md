@@ -1,4 +1,4 @@
-# UInt32。C#中的 GetTypeCode 方法及示例
+# UInt32。C# 中的 GetTypeCode 方法及示例
 
 > 原文:[https://www . geeksforgeeks . org/uint 32-gettypecode-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/uint32-gettypecode-method-in-c-sharp-with-examples/)
 

@@ -1,4 +1,4 @@
-# 如何在 C#的 DateTimePicker 中设置复选框？
+# 如何在 C# 的 DateTimePicker 中设置复选框？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的复选框/](https://www.geeksforgeeks.org/how-to-set-a-check-box-in-the-datetimepicker-in-c-sharp/)
 

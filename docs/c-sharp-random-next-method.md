@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-random-next-method/](https://www.geeksforgeeks.org/c-sharp-random-next-method/)
 
-**系统的 **Next()** 方法。C#中的 Random** 类用于获取随机整数。这个方法可以通过传递不同的参数来重载，如下所示:
+**系统的 **Next()** 方法。C# 中的 Random** 类用于获取随机整数。这个方法可以通过传递不同的参数来重载，如下所示:
 
 *   **下一个()***   **下一个(国际号码 32)***   **Next(Int32, Int32)
 

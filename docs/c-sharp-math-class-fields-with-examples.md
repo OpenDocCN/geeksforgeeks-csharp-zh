@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-math-class-field-with-examples/](https://www.geeksforgeeks.org/c-sharp-math-class-fields-with-examples/)
 
-在 C#中，数学类为对数函数、三角函数和其他数学函数提供常数和静态方法。数学类有如下两个字段:
+在 C# 中，数学类为对数函数、三角函数和其他数学函数提供常数和静态方法。数学类有如下两个字段:
 
 *   数学。电场
 *   数学。π场

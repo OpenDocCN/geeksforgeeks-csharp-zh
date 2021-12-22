@@ -1,4 +1,4 @@
-# DateTimeOffset。在 C#中添加()方法
+# DateTimeOffset。在 C# 中添加()方法
 
 > 原文:[https://www . geeksforgeeks . org/datetimeoffset-add-method-in-c-sharp/](https://www.geeksforgeeks.org/datetimeoffset-add-method-in-c-sharp/)
 

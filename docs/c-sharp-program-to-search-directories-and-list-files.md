@@ -1,8 +1,8 @@
-# C#程序搜索目录和列表文件
+# C# 程序搜索目录和列表文件
 
 > 原文:[https://www . geesforgeks . org/c-sharp-程序-搜索-目录-列表-文件/](https://www.geeksforgeeks.org/c-sharp-program-to-search-directories-and-list-files/)
 
-给定文件和目录，现在我们的任务是使用 C#搜索这些文件和目录。为此，我们使用以下方法:
+给定文件和目录，现在我们的任务是使用 C# 搜索这些文件和目录。为此，我们使用以下方法:
 
 **1。SearchOption:** 此方法用于指定是搜索当前目录还是包含所有子目录的当前目录。
 

@@ -1,4 +1,4 @@
-# 比较 C#中的两个值元组
+# 比较 C# 中的两个值元组
 
 > 原文:[https://www . geesforgeks . org/compare-two-value tuple-7 in-c-sharp/](https://www.geeksforgeeks.org/compare-two-valuetuple-7-in-c-sharp/)
 

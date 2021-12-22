@@ -1,4 +1,4 @@
-# 如何在 C#中设置工具提示的刷新延迟？
+# 如何在 C# 中设置工具提示的刷新延迟？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置-刷新-c 中工具提示的延迟/](https://www.geeksforgeeks.org/how-to-set-reshow-delay-for-tooltip-in-c/)
 

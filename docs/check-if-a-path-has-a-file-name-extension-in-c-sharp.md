@@ -1,4 +1,4 @@
-# 检查路径在 C#中是否有文件扩展名
+# 检查路径在 C# 中是否有文件扩展名
 
 > 原文:[https://www . geeksforgeeks . org/check-if-a-path-a-with-a-file-name-extension-in-c-sharp/](https://www.geeksforgeeks.org/check-if-a-path-has-a-file-name-extension-in-c-sharp/)
 

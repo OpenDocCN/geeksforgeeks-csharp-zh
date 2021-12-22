@@ -1,4 +1,4 @@
-# 检查指定类的 C#程序是否为可序列化类
+# 检查指定类的 C# 程序是否为可序列化类
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-check-a-specified-class-is-serializable-class-or-not/](https://www.geeksforgeeks.org/c-sharp-program-to-check-a-specified-class-is-a-serializable-class-or-not/)
 

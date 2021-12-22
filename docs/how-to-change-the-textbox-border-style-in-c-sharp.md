@@ -1,4 +1,4 @@
-# 如何改变 C#中的文本框边框样式？
+# 如何改变 C# 中的文本框边框样式？
 
 > 原文:[https://www . geeksforgeeks . org/如何更改文本框-边框样式-in-c-sharp/](https://www.geeksforgeeks.org/how-to-change-the-textbox-border-style-in-c-sharp/)
 

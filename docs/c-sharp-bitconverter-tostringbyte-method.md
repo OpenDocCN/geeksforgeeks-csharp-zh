@@ -126,4 +126,4 @@ Exception Thrown: System.ArgumentNullException
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . bit converter . tostring？view = net framework-4 . 7 . 2 # System _ BitConverter _ ToString _ System _ Byte _ _](https://docs.microsoft.com/en-us/dotnet/api/system.bitconverter.tostring?view=netframework-4.7.2#System_BitConverter_ToString_System_Byte___)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . bit converter . tostring？view = net framework-4 . 7 . 2 # System _ BitConverter _ ToString _ System _ Byte _ _](https://docs.microsoft.com/en-us/dotnet/api/system.bitconverter.tostring?view=netframework-4.7.2# System_BitConverter_ToString_System_Byte___)

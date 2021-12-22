@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-padright-method/](https://www.geeksforgeeks.org/c-sharp-padright-method/)
 
-在 C#中 ***PadRight()*** 是一个字符串方法。此方法用于将字符串中的字符左对齐，方法是在指定的总长度内用空格或右侧的指定字符填充它们。这个方法可以通过传递不同的参数来重载。
+在 C# 中 ***PadRight()*** 是一个字符串方法。此方法用于将字符串中的字符左对齐，方法是在指定的总长度内用空格或右侧的指定字符填充它们。这个方法可以通过传递不同的参数来重载。
 
 *   字符串。帕德赖特方法(Int32)
 *   字符串。帕德赖特方法(Int32，Char)

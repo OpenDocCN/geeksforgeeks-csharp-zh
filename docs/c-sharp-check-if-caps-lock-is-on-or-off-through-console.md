@@ -4,9 +4,9 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-check-if-caps-lock-on-or-off-through-console/](https://www.geeksforgeeks.org/c-sharp-check-if-caps-lock-is-on-or-off-through-console/)
 
-给定 C#中的正常控制台，任务是通过控制台检查 CAPS LOCK 是打开还是关闭。
+给定 C# 中的正常控制台，任务是通过控制台检查 CAPS LOCK 是打开还是关闭。
 
-**方法:**这可以使用 C#中系统包的**控制台**类中的 **CAPS LOCK** 属性来完成。
+**方法:**这可以使用 C# 中系统包的**控制台**类中的 **CAPS LOCK** 属性来完成。
 
 **程序 1:** 当大写锁定开启时
 

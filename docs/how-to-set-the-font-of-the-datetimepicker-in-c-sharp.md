@@ -1,4 +1,4 @@
-# 如何在 C#中设置日期选择器的字体？
+# 如何在 C# 中设置日期选择器的字体？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的日期时间选择器字体/](https://www.geeksforgeeks.org/how-to-set-the-font-of-the-datetimepicker-in-c-sharp/)
 

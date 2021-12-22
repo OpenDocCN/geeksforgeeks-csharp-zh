@@ -1,4 +1,4 @@
-# 在 C#中检查给定的索引是否相等
+# 在 C# 中检查给定的索引是否相等
 
 > 原文:[https://www . geeksforgeeks . org/checking-给定的索引是否等于 c-sharp/](https://www.geeksforgeeks.org/checking-the-given-indexes-are-equal-or-not-in-c-sharp/)
 

@@ -1,8 +1,8 @@
-# MathF。C#中的 Log()方法及示例
+# MathF。C# 中的 Log()方法及示例
 
 > 原文:[https://www . geesforgeks . org/mathf-log-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-log-method-in-c-sharp-with-examples/)
 
-在 C#中 ***MathF。*log()**是一个 MathF 类的方法。它用于返回指定数字的对数。通过更改传递的参数数量，可以重载此方法。 *MathF 的过载列表中总共有 2 种方法。Log()* 方法如下:
+在 C# 中 ***MathF。*log()**是一个 MathF 类的方法。它用于返回指定数字的对数。通过更改传递的参数数量，可以重载此方法。 *MathF 的过载列表中总共有 2 种方法。Log()* 方法如下:
 
 *   **MathF。日志(单一)方法***   **MathF.Log(Single, Single) Method
 

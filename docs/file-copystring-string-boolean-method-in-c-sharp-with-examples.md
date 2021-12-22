@@ -1,4 +1,4 @@
-# 文件。C#中复制(字符串、字符串、布尔)方法，示例
+# 文件。C# 中复制(字符串、字符串、布尔)方法，示例
 
 > 原文:[https://www . geesforgeks . org/file-copy string-string-boolean-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-copystring-string-boolean-method-in-c-sharp-with-examples/)
 

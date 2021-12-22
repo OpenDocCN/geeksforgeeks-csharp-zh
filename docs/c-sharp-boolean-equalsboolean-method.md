@@ -113,4 +113,4 @@ input1 is not equal to input2
 **注:**此方法实现系统。IEquatable < T >接口，性能比 Equals 略好，因为它不用把 obj 参数转换成对象。
 T3【参考:T5】
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . boolean . equals？view = net framework-4 . 7 . 2 # System _ Boolean _ Equals _ System _ Boolean _](https://docs.microsoft.com/en-us/dotnet/api/system.boolean.equals?view=netframework-4.7.2#System_Boolean_Equals_System_Boolean_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . boolean . equals？view = net framework-4 . 7 . 2 # System _ Boolean _ Equals _ System _ Boolean _](https://docs.microsoft.com/en-us/dotnet/api/system.boolean.equals?view=netframework-4.7.2# System_Boolean_Equals_System_Boolean_)

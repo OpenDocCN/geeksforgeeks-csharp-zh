@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-continue-statement/](https://www.geeksforgeeks.org/c-sharp-continue-statement/)
 
-在 C#中，continue 语句用于在特定条件下跳过循环的执行部分(do、while、for 或 foreach)，之后将控制权转移到循环的开始。基本上，它跳过给定的语句，继续循环的下一次迭代。或者换句话说，continue语句用于将 控制转移到它出现的封闭语句的下一个迭代(while、do、for 或 foreach ) 。
+在 C# 中，continue 语句用于在特定条件下跳过循环的执行部分(do、while、for 或 foreach)，之后将控制权转移到循环的开始。基本上，它跳过给定的语句，继续循环的下一次迭代。或者换句话说，continue语句用于将 控制转移到它出现的封闭语句的下一个迭代(while、do、for 或 foreach ) 。
 
 **语法:**
 

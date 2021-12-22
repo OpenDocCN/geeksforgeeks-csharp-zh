@@ -1,4 +1,4 @@
-# 单身。C#中的 IsNegative()方法，示例
+# 单身。C# 中的 IsNegative()方法，示例
 
 > 原文:[https://www . geesforgeks . org/single-is negative-method in-c-sharp-with-examples/](https://www.geeksforgeeks.org/single-isnegative-method-in-c-sharp-with-examples/)
 

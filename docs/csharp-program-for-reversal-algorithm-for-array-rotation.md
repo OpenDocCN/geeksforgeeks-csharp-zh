@@ -1,4 +1,4 @@
-# 阵列旋转反转算法 C#程序
+# 阵列旋转反转算法 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/cs harp-程序求逆-算法求阵-旋转/](https://www.geeksforgeeks.org/csharp-program-for-reversal-algorithm-for-array-rotation/)
 

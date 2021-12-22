@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-静态构造函数和非静态构造函数之间的明显差异/](https://www.geeksforgeeks.org/c-sharp-difference-between-static-constructors-and-non-static-constructors/)
 
-#### 先决条件:[c#中的构造函数](https://www.geeksforgeeks.org/c-sharp-constructors/)
+#### 先决条件:[c# 中的构造函数](https://www.geeksforgeeks.org/c-sharp-constructors/)
 
 静态构造函数用于初始化类的静态成员，并在创建类的第一个实例之前隐式调用。非静态构造函数用于初始化类的非静态成员。下面是静态构造函数和非静态构造函数之间的区别。
 

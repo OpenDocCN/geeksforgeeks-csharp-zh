@@ -1,4 +1,4 @@
-# 小数。C#中的天花板()方法
+# 小数。C# 中的天花板()方法
 
 > 原文:[https://www . geesforgeks . org/decimal-天花板-c-sharp 中的方法/](https://www.geeksforgeeks.org/decimal-ceiling-method-in-c-sharp/)
 

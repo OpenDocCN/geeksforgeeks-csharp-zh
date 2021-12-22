@@ -1,4 +1,4 @@
-# 文件。C#中的 AppendText()方法，带示例
+# 文件。C# 中的 AppendText()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/file-appendtext-method-in-csharp-with-examples/](https://www.geeksforgeeks.org/file-appendtext-method-in-csharp-with-examples/)
 

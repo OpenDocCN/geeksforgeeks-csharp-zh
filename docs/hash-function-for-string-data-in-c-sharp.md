@@ -1,8 +1,8 @@
-# c#中字符串数据的哈希函数
+# c# 中字符串数据的哈希函数
 
 > 原文:[https://www . geesforgeks . org/hash-function-for-string-data-in-c-sharp/](https://www.geeksforgeeks.org/hash-function-for-string-data-in-c-sharp/)
 
-**问题:**用 C#编写代码来散列一个键数组，并用它们的散列代码显示它们。
+**问题:**用 C# 编写代码来散列一个键数组，并用它们的散列代码显示它们。
 
 *答案:* Hashtable 是一种广泛使用的数据结构，用于存储用其哈希代码索引的值(即键)。哈希代码是哈希函数的结果，用作存储密钥的索引值。如果两个不同的密钥散列到相同的值，这种情况被称为*冲突*，一个好的散列函数可以最大限度地减少冲突。
 

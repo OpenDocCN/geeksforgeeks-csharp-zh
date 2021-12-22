@@ -1,4 +1,4 @@
-# 如何在 C#中获取枚举的 hashcode？
+# 如何在 C# 中获取枚举的 hashcode？
 
 > 原文:[https://www . geesforgeks . org/how-to-get-hashcode-for-enum-in-c-sharp/](https://www.geeksforgeeks.org/how-to-get-the-hashcode-for-enum-in-c-sharp/)
 

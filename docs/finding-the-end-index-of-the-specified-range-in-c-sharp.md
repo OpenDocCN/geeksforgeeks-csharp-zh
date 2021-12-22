@@ -1,4 +1,4 @@
-# 在 C#中找到指定范围的结束索引
+# 在 C# 中找到指定范围的结束索引
 
 > 原文:[https://www . geeksforgeeks . org/find-the-end-index-of-the-specified-in-c-sharp/](https://www.geeksforgeeks.org/finding-the-end-index-of-the-specified-range-in-c-sharp/)
 

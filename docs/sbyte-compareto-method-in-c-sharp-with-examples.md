@@ -1,4 +1,4 @@
-# SByte。将 C#中的()方法与示例进行比较
+# SByte。将 C# 中的()方法与示例进行比较
 
 > 原文:[https://www . geesforgeks . org/sbyte-compare to-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/sbyte-compareto-method-in-c-sharp-with-examples/)
 

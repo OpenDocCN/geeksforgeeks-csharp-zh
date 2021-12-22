@@ -1,4 +1,4 @@
-# C#环境类 SetEnvironmentVariable()方法示例
+# C# 环境类 SetEnvironmentVariable()方法示例
 
 > 原文:[https://www . geesforgeks . org/c-sharp-environment-class-setenvironmentvariable-method-with-examples/](https://www.geeksforgeeks.org/c-sharp-environment-class-setenvironmentvariable-method-with-examples/)
 

@@ -1,4 +1,4 @@
-# C#程序，演示在取消装箱时对无效类型转换的异常处理
+# C# 程序，演示在取消装箱时对无效类型转换的异常处理
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-演示-异常处理-无效类型转换-取消装箱/](https://www.geeksforgeeks.org/c-sharp-program-that-demonstrates-exception-handling-for-invalid-typecasting-in-unboxing/)
 
@@ -28,7 +28,7 @@
 > 
 > }
 
-[**类型转换**](https://www.geeksforgeeks.org/c-sharp-type-casting/) 可以定义为将变量从一种数据类型转换为另一种数据类型的过程。如果数据类型兼容，那么 C#进行自动类型转换。如果不可比较，则需要显式转换它们，这称为显式类型转换。
+[**类型转换**](https://www.geeksforgeeks.org/c-sharp-type-casting/) 可以定义为将变量从一种数据类型转换为另一种数据类型的过程。如果数据类型兼容，那么 C# 进行自动类型转换。如果不可比较，则需要显式转换它们，这称为显式类型转换。
 
 **语法**:
 

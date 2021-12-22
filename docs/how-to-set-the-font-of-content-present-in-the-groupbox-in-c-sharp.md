@@ -1,4 +1,4 @@
-# 如何在 C#中设置群框中出现的内容的字体？
+# 如何在 C# 中设置群框中出现的内容的字体？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的 group box-present-in-content 字体/](https://www.geeksforgeeks.org/how-to-set-the-font-of-content-present-in-the-groupbox-in-c-sharp/)
 

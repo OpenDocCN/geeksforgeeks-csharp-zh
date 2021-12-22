@@ -1,8 +1,8 @@
-# 如何在 C#中终止一个线程
+# 如何在 C# 中终止一个线程
 
 > 原文:[https://www . geeksforgeeks . org/如何终止 c-sharp 中的线程/](https://www.geeksforgeeks.org/how-to-terminate-a-thread-in-c-sharp/)
 
-在 C#中，可以使用**中止()方法**终止一个线程。Abort()将`ThreadAbortException` 抛出到调用它的线程中。由于这个异常，线程被终止。`Thread.Abort Method`的过载列表中有两种方法，如下:
+在 C# 中，可以使用**中止()方法**终止一个线程。Abort()将`ThreadAbortException` 抛出到调用它的线程中。由于这个异常，线程被终止。`Thread.Abort Method`的过载列表中有两种方法，如下:
 
 *   ****中止()*****   ****Abort(Object)**
 

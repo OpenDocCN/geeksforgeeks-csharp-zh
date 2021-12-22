@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-remove-method/](https://www.geeksforgeeks.org/c-sharp-remove-method/)
 
-在 C#中， ***Remove()*** 方法是一个 String 方法。它用于从字符串的指定位置移除所有字符。如果没有指定长度，那么它将删除指定位置之后的所有字符。通过更改传递给该方法的参数数量，可以重载该方法。
+在 C# 中， ***Remove()*** 方法是一个 String 方法。它用于从字符串的指定位置移除所有字符。如果没有指定长度，那么它将删除指定位置之后的所有字符。通过更改传递给该方法的参数数量，可以重载该方法。
 
 **语法:**
 

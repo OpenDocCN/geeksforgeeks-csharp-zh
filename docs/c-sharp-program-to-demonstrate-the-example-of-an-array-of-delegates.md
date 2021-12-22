@@ -1,8 +1,8 @@
-# 演示委托数组示例的 C#程序
+# 演示委托数组示例的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-professional-array-of-delegates/](https://www.geeksforgeeks.org/c-sharp-program-to-demonstrate-the-example-of-an-array-of-delegates/)
 
-在 C#中，[委托](https://www.geeksforgeeks.org/c-sharp-delegates/)是一个引用方法的对象，或者是一个引用类型变量，可以保存对方法的引用。委托类似于 C/C++函数指针。它还提供了一种方法，告诉在事件被触发时调用哪个方法。顾名思义，委托数组意味着使用以下语法在数组中声明委托数组:
+在 C# 中，[委托](https://www.geeksforgeeks.org/c-sharp-delegates/)是一个引用方法的对象，或者是一个引用类型变量，可以保存对方法的引用。委托类似于 C/C++函数指针。它还提供了一种方法，告诉在事件被触发时调用哪个方法。顾名思义，委托数组意味着使用以下语法在数组中声明委托数组:
 
 **语法:**
 

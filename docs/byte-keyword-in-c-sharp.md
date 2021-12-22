@@ -1,4 +1,4 @@
-# c#中的字节关键字
+# c# 中的字节关键字
 
 > 原文:[https://www.geeksforgeeks.org/byte-keyword-in-c-sharp/](https://www.geeksforgeeks.org/byte-keyword-in-c-sharp/)
 

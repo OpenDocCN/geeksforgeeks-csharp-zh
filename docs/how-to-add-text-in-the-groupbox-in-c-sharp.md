@@ -1,4 +1,4 @@
-# 如何在 C#中的 GroupBox 中添加文本？
+# 如何在 C# 中的 GroupBox 中添加文本？
 
 > 原文:[https://www . geeksforgeeks . org/如何添加 c-sharp 中的 groupbox 中的文本/](https://www.geeksforgeeks.org/how-to-add-text-in-the-groupbox-in-c-sharp/)
 

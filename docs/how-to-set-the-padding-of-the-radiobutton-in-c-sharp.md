@@ -1,4 +1,4 @@
-# 如何在 C#中设置单选按钮的填充？
+# 如何在 C# 中设置单选按钮的填充？
 
 > 原文:[https://www . geesforgeks . org/如何设置 c-sharp 中 radiobutton 的填充符/](https://www.geeksforgeeks.org/how-to-set-the-padding-of-the-radiobutton-in-c-sharp/)
 

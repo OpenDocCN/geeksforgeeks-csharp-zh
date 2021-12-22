@@ -1,4 +1,4 @@
-# 如何在 C#中设置标签的填充？
+# 如何在 C# 中设置标签的填充？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中标签的填充符/](https://www.geeksforgeeks.org/how-to-set-the-padding-of-the-label-in-c-sharp/)
 

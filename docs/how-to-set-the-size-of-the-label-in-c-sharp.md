@@ -1,4 +1,4 @@
-# 如何在 C#中设置标签的大小？
+# 如何在 C# 中设置标签的大小？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中标签的大小/](https://www.geeksforgeeks.org/how-to-set-the-size-of-the-label-in-c-sharp/)
 

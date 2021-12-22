@@ -1,4 +1,4 @@
-# 用于从排序链表中删除重复项的 C#程序
+# 用于从排序链表中删除重复项的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-program-for-remove-replications-from-sorted-link-list-2/](https://www.geeksforgeeks.org/c-program-for-removing-duplicates-from-a-sorted-linked-list-2/)
 

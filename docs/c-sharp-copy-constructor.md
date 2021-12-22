@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-copy-constructor/](https://www.geeksforgeeks.org/c-sharp-copy-constructor/)
 
-通过从另一个对象复制变量来创建对象或将一个对象的数据复制到另一个对象的构造函数称为**复制构造函数**。它是一个参数化构造函数，包含同一类类型的参数。复制[构造函数](https://www.geeksforgeeks.org/c-sharp-constructors/)的主要用途是将新实例初始化为现有实例的值。通常情况下，C#不提供对象的复制构造函数，但是如果你想在你的程序中创建一个复制[构造函数](https://www.geeksforgeeks.org/c-sharp-constructors/)，你可以根据你的需求来创建。
+通过从另一个对象复制变量来创建对象或将一个对象的数据复制到另一个对象的构造函数称为**复制构造函数**。它是一个参数化构造函数，包含同一类类型的参数。复制[构造函数](https://www.geeksforgeeks.org/c-sharp-constructors/)的主要用途是将新实例初始化为现有实例的值。通常情况下，C# 不提供对象的复制构造函数，但是如果你想在你的程序中创建一个复制[构造函数](https://www.geeksforgeeks.org/c-sharp-constructors/)，你可以根据你的需求来创建。
 **语法:**
 
 ```cs

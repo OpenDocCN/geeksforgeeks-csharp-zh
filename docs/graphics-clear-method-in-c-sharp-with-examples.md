@@ -1,4 +1,4 @@
-# 图形。C#中的 Clear()方法，示例
+# 图形。C# 中的 Clear()方法，示例
 
 > 原文:[https://www . geeksforgeeks . org/graphics-clear-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/graphics-clear-method-in-c-sharp-with-examples/)
 

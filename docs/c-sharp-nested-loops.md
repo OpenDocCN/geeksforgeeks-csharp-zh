@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-nested-loops/](https://www.geeksforgeeks.org/c-sharp-nested-loops/)
 
-嵌套循环是存在于另一个循环中的循环。在 C#中，for、while 和 do-while 循环的嵌套是允许的，您还可以将任何嵌套循环放入  任何其他类型的循环中，如 for 循环中，您可以将嵌套 if 循环放入其中。
+嵌套循环是存在于另一个循环中的循环。在 C# 中，for、while 和 do-while 循环的嵌套是允许的，您还可以将任何嵌套循环放入  任何其他类型的循环中，如 for 循环中，您可以将嵌套 if 循环放入其中。
 
 **for Loop:**for Loop 的功能与 while loop 非常相似。当循环语句的执行次数事先已知时，基本上使用它。允许对 for 循环进行估计，这意味着您可以在另一个 for 循环中使用 for 循环。
 

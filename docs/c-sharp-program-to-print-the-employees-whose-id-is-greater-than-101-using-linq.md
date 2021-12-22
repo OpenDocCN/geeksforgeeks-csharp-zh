@@ -1,6 +1,6 @@
 # 使用 LINQ
 
-打印身份证号大于 101 的员工的 C#程序
+打印身份证号大于 101 的员工的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-print-the-employees-id-大于-101-using-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-print-the-employees-whose-id-is-greater-than-101-using-linq/)
 

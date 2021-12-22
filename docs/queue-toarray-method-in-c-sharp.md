@@ -1,4 +1,4 @@
-# 排队。C#中的数组方法
+# 排队。C# 中的数组方法
 
 > 原文:[https://www . geesforgeks . org/queue-to array-method-in-c-sharp/](https://www.geeksforgeeks.org/queue-toarray-method-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# 小数。C#中的 Round()方法| Set–1
+# 小数。C# 中的 Round()方法| Set–1
 
 > 原文:[https://www . geesforgeks . org/decimal-round-method-in-c-sharp-set-1/](https://www.geeksforgeeks.org/decimal-round-method-in-c-sharp-set-1/)
 

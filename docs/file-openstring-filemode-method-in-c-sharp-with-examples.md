@@ -1,4 +1,4 @@
-# 文件。C#中的 Open(字符串，文件模式)方法，示例
+# 文件。C# 中的 Open(字符串，文件模式)方法，示例
 
 > 原文:[https://www . geesforgeks . org/file-open string-file mode-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-openstring-filemode-method-in-c-sharp-with-examples/)
 

@@ -6,9 +6,9 @@
 
 ![](img/e85374c4dad488bfe93f1e066b2e0898.png)
 
-但是 C#不支持多类继承。为了克服这个问题，我们使用接口来实现多类继承。借助[界面](https://www.geeksforgeeks.org/c-sharp-interface/)，C 类(如上图所示)可以得到 A 类和 b 类的特征。
+但是 C# 不支持多类继承。为了克服这个问题，我们使用接口来实现多类继承。借助[界面](https://www.geeksforgeeks.org/c-sharp-interface/)，C 类(如上图所示)可以得到 A 类和 b 类的特征。
 
-**例 1:** 首先我们尝试将 *Geeks1* 和 *Geeks2* 类的特性继承成 GeeksforGeeks 类，那么编译器会给出一个错误，因为 C#直接不支持多类继承。
+**例 1:** 首先我们尝试将 *Geeks1* 和 *Geeks2* 类的特性继承成 GeeksforGeeks 类，那么编译器会给出一个错误，因为 C# 直接不支持多类继承。
 
 ```cs
 // C# program to illustrate

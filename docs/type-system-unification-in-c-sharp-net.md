@@ -1,8 +1,8 @@
-# c#中的类型系统统一。NET
+# c# 中的类型系统统一。NET
 
 > 原文:[https://www . geesforgeks . org/type-system-union-in-c-sharp-net/](https://www.geeksforgeeks.org/type-system-unification-in-c-sharp-net/)
 
-C#中的类型系统统一意味着 C#中的所有数据类型都直接或间接继承自[对象类](https://www.geeksforgeeks.org/c-sharp-object-class/)。或者你可以说所有类型都被认为是对象。在 C#中，基元类型被称为值类型，基本上是结构。在内部，结构和[类](https://www.geeksforgeeks.org/c-sharp-class-and-object/)继承了对象类。这就是为什么所有类型都被间接认为是对象，这个术语被称为“T4”类型系统统一。
+C# 中的类型系统统一意味着 C# 中的所有数据类型都直接或间接继承自[对象类](https://www.geeksforgeeks.org/c-sharp-object-class/)。或者你可以说所有类型都被认为是对象。在 C# 中，基元类型被称为值类型，基本上是结构。在内部，结构和[类](https://www.geeksforgeeks.org/c-sharp-class-and-object/)继承了对象类。这就是为什么所有类型都被间接认为是对象，这个术语被称为“T4”类型系统统一。
 
 **示例:**所有预定义的类型(如短、int long 等。)是结构。以下是预定义的类型及其等效的*结构:*
 

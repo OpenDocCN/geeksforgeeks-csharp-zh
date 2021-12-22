@@ -1,4 +1,4 @@
-# 如何在 C#中设置单选按钮中的文本？
+# 如何在 C# 中设置单选按钮中的文本？
 
 > 原文:[https://www . geesforgeks . org/如何设置 c-sharp 中的 radiobutton 中的文本/](https://www.geeksforgeeks.org/how-to-set-text-in-the-radiobutton-in-c-sharp/)
 

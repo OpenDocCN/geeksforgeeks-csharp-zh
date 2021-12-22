@@ -15,8 +15,8 @@
 
 ![](img/f5c348c5a84d50c9292470146084b5ac.png)
 
-*   它不支持 C#和 VB.Net 语言中的[查询语法](https://www.geeksforgeeks.org/linq-query-syntax/)。但是您可以对查询变量使用 Except 方法，或者您可以将查询包装在括号中，然后调用 Except 方法。
-*   它支持 C#和 VB.Net 语言中方法语法。
+*   它不支持 C# 和 VB.Net 语言中的[查询语法](https://www.geeksforgeeks.org/linq-query-syntax/)。但是您可以对查询变量使用 Except 方法，或者您可以将查询包装在括号中，然后调用 Except 方法。
+*   它支持 C# 和 VB.Net 语言中方法语法。
 *   它同时出现在可查询类和可枚举类中。
 *   它通过使用延迟执行来实现。
 *   当您处理复杂类型的集合时，必须使用 IEqualityComparer 接口，否则，Except 方法将给出不正确的结果。

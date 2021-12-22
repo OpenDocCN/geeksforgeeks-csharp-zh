@@ -1,4 +1,4 @@
-# 如何在 C#中获取枚举的 typecode？
+# 如何在 C# 中获取枚举的 typecode？
 
 > 原文:[https://www . geeksforgeeks . org/如何获取 c-sharp 中枚举的类型代码/](https://www.geeksforgeeks.org/how-to-get-the-typecode-for-enum-in-c-sharp/)
 

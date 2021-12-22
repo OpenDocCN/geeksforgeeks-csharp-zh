@@ -1,8 +1,8 @@
-# c#中读取字符的不同方法
+# c# 中读取字符的不同方法
 
 > 原文:[https://www . geesforgeks . org/different-method-to-read-a-in-character-c-sharp/](https://www.geeksforgeeks.org/different-methods-to-read-a-character-in-c-sharp/)
 
-在 [C#](https://www.geeksforgeeks.org/csharp-programming-language/) 中，我们知道**控制台。Read()** 方法用于从标准输出设备中读取单个字符。此外，还有不同的方法可以用来读取单个字符。以下方法可用于此目的:
+在 [C# ](https://www.geeksforgeeks.org/csharp-programming-language/) 中，我们知道**控制台。Read()** 方法用于从标准输出设备中读取单个字符。此外，还有不同的方法可以用来读取单个字符。以下方法可用于此目的:
 
 *   **控制台。ReadLine()[0]方法**
 *   **控制台。ReadKey()。奇卡法**

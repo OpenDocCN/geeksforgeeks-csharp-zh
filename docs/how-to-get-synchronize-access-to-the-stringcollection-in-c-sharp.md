@@ -1,4 +1,4 @@
-# 如何在 C#中同步访问 string collection
+# 如何在 C# 中同步访问 string collection
 
 > 原文:[https://www . geeksforgeeks . org/如何同步访问 c-sharp 中的字符串集合/](https://www.geeksforgeeks.org/how-to-get-synchronize-access-to-the-stringcollection-in-c-sharp/)
 

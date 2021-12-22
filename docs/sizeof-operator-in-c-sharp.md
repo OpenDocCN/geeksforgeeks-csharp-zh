@@ -1,4 +1,4 @@
-# c#中 sizeof()运算符
+# c# 中 sizeof()运算符
 
 > 原文:[https://www.geeksforgeeks.org/sizeof-operator-in-c-sharp/](https://www.geeksforgeeks.org/sizeof-operator-in-c-sharp/)
 

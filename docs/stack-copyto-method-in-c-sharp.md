@@ -1,4 +1,4 @@
-# 叠加。C#中的 CopyTo()方法
+# 叠加。C# 中的 CopyTo()方法
 
 > 原文:[https://www . geesforgeks . org/stack-copy to-method-in-c-sharp/](https://www.geeksforgeeks.org/stack-copyto-method-in-c-sharp/)
 

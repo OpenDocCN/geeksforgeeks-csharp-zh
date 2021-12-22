@@ -264,4 +264,4 @@ Hashtable after removing element 4:
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . hashtable？视图= net framework-4 . 7 . 2 #定义](https://docs.microsoft.com/en-us/dotnet/api/system.collections.hashtable?view=netframework-4.7.2#definition)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . hashtable？视图= net framework-4 . 7 . 2 # 定义](https://docs.microsoft.com/en-us/dotnet/api/system.collections.hashtable?view=netframework-4.7.2# definition)

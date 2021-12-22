@@ -1,4 +1,4 @@
-# 如何在 C#中创建列表字典
+# 如何在 C# 中创建列表字典
 
 > 原文:[https://www . geesforgeks . org/如何创建 c-sharp 中的 list dictionary/](https://www.geeksforgeeks.org/how-to-create-a-listdictionary-in-c-sharp/)
 
@@ -104,4 +104,4 @@ After Add Method: 6
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . specialized . list dictionary-ctor？view = net framework-4 . 7 . 2 # System _ Collections _ Specialized _ list dictionary _ ctor](https://docs.microsoft.com/en-us/dotnet/api/system.collections.specialized.listdictionary.-ctor?view=netframework-4.7.2#System_Collections_Specialized_ListDictionary__ctor)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . specialized . list dictionary-ctor？view = net framework-4 . 7 . 2 # System _ Collections _ Specialized _ list dictionary _ ctor](https://docs.microsoft.com/en-us/dotnet/api/system.collections.specialized.listdictionary.-ctor?view=netframework-4.7.2# System_Collections_Specialized_ListDictionary__ctor)

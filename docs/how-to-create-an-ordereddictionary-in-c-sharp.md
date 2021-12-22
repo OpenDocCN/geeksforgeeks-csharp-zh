@@ -1,4 +1,4 @@
-# 如何在 C#中创建有序字典
+# 如何在 C# 中创建有序字典
 
 > 原文:[https://www . geeksforgeeks . org/how-to-create-ordered dictionary-in-c-sharp/](https://www.geeksforgeeks.org/how-to-create-an-ordereddictionary-in-c-sharp/)
 
@@ -102,4 +102,4 @@ After Add Method: 4
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . specialized . orderedddictionary-ctor？view = net framework-4 . 7 . 2 # System _ Collections _ Specialized _ OrderedDictionary _ ctor](https://docs.microsoft.com/en-us/dotnet/api/system.collections.specialized.ordereddictionary.-ctor?view=netframework-4.7.2#System_Collections_Specialized_OrderedDictionary__ctor)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . specialized . orderedddictionary-ctor？view = net framework-4 . 7 . 2 # System _ Collections _ Specialized _ OrderedDictionary _ ctor](https://docs.microsoft.com/en-us/dotnet/api/system.collections.specialized.ordereddictionary.-ctor?view=netframework-4.7.2# System_Collections_Specialized_OrderedDictionary__ctor)

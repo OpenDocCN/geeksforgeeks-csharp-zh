@@ -1,4 +1,4 @@
-# 在 C#中使用反射的后期绑定
+# 在 C# 中使用反射的后期绑定
 
 > 原文:[https://www . geesforgeks . org/late-binding-use-reflection-in-c-sharp/](https://www.geeksforgeeks.org/late-binding-using-reflection-in-c-sharp/)
 

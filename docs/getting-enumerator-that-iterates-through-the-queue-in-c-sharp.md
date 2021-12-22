@@ -1,4 +1,4 @@
-# 获取在 C#中遍历队列的枚举器
+# 获取在 C# 中遍历队列的枚举器
 
 > 原文:[https://www . geeksforgeeks . org/get-enumerator-in-c-sharp-迭代队列/](https://www.geeksforgeeks.org/getting-enumerator-that-iterates-through-the-queue-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# 如何在 C#中将整数数组转换为列表？
+# 如何在 C# 中将整数数组转换为列表？
 
 > 原文:[https://www . geesforgeks . org/如何将整数数组转换为 c-sharp 中的列表/](https://www.geeksforgeeks.org/how-to-convert-integer-array-to-list-in-c-sharp/)
 

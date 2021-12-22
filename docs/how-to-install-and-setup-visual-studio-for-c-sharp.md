@@ -1,12 +1,12 @@
-# 如何安装和设置 C#的 Visual Studio？
+# 如何安装和设置 C# 的 Visual Studio？
 
 > 原文:[https://www . geeksforgeeks . org/如何安装和设置-visual studio-for-c-sharp/](https://www.geeksforgeeks.org/how-to-install-and-setup-visual-studio-for-c-sharp/)
 
-**先决条件:**[c#入门](https://www.geeksforgeeks.org/introduction-to-c-sharp/)
+**先决条件:**[c# 入门](https://www.geeksforgeeks.org/introduction-to-c-sharp/)
 
-C#是一种通用、现代和面向对象的编程语言，发音为**“C sharp”**。它是由微软开发的，由安德斯·海尔斯伯格和他的团队领导。Net 倡议，并获得了欧洲计算机制造商协会(ECMA)和国际标准组织(ISO)的批准。C#是公共语言基础设施的语言之一，C#的当前版本是 8.0 版本。C#在语法上与 Java 有很多相似之处，对于有 [C](https://www.geeksforgeeks.org/c-programming-language/) 、 [C++](https://www.geeksforgeeks.org/c-plus-plus/) 或 [Java](https://www.geeksforgeeks.org/java/) 知识的用户来说，很容易上手。
+C# 是一种通用、现代和面向对象的编程语言，发音为**“C sharp”**。它是由微软开发的，由安德斯·海尔斯伯格和他的团队领导。Net 倡议，并获得了欧洲计算机制造商协会(ECMA)和国际标准组织(ISO)的批准。C# 是公共语言基础设施的语言之一，C# 的当前版本是 8.0 版本。C# 在语法上与 Java 有很多相似之处，对于有 [C](https://www.geeksforgeeks.org/c-programming-language/) 、 [C++](https://www.geeksforgeeks.org/c-plus-plus/) 或 [Java](https://www.geeksforgeeks.org/java/) 知识的用户来说，很容易上手。
 
-### C#安装和设置 Visual Studio 的步骤
+### C# 安装和设置 Visual Studio 的步骤
 
 **第一步:**首先需要下载 Visual Studio，相同的所有版本在[**【visualstudio.microsoft.com】**](https://visualstudio.microsoft.com/downloads/)上都有
 
@@ -24,10 +24,10 @@ C#是一种通用、现代和面向对象的编程语言，发音为**“C sharp
 **第五步:**选择你的色彩主题然后点击**启动 Visual Studio** 按钮。
 ![Visual-Studio-CSharp-041](img/b80ae69c017bab35379f7dc46a39df03.png)
 
-**步骤 6:** 首先使用 Visual Studio，选择**新建项目**选项，然后开始为 C#设置环境。
+**步骤 6:** 首先使用 Visual Studio，选择**新建项目**选项，然后开始为 C# 设置环境。
 ![Visual-Studio-CSharp-051](img/0f63f53ca2ec842ee356ed3453fa411b.png)
 
-**第七步:**选择**控制台 App(。NET Core)** 选项为 C#然后点击**下一步**按钮。
+**第七步:**选择**控制台 App(。NET Core)** 选项为 C# 然后点击**下一步**按钮。
 ![Visual-Studio-CSharp-071](img/1343a0004ef63849d0b0380b655c2628.png)
 
 **第八步:**通过分配名称和位置来存储项目文件来配置您的新项目，然后点击**创建**按钮。

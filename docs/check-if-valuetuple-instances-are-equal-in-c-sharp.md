@@ -1,4 +1,4 @@
-# 检查值元组实例在 C#中是否相等
+# 检查值元组实例在 C# 中是否相等
 
 > 原文:[https://www . geesforgeks . org/check-if-value tuple-instance-is-equal-in-c-sharp/](https://www.geeksforgeeks.org/check-if-valuetuple-instances-are-equal-in-c-sharp/)
 

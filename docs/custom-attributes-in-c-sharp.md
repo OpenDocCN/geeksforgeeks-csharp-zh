@@ -1,8 +1,8 @@
-# c#中的自定义属性
+# c# 中的自定义属性
 
 > 原文:[https://www.geeksforgeeks.org/custom-attributes-in-c-sharp/](https://www.geeksforgeeks.org/custom-attributes-in-c-sharp/)
 
-[属性](https://www.geeksforgeeks.org/attributes-in-c-sharp/)是元数据扩展，在运行时向编译器提供关于程序代码中元素的附加信息。属性用于强加条件或提高一段代码的效率。C#中存在内置属性，但程序员可以创建自己的属性，这种属性称为**自定义属性**。要创建自定义属性，我们必须构建从*系统派生的类。属性*类。
+[属性](https://www.geeksforgeeks.org/attributes-in-c-sharp/)是元数据扩展，在运行时向编译器提供关于程序代码中元素的附加信息。属性用于强加条件或提高一段代码的效率。C# 中存在内置属性，但程序员可以创建自己的属性，这种属性称为**自定义属性**。要创建自定义属性，我们必须构建从*系统派生的类。属性*类。
 
 ### 创建自定义属性的步骤
 

@@ -1,8 +1,8 @@
-# 如何在 C#中设置 MaskedTextBox 中的 Text？
+# 如何在 C# 中设置 MaskedTextBox 中的 Text？
 
 > 原文:[https://www . geesforgeks . org/how-set-text-in-masketextbox-in-c-sharp/](https://www.geeksforgeeks.org/how-to-set-text-in-maskedtextbox-in-c-sharp/)
 
-在 C#中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在掩码文本框控件中，您可以使用将向用户显示的**文本属性**来设置掩码文本框中的文本。这是 MaskedTextBox 类的默认绑定属性。从该属性中检索的字符串使用诸如掩码、文本掩码格式等格式属性进行格式化。您可以通过两种不同的方式设置此属性:
+在 C# 中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在掩码文本框控件中，您可以使用将向用户显示的**文本属性**来设置掩码文本框中的文本。这是 MaskedTextBox 类的默认绑定属性。从该属性中检索的字符串使用诸如掩码、文本掩码格式等格式属性进行格式化。您可以通过两种不同的方式设置此属性:
 
 **1。设计时:**在掩码文本框中设置文本是最简单的方法，如下步骤所示:
 

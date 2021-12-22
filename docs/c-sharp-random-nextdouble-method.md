@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-random-next double-method/](https://www.geeksforgeeks.org/c-sharp-random-nextdouble-method/)
 
-**系统的 **NextDouble()** 方法。C#中的 Random** 类用于返回一个大于等于 0.0，小于 1.0 的随机浮点数。
+**系统的 **NextDouble()** 方法。C# 中的 Random** 类用于返回一个大于等于 0.0，小于 1.0 的随机浮点数。
 
 **语法:**
 

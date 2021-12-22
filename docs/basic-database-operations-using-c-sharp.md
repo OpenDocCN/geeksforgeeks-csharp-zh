@@ -1,8 +1,8 @@
-# 使用 C#的基本数据库操作
+# 使用 C# 的基本数据库操作
 
 > 原文:[https://www . geesforgeks . org/basic-database-operations-use-c-sharp/](https://www.geeksforgeeks.org/basic-database-operations-using-c-sharp/)
 
-在本文中，您将学习如何使用 C#中的 *system.data.SqlClient* 命名空间来执行基本的数据库操作。基本操作是插入、更新、选择和删除。虽然目标数据库系统是 SQL Server Database，但是同样的技术也可以应用于其他数据库系统，因为使用的查询语法是所有关系数据库系统通常都支持的标准 SQL。
+在本文中，您将学习如何使用 C# 中的 *system.data.SqlClient* 命名空间来执行基本的数据库操作。基本操作是插入、更新、选择和删除。虽然目标数据库系统是 SQL Server Database，但是同样的技术也可以应用于其他数据库系统，因为使用的查询语法是所有关系数据库系统通常都支持的标准 SQL。
 **先决条件:**微软 SQL Server 管理工作室
 打开微软 SQL Server 管理工作室，编写以下脚本，在其中创建数据库和表。
 
@@ -24,7 +24,7 @@ insert into demo values(2, 'C++');
 
 ![](img/d20584e05ca47ae3a3e395fe57dd4786.png)
 
-**连接 C#和数据库:**要使用数据库，首先需要一个连接。与数据库的连接通常由以下参数组成。
+**连接 C# 和数据库:**要使用数据库，首先需要一个连接。与数据库的连接通常由以下参数组成。
 
 *   *数据库名称或数据源:*需要建立连接并建立连接的数据库名称，也可以说一次只能使用一个数据库。
 *   *凭证:*需要用来建立数据库连接的用户名和密码。
@@ -88,7 +88,7 @@ class DBConn {
 Connection Open !
 ```
 
-**代码#2:** 使用 Select 语句和 SqlDataReader 访问 C#中的数据
+**代码# 2:** 使用 Select 语句和 SqlDataReader 访问 C# 中的数据
 
 ## c sharp . c sharp . c sharp . c sharp
 
@@ -177,7 +177,7 @@ class SelectStatement{
 2 - C++
 ```
 
-**代码#3:** 使用 C#中的 Insert 语句将数据插入数据库
+**代码# 3:** 使用 C# 中的 Insert 语句将数据插入数据库
 
 ## c sharp . c sharp . c sharp . c sharp
 
@@ -256,7 +256,7 @@ class InsertStatement {
 
 ![](img/d5e1b6fb85afd47cab1847ec06abb523.png)
 
-**代码#4:** 使用 C#中的 Update 语句将数据更新到数据库中
+**代码# 4:** 使用 C# 中的 Update 语句将数据更新到数据库中
 
 ## c sharp . c sharp . c sharp . c sharp
 
@@ -335,7 +335,7 @@ class UpdateStatement {
 
 ![](img/01171629a6275c9706dfd326bc77efbb.png)
 
-**代码#5:** 使用 C#中的 Delete 语句删除数据库中的数据
+**代码# 5:** 使用 C# 中的 Delete 语句删除数据库中的数据
 
 ## c sharp . c sharp . c sharp . c sharp
 

@@ -1,8 +1,8 @@
-# C#带示例词典
+# C# 带示例词典
 
 > 原文:[https://www . geesforgeks . org/c-sharp-dictionary-with-examples/](https://www.geeksforgeeks.org/c-sharp-dictionary-with-examples/)
 
-在 C#中，字典是一个通用集合，通常用于存储键/值对。字典的工作方式与[非通用散列表](https://www.geeksforgeeks.org/c-sharp-hashtable-with-examples/)非常相似。字典的优点是，它是泛型。字典在`System.Collection.Generic`命名空间下定义。它本质上是动态的，意味着字典的大小是根据需要而增长的。
+在 C# 中，字典是一个通用集合，通常用于存储键/值对。字典的工作方式与[非通用散列表](https://www.geeksforgeeks.org/c-sharp-hashtable-with-examples/)非常相似。字典的优点是，它是泛型。字典在`System.Collection.Generic`命名空间下定义。它本质上是动态的，意味着字典的大小是根据需要而增长的。
 
 **要点:**
 

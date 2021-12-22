@@ -1,8 +1,8 @@
-# 如何在 C#中设置 RichTextBox 的位置？
+# 如何在 C# 中设置 RichTextBox 的位置？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中 richtextbox 的位置/](https://www.geeksforgeeks.org/how-to-set-the-location-of-the-richtextbox-in-c-sharp/)
 
-在 C#中，RichTextBox 控件是一个文本框，它为您提供富文本编辑控件和高级格式功能，还包括加载富文本格式(RTF)文件。或者换句话说，RichTextBox 控件允许您显示或编辑流内容，包括段落、图像、表格等。在 RichTextBox 中，您可以使用**位置属性**设置 RichTextBox 控件在窗口表单中的位置。此属性包含 RichTextBox 控件左上角相对于其窗体左上角的坐标。您可以通过两种不同的方式设置此属性:
+在 C# 中，RichTextBox 控件是一个文本框，它为您提供富文本编辑控件和高级格式功能，还包括加载富文本格式(RTF)文件。或者换句话说，RichTextBox 控件允许您显示或编辑流内容，包括段落、图像、表格等。在 RichTextBox 中，您可以使用**位置属性**设置 RichTextBox 控件在窗口表单中的位置。此属性包含 RichTextBox 控件左上角相对于其窗体左上角的坐标。您可以通过两种不同的方式设置此属性:
 
 **1。设计时:**设置 RichTextBox 的位置是最简单的方法，如以下步骤所示:
 

@@ -1,4 +1,4 @@
-# 如何在 C#中移除 StringBuilder 中的所有字符
+# 如何在 C# 中移除 StringBuilder 中的所有字符
 
 > 原文:[https://www . geeksforgeeks . org/如何从 c-sharp 中删除所有字符/](https://www.geeksforgeeks.org/how-to-remove-all-characters-from-stringbuilder-in-c-sharp/)
 

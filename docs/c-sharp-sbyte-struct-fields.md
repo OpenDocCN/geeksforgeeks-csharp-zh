@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-sbyte-struct-fields/](https://www.geeksforgeeks.org/c-sharp-sbyte-struct-fields/)
 
-在 C#中， ***Sbyte Struct*** 位于*系统*命名空间下，该命名空间表示一个 *8 位*有符号整数。SByte 值类型代表数值范围从 *-128 到+127* 的整数。*系统中有两个字段。字节*结构如下:
+在 C# 中， ***Sbyte Struct*** 位于*系统*命名空间下，该命名空间表示一个 *8 位*有符号整数。SByte 值类型代表数值范围从 *-128 到+127* 的整数。*系统中有两个字段。字节*结构如下:
 
 *   **SByte。最大值字段***   **SByte.MinValue Field
 

@@ -1,4 +1,4 @@
-# 单身。C#中的 ToString 方法| Set–1
+# 单身。C# 中的 ToString 方法| Set–1
 
 > 原文:[https://www . geesforgeks . org/single-tostring-method-in-c-sharp-set-1/](https://www.geeksforgeeks.org/single-tostring-method-in-c-sharp-set-1/)
 

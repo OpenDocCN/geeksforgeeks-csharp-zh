@@ -1,4 +1,4 @@
-# c#中的公共语言运行时(CLR)
+# c# 中的公共语言运行时(CLR)
 
 > 原文:[https://www . geesforgeks . org/common-language-runtime-clr-in-c-sharp/](https://www.geeksforgeeks.org/common-language-runtime-clr-in-c-sharp/)
 
@@ -25,9 +25,9 @@ CLR 是 [**的基本和虚拟机组件。NET 框架**](https://www.geeksforgeeks
 
 ![](img/22efbdb00e380630ba5e77641cc567ab.png)
 
-#### CLR 在 C#程序执行中的作用
+#### CLR 在 C# 程序执行中的作用
 
-*   假设您已经编写了一个 C#程序，并将其保存在一个名为“源代码”的文件中。
+*   假设您已经编写了一个 C# 程序，并将其保存在一个名为“源代码”的文件中。
 *   语言特定编译器将源代码编译成***【MSIL】(微软中间语言)*** ，也称为***【CIL】(通用中间语言)*** 或 ***IL(中间语言)*** 及其元数据。*元数据*包括程序的所有类型、每个功能的实际实现。MSIL 是独立于机器的代码。
 *   现在 CLR 出现了。CLR 为 MSIL 代码提供服务和运行时环境。内部 CLR 包括 JIT(即时)编译器，它将 MSIL 代码转换成机器代码，由中央处理器进一步执行。CLR 还使用。NET 框架类库。元数据向 CLR 提供关于编程语言、环境、版本和类库的信息，CLR 通过这些信息处理 MSIL 代码。由于 CLR 很常见，所以它允许用不同语言编写的类的实例调用用另一种语言编写的类的方法。
 

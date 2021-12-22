@@ -1,4 +1,4 @@
-# 使用 WHERE 子句 LINQ 寻找数组中最大数的 C#程序
+# 使用 WHERE 子句 LINQ 寻找数组中最大数的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-程序查找数组中最大数-使用 where 子句-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-find-greatest-numbers-in-an-array-using-where-clause-linq/)
 

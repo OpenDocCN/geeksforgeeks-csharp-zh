@@ -1,8 +1,8 @@
-# 在 C#中将数组作为参数传递
+# 在 C# 中将数组作为参数传递
 
 > 原文:[https://www . geesforgeks . org/passing-arrays-as-arguments-in-c-sharp/](https://www.geeksforgeeks.org/passing-arrays-as-arguments-in-c-sharp/)
 
-一个 [**数组**](https://www.geeksforgeeks.org/c-sharp-arrays/) 是一个相似类型变量的集合，用一个共同的名字来指代。在 C#中，数组是引用类型，因此它可以作为参数传递给方法。方法可以修改数组元素的值。一维和多维数组都可以作为参数传递给方法。
+一个 [**数组**](https://www.geeksforgeeks.org/c-sharp-arrays/) 是一个相似类型变量的集合，用一个共同的名字来指代。在 C# 中，数组是引用类型，因此它可以作为参数传递给方法。方法可以修改数组元素的值。一维和多维数组都可以作为参数传递给方法。
 
 #### 将一维数组作为参数传递给方法
 

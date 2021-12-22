@@ -1,4 +1,4 @@
-# 类型。C#中的 GetConstructors()方法及示例
+# 类型。C# 中的 GetConstructors()方法及示例
 
 > 原文:[https://www . geesforgeks . org/type-getconstructors-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/type-getconstructors-method-in-c-sharp-with-examples/)
 

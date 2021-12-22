@@ -1,4 +1,4 @@
-# c#中的动态类型
+# c# 中的动态类型
 
 > 原文:[https://www.geeksforgeeks.org/dynamic-type-in-c-sharp/](https://www.geeksforgeeks.org/dynamic-type-in-c-sharp/)
 

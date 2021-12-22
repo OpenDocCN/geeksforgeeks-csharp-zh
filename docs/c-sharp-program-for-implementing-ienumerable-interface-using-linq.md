@@ -1,4 +1,4 @@
-# 使用 LINQ 实现可数接口的 C#程序
+# 使用 LINQ 实现可数接口的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-for-implementable-interface-use-linq/](https://www.geeksforgeeks.org/c-sharp-program-for-implementing-ienumerable-interface-using-linq/)
 

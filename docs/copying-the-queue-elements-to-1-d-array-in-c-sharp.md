@@ -1,4 +1,4 @@
-# 将队列元素复制到 C#中的一维数组中
+# 将队列元素复制到 C# 中的一维数组中
 
 > 原文:[https://www . geesforgeks . org/copy-the-queue-elements-to-1-d-array-in-c-sharp/](https://www.geeksforgeeks.org/copying-the-queue-elements-to-1-d-array-in-c-sharp/)
 

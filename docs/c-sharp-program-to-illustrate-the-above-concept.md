@@ -1,4 +1,4 @@
-# 用于层次继承的 C#程序
+# 用于层次继承的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-design-over-concept/](https://www.geeksforgeeks.org/c-sharp-program-to-illustrate-the-above-concept/)
 

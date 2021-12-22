@@ -1,4 +1,4 @@
-# 如何在 C#中找到 StringBuilder 的最大容量
+# 如何在 C# 中找到 StringBuilder 的最大容量
 
 > 原文:[https://www . geesforgeks . org/how-to-find-a-max capacity-of-stringbuilder-in-c-sharp/](https://www.geeksforgeeks.org/how-to-find-the-maxcapacity-of-a-stringbuilder-in-c-sharp/)
 

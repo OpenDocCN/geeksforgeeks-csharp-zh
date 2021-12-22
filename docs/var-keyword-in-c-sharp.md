@@ -1,4 +1,4 @@
-# c#中的 var 关键字
+# c# 中的 var 关键字
 
 > 原文:[https://www.geeksforgeeks.org/var-keyword-in-c-sharp/](https://www.geeksforgeeks.org/var-keyword-in-c-sharp/)
 

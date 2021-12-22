@@ -1,4 +1,4 @@
-# StringBuilder。C#中的复制方法
+# StringBuilder。C# 中的复制方法
 
 > 原文:[https://www . geeksforgeeks . org/stringbuilder-copy to-method-in-c-sharp/](https://www.geeksforgeeks.org/stringbuilder-copyto-method-in-c-sharp/)
 

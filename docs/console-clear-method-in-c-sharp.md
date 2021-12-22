@@ -1,4 +1,4 @@
-# 控制台。C#中的清除方法
+# 控制台。C# 中的清除方法
 
 > 原文:[https://www . geesforgeks . org/console-clear-method-in-c-sharp/](https://www.geeksforgeeks.org/console-clear-method-in-c-sharp/)
 

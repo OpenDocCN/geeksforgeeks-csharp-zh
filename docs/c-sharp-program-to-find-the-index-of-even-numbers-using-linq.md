@@ -1,4 +1,4 @@
-# 使用 LINQ 找到偶数索引的 C#程序
+# 使用 LINQ 找到偶数索引的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-查找偶数索引-使用-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-find-the-index-of-even-numbers-using-linq/)
 

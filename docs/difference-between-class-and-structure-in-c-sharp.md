@@ -1,4 +1,4 @@
-# c#中类和结构的区别
+# c# 中类和结构的区别
 
 > 原文:[https://www . geesforgeks . org/c-sharp 中类与结构的区别/](https://www.geeksforgeeks.org/difference-between-class-and-structure-in-c-sharp/)
 

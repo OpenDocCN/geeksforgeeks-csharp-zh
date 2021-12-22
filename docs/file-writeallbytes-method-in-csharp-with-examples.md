@@ -1,4 +1,4 @@
-# 文件。C#中的 WriteAllBytes()方法，示例
+# 文件。C# 中的 WriteAllBytes()方法，示例
 
 > 原文:[https://www . geesforgeks . org/file-writelbytes-method-in-csharp-with-examples/](https://www.geeksforgeeks.org/file-writeallbytes-method-in-csharp-with-examples/)
 

@@ -1,11 +1,11 @@
-# 如何在 C#中创建 4 元组或四元组？
+# 如何在 C# 中创建 4 元组或四元组？
 
 > 原文:[https://www . geeksforgeeks . org/如何在 c-sharp 中创建 4 元组或四元组/](https://www.geeksforgeeks.org/how-to-create-4-tuple-or-quadruple-in-c-sharp/)
 
-在 C#中，4 元组是包含 4 个元素的[元组](https://www.geeksforgeeks.org/c-sharp-tuple/)，也称为**四元组**。您可以使用两种不同的方法创建一个 4 元组:
+在 C# 中，4 元组是包含 4 个元素的[元组](https://www.geeksforgeeks.org/c-sharp-tuple/)，也称为**四元组**。您可以使用两种不同的方法创建一个 4 元组:
 
-*   **[使用元组< T1、T2、T3、T4 > (T1、T2、T3、T4)构造器](#Using Tuple<T1,T2,T3,T4>(T1, T2, T3, T4) Constructor)**
-*   **[使用创建方法](#Using the Create method)**
+*   **[使用元组< T1、T2、T3、T4 > (T1、T2、T3、T4)构造器](# Using Tuple<T1,T2,T3,T4>(T1, T2, T3, T4) Constructor)**
+*   **[使用创建方法](# Using the Create method)**
 
 ### **使用元组< T1、T2、T3、T4 > (T1、T2、T3、T4)构造器**
 
@@ -123,4 +123,4 @@ Element 4: 340.6
 ****参考:****
 
 *   **[https://docs.microsoft.com/en-us/dotnet/api/system.tuple-4.-克托？视图=netframework-4.8](https://docs.microsoft.com/en-us/dotnet/api/system.tuple-4.-ctor?view=netframework-4.8)**
-*   **[https://docs . Microsoft . com/en-us/dotnet/API/system . tuple . create？view = net framework-4.8 # System _ Tuple _ Create _ _ 4 _ _ 0 _ _ 1 _ _ 2 _ _ 3 _](https://docs.microsoft.com/en-us/dotnet/api/system.tuple.create?view=netframework-4.8#System_Tuple_Create__4___0___1___2___3_)**
+*   **[https://docs . Microsoft . com/en-us/dotnet/API/system . tuple . create？view = net framework-4.8 # System _ Tuple _ Create _ _ 4 _ _ 0 _ _ 1 _ _ 2 _ _ 3 _](https://docs.microsoft.com/en-us/dotnet/api/system.tuple.create?view=netframework-4.8# System_Tuple_Create__4___0___1___2___3_)**

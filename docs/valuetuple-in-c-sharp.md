@@ -1,4 +1,4 @@
-# c#中的 value tuple
+# c# 中的 value tuple
 
 > 原文:[https://www.geeksforgeeks.org/valuetuple-in-c-sharp/](https://www.geeksforgeeks.org/valuetuple-in-c-sharp/)
 
@@ -6,7 +6,7 @@ ValueTuple 是 C# 7.0 中引入的一个结构，它表示值类型 [Tuple](http
 
 #### 为什么我们需要 ValueTuple？
 
-我们在 C#中已经有了 **[元组](https://www.geeksforgeeks.org/c-sharp-tuple/)** ，用来存储多个值，但是元组有一些限制，这些限制在 ValueTuple 中是固定的。或者我们可以说 *ValueTuple 是 C#* 中元组的改进版本。它克服了元组的以下限制:
+我们在 C# 中已经有了 **[元组](https://www.geeksforgeeks.org/c-sharp-tuple/)** ，用来存储多个值，但是元组有一些限制，这些限制在 ValueTuple 中是固定的。或者我们可以说 *ValueTuple 是 C#* 中元组的改进版本。它克服了元组的以下限制:
 
 *   元组属于引用类型，但值元组属于值类型。
 *   Tuple 不提供命名约定，但是 ValueTuple 提供了强命名约定。
@@ -251,7 +251,7 @@ ValueTuple 是 C# 7.0 中引入的一个结构，它表示值类型 [Tuple](http
 
 #### 返回值元组
 
-在 C#中，您可以从方法中返回一个 ValueTuple。如下例所示，TouristDetails 方法返回一个包含 3 个元素的 ValueTuple:
+在 C# 中，您可以从方法中返回一个 ValueTuple。如下例所示，TouristDetails 方法返回一个包含 3 个元素的 ValueTuple:
 
 **示例:**
 

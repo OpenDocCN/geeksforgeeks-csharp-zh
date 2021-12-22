@@ -1,4 +1,4 @@
-# 文件。用例子替换 C#中的(字符串，字符串，字符串)方法
+# 文件。用例子替换 C# 中的(字符串，字符串，字符串)方法
 
 > 原文:[https://www . geesforgeks . org/file-replace string-string-string-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-replacestring-string-string-method-in-c-sharp-with-examples/)
 

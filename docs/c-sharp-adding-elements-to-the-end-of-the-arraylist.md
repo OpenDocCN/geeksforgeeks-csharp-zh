@@ -168,4 +168,4 @@ The new ArrayList is :
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . ArrayList . addrange？view = net framework-4 . 7 . 2 # System _ Collections _ ArrayList _ AddRange _ System _ Collections _ ICollection _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.arraylist.addrange?view=netframework-4.7.2#System_Collections_ArrayList_AddRange_System_Collections_ICollection_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . ArrayList . addrange？view = net framework-4 . 7 . 2 # System _ Collections _ ArrayList _ AddRange _ System _ Collections _ ICollection _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.arraylist.addrange?view=netframework-4.7.2# System_Collections_ArrayList_AddRange_System_Collections_ICollection_)

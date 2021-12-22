@@ -1,8 +1,8 @@
-# 隐藏在 C#中的方法
+# 隐藏在 C# 中的方法
 
 > 原文:[https://www.geeksforgeeks.org/method-hiding-in-c-sharp/](https://www.geeksforgeeks.org/method-hiding-in-c-sharp/)
 
-正如我们已经知道的多态性和 C#中的[方法覆盖](https://www.geeksforgeeks.org/c-method-overriding/)。C#还提供了一个从派生类中隐藏基类方法的概念，这个概念被称为方法隐藏。也被称为**法影**。在方法隐藏中，您可以使用 *new* 关键字从派生类中隐藏基类方法的实现。或者换句话说，在方法隐藏中，可以使用 *new* 关键字在派生类中重新定义基类的方法。
+正如我们已经知道的多态性和 C# 中的[方法覆盖](https://www.geeksforgeeks.org/c-method-overriding/)。C# 还提供了一个从派生类中隐藏基类方法的概念，这个概念被称为方法隐藏。也被称为**法影**。在方法隐藏中，您可以使用 *new* 关键字从派生类中隐藏基类方法的实现。或者换句话说，在方法隐藏中，可以使用 *new* 关键字在派生类中重新定义基类的方法。
 
 **示例:**
 

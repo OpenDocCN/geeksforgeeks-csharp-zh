@@ -1,4 +1,4 @@
-# C#程序查找姓名以“S”开头的学生名单使用 where()方法使用 LINQ 列表收集
+# C# 程序查找姓名以“S”开头的学生名单使用 where()方法使用 LINQ 列表收集
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-find-the-list-of-studies-name-开头是-s-using-where-method-list-collection-using-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-find-the-list-of-students-whose-name-starts-with-s-using-where-method-of-list-collection-using-linq/)
 

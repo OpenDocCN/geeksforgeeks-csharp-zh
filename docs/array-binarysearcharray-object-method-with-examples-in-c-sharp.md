@@ -1,4 +1,4 @@
-# 阵列。BinarySearch(数组、对象)方法，用 C#举例
+# 阵列。BinarySearch(数组、对象)方法，用 C# 举例
 
 > 原文:[https://www . geeksforgeeks . org/array-binarysearcharray-object-method-with-examples-in-c-sharp/](https://www.geeksforgeeks.org/array-binarysearcharray-object-method-with-examples-in-c-sharp/)
 
@@ -183,4 +183,4 @@ Index of 9 is: -8
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . array . binary search？view = net framework-4 . 7 . 2 # System _ Array _ binary search _ System _ Array _ System _ Object _](https://docs.microsoft.com/en-us/dotnet/api/system.array.binarysearch?view=netframework-4.7.2#System_Array_BinarySearch_System_Array_System_Object_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . array . binary search？view = net framework-4 . 7 . 2 # System _ Array _ binary search _ System _ Array _ System _ Object _](https://docs.microsoft.com/en-us/dotnet/api/system.array.binarysearch?view=netframework-4.7.2# System_Array_BinarySearch_System_Array_System_Object_)

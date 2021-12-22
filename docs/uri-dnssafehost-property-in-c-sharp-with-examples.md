@@ -1,4 +1,4 @@
-# 乌利。带有示例的 C#中的 DnsSafeHost 属性
+# 乌利。带有示例的 C# 中的 DnsSafeHost 属性
 
 > 原文:[https://www . geesforgeks . org/uri-dnssafehost-property-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/uri-dnssafehost-property-in-c-sharp-with-examples/)
 
@@ -30,7 +30,7 @@ class GFG {
   // Main Method
 public static void Main() {
     // Declaring and initializing value1
-    Uri v1 = new Uri("https://www.geeksforgeeks.org/greedy-algorithms/#standardGreedyAlgorithms");
+    Uri v1 = new Uri("https://www.geeksforgeeks.org/greedy-algorithms/# standardGreedyAlgorithms");
 
     // using DnsSafeHost property
     Console.WriteLine("Uri DnsSafeHost: " + v1.DnsSafeHost);

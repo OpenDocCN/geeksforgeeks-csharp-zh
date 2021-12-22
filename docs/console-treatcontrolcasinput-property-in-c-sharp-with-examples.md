@@ -1,4 +1,4 @@
-# 控制台。C#中的 TreatControlCAsInput 属性，带示例
+# 控制台。C# 中的 TreatControlCAsInput 属性，带示例
 
 > 原文:[https://www . geeksforgeeks . org/console-treatcontrolcasinput-property-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/console-treatcontrolcasinput-property-in-c-sharp-with-examples/)
 

@@ -1,8 +1,8 @@
-# 弦。C#中的 Split()方法，示例
+# 弦。C# 中的 Split()方法，示例
 
 > 原文:[https://www . geesforgeks . org/string-split-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/string-split-method-in-c-sharp-with-examples/)
 
-在 C#中，Split()是一个[字符串类](https://www.geeksforgeeks.org/c-sharp-string-class/)方法。Split()方法返回一个字符串数组，该数组是通过拆分原始字符串生成的，原始字符串由 Split()方法中作为参数传递的分隔符分隔。分隔符可以是字符或字符数组或字符串数组。也可以说它返回一个字符串数组，该数组包含当前实例中由指定字符串或 Unicode 字符数组的元素分隔的子字符串。
+在 C# 中，Split()是一个[字符串类](https://www.geeksforgeeks.org/c-sharp-string-class/)方法。Split()方法返回一个字符串数组，该数组是通过拆分原始字符串生成的，原始字符串由 Split()方法中作为参数传递的分隔符分隔。分隔符可以是字符或字符数组或字符串数组。也可以说它返回一个字符串数组，该数组包含当前实例中由指定字符串或 Unicode 字符数组的元素分隔的子字符串。
 该方法过载列表中有 **6 种方法**如下:
 
 | 方法 | 描述 |

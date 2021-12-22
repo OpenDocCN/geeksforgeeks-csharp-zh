@@ -1,4 +1,4 @@
-# 如何在 C#中检查索引是从开始还是结束？
+# 如何在 C# 中检查索引是从开始还是结束？
 
 > 原文:[https://www . geeksforgeeks . org/如何检查索引是从 c-sharp 中的开始还是结束/](https://www.geeksforgeeks.org/how-to-check-whether-the-index-is-from-start-or-end-in-c-sharp/)
 

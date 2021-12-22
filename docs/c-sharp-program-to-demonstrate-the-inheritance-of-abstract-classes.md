@@ -1,8 +1,8 @@
-# 演示抽象类继承的 C#程序
+# 演示抽象类继承的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-程序演示抽象类的继承/](https://www.geeksforgeeks.org/c-sharp-program-to-demonstrate-the-inheritance-of-abstract-classes/)
 
-[抽象](https://www.geeksforgeeks.org/c-sharp-abstraction/)是隐藏内部细节，只显示功能的过程。抽象关键字用在类或方法之前，将类或方法声明为抽象的。[继承](https://www.geeksforgeeks.org/c-sharp-inheritance/)是面向对象的编程方法，通过这种方法，一个类可以继承另一个类的特性(字段和方法)。在 C#中，我们还可以使用:运算符继承抽象类。
+[抽象](https://www.geeksforgeeks.org/c-sharp-abstraction/)是隐藏内部细节，只显示功能的过程。抽象关键字用在类或方法之前，将类或方法声明为抽象的。[继承](https://www.geeksforgeeks.org/c-sharp-inheritance/)是面向对象的编程方法，通过这种方法，一个类可以继承另一个类的特性(字段和方法)。在 C# 中，我们还可以使用:运算符继承抽象类。
 
 ```cs
 abstract class Abstract_class

@@ -1,4 +1,4 @@
-# 叠加。C#中的清除方法
+# 叠加。C# 中的清除方法
 
 > 原文:[https://www . geesforgeks . org/stack-clear-method-in-c-sharp/](https://www.geeksforgeeks.org/stack-clear-method-in-c-sharp/)
 

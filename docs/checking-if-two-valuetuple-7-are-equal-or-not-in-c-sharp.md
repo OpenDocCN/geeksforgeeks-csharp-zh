@@ -1,4 +1,4 @@
-# 检查两个值元组<t1>在 C#中是否相等</t1>
+# 检查两个值元组<t1>在 C# 中是否相等</t1>
 
 > 原文:[https://www . geesforgeks . org/checking-two-value tuple-7-in-c-sharp 是否相等/](https://www.geeksforgeeks.org/checking-if-two-valuetuple-7-are-equal-or-not-in-c-sharp/)
 
@@ -6,8 +6,8 @@
 
 在[值元组< T1、T2、T3、T4、T5、T6、T7>T1 中，可以使用 Equals 方法检查两个值元组是否相同。或者换句话说，我们可以说这个方法将返回一个值，该值指示给定的 ValueTuple < T1、T2、T3、T4、T5、T6、T7 >实例是否等于指定的对象。如果给定值元组相等，它将返回 true，否则返回 false。该方法可以通过两种不同的方式重载:](https://www.geeksforgeeks.org/c-sharp-valuetuple-7-struct/)
 
-1.  **[等于(ValueTuple < T1、T2、T3、T4、T5、T6、T7 >)方法](#Equals(ValueTuple<T1, T2, T3, T4, T5, T6, T7>) Method)**
-2.  **[等于(对象)法](#Equals(Object) Method)**
+1.  **[等于(ValueTuple < T1、T2、T3、T4、T5、T6、T7 >)方法](# Equals(ValueTuple<T1, T2, T3, T4, T5, T6, T7>) Method)**
+2.  **[等于(对象)法](# Equals(Object) Method)**
 
 ### 1.等于(值元组< T1、T2、T3、T4、T5、T6、T7 >)法
 

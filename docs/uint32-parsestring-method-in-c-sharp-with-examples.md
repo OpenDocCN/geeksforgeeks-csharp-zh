@@ -1,4 +1,4 @@
-# UInt32。用例子解析 C#中的(字符串)方法
+# UInt32。用例子解析 C# 中的(字符串)方法
 
 > 原文:[https://www . geesforgeks . org/uint 32-parse string-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/uint32-parsestring-method-in-c-sharp-with-examples/)
 
@@ -132,4 +132,4 @@ Exception Thrown: System.ArgumentNullException
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . uint 32 . parse？view = net framework-4 . 7 . 2 # System _ uint 32 _ Parse _ System _ String _](https://docs.microsoft.com/en-us/dotnet/api/system.uint32.parse?view=netframework-4.7.2#System_UInt32_Parse_System_String_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . uint 32 . parse？view = net framework-4 . 7 . 2 # System _ uint 32 _ Parse _ System _ String _](https://docs.microsoft.com/en-us/dotnet/api/system.uint32.parse?view=netframework-4.7.2# System_UInt32_Parse_System_String_)

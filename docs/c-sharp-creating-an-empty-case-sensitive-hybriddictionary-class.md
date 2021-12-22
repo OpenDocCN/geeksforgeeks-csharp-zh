@@ -118,4 +118,4 @@ F Fish
 
 **参考:**
 
-*   https://docs.microsoft.com/en-us/dotnet/api/system.collections.specialized.hybriddictionary.-ctor?view=netframework-4.7.2#System_Collections_Specialized_HybridDictionary__ctor
+*   https://docs.microsoft.com/en-us/dotnet/api/system.collections.specialized.hybriddictionary.-ctor?view=netframework-4.7.2# System_Collections_Specialized_HybridDictionary__ctor

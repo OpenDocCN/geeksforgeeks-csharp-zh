@@ -1,4 +1,4 @@
-# 类型。C#中的 FindInterfaces()方法，带示例
+# 类型。C# 中的 FindInterfaces()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/type-find interfaces-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/type-findinterfaces-method-in-c-sharp-with-examples/)
 

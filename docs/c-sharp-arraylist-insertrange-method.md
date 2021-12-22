@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-ArrayList-insert range-method/](https://www.geeksforgeeks.org/c-sharp-arraylist-insertrange-method/)
 
-**数组列表。C#中的 InsertRange(Int32，ICollection)方法**用于将集合中的元素插入到指定索引处的[数组列表](https://www.geeksforgeeks.org/arraylist-in-c-sharp/)中。也就是说，插入的元素属于一个集合(即队列等)。
+**数组列表。C# 中的 InsertRange(Int32，ICollection)方法**用于将集合中的元素插入到指定索引处的[数组列表](https://www.geeksforgeeks.org/arraylist-in-c-sharp/)中。也就是说，插入的元素属于一个集合(即队列等)。
 
 **语法:**
 

@@ -1,4 +1,4 @@
-# 检查两个 SortedDictionary 对象在 C#中是否相等
+# 检查两个 SortedDictionary 对象在 C# 中是否相等
 
 > 原文:[https://www . geeksforgeeks . org/check-if-two-sorted dictionary-objects-in-c-sharp-equal/](https://www.geeksforgeeks.org/check-if-two-sorteddictionary-objects-are-equal-in-c-sharp/)
 

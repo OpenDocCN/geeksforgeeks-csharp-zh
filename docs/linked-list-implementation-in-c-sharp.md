@@ -1,9 +1,9 @@
-# c#中链表的实现
+# c# 中链表的实现
 
 > 原文:[https://www . geesforgeks . org/link-list-implementation-in-c-sharp/](https://www.geeksforgeeks.org/linked-list-implementation-in-c-sharp/)
 
 一个 **[链表](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)** 是一个线性数据结构，它把元素存储在非连续的位置。链表中的元素使用指针相互链接。或者换句话说，LinkedList 由节点组成，其中每个节点都包含一个数据字段和对列表中下一个节点的引用(链接)。
-在 C#中，链表是集合的泛型类型，在**系统中定义。集合.通用**命名空间。它是一个*双链表*，因此，每个节点向前指向下一个节点，向后指向上一个节点。它是一个动态的集合，根据你的程序的需要而增长。它还提供了快速插入和移除元素。
+在 C# 中，链表是集合的泛型类型，在**系统中定义。集合.通用**命名空间。它是一个*双链表*，因此，每个节点向前指向下一个节点，向后指向上一个节点。它是一个动态的集合，根据你的程序的需要而增长。它还提供了快速插入和移除元素。
 
 ![](img/05832e37b51df18c4a56d5611293b648.png)
 

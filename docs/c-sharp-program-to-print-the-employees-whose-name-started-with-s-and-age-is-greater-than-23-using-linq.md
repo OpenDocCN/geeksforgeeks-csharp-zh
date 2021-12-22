@@ -1,4 +1,4 @@
-# 使用 LINQ 打印姓名以“S”开头且年龄大于 23 岁的员工的 C#程序
+# 使用 LINQ 打印姓名以“S”开头且年龄大于 23 岁的员工的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-print-the-employees-with-s-age-大于-23-using-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-print-the-employees-whose-name-started-with-s-and-age-is-greater-than-23-using-linq/)
 

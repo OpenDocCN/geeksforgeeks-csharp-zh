@@ -1,4 +1,4 @@
-# 如何在 C#中设置 FlowLayoutPanel 的位置？
+# 如何在 C# 中设置 FlowLayoutPanel 的位置？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的 flowlayoutpanel/](https://www.geeksforgeeks.org/how-to-set-the-location-of-the-flowlayoutpanel-in-c-sharp/)
 

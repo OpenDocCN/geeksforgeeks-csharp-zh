@@ -1,4 +1,4 @@
-# 排队。C#中的 CopyTo()方法
+# 排队。C# 中的 CopyTo()方法
 
 > 原文:[https://www . geeksforgeeks . org/queue-copy to-method-in-c-sharp/](https://www.geeksforgeeks.org/queue-copyto-method-in-c-sharp/)
 

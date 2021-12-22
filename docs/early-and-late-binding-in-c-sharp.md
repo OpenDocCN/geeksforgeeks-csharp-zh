@@ -1,8 +1,8 @@
-# c#中的早、晚结合
+# c# 中的早、晚结合
 
 > 原文:[https://www . geeksforgeeks . org/早-晚-绑定 in-c-sharp/](https://www.geeksforgeeks.org/early-and-late-binding-in-c-sharp/)
 
-当一个对象被分配给特定类型的对象变量时，C#编译器在[的帮助下执行绑定。NET 框架](https://www.geeksforgeeks.org/introduction-to-net-framework/)。C#执行两种不同类型的绑定，它们是:
+当一个对象被分配给特定类型的对象变量时，C# 编译器在[的帮助下执行绑定。NET 框架](https://www.geeksforgeeks.org/introduction-to-net-framework/)。C# 执行两种不同类型的绑定，它们是:
 
 *   **早期绑定或静态绑定***   **Late Binding or Dynamic Binding
 

@@ -1,4 +1,4 @@
-# 如何在 C#中同步访问字符串列表
+# 如何在 C# 中同步访问字符串列表
 
 > 原文:[https://www . geeksforgeeks . org/如何同步访问 c-sharp 中的 stringdictionary/](https://www.geeksforgeeks.org/how-to-get-synchronize-access-to-the-stringdictionary-in-c-sharp/)
 

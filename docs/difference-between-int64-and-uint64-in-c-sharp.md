@@ -1,4 +1,4 @@
-# c#中 Int64 和 UInt64 的区别
+# c# 中 Int64 和 UInt64 的区别
 
 > 原文:[https://www . geeksforgeeks . org/in-int 64-和-uint64-in-c-sharp/](https://www.geeksforgeeks.org/difference-between-int64-and-uint64-in-c-sharp/) 之间的差异
 
@@ -106,7 +106,7 @@ Maximum value of UInt64: 18446744073709551615
 
 ```
 
-**c#中 Int64 和 UInt64 的区别**
+**c# 中 Int64 和 UInt64 的区别**
 
 <figure class="table">
 

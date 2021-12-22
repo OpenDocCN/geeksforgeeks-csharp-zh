@@ -110,4 +110,4 @@ True
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . boolean . tostring？view = net framework-4 . 7 . 2 # System _ Boolean _ ToString](https://docs.microsoft.com/en-us/dotnet/api/system.boolean.tostring?view=netframework-4.7.2#System_Boolean_ToString)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . boolean . tostring？view = net framework-4 . 7 . 2 # System _ Boolean _ ToString](https://docs.microsoft.com/en-us/dotnet/api/system.boolean.tostring?view=netframework-4.7.2# System_Boolean_ToString)

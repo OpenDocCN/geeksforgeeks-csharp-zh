@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-char-ishitespace-method/](https://www.geeksforgeeks.org/c-sharp-char-iswhitespace-method/)
 
-在 C#中， ***Char。*** 是一个*系统。Char* 结构方法，用于检查 Unicode 字符是否为空白。空白字符包括类别*空间分隔符*、*行分隔符*、*段落分隔符*等 Unicode 字符。通过向该方法传递不同类型和数量的参数，可以重载该方法。
+在 C# 中， ***Char。*** 是一个*系统。Char* 结构方法，用于检查 Unicode 字符是否为空白。空白字符包括类别*空间分隔符*、*行分隔符*、*段落分隔符*等 Unicode 字符。通过向该方法传递不同类型和数量的参数，可以重载该方法。
 
 ***   -什么.石泰斯 pace(坦克)-什么T4【Char】。ishitespace(String，Int32)方法**
 

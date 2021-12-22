@@ -1,11 +1,11 @@
-# 如何在 C#中创建七元组或七元组？
+# 如何在 C# 中创建七元组或七元组？
 
 > 原文:[https://www . geeksforgeeks . org/如何创建 7 元组或 c-sharp 中的七元组/](https://www.geeksforgeeks.org/how-to-create-7-tuple-or-septuple-in-c-sharp/)
 
-在 C#中，7 元组是包含 7 个元素的[元组](https://www.geeksforgeeks.org/c-sharp-tuple/)，也称为**七元组**。您可以使用两种不同的方法创建一个 7 元组:
+在 C# 中，7 元组是包含 7 个元素的[元组](https://www.geeksforgeeks.org/c-sharp-tuple/)，也称为**七元组**。您可以使用两种不同的方法创建一个 7 元组:
 
-*   **[使用元组< T1、T2、T3、T4、T5、T6、T7 > (T1、T2、T3、T4、T5、T6、T7)构造器](#Using Tuple<T1,T2,T3,T4,T5,T6,T7>(T1, T2, T3, T4, T5, T6, T7) Constructor)**
-*   **[使用创建方法](#Using the Create method)**
+*   **[使用元组< T1、T2、T3、T4、T5、T6、T7 > (T1、T2、T3、T4、T5、T6、T7)构造器](# Using Tuple<T1,T2,T3,T4,T5,T6,T7>(T1, T2, T3, T4, T5, T6, T7) Constructor)**
+*   **[使用创建方法](# Using the Create method)**
 
 ### **使用元组< T1、T2、T3、T4、T5、T6、T7 > (T1、T2、T3、T4、T5、T6、T7)构造器**
 
@@ -145,4 +145,4 @@ Element 7: Python
 ****参考:****
 
 *   **[https://docs.microsoft.com/en-us/dotnet/api/system.tuple-7.-克托？视图=netframework-4.8](https://docs.microsoft.com/en-us/dotnet/api/system.tuple-7.-ctor?view=netframework-4.8)**
-*   **[https://docs . Microsoft . com/en-us/dotnet/API/system . tuple . create？view = net framework-4.8 # System _ Tuple _ Create _ _ 7 _ _ 0 _ _ 1 _ _ 2 _ _ 3 _ _ 4 _ _ 5 _ _ 6 _](https://docs.microsoft.com/en-us/dotnet/api/system.tuple.create?view=netframework-4.8#System_Tuple_Create__7___0___1___2___3___4___5___6_)**
+*   **[https://docs . Microsoft . com/en-us/dotnet/API/system . tuple . create？view = net framework-4.8 # System _ Tuple _ Create _ _ 7 _ _ 0 _ _ 1 _ _ 2 _ _ 3 _ _ 4 _ _ 5 _ _ 6 _](https://docs.microsoft.com/en-us/dotnet/api/system.tuple.create?view=netframework-4.8# System_Tuple_Create__7___0___1___2___3___4___5___6_)**

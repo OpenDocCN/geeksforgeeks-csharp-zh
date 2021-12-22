@@ -1,4 +1,4 @@
-# 用 C#打印新行的程序
+# 用 C# 打印新行的程序
 
 > 原文:[https://www . geesforgeks . org/program-to-print-a-new-line-in-c-sharp/](https://www.geeksforgeeks.org/program-to-print-a-new-line-in-c-sharp/)
 

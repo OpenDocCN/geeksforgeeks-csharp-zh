@@ -1,17 +1,17 @@
-# C#决策(if，if-else，if-else-if 阶梯，嵌套 if，开关，嵌套开关)
+# C# 决策(if，if-else，if-else-if 阶梯，嵌套 if，开关，嵌套开关)
 
 > 原文:[https://www . geesforgeks . org/c-sharp-决策-else-else-梯形-嵌套-开关-嵌套-开关/](https://www.geeksforgeeks.org/c-sharp-decision-making-else-else-ladder-nested-switch-nested-switch/)
 
 编程中的决策类似于现实生活中的决策。同样在编程中，当某些条件得到满足时，需要执行特定的代码块。
 一种编程语言根据一定的条件，使用控制语句来控制程序的执行流程。这些用于使执行流程前进，并根据程序状态的变化进行转移。
-**c#的条件语句:**
+**c# 的条件语句:**
 
-*   [如果](#if)
-*   [如果-否则](#ifelse)
-*   [if-else-if](#ifelseif)
-*   [嵌套 if](#nested)
-*   [开关](#switch)
-*   [嵌套开关](#nestedswitch)
+*   [如果](# if)
+*   [如果-否则](# ifelse)
+*   [if-else-if](# ifelseif)
+*   [嵌套 if](# nested)
+*   [开关](# switch)
+*   [嵌套开关](# nestedswitch)
 
 **IF 语句**
 IF 语句检查给定的条件。如果条件评估为真，则代码/语句块将执行，否则不执行。
@@ -291,7 +291,7 @@ case 30
 ```
 
 **嵌套开关**
-嵌套开关在 C#中是允许的。在这种情况下，开关存在于其他开关盒内。内部开关出现在父开关的一种情况下。
+嵌套开关在 C# 中是允许的。在这种情况下，开关存在于其他开关盒内。内部开关出现在父开关的一种情况下。
 **例:**
 
 ## c sharp . c sharp . c sharp . c sharp

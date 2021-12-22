@@ -1,4 +1,4 @@
-# 如何在 C#中找到字符串生成器的容量
+# 如何在 C# 中找到字符串生成器的容量
 
 > 原文:[https://www . geeksforgeeks . org/如何找到 c-sharp 中字符串构建器的容量/](https://www.geeksforgeeks.org/how-to-find-the-capacity-of-a-stringbuilder-in-c-sharp/)
 

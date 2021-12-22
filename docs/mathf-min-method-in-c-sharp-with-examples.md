@@ -1,8 +1,8 @@
-# MathF。C#中的 Min()方法，示例
+# MathF。C# 中的 Min()方法，示例
 
 > 原文:[https://www . geesforgeks . org/mathf-min-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-min-method-in-c-sharp-with-examples/)
 
-在 C#中， ***Min(Single，Single)*** 是一个 MathF 类方法，用于返回两个指定数字的最小值。
+在 C# 中， ***Min(Single，Single)*** 是一个 MathF 类方法，用于返回两个指定数字的最小值。
 
 > **语法:**公共静态 float Min (float x，float y)；
 > 这里，x 和 y 是比较的两个浮点数。

@@ -1,4 +1,4 @@
-# 乌利。C#中的 HexUnescape()方法及示例
+# 乌利。C# 中的 HexUnescape()方法及示例
 
 > 原文:[https://www . geeksforgeeks . org/uri-hexunescape-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/uri-hexunescape-method-in-c-sharp-with-examples/)
 

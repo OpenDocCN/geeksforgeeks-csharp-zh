@@ -1,4 +1,4 @@
-# 使用环境类检查运行进程是否为 64 位进程的 C#程序
+# 使用环境类检查运行进程是否为 64 位进程的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-check-running-process-is-64 位-process-or-not-use-environment-class/](https://www.geeksforgeeks.org/c-sharp-program-to-check-whether-running-process-is-64-bit-process-or-not-using-environment-class/)
 

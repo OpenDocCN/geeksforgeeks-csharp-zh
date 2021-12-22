@@ -1,4 +1,4 @@
-# 控制台。C#中的 OpenStandardError 方法
+# 控制台。C# 中的 OpenStandardError 方法
 
 > 原文:[https://www . geesforgeks . org/console-open standard error-method-in-c-sharp/](https://www.geeksforgeeks.org/console-openstandarderror-method-in-c-sharp/)
 
@@ -64,4 +64,4 @@ class GFG {
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . console . open standard error？视图=网络框架-4.8 #系统 _ 控制台 _ 开放标准错误](https://docs.microsoft.com/en-us/dotnet/api/system.console.openstandarderror?view=netframework-4.8#System_Console_OpenStandardError)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . console . open standard error？视图=网络框架-4.8 # 系统 _ 控制台 _ 开放标准错误](https://docs.microsoft.com/en-us/dotnet/api/system.console.openstandarderror?view=netframework-4.8# System_Console_OpenStandardError)

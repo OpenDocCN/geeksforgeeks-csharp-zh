@@ -1,8 +1,8 @@
-# 如何在 C#中设置 RichTextBox 的背景色？
+# 如何在 C# 中设置 RichTextBox 的背景色？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中 richtextbox 的背景颜色/](https://www.geeksforgeeks.org/how-to-set-the-background-color-of-the-richtextbox-in-c-sharp/)
 
-在 C#中，RichTextBox 控件是一个文本框，它为您提供富文本编辑控件和高级格式功能，还包括加载富文本格式(RTF)文件。或者换句话说，RichTextBox 控件允许您显示或编辑流内容，包括段落、图像、表格等。在 RichTextBox 中，您可以使用 **BackColor Property** 更改 RichTextBox 控件的背景颜色，这将使您的 RichTextBox 控件更有吸引力。您可以通过两种不同的方式设置此属性:
+在 C# 中，RichTextBox 控件是一个文本框，它为您提供富文本编辑控件和高级格式功能，还包括加载富文本格式(RTF)文件。或者换句话说，RichTextBox 控件允许您显示或编辑流内容，包括段落、图像、表格等。在 RichTextBox 中，您可以使用 **BackColor Property** 更改 RichTextBox 控件的背景颜色，这将使您的 RichTextBox 控件更有吸引力。您可以通过两种不同的方式设置此属性:
 
 **1。设计时:**设置 RichTextBox 的背景色最简单的方法，如下步骤所示:
 

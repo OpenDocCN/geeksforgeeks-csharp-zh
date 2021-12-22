@@ -1,8 +1,8 @@
-# c#中的委托与接口
+# c# 中的委托与接口
 
 > 原文:[https://www . geesforgeks . org/delegates-vs-interfaces-in-c-sharp/](https://www.geeksforgeeks.org/delegates-vs-interfaces-in-c-sharp/)
 
-一个 [**委托**](https://www.geeksforgeeks.org/c-sharp-delegates/) 是一个引用方法的对象，或者你可以说它是一个引用类型变量，可以保存对方法的引用。C#中的委托类似于 C/C++ 中的[函数指针。它提供了一种方法，告诉在事件被触发时调用哪个方法。](https://www.geeksforgeeks.org/function-pointer-in-c/)
+一个 [**委托**](https://www.geeksforgeeks.org/c-sharp-delegates/) 是一个引用方法的对象，或者你可以说它是一个引用类型变量，可以保存对方法的引用。C# 中的委托类似于 C/C++ 中的[函数指针。它提供了一种方法，告诉在事件被触发时调用哪个方法。](https://www.geeksforgeeks.org/function-pointer-in-c/)
 
 **示例:**
 
@@ -90,7 +90,7 @@ Welcome to GeeksforGeeks..!
 
 ```
 
-**下面是 C#中委托和接口的一些区别:**
+**下面是 C# 中委托和接口的一些区别:**
 
 | **委托** | **界面** |
 | --- | --- |

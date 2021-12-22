@@ -1,4 +1,4 @@
-# 叠加。是 C#中的同步属性
+# 叠加。是 C# 中的同步属性
 
 > 原文:[https://www . geesforgeks . org/stack-is synchronized-property-in-c-sharp/](https://www.geeksforgeeks.org/stack-issynchronized-property-in-c-sharp/)
 

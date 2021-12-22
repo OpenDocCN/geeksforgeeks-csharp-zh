@@ -1,10 +1,10 @@
-# 如何用 C#读写文本文件？
+# 如何用 C# 读写文本文件？
 
 > 原文:[https://www . geesforgeks . org/如何读写 c-sharp 中的文本文件/](https://www.geeksforgeeks.org/how-to-read-and-write-a-text-file-in-c-sharp/)
 
-程序的终止会导致所有与之相关的数据被删除。因此，我们需要将数据存储在某个地方。文件用于永久存储和共享数据。C#可用于检索和操作存储在文本文件中的数据。
+程序的终止会导致所有与之相关的数据被删除。因此，我们需要将数据存储在某个地方。文件用于永久存储和共享数据。C# 可用于检索和操作存储在文本文件中的数据。
 
-**读取文本文件:**c#中的文件类定义了两种读取文本文件的静态方法，即*文件。ReadAllText()* 和*文件。ReadAllLines()* 。
+**读取文本文件:**c# 中的文件类定义了两种读取文本文件的静态方法，即*文件。ReadAllText()* 和*文件。ReadAllLines()* 。
 
 *   文件。ReadAllText()一次读取整个文件并返回一个字符串。我们需要将这个字符串存储在一个变量中，并使用它在屏幕上显示内容。
 *   文件。ReadAllLines()一次读取一行文件，并以字符串格式返回该行。我们需要一个字符串数组来存储每一行。我们使用相同的字符串数组显示文件的内容。
@@ -71,9 +71,9 @@ class Program {
 
 **输出:**
 
-![reading text file in C#](img/4e55686570af4859c22c7fd8f50afc0d.png)
+![reading text file in C# ](img/4e55686570af4859c22c7fd8f50afc0d.png)
 
-**编写文本文件:**c#中的 File 类定义了两种静态的方法来编写文本文件，即*文件。writeltext()*和*文件。writellines()*。
+**编写文本文件:**c# 中的 File 类定义了两种静态的方法来编写文本文件，即*文件。writeltext()*和*文件。writellines()*。
 
 *   文件。WriteAllText()一次写入整个文件。它需要两个参数，文件的路径和必须写入的文本。
 *   文件。WriteAllLines()一次写一行文件。它需要两个参数，文件的路径和必须写入的文本，这是一个字符串数组。
@@ -134,7 +134,7 @@ class Program {
 
 **输出:**
 
-![writing a file in C#](img/889f54b51196ac9fae9b1b73c974ffe6.png)
+![writing a file in C# ](img/889f54b51196ac9fae9b1b73c974ffe6.png)
 
 如果您想在现有文件中添加更多文本而不覆盖已经存储在其中的数据，可以使用 System.IO 的 file 类提供的追加方法
 
@@ -165,4 +165,4 @@ class Program {
 
 **输出:**
 
-![appending text in a file in C#](img/17e7c8912375b6aa2b6dff39f74c8e68.png)
+![appending text in a file in C# ](img/17e7c8912375b6aa2b6dff39f74c8e68.png)

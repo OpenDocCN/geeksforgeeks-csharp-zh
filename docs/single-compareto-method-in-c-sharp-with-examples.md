@@ -1,4 +1,4 @@
-# 单身。将 C#中的()方法与示例进行比较
+# 单身。将 C# 中的()方法与示例进行比较
 
 > 原文:[https://www . geeksforgeeks . org/single-compare to-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/single-compareto-method-in-c-sharp-with-examples/)
 

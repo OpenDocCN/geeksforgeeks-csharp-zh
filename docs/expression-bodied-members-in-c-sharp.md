@@ -1,4 +1,4 @@
-# c#中的表达体成员
+# c# 中的表达体成员
 
 > 原文:[https://www . geesforgeks . org/expression-body-members-in-c-sharp/](https://www.geeksforgeeks.org/expression-bodied-members-in-c-sharp/)
 
@@ -6,7 +6,7 @@
 
 ### 表达体方法
 
-在 C#中，[方法](https://www.geeksforgeeks.org/c-sharp-methods/)是执行给定任务并将结果返回给调用者的语句的集合。通常，方法最终只包含一条语句。例如，考虑以下代码:
+在 C# 中，[方法](https://www.geeksforgeeks.org/c-sharp-methods/)是执行给定任务并将结果返回给调用者的语句的集合。通常，方法最终只包含一条语句。例如，考虑以下代码:
 
 ```cs
 int GetRectangleArea(int length, int breadth) 

@@ -1,10 +1,10 @@
-# 在 C#中列出 FindLastIndex()方法| Set -2
+# 在 C# 中列出 FindLastIndex()方法| Set -2
 
 > 原文:[https://www . geesforgeks . org/list-findlastindex-method-in-c-sharp-set-2/](https://www.geeksforgeeks.org/list-findlastindex-method-in-c-sharp-set-2/)
 
 此方法用于搜索与指定谓词定义的条件相匹配的元素，并返回列表中最后一次出现的从零开始的索引<t>或其一部分。该方法的重载列表中有 3 种方法:</t>
 
-*   **[查找最后索引(谓词< T >)方法](https://www.geeksforgeeks.org/list-findlastindex-method-in-c-sharp-set-1/)***   **[查找最后索引(Int32，谓词< T >)方法](#2nd)***   **[FindLastIndex(Int32, Int32, Predicate<T>) Method](#3rd)
+*   **[查找最后索引(谓词< T >)方法](https://www.geeksforgeeks.org/list-findlastindex-method-in-c-sharp-set-1/)***   **[查找最后索引(Int32，谓词< T >)方法](# 2nd)***   **[FindLastIndex(Int32, Int32, Predicate<T>) Method](# 3rd)
 
     在这里，我们将只讨论最后两种方法。
 

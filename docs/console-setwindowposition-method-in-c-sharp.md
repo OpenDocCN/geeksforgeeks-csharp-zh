@@ -1,8 +1,8 @@
-# 控制台。C#中的 SetWindowPosition()方法
+# 控制台。C# 中的 SetWindowPosition()方法
 
 > 原文:[https://www . geesforgeks . org/console-setwindowposition-method-in-c-sharp/](https://www.geeksforgeeks.org/console-setwindowposition-method-in-c-sharp/)
 
-**控制台。C#中的 SetWindowPosition(Int32，Int32)方法**用于设置控制台窗口相对于屏幕缓冲区的位置。
+**控制台。C# 中的 SetWindowPosition(Int32，Int32)方法**用于设置控制台窗口相对于屏幕缓冲区的位置。
 
 > **语法:**公共静态 void SetWindowposition(int left，int top)；
 > 

@@ -1,4 +1,4 @@
-# 如何在 C#中为 ToolTip 设置自动延迟？
+# 如何在 C# 中为 ToolTip 设置自动延迟？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置-自动-延迟-c-sharp 中的工具提示/](https://www.geeksforgeeks.org/how-to-set-automatic-delay-for-tooltip-in-c-sharp/)
 

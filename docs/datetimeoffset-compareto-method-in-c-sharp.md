@@ -1,4 +1,4 @@
-# DateTimeOffset。C#中的 CompareTo()方法
+# DateTimeOffset。C# 中的 CompareTo()方法
 
 > 原文:[https://www . geeksforgeeks . org/datetimeoffset-compare to-method-in-c-sharp/](https://www.geeksforgeeks.org/datetimeoffset-compareto-method-in-c-sharp/)
 

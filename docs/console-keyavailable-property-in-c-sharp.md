@@ -1,4 +1,4 @@
-# 控制台。C#中的 KeyAvailable()属性
+# 控制台。C# 中的 KeyAvailable()属性
 
 > 原文:[https://www . geesforgeks . org/console-keyavailable-property-in-c-sharp/](https://www.geeksforgeeks.org/console-keyavailable-property-in-c-sharp/)
 

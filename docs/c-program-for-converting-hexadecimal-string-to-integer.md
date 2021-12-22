@@ -1,4 +1,4 @@
-# 将十六进制字符串转换为整数的 C#程序
+# 将十六进制字符串转换为整数的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-用于将十六进制字符串转换为整数的程序/](https://www.geeksforgeeks.org/c-program-for-converting-hexadecimal-string-to-integer/)
 

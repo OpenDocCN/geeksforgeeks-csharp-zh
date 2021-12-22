@@ -1,4 +1,4 @@
-# 叠加。C#中的 ToString()方法，带示例
+# 叠加。C# 中的 ToString()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/stack-tostring-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/stack-tostring-method-in-c-sharp-with-examples/)
 

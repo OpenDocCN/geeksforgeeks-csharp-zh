@@ -1,4 +1,4 @@
-# 使用环境类获取机器名或主机名的 C#程序
+# 使用环境类获取机器名或主机名的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-get-machine-name-or-host-name-use-environment-class/](https://www.geeksforgeeks.org/c-sharp-program-to-get-the-machine-name-or-host-name-using-environment-class/)
 

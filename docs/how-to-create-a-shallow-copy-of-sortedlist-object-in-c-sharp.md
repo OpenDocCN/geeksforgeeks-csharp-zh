@@ -1,4 +1,4 @@
-# 如何在 C#中创建 SortedList 对象的浅拷贝
+# 如何在 C# 中创建 SortedList 对象的浅拷贝
 
 > 原文:[https://www . geeksforgeeks . org/如何创建 c-sharp 中的 sortedlist 对象的浅拷贝/](https://www.geeksforgeeks.org/how-to-create-a-shallow-copy-of-sortedlist-object-in-c-sharp/)
 

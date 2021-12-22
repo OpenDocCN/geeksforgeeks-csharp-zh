@@ -1,4 +1,4 @@
-# UInt32。C#中的最大值字段，示例
+# UInt32。C# 中的最大值字段，示例
 
 > 原文:[https://www . geesforgeks . org/uint 32-max value-field-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/uint32-maxvalue-field-in-c-sharp-with-examples/)
 

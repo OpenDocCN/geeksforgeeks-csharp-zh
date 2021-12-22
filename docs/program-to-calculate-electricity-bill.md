@@ -44,7 +44,7 @@
 ```cs
 // C++ implementation to calculate the
 // electricity bill
-#include<bits/stdc++.h>
+# include<bits/stdc++.h>
 using namespace std;
 
 // Function to calculate the

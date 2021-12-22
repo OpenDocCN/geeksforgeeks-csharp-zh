@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/what-is-wpf/](https://www.geeksforgeeks.org/what-is-wpf/)
 
-视窗演示基金会(WPF)是一个用于创建桌面应用程序的开发框架。它是[的一部分。NET 框架](https://www.geeksforgeeks.org/introduction-to-net-framework/)。WPF 有一个独立于分辨率和基于矢量的渲染引擎，有助于处理现代图形硬件。WPF 的最新版本是 *4.6* 。在这个框架中，应用程序的用户界面用 XAML 语言设计，应用程序逻辑用 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 编程语言编写。
+视窗演示基金会(WPF)是一个用于创建桌面应用程序的开发框架。它是[的一部分。NET 框架](https://www.geeksforgeeks.org/introduction-to-net-framework/)。WPF 有一个独立于分辨率和基于矢量的渲染引擎，有助于处理现代图形硬件。WPF 的最新版本是 *4.6* 。在这个框架中，应用程序的用户界面用 XAML 语言设计，应用程序逻辑用 [C# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 编程语言编写。
 
 ***WPF 的特点如下:***
 

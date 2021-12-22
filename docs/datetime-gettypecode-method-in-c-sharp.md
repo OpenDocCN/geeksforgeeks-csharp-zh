@@ -1,4 +1,4 @@
-# 日期时间。C#中的 GetTypeCode()方法
+# 日期时间。C# 中的 GetTypeCode()方法
 
 > 原文:[https://www . geesforgeks . org/datetime-gettypecode-method-in-c-sharp/](https://www.geeksforgeeks.org/datetime-gettypecode-method-in-c-sharp/)
 

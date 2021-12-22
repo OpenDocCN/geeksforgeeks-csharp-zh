@@ -155,4 +155,4 @@ E
 
 **参考:**
 
-[https://docs . Microsoft . com/en-us/dotnet/API/system . collections . generic . linked list-1 . remove？view = net framework-4 . 7 . 2 # System _ Collections _ Generic _ LinkedList _ 1 _ Remove _ System _ Collections _ Generic _ LinkedListNode _ 0 _ _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.linkedlist-1.remove?view=netframework-4.7.2#System_Collections_Generic_LinkedList_1_Remove_System_Collections_Generic_LinkedListNode__0__)
+[https://docs . Microsoft . com/en-us/dotnet/API/system . collections . generic . linked list-1 . remove？view = net framework-4 . 7 . 2 # System _ Collections _ Generic _ LinkedList _ 1 _ Remove _ System _ Collections _ Generic _ LinkedListNode _ 0 _ _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.linkedlist-1.remove?view=netframework-4.7.2# System_Collections_Generic_LinkedList_1_Remove_System_Collections_Generic_LinkedListNode__0__)

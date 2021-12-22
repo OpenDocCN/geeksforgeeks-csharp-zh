@@ -1,10 +1,10 @@
-# c#中的十进制关键字
+# c# 中的十进制关键字
 
 > 原文:[https://www.geeksforgeeks.org/decimal-keyword-in-c-sharp/](https://www.geeksforgeeks.org/decimal-keyword-in-c-sharp/)
 
 **[关键词](https://www.geeksforgeeks.org/c-sharp-keywords/)** 是一种语言中用于某种内部过程或代表某种预定义动作的词语。
 
-**[decimal](https://www.geeksforgeeks.org/c-sharp-data-types/#:~:text=Decimal%20Types%20%3A%20The%20decimal%20type,decimal%20x%20%3D%20300.5m%3B.)** 是一个关键字，用于声明一个变量，该变量可以存储 1.0×10<sup>-28</sup>到 7.9228×10<sup>28</sup>范围内的浮动类型值。是**系统的别名。十进制**在内存中占据 16 个字节(128 位)。
+**[decimal](https://www.geeksforgeeks.org/c-sharp-data-types/# :~:text=Decimal%20Types%20%3A%20The%20decimal%20type,decimal%20x%20%3D%20300.5m%3B.)** 是一个关键字，用于声明一个变量，该变量可以存储 1.0×10<sup>-28</sup>到 7.9228×10<sup>28</sup>范围内的浮动类型值。是**系统的别名。十进制**在内存中占据 16 个字节(128 位)。
 
 **语法:**
 

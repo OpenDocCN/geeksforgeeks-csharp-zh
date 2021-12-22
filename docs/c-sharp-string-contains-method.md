@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-string-contains-method/](https://www.geeksforgeeks.org/c-sharp-string-contains-method/)
 
-在 C#中， ***字符串。*包含()**是一个字符串方法。此方法用于检查子字符串是否出现在给定的字符串中。
+在 C# 中， ***字符串。*包含()**是一个字符串方法。此方法用于检查子字符串是否出现在给定的字符串中。
 
 **语法:**
 

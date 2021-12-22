@@ -1,4 +1,4 @@
-# 排序数组中天花板的 C#程序
+# 排序数组中天花板的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/cs harp-program-for-child-in-a-sorted-array/](https://www.geeksforgeeks.org/csharp-program-for-ceiling-in-a-sorted-array/)
 

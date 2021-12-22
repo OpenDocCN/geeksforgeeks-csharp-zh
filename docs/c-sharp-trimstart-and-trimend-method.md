@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-trim start-and-trimend-method/](https://www.geeksforgeeks.org/c-sharp-trimstart-and-trimend-method/)
 
-#### 先决条件:[c#中的 Trim()方法](https://www.geeksforgeeks.org/c-trim-method/)
+#### 先决条件:[c# 中的 Trim()方法](https://www.geeksforgeeks.org/c-trim-method/)
 
 在[**c#**](https://www.geeksforgeeks.org/introduction-to-c-sharp/)***TrimStart()***&***TrimEnd()***都是这种串法。 **TrimStart()** 方法用于从当前字符串对象的**开始删除数组中指定的一组字符的出现。 **TrimEnd()** 方法用于从当前字符串对象的**结尾**中删除数组中指定的一组字符的出现。**
 

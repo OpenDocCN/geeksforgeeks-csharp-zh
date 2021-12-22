@@ -1,4 +1,4 @@
-# MathF。C#中的 Cbrt()方法，带示例
+# MathF。C# 中的 Cbrt()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/mathf-cbrt-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-cbrt-method-in-c-sharp-with-examples/)
 

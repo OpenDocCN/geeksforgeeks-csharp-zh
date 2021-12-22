@@ -1,4 +1,4 @@
-# 如何在 C#中设置 NumericUpDown 中的最大值？
+# 如何在 C# 中设置 NumericUpDown 中的最大值？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的最大数值/](https://www.geeksforgeeks.org/how-to-set-maximum-value-in-numericupdown-in-c-sharp/)
 

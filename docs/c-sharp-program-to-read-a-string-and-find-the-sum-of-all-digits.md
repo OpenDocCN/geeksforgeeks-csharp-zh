@@ -1,4 +1,4 @@
-# C#程序读取字符串并求所有数字的和
+# C# 程序读取字符串并求所有数字的和
 
 > 原文:[https://www . geesforgeks . org/c-sharp-程序读取字符串并查找所有数字的总和/](https://www.geeksforgeeks.org/c-sharp-program-to-read-a-string-and-find-the-sum-of-all-digits/)
 

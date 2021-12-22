@@ -1,9 +1,9 @@
-# c#中的按钮
+# c# 中的按钮
 
 > 原文:[https://www.geeksforgeeks.org/button-in-c-sharp/](https://www.geeksforgeeks.org/button-in-c-sharp/)
 
 按钮是应用程序、软件或网页的重要组成部分。它允许用户与应用程序或软件交互。例如，如果用户希望退出当前应用程序，他/她可以点击退出按钮关闭应用程序。它可以用来执行许多操作，如提交、上传、下载等。根据你的程序的要求。它可以有不同的形状、大小、颜色等。您可以在不同的应用程序中重用它们。在[中。NET Framework](https://www.geeksforgeeks.org/introduction-to-net-framework/) ，按钮类用于表示窗口按钮控件，继承自*按钮基类*。在*系统下定义。Windows.Forms* 命名空间。
-在 C#中，可以通过两种不同的方式在 windows 窗体上创建按钮:
+在 C# 中，可以通过两种不同的方式在 windows 窗体上创建按钮:
 **1。设计时:**创建按钮是最简单的方法。使用以下步骤:
 
 *   **第一步:**创建如下图所示的 windows 窗体:

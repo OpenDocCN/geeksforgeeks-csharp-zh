@@ -1,4 +1,4 @@
-# 生成学生成绩单的 C#程序
+# 生成学生成绩单的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-generate-marksheet-of-student/](https://www.geeksforgeeks.org/c-sharp-program-to-generate-marksheet-of-student/)
 

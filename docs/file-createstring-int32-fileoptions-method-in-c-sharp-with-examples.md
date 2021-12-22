@@ -1,4 +1,4 @@
-# 文件。在 C#中创建(字符串、Int32、文件选项)方法，并举例
+# 文件。在 C# 中创建(字符串、Int32、文件选项)方法，并举例
 
 > 原文:[https://www . geesforgeks . org/file-createstring-int 32-file options-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-createstring-int32-fileoptions-method-in-c-sharp-with-examples/)
 

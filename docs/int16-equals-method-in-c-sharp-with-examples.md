@@ -1,4 +1,4 @@
-# Int16。C#中的 Equals 方法及示例
+# Int16。C# 中的 Equals 方法及示例
 
 > 原文:[https://www . geesforgeks . org/int 16-equals-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/int16-equals-method-in-c-sharp-with-examples/)
 

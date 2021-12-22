@@ -1,4 +1,4 @@
-# 使用时间跨度方法获取明天日期的 C#程序
+# 使用时间跨度方法获取明天日期的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-get-tomorrow-date-use-timespan-method/](https://www.geeksforgeeks.org/c-sharp-program-to-get-tomorrows-date-using-timespan-method/)
 

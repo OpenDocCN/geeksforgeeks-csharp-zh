@@ -1,4 +1,4 @@
-# 小数。C#中的 GetTypeCode 方法及示例
+# 小数。C# 中的 GetTypeCode 方法及示例
 
 > 原文:[https://www . geesforgeks . org/decimal-gettypecode-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/decimal-gettypecode-method-in-c-sharp-with-examples/)
 

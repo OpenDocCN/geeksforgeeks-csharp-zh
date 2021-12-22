@@ -1,4 +1,4 @@
-# 面向阵列中领导者的 C#程序
+# 面向阵列中领导者的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/cs harp-面向阵列领导者的计划/](https://www.geeksforgeeks.org/csharp-program-for-leaders-in-an-array/)
 

@@ -164,4 +164,4 @@ E
 **注意:**此方法执行线性搜索。因此，此方法为 O(n)运算，其中 n 为**计数**。
 
 **参考:**
-[https://docs . Microsoft . com/en-us/dotnet/API/system . collections . generic . linked list-1 . remove？view = net framework-4 . 7 . 2 # System _ Collections _ Generic _ LinkedList _ 1 _ Remove _ 0 _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.linkedlist-1.remove?view=netframework-4.7.2#System_Collections_Generic_LinkedList_1_Remove__0_)
+[https://docs . Microsoft . com/en-us/dotnet/API/system . collections . generic . linked list-1 . remove？view = net framework-4 . 7 . 2 # System _ Collections _ Generic _ LinkedList _ 1 _ Remove _ 0 _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.linkedlist-1.remove?view=netframework-4.7.2# System_Collections_Generic_LinkedList_1_Remove__0_)

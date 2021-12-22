@@ -1,8 +1,8 @@
-# c#中方法参数可选的不同方式
+# c# 中方法参数可选的不同方式
 
 > 原文:[https://www . geesforgeks . org/differential-way-to-make-method-parameter-optional-in-c-sharp/](https://www.geeksforgeeks.org/different-ways-to-make-method-parameter-optional-in-c-sharp/)
 
-顾名思义，可选参数不是强制参数，它们是可选的。它有助于排除某些参数的参数。或者我们可以说在可选参数中，没有必要传递方法中的所有参数。这个概念是在 C# 4.0 中引入的。这里我们讨论实现可选参数的不同方法。在 C#中，有 **4** 种不同类型的可选参数实现，如下所示:
+顾名思义，可选参数不是强制参数，它们是可选的。它有助于排除某些参数的参数。或者我们可以说在可选参数中，没有必要传递方法中的所有参数。这个概念是在 C# 4.0 中引入的。这里我们讨论实现可选参数的不同方法。在 C# 中，有 **4** 种不同类型的可选参数实现，如下所示:
 
 1.  **By using default value:** You can implement optional parameters by using default value. It is the simplest and easiest way to implement the optional parameter. In this way, you just simply define the optional parameters with their default value in the method definition. And always remember the optional parameter is the last parameter in the parameter list of the method. In default value method, when you do not pass the value of the optional parameters, then the optional parameters use their default value and when you pass the parameters for optional parameters, then they will take the passed value not their default value.
 

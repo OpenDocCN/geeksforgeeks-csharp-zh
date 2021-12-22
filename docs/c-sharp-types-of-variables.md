@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-types-of-variables/](https://www.geeksforgeeks.org/c-sharp-types-of-variables/)
 
-一个[变量](https://www.geeksforgeeks.org/c-variables/)是一个内存位置的名称，对该变量所做的所有操作都会影响该内存位置。在 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中，所有的变量都必须声明后才能使用。它是程序中的基本存储单元。存储在变量中的值可以在程序执行过程中更改。
+一个[变量](https://www.geeksforgeeks.org/c-variables/)是一个内存位置的名称，对该变量所做的所有操作都会影响该内存位置。在 [C# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中，所有的变量都必须声明后才能使用。它是程序中的基本存储单元。存储在变量中的值可以在程序执行过程中更改。
 
 ### 变量的类型
 

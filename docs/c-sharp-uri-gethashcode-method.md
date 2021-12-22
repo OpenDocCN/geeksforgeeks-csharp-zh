@@ -24,7 +24,7 @@ class GFG {
     public static void Main()
     {
         // Declaring and initializing address1
-        string address1 = "http://www.contoso.com/index.htm#search";
+        string address1 = "http://www.contoso.com/index.htm# search";
 
         // Getting HashCode by
         // using GetHashCode() method

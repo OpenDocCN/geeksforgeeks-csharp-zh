@@ -1,4 +1,4 @@
-# 将最后一个元素移到给定链表前面的 C#程序
+# 将最后一个元素移到给定链表前面的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-program-for-move-last-element-to-front-给定链表-2/](https://www.geeksforgeeks.org/c-program-for-moving-last-element-to-front-of-a-given-linked-list-2/)
 

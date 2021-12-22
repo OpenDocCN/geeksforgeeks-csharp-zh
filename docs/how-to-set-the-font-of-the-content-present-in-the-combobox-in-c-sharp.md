@@ -1,4 +1,4 @@
-# 如何在 C#中设置组合框中呈现的内容的字体？
+# 如何在 C# 中设置组合框中呈现的内容的字体？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的内容呈现字体/](https://www.geeksforgeeks.org/how-to-set-the-font-of-the-content-present-in-the-combobox-in-c-sharp/)
 

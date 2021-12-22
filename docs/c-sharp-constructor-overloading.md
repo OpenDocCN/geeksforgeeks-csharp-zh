@@ -2,9 +2,9 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-constructor-overloading/](https://www.geeksforgeeks.org/c-sharp-constructor-overloading/)
 
-#### 先决条件:[c#中的构造函数](https://www.geeksforgeeks.org/c-sharp-constructors/)
+#### 先决条件:[c# 中的构造函数](https://www.geeksforgeeks.org/c-sharp-constructors/)
 
-与 **[法重载](https://www.geeksforgeeks.org/c-method-overloading/)** 颇为相似。它能够以多种形式重新定义构造函数。用户可以通过在一个类中定义两个或多个同名的构造函数来实现构造函数重载。C#可以区分不同签名的构造函数。即构造函数必须具有相同的名称，但是具有不同的参数列表。
+与 **[法重载](https://www.geeksforgeeks.org/c-method-overloading/)** 颇为相似。它能够以多种形式重新定义构造函数。用户可以通过在一个类中定义两个或多个同名的构造函数来实现构造函数重载。C# 可以区分不同签名的构造函数。即构造函数必须具有相同的名称，但是具有不同的参数列表。
 
 我们可以通过如下不同的方式控制构造函数:
 

@@ -1,4 +1,4 @@
-# Int64。C#中的最大值字段，示例
+# Int64。C# 中的最大值字段，示例
 
 > 原文:[https://www . geesforgeks . org/int 64-maxvalue-field-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/int64-maxvalue-field-in-c-sharp-with-examples/)
 

@@ -1,4 +1,4 @@
-# 演示结构数组的 C#程序
+# 演示结构数组的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-程序演示结构数组/](https://www.geeksforgeeks.org/c-sharp-program-to-demonstrate-the-array-of-structures/)
 

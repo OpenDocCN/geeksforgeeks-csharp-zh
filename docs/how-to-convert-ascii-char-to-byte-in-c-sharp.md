@@ -1,8 +1,8 @@
-# 如何在 C#中将 ASCII 字符转换为字节？
+# 如何在 C# 中将 ASCII 字符转换为字节？
 
 > 原文:[https://www . geesforgeks . org/how-convert-ascii-char-to-byte in-c-sharp/](https://www.geeksforgeeks.org/how-to-convert-ascii-char-to-byte-in-c-sharp/)
 
-给定一个字符，任务是将这个 ASCII 字符转换成 C#中的一个字节。
+给定一个字符，任务是将这个 ASCII 字符转换成 C# 中的一个字节。
 
 **示例:**
 

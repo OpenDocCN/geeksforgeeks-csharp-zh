@@ -1,4 +1,4 @@
-# c#中 var 和动态的区别
+# c# 中 var 和动态的区别
 
 > 原文:[https://www . geeksforgeeks . org/var 和动态 in-c-sharp 的区别/](https://www.geeksforgeeks.org/difference-between-var-and-dynamic-in-c-sharp/)
 
@@ -100,7 +100,7 @@ Get the actual type of val4: System.Boolean
 
 ```
 
-下面是 C#中 var 和动态关键字的一些区别:
+下面是 C# 中 var 和动态关键字的一些区别:
 
 | 定义变量 | 动态的 |
 | 它是在 C# 3.0 中引入的。 | 它是在 C# 4.0 中引入的 |

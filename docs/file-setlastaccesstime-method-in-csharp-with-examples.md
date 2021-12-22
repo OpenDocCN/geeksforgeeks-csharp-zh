@@ -1,4 +1,4 @@
-# 文件。C#中的 SetLastAccessTime()方法，带示例
+# 文件。C# 中的 SetLastAccessTime()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/file-setlastacesstime-method-in-csharp-with-examples/](https://www.geeksforgeeks.org/file-setlastaccesstime-method-in-csharp-with-examples/)
 

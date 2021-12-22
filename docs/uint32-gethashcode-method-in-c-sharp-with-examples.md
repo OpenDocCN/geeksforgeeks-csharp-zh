@@ -1,4 +1,4 @@
-# UInt32。C#中的 GetHashCode 方法及示例
+# UInt32。C# 中的 GetHashCode 方法及示例
 
 > 原文:[https://www . geesforgeks . org/uint 32-gethashcode-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/uint32-gethashcode-method-in-c-sharp-with-examples/)
 

@@ -1,4 +1,4 @@
-# 检查给定目录存在与否的 C#程序
+# 检查给定目录存在与否的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-要检查的程序-给定目录-存在与否/](https://www.geeksforgeeks.org/c-sharp-program-to-check-given-directory-exists-or-not/)
 

@@ -1,4 +1,4 @@
-# 用于从未排序的链表中删除重复项的 C#程序
+# 用于从未排序的链表中删除重复项的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-program-for-remove-replications-from-unsorted-link-list/](https://www.geeksforgeeks.org/c-program-for-removing-duplicates-from-an-unsorted-linked-list/)
 

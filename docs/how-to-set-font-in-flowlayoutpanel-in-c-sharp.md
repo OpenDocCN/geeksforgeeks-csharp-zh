@@ -1,4 +1,4 @@
-# 如何在 C#的 FlowLayoutPanel 中设置字体？
+# 如何在 C# 的 FlowLayoutPanel 中设置字体？
 
 > 原文:[https://www . geesforgeks . org/how-set-font-in-flowlayoutpanel-in-c-sharp/](https://www.geeksforgeeks.org/how-to-set-font-in-flowlayoutpanel-in-c-sharp/)
 

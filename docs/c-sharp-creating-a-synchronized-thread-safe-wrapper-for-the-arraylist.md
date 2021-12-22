@@ -106,4 +106,4 @@ class GFG {
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . ArrayList . synchronized？view = net framework-4 . 7 . 2 # System _ Collections _ ArrayList _ Synchronized _ System _ Collections _ ArrayList _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.arraylist.synchronized?view=netframework-4.7.2#System_Collections_ArrayList_Synchronized_System_Collections_ArrayList_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . ArrayList . synchronized？view = net framework-4 . 7 . 2 # System _ Collections _ ArrayList _ Synchronized _ System _ Collections _ ArrayList _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.arraylist.synchronized?view=netframework-4.7.2# System_Collections_ArrayList_Synchronized_System_Collections_ArrayList_)

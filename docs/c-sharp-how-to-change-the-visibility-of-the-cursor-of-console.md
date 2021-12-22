@@ -2,9 +2,9 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-如何改变控制台光标的可见性/](https://www.geeksforgeeks.org/c-sharp-how-to-change-the-visibility-of-the-cursor-of-console/)
 
-给定 C#中的普通控制台，任务是更改控制台光标的可见性。
+给定 C# 中的普通控制台，任务是更改控制台光标的可见性。
 
-**方法:**这可以使用 C#中系统包的**控制台**类中的 **CursorVisible** 属性来完成。它获取或设置一个值，该值指示光标是否可见。
+**方法:**这可以使用 C# 中系统包的**控制台**类中的 **CursorVisible** 属性来完成。它获取或设置一个值，该值指示光标是否可见。
 
 **程序 1:** 获取 CursorVisible 的值
 

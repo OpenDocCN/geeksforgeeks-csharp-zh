@@ -1,4 +1,4 @@
-# 如何在 C#中设置工具提示的初始延迟？
+# 如何在 C# 中设置工具提示的初始延迟？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中工具提示的初始延迟/](https://www.geeksforgeeks.org/how-to-set-the-initial-delay-of-the-tooltip-in-c-sharp/)
 

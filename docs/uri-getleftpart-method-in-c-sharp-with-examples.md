@@ -1,4 +1,4 @@
-# 乌利。C#中的 GetLeftPart()方法，带示例
+# 乌利。C# 中的 GetLeftPart()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/uri-getleftpart-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/uri-getleftpart-method-in-c-sharp-with-examples/)
 

@@ -2,12 +2,12 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-math-ABS-method-set-1/](https://www.geeksforgeeks.org/c-sharp-math-abs-method-set-1/)
 
-在 C#中，***【Abs()***是一个 Math 类方法，用来返回指定数字的绝对值。这个方法可以通过传递不同类型的参数来重载。
+在 C# 中，***【Abs()***是一个 Math 类方法，用来返回指定数字的绝对值。这个方法可以通过传递不同类型的参数来重载。
 
-2.  **[数学。Abs(十进制)](#Math.Abs(Decimal))**
-3.  **[数学。Abs(双)](#Math.Abs(Double))**
-4.  **[数学。Abs(Int16)](#Math.Abs(Int16))**
-5.  **[数学。Abs(Int32)](#Math.Abs(Int32))**
+2.  **[数学。Abs(十进制)](# Math.Abs(Decimal))**
+3.  **[数学。Abs(双)](# Math.Abs(Double))**
+4.  **[数学。Abs(Int16)](# Math.Abs(Int16))**
+5.  **[数学。Abs(Int32)](# Math.Abs(Int32))**
 6.  **数学。Abs(Int64)**
 7.  **Math.Abs(SByte)**
 8.  **Math.Abs(Single)

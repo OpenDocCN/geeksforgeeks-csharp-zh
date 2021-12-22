@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-static-class/](https://www.geeksforgeeks.org/c-sharp-static-class/)
 
-在 C#中，允许使用 *static* 关键字创建一个静态类。静态类只能包含静态数据成员、静态方法和静态构造函数。不允许创建静态类的对象。静态类是 [**封**](https://www.geeksforgeeks.org/c-sealed-class/) ，意思是 ***你不能从另一个类*** 继承一个静态类。
+在 C# 中，允许使用 *static* 关键字创建一个静态类。静态类只能包含静态数据成员、静态方法和静态构造函数。不允许创建静态类的对象。静态类是 [**封**](https://www.geeksforgeeks.org/c-sealed-class/) ，意思是 ***你不能从另一个类*** 继承一个静态类。
 
 **语法:**
 
@@ -15,7 +15,7 @@ static class Class_Name
 }
 ```
 
-在 C#中，静态类包含如下两种类型的静态成员:
+在 C# 中，静态类包含如下两种类型的静态成员:
 
 *   **静态数据成员:**由于静态类总是包含静态数据成员，所以静态数据成员是用 Static 关键字声明的，直接用类名访问。静态数据成员的内存是单独分配的，与对象没有任何关系。
     **语法:**

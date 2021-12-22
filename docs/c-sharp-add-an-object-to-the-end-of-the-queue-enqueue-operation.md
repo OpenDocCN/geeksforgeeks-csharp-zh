@@ -107,4 +107,4 @@ Total number of elements in the Queue are : 6
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . generic . queue-1 . enqueue？view = net framework-4 . 7 . 2 # System _ Collections _ Generic _ Queue _ 1 _ Enqueue _ 0 _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.queue-1.enqueue?view=netframework-4.7.2#System_Collections_Generic_Queue_1_Enqueue__0_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . generic . queue-1 . enqueue？view = net framework-4 . 7 . 2 # System _ Collections _ Generic _ Queue _ 1 _ Enqueue _ 0 _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.queue-1.enqueue?view=netframework-4.7.2# System_Collections_Generic_Queue_1_Enqueue__0_)

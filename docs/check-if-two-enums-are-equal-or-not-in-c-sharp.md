@@ -1,4 +1,4 @@
-# 检查 C#中两个枚举是否相等
+# 检查 C# 中两个枚举是否相等
 
 > 原文:[https://www . geesforgeks . org/check-if-two-enum-is-equal-or-not-in-c-sharp/](https://www.geeksforgeeks.org/check-if-two-enums-are-equal-or-not-in-c-sharp/)
 

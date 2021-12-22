@@ -1,4 +1,4 @@
-# 小数。C#中的求反()方法
+# 小数。C# 中的求反()方法
 
 > 原文:[https://www . geesforgeks . org/decimal-c-sharp 中的求反方法/](https://www.geeksforgeeks.org/decimal-negate-method-in-c-sharp/)
 

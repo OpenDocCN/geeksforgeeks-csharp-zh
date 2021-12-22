@@ -1,8 +1,8 @@
-# 单身。C#中的 IsPositiveInfinity()方法，带示例
+# 单身。C# 中的 IsPositiveInfinity()方法，带示例
 
 > 原文:[https://www . geeksforgeeks . org/single-is positiveinfinity-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/single-ispositiveinfinity-method-in-c-sharp-with-examples/)
 
-在 C#中 ***单。*是单结构方法。此方法用于检查指定的浮点值是否计算为正无穷大。在某些浮点运算中，有可能获得正无穷大的结果。*例如:*如果任何正值被零除，就会产生正无穷大。**
+在 C# 中 ***单。*是单结构方法。此方法用于检查指定的浮点值是否计算为正无穷大。在某些浮点运算中，有可能获得正无穷大的结果。*例如:*如果任何正值被零除，就会产生正无穷大。**
 
 > **语法:**公共静态 bool is positiveInfinity(float f)；
 > 

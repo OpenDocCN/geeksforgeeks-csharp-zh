@@ -1,4 +1,4 @@
-# 如何在 C#中同步访问混合字典
+# 如何在 C# 中同步访问混合字典
 
 > 原文:[https://www . geesforgeks . org/如何同步访问 c-sharp 中的混合词典/](https://www.geeksforgeeks.org/how-to-get-synchronize-access-to-the-hybriddictionary-in-c-sharp/)
 

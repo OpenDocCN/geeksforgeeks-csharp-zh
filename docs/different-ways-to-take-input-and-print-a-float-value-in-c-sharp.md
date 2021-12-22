@@ -1,8 +1,8 @@
-# 在 C#中获取输入和打印浮点值的不同方式
+# 在 C# 中获取输入和打印浮点值的不同方式
 
 > 原文:[https://www . geeksforgeeks . org/不同的方式获取输入并打印 c-sharp 中的浮点值/](https://www.geeksforgeeks.org/different-ways-to-take-input-and-print-a-float-value-in-c-sharp/)
 
-在 [C#](https://www.geeksforgeeks.org/csharp-programming-language/) 中，我们知道**控制台。ReadLine()** 方法用于从标准输出设备读取字符串。如果默认情况下该值不是字符串类型，则该值被转换为浮点类型。有不同的方法可以将输入转换为浮点值。以下方法可用于此目的:
+在 [C# ](https://www.geeksforgeeks.org/csharp-programming-language/) 中，我们知道**控制台。ReadLine()** 方法用于从标准输出设备读取字符串。如果默认情况下该值不是字符串类型，则该值被转换为浮点类型。有不同的方法可以将输入转换为浮点值。以下方法可用于此目的:
 
 *   **单身。解析()方法**
 *   **浮动。解析()方法**

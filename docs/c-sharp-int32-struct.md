@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-int32-struct/](https://www.geeksforgeeks.org/c-sharp-int32-struct/)
 
-在 C#中，Int32 Struct 表示从范围 **-2，147，483，648 到+2，147，483，647** 开始的 32 位有符号整数(也称为 **int** 数据类型)。它还提供了不同类型的方法来执行各种操作。你可以进行加法、减法、乘法等数学运算。在 Int32 类型上。它支持“与”、“或”、“异或”等按位运算。它完全支持标准和自定义数字格式字符串。可以调用[转换](https://www.geeksforgeeks.org/c-sharp-convert-class/)和[数学类](https://www.geeksforgeeks.org/c-sharp-math-class/)的方法对 Int32 值进行运算。Int32 结构继承了继承[对象类](https://www.geeksforgeeks.org/c-sharp-object-class/)的 ValueType 类。
+在 C# 中，Int32 Struct 表示从范围 **-2，147，483，648 到+2，147，483，647** 开始的 32 位有符号整数(也称为 **int** 数据类型)。它还提供了不同类型的方法来执行各种操作。你可以进行加法、减法、乘法等数学运算。在 Int32 类型上。它支持“与”、“或”、“异或”等按位运算。它完全支持标准和自定义数字格式字符串。可以调用[转换](https://www.geeksforgeeks.org/c-sharp-convert-class/)和[数学类](https://www.geeksforgeeks.org/c-sharp-math-class/)的方法对 Int32 值进行运算。Int32 结构继承了继承[对象类](https://www.geeksforgeeks.org/c-sharp-object-class/)的 ValueType 类。
 
 #### 菲尔茨
 

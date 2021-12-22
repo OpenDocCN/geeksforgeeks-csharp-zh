@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-default-constructor/](https://www.geeksforgeeks.org/c-sharp-default-constructor/)
 
-如果没有为类提供构造函数，C#会默认创建一个构造函数来实例化对象，并将成员变量设置为默认值，如 **[默认值表](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/default-values-table)** 中所列。没有任何参数的构造函数称为默认构造函数。换句话说，这种类型的构造函数不接受参数。默认构造函数的缺点是类的每个实例将被初始化为相同的值，并且不可能将类的每个实例初始化为不同的值。
+如果没有为类提供构造函数，C# 会默认创建一个构造函数来实例化对象，并将成员变量设置为默认值，如 **[默认值表](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/default-values-table)** 中所列。没有任何参数的构造函数称为默认构造函数。换句话说，这种类型的构造函数不接受参数。默认构造函数的缺点是类的每个实例将被初始化为相同的值，并且不可能将类的每个实例初始化为不同的值。
 
 **默认构造函数初始化:**
 

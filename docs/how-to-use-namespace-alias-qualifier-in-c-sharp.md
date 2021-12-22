@@ -1,4 +1,4 @@
-# 如何在 C#中使用::命名空间别名限定符
+# 如何在 C# 中使用::命名空间别名限定符
 
 > 原文:[https://www . geesforgeks . org/how-用法-名称空间-别名-限定符-in-c-sharp/](https://www.geeksforgeeks.org/how-to-use-namespace-alias-qualifier-in-c-sharp/)
 

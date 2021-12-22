@@ -2,17 +2,17 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-data-types/](https://www.geeksforgeeks.org/c-sharp-data-types/)
 
-数据类型指定有效的 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 变量可以保存的数据类型。C#是一种**强类型编程语言**，因为在 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中，每种类型的数据(如整数、字符、浮点等)都是作为编程语言的一部分预定义的，为给定程序定义的所有常量或变量都必须用其中一种数据类型来描述。
+数据类型指定有效的 [C# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 变量可以保存的数据类型。C# 是一种**强类型编程语言**，因为在 [C# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中，每种类型的数据(如整数、字符、浮点等)都是作为编程语言的一部分预定义的，为给定程序定义的所有常量或变量都必须用其中一种数据类型来描述。
 
 ### 
 
-**数据类型在 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中主要分为三类**
+**数据类型在 [C# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中主要分为三类**
 
 *   **数值数据类型**
 *   **参考数据类型**
 *   **指针数据类型**
 
-1.  **值数据类型:**在 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中，值数据类型将直接将变量值存储在内存中，它还将接受有符号和无符号文本。这些数据类型的派生类是**系统。值类型**。以下是 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 编程语言中**不同的值数据类型**:
+1.  **值数据类型:**在 [C# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中，值数据类型将直接将变量值存储在内存中，它还将接受有符号和无符号文本。这些数据类型的派生类是**系统。值类型**。以下是 [C# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 编程语言中**不同的值数据类型**:
     *   **有符号&无符号整数类型:**有 8 种整数类型，支持 8 位、16 位、32 位和 64 位有符号或无符号形式的值。T67】系统 Int64 T93】零 T95】乌肖特 T99】无符号整数 T3【乌龙】T4
 
         | 别名 | 类型名 | 类型 | 大小（位) | 范围 | 缺省值 |

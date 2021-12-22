@@ -1,4 +1,4 @@
-# C#程序删除一个空的和一个非空的目录
+# C# 程序删除一个空的和一个非空的目录
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-delete-一个空的和一个非空的目录/](https://www.geeksforgeeks.org/c-sharp-program-to-delete-an-empty-and-a-non-empty-directory/)
 

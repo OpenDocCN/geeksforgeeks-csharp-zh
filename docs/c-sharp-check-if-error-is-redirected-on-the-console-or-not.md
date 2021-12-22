@@ -2,9 +2,9 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-在控制台上检查错误是否被重定向/](https://www.geeksforgeeks.org/c-sharp-check-if-error-is-redirected-on-the-console-or-not/)
 
-给定 C#中的正常控制台，任务是检查错误是否在控制台上被重定向。
+给定 C# 中的正常控制台，任务是检查错误是否在控制台上被重定向。
 
-**方法:**这可以使用 C#中系统包的**控制台**类中的**iserreredirected**属性来完成。此属性返回一个布尔值，说明错误是否被重定向。
+**方法:**这可以使用 C# 中系统包的**控制台**类中的**iserreredirected**属性来完成。此属性返回一个布尔值，说明错误是否被重定向。
 
 **程序:**
 

@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-jump-statements-break-continue-goto-return-and-throw/](https://www.geeksforgeeks.org/c-sharp-jump-statements-break-continue-goto-return-and-throw/)
 
-在 C#中，跳转语句用于在执行程序时，由于某些指定的代码，将控制从程序中的一个点转移到另一个点。跳转语句中有五个关键词:
+在 C# 中，跳转语句用于在执行程序时，由于某些指定的代码，将控制从程序中的一个点转移到另一个点。跳转语句中有五个关键词:
 
 *   **破裂***   **继续***   **转到***   **返回***   **throw
 

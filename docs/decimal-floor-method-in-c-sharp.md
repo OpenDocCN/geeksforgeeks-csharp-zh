@@ -1,4 +1,4 @@
-# 小数。C#中的 Floor()方法
+# 小数。C# 中的 Floor()方法
 
 > 原文:[https://www . geesforgeks . org/decimal-floor-method in-c-sharp/](https://www.geeksforgeeks.org/decimal-floor-method-in-c-sharp/)
 

@@ -6,7 +6,7 @@
 
 **属性:**
 
-*   在 C#中，SortedSet 类可用于存储、移除或查看元素。
+*   在 C# 中，SortedSet 类可用于存储、移除或查看元素。
 *   它保持升序，不存储重复的元素。
 *   如果必须存储唯一元素并保持升序，建议使用 SortedSet 类。
 
@@ -123,4 +123,4 @@ False
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . generic . sorted set-1 . setequals？view = net framework-4 . 7 . 2 # System _ Collections _ Generic _ sorted set _ 1 _ SetEquals _ System _ Collections _ Generic _ IEnumerable _ 0 _ _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.sortedset-1.setequals?view=netframework-4.7.2#System_Collections_Generic_SortedSet_1_SetEquals_System_Collections_Generic_IEnumerable__0__)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . generic . sorted set-1 . setequals？view = net framework-4 . 7 . 2 # System _ Collections _ Generic _ sorted set _ 1 _ SetEquals _ System _ Collections _ Generic _ IEnumerable _ 0 _ _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.sortedset-1.setequals?view=netframework-4.7.2# System_Collections_Generic_SortedSet_1_SetEquals_System_Collections_Generic_IEnumerable__0__)

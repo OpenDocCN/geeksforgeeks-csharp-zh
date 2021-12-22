@@ -1,4 +1,4 @@
-# 翻倍。C#中的 GetTypeCode()方法
+# 翻倍。C# 中的 GetTypeCode()方法
 
 > 原文:[https://www . geesforgeks . org/double-gettypecode-method-in-c-sharp/](https://www.geeksforgeeks.org/double-gettypecode-method-in-c-sharp/)
 

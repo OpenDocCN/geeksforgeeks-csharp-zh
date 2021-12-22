@@ -1,4 +1,4 @@
-# DateTimeOffset。C#中的 AddTicks()方法
+# DateTimeOffset。C# 中的 AddTicks()方法
 
 > 原文:[https://www . geeksforgeeks . org/datetimeoffset-addticks-method-in-c-sharp/](https://www.geeksforgeeks.org/datetimeoffset-addticks-method-in-c-sharp/)
 

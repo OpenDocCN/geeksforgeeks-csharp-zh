@@ -1,4 +1,4 @@
-# 如何在 C#中不使用 is 关键字实现 is 功能
+# 如何在 C# 中不使用 is 关键字实现 is 功能
 
 > 原文:[https://www . geeksforgeeks . org/如何在不使用 c-sharp 中的 is-关键字的情况下实现 is-functional/](https://www.geeksforgeeks.org/how-to-implement-is-functionality-without-using-is-keyword-in-c-sharp/)
 
@@ -8,7 +8,7 @@
 
 #### 是关键字
 
-在 C#中，is 关键字用于在运行时评估兼容性。它确定对象实例或表达式的结果是否可以转换为指定的类型。
+在 C# 中，is 关键字用于在运行时评估兼容性。它确定对象实例或表达式的结果是否可以转换为指定的类型。
 
 **语法:**
 

@@ -1,4 +1,4 @@
-# DateTimeOffset。C#中的 AddHours()方法
+# DateTimeOffset。C# 中的 AddHours()方法
 
 > 原文:[https://www . geesforgeks . org/datetime offset-add hours-method-in-c-sharp/](https://www.geeksforgeeks.org/datetimeoffset-addhours-method-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# 螺纹。C#中的重置端口方法
+# 螺纹。C# 中的重置端口方法
 
 > 原文:[https://www . geesforgeks . org/thread-resetabort-method-in-c-sharp/](https://www.geeksforgeeks.org/thread-resetabort-method-in-c-sharp/)
 
@@ -124,4 +124,4 @@ public class GFG {
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . threading . thread . reseta port？视图=网络框架-4 . 7 . 2 #系统 _ 线程 _ 线程 _ 重置端口](https://docs.microsoft.com/en-us/dotnet/api/system.threading.thread.resetabort?view=netframework-4.7.2#System_Threading_Thread_ResetAbort)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . threading . thread . reseta port？视图=网络框架-4 . 7 . 2 # 系统 _ 线程 _ 线程 _ 重置端口](https://docs.microsoft.com/en-us/dotnet/api/system.threading.thread.resetabort?view=netframework-4.7.2# System_Threading_Thread_ResetAbort)

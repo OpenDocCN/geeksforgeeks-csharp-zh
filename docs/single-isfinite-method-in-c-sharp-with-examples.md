@@ -1,4 +1,4 @@
-# 单身。C#中的 IsFinite()方法，带示例
+# 单身。C# 中的 IsFinite()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/single-is inite-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/single-isfinite-method-in-c-sharp-with-examples/)
 

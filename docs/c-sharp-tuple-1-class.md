@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-tuple-1-class/](https://www.geeksforgeeks.org/c-sharp-tuple-1-class/)
 
-元组<t1>类用于创建 1 元组或单元组，其中只包含一个元素。您可以通过调用 **[元组< T1 >构造函数](https://www.geeksforgeeks.org/how-to-create-1-tuple-or-singleton-tuple-in-c-sharp/#Using%20Tuple%3CT1%3E(T1)%20Constructor)** 或静态 **[元组来实例化元组<t1>对象。创建</t1>](https://www.geeksforgeeks.org/how-to-create-1-tuple-or-singleton-tuple-in-c-sharp/#Using%20the%20Create%20method)** 方法。您可以通过使用只读*项目 1* 实例属性来检索元组的单个元素的值。</t1>
+元组<t1>类用于创建 1 元组或单元组，其中只包含一个元素。您可以通过调用 **[元组< T1 >构造函数](https://www.geeksforgeeks.org/how-to-create-1-tuple-or-singleton-tuple-in-c-sharp/# Using%20Tuple%3CT1%3E(T1)%20Constructor)** 或静态 **[元组来实例化元组<t1>对象。创建</t1>](https://www.geeksforgeeks.org/how-to-create-1-tuple-or-singleton-tuple-in-c-sharp/# Using%20the%20Create%20method)** 方法。您可以通过使用只读*项目 1* 实例属性来检索元组的单个元素的值。</t1>
 
 **要点:**
 
@@ -17,7 +17,7 @@
 #### 构造器
 
 | 构造器 | 描述 |
-| **[元组<T1>(T1)](https://www.geeksforgeeks.org/how-to-create-1-tuple-or-singleton-tuple-in-c-sharp/#Using%20Tuple%3CT1%3E(T1)%20Constructor)T3】** | 初始化元组<t1>类的新实例。</t1> |
+| **[元组<T1>(T1)](https://www.geeksforgeeks.org/how-to-create-1-tuple-or-singleton-tuple-in-c-sharp/# Using%20Tuple%3CT1%3E(T1)%20Constructor)T3】** | 初始化元组<t1>类的新实例。</t1> |
 
 #### 财产
 

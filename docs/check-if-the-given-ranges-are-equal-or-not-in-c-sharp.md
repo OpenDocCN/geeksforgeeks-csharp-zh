@@ -1,4 +1,4 @@
-# 检查 C#中给定的范围是否相等
+# 检查 C# 中给定的范围是否相等
 
 > 原文:[https://www . geeksforgeeks . org/check-如果给定范围等于或不等于 c-sharp/](https://www.geeksforgeeks.org/check-if-the-given-ranges-are-equal-or-not-in-c-sharp/)
 

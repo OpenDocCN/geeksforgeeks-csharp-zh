@@ -1,4 +1,4 @@
-# MathF。C#中的 Atan2()方法，带示例
+# MathF。C# 中的 Atan2()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/mathf-atan 2-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-atan2-method-in-c-sharp-with-examples/)
 

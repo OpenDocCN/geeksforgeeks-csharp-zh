@@ -1,4 +1,4 @@
-# 乌利。C#中的片段属性，示例
+# 乌利。C# 中的片段属性，示例
 
 > 原文:[https://www . geesforgeks . org/uri-fragment-property-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/uri-fragment-property-in-c-sharp-with-examples/)
 
@@ -31,7 +31,7 @@ class GFG {  
     public static void Main()  
     {  
         // Declaring and initializing value1  
-        Uri  v1 = new Uri("https://www.geeksforgeeks.org/greedy-algorithms/#standardGreedyAlgorithms");
+        Uri  v1 = new Uri("https://www.geeksforgeeks.org/greedy-algorithms/# standardGreedyAlgorithms");
 
        // using Fragment property  
         Console.WriteLine("Uri Fragment: "+ v1.Fragment);  
@@ -42,7 +42,7 @@ class GFG {  
 **输出:**
 
 ```cs
-Uri Fragment: #standardGreedyAlgorithms
+Uri Fragment: # standardGreedyAlgorithms
 
 ```
 
@@ -62,7 +62,7 @@ class GFG {  
     public static void Main()  
     {  
         // Declaring and initializing value1  
-        Uri  v1 = new Uri("https://www.geeksforgeeks.org/greedy-algorithms/#approximateGreedyAlgorthms");
+        Uri  v1 = new Uri("https://www.geeksforgeeks.org/greedy-algorithms/# approximateGreedyAlgorthms");
 
         // using Fragment property  
         Console.WriteLine("Uri Fragment: "+ v1.Fragment);  
@@ -73,6 +73,6 @@ class GFG {  
 **输出:**
 
 ```cs
-Uri Fragment: #approximateGreedyAlgorthms
+Uri Fragment: # approximateGreedyAlgorthms
 
 ```

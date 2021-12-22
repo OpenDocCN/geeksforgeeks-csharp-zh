@@ -4,7 +4,7 @@
 
 **列表< T >。Sort()方法**用于使用指定或默认的 IComparer < T >实现或提供的比较< T >委托来比较列表元素，从而对列表中的元素或部分元素进行排序。该方法的重载列表中共有 4 种方法如下:
 
-***   [排序(IComparer < T > )](https://www.geeksforgeeks.org/how-to-sort-list-in-c-sharp-set-1/#m1)T10[排序(Int32，Int32，IComparer<t>)</t>](https://www.geeksforgeeks.org/how-to-sort-list-in-c-sharp-set-1/#m2)*   [sort ()](#m3)*   [sort (compare < t >)](#m4)T24**
+***   [排序(IComparer < T > )](https://www.geeksforgeeks.org/how-to-sort-list-in-c-sharp-set-1/# m1)T10[排序(Int32，Int32，IComparer<t>)</t>](https://www.geeksforgeeks.org/how-to-sort-list-in-c-sharp-set-1/# m2)*   [sort ()](# m3)*   [sort (compare < t >)](# m4)T24**
 
 **这里前两种方法在 **[集合–1](https://www.geeksforgeeks.org/how-to-sort-list-in-c-sharp-set-1/)**中讨论。所以，我们将讨论最后两种方法。**
 

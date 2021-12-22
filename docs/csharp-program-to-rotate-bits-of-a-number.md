@@ -1,4 +1,4 @@
-# C#程序旋转一个数字的位
+# C# 程序旋转一个数字的位
 
 > 原文:[https://www . geesforgeks . org/cs harp-程序旋转位数/](https://www.geeksforgeeks.org/csharp-program-to-rotate-bits-of-a-number/)
 

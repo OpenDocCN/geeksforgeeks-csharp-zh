@@ -1,4 +1,4 @@
-# 如何在 C#中设置组合框的前景色？
+# 如何在 C# 中设置组合框的前景色？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中组合框的前景色/](https://www.geeksforgeeks.org/how-to-set-the-foreground-color-of-the-combobox-in-c-sharp/)
 

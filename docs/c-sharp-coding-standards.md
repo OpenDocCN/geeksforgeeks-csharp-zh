@@ -1,8 +1,8 @@
-# C#编码标准
+# C# 编码标准
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-coding-standards/](https://www.geeksforgeeks.org/c-sharp-coding-standards/)
 
-C#是一种通用、现代和面向对象的编程语言，发音为“C Sharp”。它是由微软开发的，由安德斯·海尔斯伯格和他的团队领导。NET 倡议，并获得了欧洲计算机制造商协会(ECMA)和国际标准组织(ISO)的批准。C#是公共语言基础设施的语言之一。 [C#](https://www.geeksforgeeks.org/csharp-programming-language/) 在句法上与 Java 有很多相似之处，对于有 C、C++、或者 [Java](https://www.geeksforgeeks.org/java/) 知识的用户来说很容易理解。
+C# 是一种通用、现代和面向对象的编程语言，发音为“C Sharp”。它是由微软开发的，由安德斯·海尔斯伯格和他的团队领导。NET 倡议，并获得了欧洲计算机制造商协会(ECMA)和国际标准组织(ISO)的批准。C# 是公共语言基础设施的语言之一。 [C# ](https://www.geeksforgeeks.org/csharp-programming-language/) 在句法上与 Java 有很多相似之处，对于有 C、C++、或者 [Java](https://www.geeksforgeeks.org/java/) 知识的用户来说很容易理解。
 
 以下是一些最佳实践。网络开发人员应遵循:
 

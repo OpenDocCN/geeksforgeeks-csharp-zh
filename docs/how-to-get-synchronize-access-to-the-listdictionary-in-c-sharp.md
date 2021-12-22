@@ -1,4 +1,4 @@
-# 如何在 C#中同步访问列表字典
+# 如何在 C# 中同步访问列表字典
 
 > 原文:[https://www . geesforgeks . org/如何同步访问 c-sharp 中的 list dictionary/](https://www.geeksforgeeks.org/how-to-get-synchronize-access-to-the-listdictionary-in-c-sharp/)
 

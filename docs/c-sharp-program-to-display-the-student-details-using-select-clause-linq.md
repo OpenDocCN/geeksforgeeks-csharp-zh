@@ -1,4 +1,4 @@
-# 使用 LINQ 选择条款显示学生详细信息的 C#程序
+# 使用 LINQ 选择条款显示学生详细信息的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-display-the-student-details-use-select-子句-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-display-the-student-details-using-select-clause-linq/)
 

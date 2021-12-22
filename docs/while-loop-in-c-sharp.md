@@ -1,8 +1,8 @@
-# 在 C#中循环时
+# 在 C# 中循环时
 
 > 原文:[https://www.geeksforgeeks.org/while-loop-in-c-sharp/](https://www.geeksforgeeks.org/while-loop-in-c-sharp/)
 
-在编程语言中，循环是一种根据要评估的条件的结果多次执行一条语句或一组语句的方法。而循环是 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中的**入口控制循环**。
+在编程语言中，循环是一种根据要评估的条件的结果多次执行一条语句或一组语句的方法。而循环是 [C# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中的**入口控制循环**。
 
 测试条件在循环开始时给出，所有语句一直执行到给定的布尔条件满足，当条件变为假时，控件将从 while 循环中退出。
 

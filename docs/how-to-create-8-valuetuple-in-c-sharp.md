@@ -1,8 +1,8 @@
-# 如何在 C#中创建 8 值元组？
+# 如何在 C# 中创建 8 值元组？
 
 > 原文:[https://www . geesforgeks . org/how-create-8-value tuple-in-c-sharp/](https://www.geeksforgeeks.org/how-to-create-8-valuetuple-in-c-sharp/)
 
-在 C#中，8 值元组是包含 8 个元素的值类型元组，也称为**八元组**。您可以使用两种不同的方法创建 8 值元组:
+在 C# 中，8 值元组是包含 8 个元素的值类型元组，也称为**八元组**。您可以使用两种不同的方法创建 8 值元组:
 
 1.  **使用 ValueTuple < T1、T2、T3、T4、T5、T6、T7、TRest < (T1、T2、T3、T4、T5、T6、T7、TRest)构造器**
 2.  **使用创建< T1、T2、T3、T4、T5、T6、T7、T8 < (T1、T2、T3、T4、T5、T6、T7、T8)方法**
@@ -158,4 +158,4 @@ Component 8: 12.34
 **参考:**
 
 *   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple-8。-克托？视图=netframework-4.8](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple-8.-ctor?view=netframework-4.8)
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple . create？view = net framework-4.8 # System _ ValueTuple _ Create _ _ 8 _ _ 0 _ _ 1 _ _ 2 _ _ 3 _ _ 4 _ _ 5 _ _ 6 _ _ 7 _](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple.create?view=netframework-4.8#System_ValueTuple_Create__8___0___1___2___3___4___5___6___7_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple . create？view = net framework-4.8 # System _ ValueTuple _ Create _ _ 8 _ _ 0 _ _ 1 _ _ 2 _ _ 3 _ _ 4 _ _ 5 _ _ 6 _ _ 7 _](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple.create?view=netframework-4.8# System_ValueTuple_Create__8___0___1___2___3___4___5___6___7_)

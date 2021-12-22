@@ -1,4 +1,4 @@
-# DateTimeOffset。C#中的 FromUnixTimeMilliseconds()方法
+# DateTimeOffset。C# 中的 FromUnixTimeMilliseconds()方法
 
 > 原文:[https://www . geeksforgeeks . org/datetime offset-from unixtimemillions-method-in-c-sharp/](https://www.geeksforgeeks.org/datetimeoffset-fromunixtimemilliseconds-method-in-c-sharp/)
 

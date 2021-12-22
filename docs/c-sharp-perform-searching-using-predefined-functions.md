@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-执行-搜索-使用-预定义-函数/](https://www.geeksforgeeks.org/c-sharp-perform-searching-using-predefined-functions/)
 
-给定一个数组，现在我们的任务是使用 C#中的预定义函数来搜索数组中的元素。因此，最好的搜索技术是二分搜索法，它将使用预定义的函数搜索数组中的给定元素。二分搜索法算法是一种高效的算法，只适用于元素的有序集合。所以如果我们想使用二分搜索法，那么数组必须被排序，否则，它会给出错误的结果。所以要对数组进行排序，我们使用 [Sort()](https://www.geeksforgeeks.org/how-to-sort-an-array-in-c-sharp-array-sort-method-set-1/) 函数。二分搜索法将通过重复将搜索间隔分成两半，在排序的数组中进行搜索。它将以覆盖整个数组的间隔开始。如果搜索元素小于间隔中间的项目，请将间隔缩小到下半部分。否则缩小到上半部分。它将重复检查，直到找到元素或间隔为空。我们可以使用 [BinarySearch()](https://www.geeksforgeeks.org/how-to-use-array-binarysearch-method-in-c-sharp-set-1/#:~:text=BinarySearch(Array%2C%20Int32%2C%20Int32%2C%20Object)%20Method,is%20defined%20by%20the%20user.) 功能来执行二分搜索法。
+给定一个数组，现在我们的任务是使用 C# 中的预定义函数来搜索数组中的元素。因此，最好的搜索技术是二分搜索法，它将使用预定义的函数搜索数组中的给定元素。二分搜索法算法是一种高效的算法，只适用于元素的有序集合。所以如果我们想使用二分搜索法，那么数组必须被排序，否则，它会给出错误的结果。所以要对数组进行排序，我们使用 [Sort()](https://www.geeksforgeeks.org/how-to-sort-an-array-in-c-sharp-array-sort-method-set-1/) 函数。二分搜索法将通过重复将搜索间隔分成两半，在排序的数组中进行搜索。它将以覆盖整个数组的间隔开始。如果搜索元素小于间隔中间的项目，请将间隔缩小到下半部分。否则缩小到上半部分。它将重复检查，直到找到元素或间隔为空。我们可以使用 [BinarySearch()](https://www.geeksforgeeks.org/how-to-use-array-binarysearch-method-in-c-sharp-set-1/# :~:text=BinarySearch(Array%2C%20Int32%2C%20Int32%2C%20Object)%20Method,is%20defined%20by%20the%20user.) 功能来执行二分搜索法。
 
 **语法**:
 

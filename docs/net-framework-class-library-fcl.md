@@ -28,7 +28,7 @@
 | --- | --- |
 | 易接近 | 辅助功能命名空间是 COM 辅助功能接口的托管包装的一部分。 |
 | 微软。活动 | 微软。活动命名空间为 Windows Workflow Foundation 应用程序提供支持。 |
-| 微软。CSharp | 微软。CSharp 命名空间支持 C#源代码的编译和代码生成。 |
+| 微软。CSharp | 微软。CSharp 命名空间支持 C# 源代码的编译和代码生成。 |
 | 微软。JScript | 微软。JScript 命名空间支持 JScript 源代码的编译和代码生成。 |
 | 微软。VisualBasic | 微软。VisualBasic 命名空间支持 VisualBasic 源代码的编译和代码生成。 |
 | 系统 | 系统命名空间具有用于定义接口、数据类型、事件、事件处理程序、属性、处理异常等的基类。 |

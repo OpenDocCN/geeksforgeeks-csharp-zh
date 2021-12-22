@@ -1,4 +1,4 @@
-# 获取 C#中具有指定值的枚举常量的名称
+# 获取 C# 中具有指定值的枚举常量的名称
 
 > 原文:[https://www . geesforgeks . org/get-name-of-enumeration-constant-having-specified-value-in-c-sharp/](https://www.geeksforgeeks.org/getting-the-name-of-the-enumeration-constant-having-specified-value-in-c-sharp/)
 

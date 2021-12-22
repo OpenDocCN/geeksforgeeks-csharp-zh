@@ -1,4 +1,4 @@
-# SByte。C#中的 ToString 方法，带示例| Set–2
+# SByte。C# 中的 ToString 方法，带示例| Set–2
 
 > 原文:[https://www . geesforgeks . org/sbyte-tostring-method-in-c-sharp-with-examples-set-2/](https://www.geeksforgeeks.org/sbyte-tostring-method-in-c-sharp-with-examples-set-2/)
 

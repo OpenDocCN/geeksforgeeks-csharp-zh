@@ -1,4 +1,4 @@
-# 小数。C#中的 ToByte()方法
+# 小数。C# 中的 ToByte()方法
 
 > 原文:[https://www . geesforgeks . org/decimal-to byte-method-in-c-sharp/](https://www.geeksforgeeks.org/decimal-tobyte-method-in-c-sharp/)
 

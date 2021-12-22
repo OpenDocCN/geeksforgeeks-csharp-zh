@@ -1,8 +1,8 @@
-# MathF。C#中的 Sqrt()方法及示例
+# MathF。C# 中的 Sqrt()方法及示例
 
 > 原文:[https://www . geesforgeks . org/mathf-sqrt-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-sqrt-method-in-c-sharp-with-examples/)
 
-在 C#中 ***MathF。Sqrt(Single)*** 是一个 MathF 类(存在于系统命名空间中)方法，用于计算指定的 **Single 或 float** 数据类型值的平方根。
+在 C# 中 ***MathF。Sqrt(Single)*** 是一个 MathF 类(存在于系统命名空间中)方法，用于计算指定的 **Single 或 float** 数据类型值的平方根。
 
 > **语法:**公共静态 float Sqrt(float x)；
 > 这里，x 是要计算平方根的数字，这个参数的类型是*系统。单身*。

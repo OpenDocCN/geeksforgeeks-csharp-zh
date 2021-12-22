@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-clone-method/](https://www.geeksforgeeks.org/c-sharp-clone-method/)
 
-在 C#中，Clone()是一个字符串方法。它用于克隆 string 对象，该对象返回该数据的另一个副本。
+在 C# 中，Clone()是一个字符串方法。它用于克隆 string 对象，该对象返回该数据的另一个副本。
 换句话说，它返回一个字符串实例的引用。返回值只是同一数据的另一个视图。直接在当前字符串实例上调用克隆方法。此方法不接受任何参数。
 
 **语法:**
@@ -48,4 +48,4 @@ Clone String : GeeksForgeeks
 
 ```
 
-**参考:**[https://msdn . Microsoft . com/en-us/library/system . string . clone](https://msdn.microsoft.com/en-us/library/system.string.clone(v=vs.110).aspx?cs-save-lang=1&cs-lang=csharp#code-snippet-1)
+**参考:**[https://msdn . Microsoft . com/en-us/library/system . string . clone](https://msdn.microsoft.com/en-us/library/system.string.clone(v=vs.110).aspx?cs-save-lang=1&cs-lang=csharp# code-snippet-1)

@@ -1,8 +1,8 @@
-# MathF。C#中的 Log10()方法及示例
+# MathF。C# 中的 Log10()方法及示例
 
 > 原文:[https://www . geesforgeks . org/mathf-log 10-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-log10-method-in-c-sharp-with-examples/)
 
-在 C#中 ***MathF。Log10(Single)*** 是一个 MathF 类方法。它用于返回指定数字的以 10 为底的对数。
+在 C# 中 ***MathF。Log10(Single)*** 是一个 MathF 类方法。它用于返回指定数字的以 10 为底的对数。
 
 **语法:**公共静态 float Log10(float x)；
 这里， **x** 是指定的要计算对数的数字，类型为*系统。单*。

@@ -1,8 +1,8 @@
-# 如何在 C#中创建 2 值元组？
+# 如何在 C# 中创建 2 值元组？
 
 > 原文:[https://www . geesforgeks . org/how-create-2-value tuple-in-c-sharp/](https://www.geeksforgeeks.org/how-to-create-2-valuetuple-in-c-sharp/)
 
-在 C#中，一对或两个值的元组是包含两个元素的值类型元组。您可以使用两种不同的方法创建一对值元组:
+在 C# 中，一对或两个值的元组是包含两个元素的值类型元组。您可以使用两种不同的方法创建一对值元组:
 
 1.  **使用 ValueTuple < T1，T2 > (T1，T2)建造师**
 2.  **使用创建< T1，T2 > (T1，T2)方法**
@@ -110,4 +110,4 @@ Component 2: gfg
 **参考:**
 
 *   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple-2。-克托？视图=netframework-4.8](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple-2.-ctor?view=netframework-4.8)
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple . create？view = net framework-4.8 # System _ ValueTuple _ Create _ _ 2 _ _ 0 _ _ 1 _](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple.create?view=netframework-4.8#System_ValueTuple_Create__2___0___1_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple . create？view = net framework-4.8 # System _ ValueTuple _ Create _ _ 2 _ _ 0 _ _ 1 _](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple.create?view=netframework-4.8# System_ValueTuple_Create__2___0___1_)

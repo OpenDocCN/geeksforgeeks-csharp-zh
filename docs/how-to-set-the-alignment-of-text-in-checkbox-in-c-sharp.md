@@ -1,4 +1,4 @@
-# 如何在 C#中设置 CheckBox 中文本的对齐方式？
+# 如何在 C# 中设置 CheckBox 中文本的对齐方式？
 
 > 原文:[https://www . geesforgeks . org/如何设置 c-sharp 中复选框文本的对齐方式/](https://www.geeksforgeeks.org/how-to-set-the-alignment-of-text-in-checkbox-in-c-sharp/)
 

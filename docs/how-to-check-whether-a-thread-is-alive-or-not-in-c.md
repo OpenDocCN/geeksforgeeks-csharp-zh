@@ -1,4 +1,4 @@
-# 如何在 C#中检查线程是否存活
+# 如何在 C# 中检查线程是否存活
 
 > 原文:[https://www . geeksforgeeks . org/如何检查线程是否在 c 中活动/](https://www.geeksforgeeks.org/how-to-check-whether-a-thread-is-alive-or-not-in-c/)
 

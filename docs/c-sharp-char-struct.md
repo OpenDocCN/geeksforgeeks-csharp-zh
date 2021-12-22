@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-char-struct/](https://www.geeksforgeeks.org/c-sharp-char-struct/)
 
-在 C#中，Char Struct 用于将字符表示为 UTF-16 代码单元。该结构在*系统*命名空间下定义。基本上，这是用来表示*中的 Unicode 字符。NET* 框架。Unicode 标准使用一个称为**码位**的唯一 21 位标量数字来标识每个 Unicode 字符。它还定义了 UTF-16 编码形式，规定了如何将一个代码点编码成一个或多个 16 位值的序列。每个 16 位值的范围从十六进制 *0x0000 到 0xFFFF* ，并存储在 *Char* 结构中。Char 对象的值是它的 16 位数字(序数)值。
+在 C# 中，Char Struct 用于将字符表示为 UTF-16 代码单元。该结构在*系统*命名空间下定义。基本上，这是用来表示*中的 Unicode 字符。NET* 框架。Unicode 标准使用一个称为**码位**的唯一 21 位标量数字来标识每个 Unicode 字符。它还定义了 UTF-16 编码形式，规定了如何将一个代码点编码成一个或多个 16 位值的序列。每个 16 位值的范围从十六进制 *0x0000 到 0xFFFF* ，并存储在 *Char* 结构中。Char 对象的值是它的 16 位数字(序数)值。
 Char 结构提供了不同的方法，用于将当前 Char 对象的值转换为另一种类型的对象，比较 Char 对象，以及检查 Char 对象的 Unicode 类别等。
 
 **字段:**
@@ -135,4 +135,4 @@ False
 
 **参考:**
 
-*   [https://docs.microsoft.com/en-us/dotnet/api/system.char?视图= net framework-4 . 7 . 2 #定义](https://docs.microsoft.com/en-us/dotnet/api/system.char?view=netframework-4.7.2#definition)
+*   [https://docs.microsoft.com/en-us/dotnet/api/system.char?视图= net framework-4 . 7 . 2 # 定义](https://docs.microsoft.com/en-us/dotnet/api/system.char?view=netframework-4.7.2# definition)

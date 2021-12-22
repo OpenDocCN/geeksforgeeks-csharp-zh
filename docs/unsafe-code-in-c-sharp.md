@@ -1,8 +1,8 @@
-# c#中的不安全代码
+# c# 中的不安全代码
 
 > 原文:[https://www.geeksforgeeks.org/unsafe-code-in-c-sharp/](https://www.geeksforgeeks.org/unsafe-code-in-c-sharp/)
 
-C#中的不安全代码是在[的](https://www.geeksforgeeks.org/c-sharp-net-framework-basic-architecture-component-stack/)[公共语言运行时(CLR)](https://www.geeksforgeeks.org/common-language-runtime-clr-in-c-sharp/) 控制之外运行的程序部分。NET 框架。CLR 负责程序员不用担心的所有后台任务，比如内存分配和释放、管理栈等。使用关键字“unsafe”意味着告诉编译器，这段代码的管理将由程序员来完成。使代码内容不安全会带来稳定性和安全风险，因为在数组的情况下没有绑定检查，可能会出现与内存相关的错误，这些错误可能会保持未检查状态。
+C# 中的不安全代码是在[的](https://www.geeksforgeeks.org/c-sharp-net-framework-basic-architecture-component-stack/)[公共语言运行时(CLR)](https://www.geeksforgeeks.org/common-language-runtime-clr-in-c-sharp/) 控制之外运行的程序部分。NET 框架。CLR 负责程序员不用担心的所有后台任务，比如内存分配和释放、管理栈等。使用关键字“unsafe”意味着告诉编译器，这段代码的管理将由程序员来完成。使代码内容不安全会带来稳定性和安全风险，因为在数组的情况下没有绑定检查，可能会出现与内存相关的错误，这些错误可能会保持未检查状态。
 
 程序员可以将以下子程序视为不安全的:
 

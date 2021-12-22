@@ -1,4 +1,4 @@
-# 使用环境类获取操作系统页面文件内存大小的 C#程序
+# 使用环境类获取操作系统页面文件内存大小的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-程序获取操作系统页面文件大小使用环境类/](https://www.geeksforgeeks.org/c-sharp-program-to-get-the-memory-size-for-os-page-file-using-environment-class/)
 

@@ -1,4 +1,4 @@
-# c#中的浅拷贝和深拷贝
+# c# 中的浅拷贝和深拷贝
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp 中的浅拷贝和深拷贝/](https://www.geeksforgeeks.org/shallow-copy-and-deep-copy-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# 文件。C#中的 ReadLines(字符串，编码)方法，示例
+# 文件。C# 中的 ReadLines(字符串，编码)方法，示例
 
 > 原文:[https://www . geesforgeks . org/file-readline string-encoding-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-readlinesstring-encoding-method-in-c-sharp-with-examples/)
 

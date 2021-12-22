@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/linq-如何找到给定序列的和/](https://www.geeksforgeeks.org/linq-how-to-find-the-sum-of-the-given-sequence/)
 
-在 LINQ，你可以使用 **Sum()方法**找到给定数值元素的和。此方法计算给定序列中存在的数值之和。它不支持 C#中的查询语法，但是在*VB.NET*中支持。它在 C#的可枚举和可查询类中都可用。它可以处理可空、不可空的十进制、双精度、浮点、int 等。价值观。
+在 LINQ，你可以使用 **Sum()方法**找到给定数值元素的和。此方法计算给定序列中存在的数值之和。它不支持 C# 中的查询语法，但是在*VB.NET*中支持。它在 C# 的可枚举和可查询类中都可用。它可以处理可空、不可空的十进制、双精度、浮点、int 等。价值观。
 
 ![](img/ad17162b1b141c1d5d25d125e74c4de5.png)
 

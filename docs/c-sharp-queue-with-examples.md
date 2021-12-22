@@ -1,4 +1,4 @@
-# C#队列示例
+# C# 队列示例
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-queue-with-examples/](https://www.geeksforgeeks.org/c-sharp-queue-with-examples/)
 

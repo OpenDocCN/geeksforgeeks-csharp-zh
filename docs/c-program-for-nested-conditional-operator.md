@@ -1,4 +1,4 @@
-# 嵌套条件运算符的 C#程序
+# 嵌套条件运算符的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-program-for-nested-conditional-operator/](https://www.geeksforgeeks.org/c-program-for-nested-conditional-operator/)
 

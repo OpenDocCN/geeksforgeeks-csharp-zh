@@ -1,4 +1,4 @@
-# 文件。用 C#创建(字符串、Int32、文件选项、文件安全性)方法，示例
+# 文件。用 C# 创建(字符串、Int32、文件选项、文件安全性)方法，示例
 
 > 原文:[https://www . geesforgeks . org/file-createstring-int 32-file options-file security-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-createstring-int32-fileoptions-filesecurity-method-in-c-sharp-with-examples/)
 

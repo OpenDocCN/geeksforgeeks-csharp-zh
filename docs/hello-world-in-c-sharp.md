@@ -1,8 +1,8 @@
-# c#中的 Hello World
+# c# 中的 Hello World
 
 > 原文:[https://www.geeksforgeeks.org/hello-world-in-c-sharp/](https://www.geeksforgeeks.org/hello-world-in-c-sharp/)
 
-你好世界！当你钻研一门新的编程语言时，程序是最基本的，也是第一个程序。这只是打印你好世界！在输出屏幕上。在 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中，一个基本程序由以下内容组成:
+你好世界！当你钻研一门新的编程语言时，程序是最基本的，也是第一个程序。这只是打印你好世界！在输出屏幕上。在 [C# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中，一个基本程序由以下内容组成:
 
 *   **命名空间声明**
 *   **类别声明和定义**
@@ -53,13 +53,13 @@ Hello World!
 *   ****控制台。WriteLine():** 这里 *WriteLine()* 是在系统命名空间中定义的控制台类的一个方法。**
 *   ****控制台。ReadKey():** 这是给 VS.NET 用户的。这使得程序等待按键，并阻止屏幕快速运行和关闭。**
 
-#### **如何运行 C#程序？**
+#### **如何运行 C# 程序？**
 
-**一般有 **3 种方式**编译执行 C#程序如下:**
+**一般有 **3 种方式**编译执行 C# 程序如下:**
 
-*   ****使用在线 C#编译器:**可以使用各种在线 **[IDE](https://ide.geeksforgeeks.org/ZVr7YapAeH)** 。它可以用来运行 C#程序而无需安装。**
+*   ****使用在线 C# 编译器:**可以使用各种在线 **[IDE](https://ide.geeksforgeeks.org/ZVr7YapAeH)** 。它可以用来运行 C# 程序而无需安装。**
 *   ****使用 Visual Studio IDE:** 微软提供了一款名为 Visual Studio 的 IDE(集成开发环境)工具，使用 C#、VB(Visual Basic)等不同编程语言开发应用。为了商业目的安装和使用 Visual Studio，它必须从微软购买许可证。出于学习(非商业)目的，微软提供了免费的 Visual Studio 社区版。要了解如何在 Visual Studio 中运行程序，可以参考 **[这个](https://www.geeksforgeeks.org/setting-environment-c/)** 。**
-*   ****使用命令行:**也可以使用命令行选项运行 C#程序。以下步骤演示了如何在 Windows 操作系统中的命令行上运行 C#程序:
+*   ****使用命令行:**也可以使用命令行选项运行 C# 程序。以下步骤演示了如何在 Windows 操作系统中的命令行上运行 C# 程序:
 
     *   首先，打开一个文本编辑器，如记事本或记事本++。
     *   在文本编辑器中写入代码，用**保存文件。cs** 分机。

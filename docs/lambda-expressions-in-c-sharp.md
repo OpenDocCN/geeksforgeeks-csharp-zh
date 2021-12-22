@@ -1,8 +1,8 @@
-# c#中的λ表达式
+# c# 中的λ表达式
 
 > 原文:[https://www . geesforgeks . org/lambda-expressions-in-c-sharp/](https://www.geeksforgeeks.org/lambda-expressions-in-c-sharp/)
 
-C#中的 Lambda 表达式像[匿名函数](https://www.geeksforgeeks.org/anonymous-method-in-c-sharp/)一样使用，不同的是在 Lambda 表达式中，您不需要指定您输入的值的类型，因此使用起来更加灵活。
+C# 中的 Lambda 表达式像[匿名函数](https://www.geeksforgeeks.org/anonymous-method-in-c-sharp/)一样使用，不同的是在 Lambda 表达式中，您不需要指定您输入的值的类型，因此使用起来更加灵活。
 运算符“= >”是所有 lambda 表达式中使用的 lambda 运算符。Lambda 表达式分为两部分，左侧是输入，右侧是表达式。
 
 **λ表达式可以有两种类型:**

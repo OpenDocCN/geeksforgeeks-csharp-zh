@@ -1,9 +1,9 @@
-# C#交互解释器
+# C# 交互解释器
 
 > 原文:[https://www.geeksforgeeks.org/c-interactive-interpreter/](https://www.geeksforgeeks.org/c-interactive-interpreter/)
 
-本文旨在展示交互 C#解释器开发借助[的分步实现。NET 框架](https://www.geeksforgeeks.org/introduction-to-net-framework/) codeDOM API，它使我们能够动态评估 [C#](https://www.geeksforgeeks.org/csharp-programming-language/) 代码表达式和语句，以测试迷你代码片段或脚本，或多或少类似于 Python 解释器。然而， [visual studio](https://www.geeksforgeeks.org/introduction-to-visual-studio/) 有足够的能力做到这一点，那么问题来了，我们为什么需要它？visual studio IDE 编译器通常每次都编译整个应用程序类，而不是在需要时编译一大块代码段。因此，该过程相对繁琐、耗时，并给文件系统带来过度的额外开销。
-在这方面，有多个类将被雕刻出各种各样的功能。这个野心家应该精通。NET 技术，因为这个项目是一个基于控制台的应用程序，解释器给我们一个命令行方式的印象来操作命令。因此，下面的 C#代码片段是应用程序的入口点，通过合并所有其他辅助基本类的调用，从这里开始实际执行。在名为“程序”的入口点类中，我们发现横幅与自定义异常处理功能一起显示。
+本文旨在展示交互 C# 解释器开发借助[的分步实现。NET 框架](https://www.geeksforgeeks.org/introduction-to-net-framework/) codeDOM API，它使我们能够动态评估 [C# ](https://www.geeksforgeeks.org/csharp-programming-language/) 代码表达式和语句，以测试迷你代码片段或脚本，或多或少类似于 Python 解释器。然而， [visual studio](https://www.geeksforgeeks.org/introduction-to-visual-studio/) 有足够的能力做到这一点，那么问题来了，我们为什么需要它？visual studio IDE 编译器通常每次都编译整个应用程序类，而不是在需要时编译一大块代码段。因此，该过程相对繁琐、耗时，并给文件系统带来过度的额外开销。
+在这方面，有多个类将被雕刻出各种各样的功能。这个野心家应该精通。NET 技术，因为这个项目是一个基于控制台的应用程序，解释器给我们一个命令行方式的印象来操作命令。因此，下面的 C# 代码片段是应用程序的入口点，通过合并所有其他辅助基本类的调用，从这里开始实际执行。在名为“程序”的入口点类中，我们发现横幅与自定义异常处理功能一起显示。
 **program.cs**
 
 ## c sharp . c sharp . c sharp . c sharp
@@ -24,10 +24,10 @@ class Program {
         // Method call for welcome message
         Program.WriteWelcomeMessage();
 
-        // Display #:-> on the shell
+        // Display # :-> on the shell
         while (Interactive.Context.Continue) {
 
-            Console.Write("#:->");
+            Console.Write("# :->");
 
             string text = Console.ReadLine();
             if (text == null) {
@@ -430,7 +430,7 @@ public class exeContext
 }
 ```
 
-**cust output . cs**cust output 类通过生成计算结果的 XML 文件来显示解释的 C#代码的输出，然后以有效的形式打印输出。此类接受各种类型的输入，包括数组、字典、XML、可枚举、字符串，并根据传递的值生成输出。
+**cust output . cs**cust output 类通过生成计算结果的 XML 文件来显示解释的 C# 代码的输出，然后以有效的形式打印输出。此类接受各种类型的输入，包括数组、字典、XML、可枚举、字符串，并根据传递的值生成输出。
 
 ## c sharp . c sharp . c sharp . c sharp
 
@@ -611,8 +611,8 @@ public class cusTypeMem : compiledCode {
 
 ![](img/3e5562e358a1574485c5b80237529130.png)
 
-最后，现在我们可以享受 C#代码指令的即时执行(就像我们执行 python 指令代码一样)，我们编写代码并按 enter 键的动作如下；
+最后，现在我们可以享受 C# 代码指令的即时执行(就像我们执行 python 指令代码一样)，我们编写代码并按 enter 键的动作如下；
 
 ![](img/7eb61190b545d917ad779a477ed9a3ef.png)
 
-这个构造是一个简单的 C#解释器，支持独立命令的命令行编译。它接受内联 C#代码指令，然后动态编译它，最后像 Python 解释器一样当场执行生成的程序集。
+这个构造是一个简单的 C# 解释器，支持独立命令的命令行编译。它接受内联 C# 代码指令，然后动态编译它，最后像 Python 解释器一样当场执行生成的程序集。

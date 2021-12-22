@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-math-exp-method/](https://www.geeksforgeeks.org/c-sharp-math-exp-method/)
 
-在 C#中， ***Exp()*** 是一个数学类方法，用于将 **e** 提升到指定的幂。这里 *e* 是一个数学常数，其值约为 **2.71828** 。 **Exp()** 是 *[Log()](https://www.geeksforgeeks.org/c-math-log-method/)* 的逆。
+在 C# 中， ***Exp()*** 是一个数学类方法，用于将 **e** 提升到指定的幂。这里 *e* 是一个数学常数，其值约为 **2.71828** 。 **Exp()** 是 *[Log()](https://www.geeksforgeeks.org/c-math-log-method/)* 的逆。
 
 **语法:**
 

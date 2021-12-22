@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-thread-priority-in-多线程/](https://www.geeksforgeeks.org/c-sharp-thread-priority-in-multithreading/)
 
-在多线程环境中，每个线程都有自己的优先级。一个线程的优先级显示了一个线程访问 CPU 资源的频率。每当我们在 C#中创建一个线程时，它总是被赋予一些优先级。
+在多线程环境中，每个线程都有自己的优先级。一个线程的优先级显示了一个线程访问 CPU 资源的频率。每当我们在 C# 中创建一个线程时，它总是被赋予一些优先级。
 
 **要点:**
 

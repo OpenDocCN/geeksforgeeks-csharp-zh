@@ -1,4 +1,4 @@
-# 如何在 C#中同步访问队列
+# 如何在 C# 中同步访问队列
 
 > 原文:[https://www . geeksforgeeks . org/如何同步访问 c-sharp 中的队列/](https://www.geeksforgeeks.org/how-to-get-synchronize-access-to-the-queue-in-c-sharp/)
 
@@ -121,4 +121,4 @@ HTML
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . queue . sync root？view = net framework-4 . 7 . 2 # System _ Collections _ Queue _ SyncRoot](https://docs.microsoft.com/en-us/dotnet/api/system.collections.queue.syncroot?view=netframework-4.7.2#System_Collections_Queue_SyncRoot)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . queue . sync root？view = net framework-4 . 7 . 2 # System _ Collections _ Queue _ SyncRoot](https://docs.microsoft.com/en-us/dotnet/api/system.collections.queue.syncroot?view=netframework-4.7.2# System_Collections_Queue_SyncRoot)

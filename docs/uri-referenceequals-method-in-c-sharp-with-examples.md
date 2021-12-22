@@ -1,4 +1,4 @@
-# 乌利。参考 C#中的 quals()方法并举例
+# 乌利。参考 C# 中的 quals()方法并举例
 
 > 原文:[https://www . geesforgeks . org/uri-referenceeqals-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/uri-referenceequals-method-in-c-sharp-with-examples/)
 

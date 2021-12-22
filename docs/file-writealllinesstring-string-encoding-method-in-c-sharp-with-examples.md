@@ -1,4 +1,4 @@
-# 文件。C#中的 WriteAllLines(字符串，字符串[]，编码)方法，示例
+# 文件。C# 中的 WriteAllLines(字符串，字符串[]，编码)方法，示例
 
 > 原文:[https://www . geesforgeks . org/file-writellinestring-string-encoding-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-writealllinesstring-string-encoding-method-in-c-sharp-with-examples/)
 

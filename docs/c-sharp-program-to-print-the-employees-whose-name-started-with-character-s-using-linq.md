@@ -1,4 +1,4 @@
-# 使用 LINQ 打印姓名以“S”开头的员工的 C#程序
+# 使用 LINQ 打印姓名以“S”开头的员工的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-print-the-employees-s-use-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-print-the-employees-whose-name-started-with-character-s-using-linq/)
 

@@ -1,4 +1,4 @@
-# c#中 UInt16、UInt32 和 UInt64 的区别
+# c# 中 UInt16、UInt32 和 UInt64 的区别
 
 > 原文:[https://www . geeksforgeeks . org/uint 16-uint 32-和-uint64-in-c-sharp/](https://www.geeksforgeeks.org/difference-between-uint16-uint32-and-uint64-in-c-sharp/) 之间的差异
 
@@ -152,7 +152,7 @@ Maximum value of UInt64: 18446744073709551615
 
 ```
 
-**c#中 UInt16、UInt32 和 UInt64 的区别**
+**c# 中 UInt16、UInt32 和 UInt64 的区别**
 
 <figure class="table">
 

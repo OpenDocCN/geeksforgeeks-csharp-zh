@@ -1,4 +1,4 @@
-# C#程序用递归求 2 的乘积
+# C# 程序用递归求 2 的乘积
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-用递归程序查找 2 个数字的乘积/](https://www.geeksforgeeks.org/c-sharp-program-to-find-product-of-2-numbers-using-recursion/)
 

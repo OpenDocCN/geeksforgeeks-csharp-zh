@@ -1,6 +1,6 @@
 # 使用 LINQ
 
-基于扩展名计数文件的 C#程序
+基于扩展名计数文件的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-count-files-on-extension-use-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-count-the-files-based-on-extension-using-linq/)
 

@@ -1,4 +1,4 @@
-# 时间跨度。C#中的 FromSeconds()方法
+# 时间跨度。C# 中的 FromSeconds()方法
 
 > 原文:[https://www . geesforgeks . org/timespan-from seconds-method-in-c-sharp/](https://www.geeksforgeeks.org/timespan-fromseconds-method-in-c-sharp/)
 

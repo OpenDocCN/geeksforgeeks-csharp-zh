@@ -1,4 +1,4 @@
-# 如何在 C#中设置文本框中的文本？
+# 如何在 C# 中设置文本框中的文本？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的 textbox 中的文本/](https://www.geeksforgeeks.org/how-to-set-the-text-in-textbox-in-c-sharp/)
 

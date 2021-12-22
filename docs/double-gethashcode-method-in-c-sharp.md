@@ -1,4 +1,4 @@
-# 翻倍。C#中的 GetHashCode()方法
+# 翻倍。C# 中的 GetHashCode()方法
 
 > 原文:[https://www . geesforgeks . org/double-gethashcode-method-in-c-sharp/](https://www.geeksforgeeks.org/double-gethashcode-method-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# 如何在 C#中创建多行文本框？
+# 如何在 C# 中创建多行文本框？
 
 > 原文:[https://www . geesforgeks . org/how-create-multiline-textbox-in-c-sharp/](https://www.geeksforgeeks.org/how-to-create-multiline-textbox-in-c-sharp/)
 

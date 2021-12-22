@@ -1,4 +1,4 @@
-# c#中字节和字节的区别
+# c# 中字节和字节的区别
 
 > 原文:[https://www . geesforgeks . org/c-sharp 中字节与字节的差异/](https://www.geeksforgeeks.org/difference-between-byte-and-sbyte-in-c-sharp/)
 
@@ -72,7 +72,7 @@ Maximum value of sbyte: 127
 
 ```
 
-**c#中字节和字节的区别**
+**c# 中字节和字节的区别**
 
 <figure class="table">
 

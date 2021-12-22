@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-char-equals-method/](https://www.geeksforgeeks.org/c-sharp-char-equals-method/)
 
-在 C#中， ***Char。*** 是一个*系统。Char* struct 方法，用于通过检查当前实例是否等于指定对象或 Char 值来返回值。这个方法可以通过传递不同类型的参数来重载。
+在 C# 中， ***Char。*** 是一个*系统。Char* struct 方法，用于通过检查当前实例是否等于指定对象或 Char 值来返回值。这个方法可以通过传递不同类型的参数来重载。
 
 1.  **Char。相等(充电)法**
 2.  **Char。相等(对象)方法**

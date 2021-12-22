@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-如何在数组中插入元素/](https://www.geeksforgeeks.org/c-sharp-how-to-insert-an-element-in-an-array/)
 
-[数组](https://www.geeksforgeeks.org/c-sharp-arrays/)是存储在连续存储位置的项目的集合。在本文中，我们将看到如何在 C#中的数组中插入一个元素。
+[数组](https://www.geeksforgeeks.org/c-sharp-arrays/)是存储在连续存储位置的项目的集合。在本文中，我们将看到如何在 C# 中的数组中插入一个元素。
 
 假设我们有一个数组，我们想在这个数组的特定位置插入一个元素。
 

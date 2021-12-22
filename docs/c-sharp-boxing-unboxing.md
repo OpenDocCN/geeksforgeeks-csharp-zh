@@ -2,13 +2,13 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-boxing-unboxing/](https://www.geeksforgeeks.org/c-sharp-boxing-unboxing/)
 
-#### 前提条件:[c#中的数据类型](https://www.geeksforgeeks.org/c-data-types-2/)
+#### 前提条件:[c# 中的数据类型](https://www.geeksforgeeks.org/c-data-types-2/)
 
 拳击和拆箱是[**【c#**](https://www.geeksforgeeks.org/introduction-to-c-sharp/)中的一个重要概念。C# Type 系统包含 [**三种数据类型**](https://www.geeksforgeeks.org/c-data-types-2/) : **值类型(int、char 等)**、**引用类型(object)** 和**指针类型**。基本上，它将值类型转换为引用类型，反之亦然。装箱和取消装箱实现了类型系统的统一视图，其中任何类型的值都可以被视为对象。
 
 ### 
 
-**c#打拳**
+**c# 打拳**
 
 *   转换一个 **[值类型](https://www.geeksforgeeks.org/c-data-types-2/)(字符，整型等)的过程。)到一个[参考型](https://www.geeksforgeeks.org/c-data-types-2/)(物体)**叫做**拳**。
 *   装箱是使用对象类型(超类型)的隐式转换过程。
@@ -25,7 +25,7 @@
 
     [![Boxing](img/909df955b5e914a8eaf5b76488dd047f.png)](https://media.geeksforgeeks.org/wp-content/uploads/Boxing.jpg)
 
-*   让我们用 C#编程代码来理解**拳击**:
+*   让我们用 C# 编程代码来理解**拳击**:
 
     ```cs
     // C# implementation to demonstrate
@@ -82,7 +82,7 @@
 
     [![Unboxing](img/3878db31be8126b2ce4e8bee1061b1af.png)](https://media.geeksforgeeks.org/wp-content/uploads/Unboxing.jpg)
 
-*   让我们来理解**用 C#编程代码打开**的锁:
+*   让我们来理解**用 C# 编程代码打开**的锁:
 
     ```cs
     // C# implementation to demonstrate

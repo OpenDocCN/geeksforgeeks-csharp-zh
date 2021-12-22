@@ -1,4 +1,4 @@
-# UInt32。将 C#中的()方法与示例进行比较
+# UInt32。将 C# 中的()方法与示例进行比较
 
 > 原文:[https://www . geeksforgeeks . org/uint 32-compare to-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/uint32-compareto-method-in-c-sharp-with-examples/)
 

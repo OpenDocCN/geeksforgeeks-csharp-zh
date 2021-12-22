@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-将内容从一个文件复制到另一个文件/](https://www.geeksforgeeks.org/c-sharp-copying-the-contents-from-one-file-to-another-file/)
 
-给定一个文件，现在我们的任务是使用 C#将数据从一个文件复制到另一个文件。因此，为了完成这个任务，我们使用了系统中文件类的 **Copy()** 方法。IO 命名空间。此功能用于将内容从一个文件复制到一个新文件。它有两种不同类型的重载方法:
+给定一个文件，现在我们的任务是使用 C# 将数据从一个文件复制到另一个文件。因此，为了完成这个任务，我们使用了系统中文件类的 **Copy()** 方法。IO 命名空间。此功能用于将内容从一个文件复制到一个新文件。它有两种不同类型的重载方法:
 
 **1。** [**【复制(String，String)**](https://www.geeksforgeeks.org/file-copystring-string-method-in-c-sharp-with-examples/?ref=rp) **:** 此功能用于将内容从一个文件复制到新文件。它不支持覆盖同名文件。
 

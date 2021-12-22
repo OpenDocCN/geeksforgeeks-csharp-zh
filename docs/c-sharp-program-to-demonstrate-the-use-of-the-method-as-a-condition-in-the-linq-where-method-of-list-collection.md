@@ -1,4 +1,4 @@
-# C#程序，演示在 LINQ 使用该方法作为条件
+# C# 程序，演示在 LINQ 使用该方法作为条件
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-演示-使用-方法-作为-条件-在-linq-where-method-of-list-collection/](https://www.geeksforgeeks.org/c-sharp-program-to-demonstrate-the-use-of-the-method-as-a-condition-in-the-linq-where-method-of-list-collection/)
 

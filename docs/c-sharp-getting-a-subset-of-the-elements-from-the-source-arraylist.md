@@ -171,4 +171,4 @@ class GFG {
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . ArrayList . getrange？view = net framework-4 . 7 . 2 # System _ Collections _ ArrayList _ GetRange _ System _ int 32 _ System _ int 32 _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.arraylist.getrange?view=netframework-4.7.2#System_Collections_ArrayList_GetRange_System_Int32_System_Int32_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . ArrayList . getrange？view = net framework-4 . 7 . 2 # System _ Collections _ ArrayList _ GetRange _ System _ int 32 _ System _ int 32 _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.arraylist.getrange?view=netframework-4.7.2# System_Collections_ArrayList_GetRange_System_Int32_System_Int32_)

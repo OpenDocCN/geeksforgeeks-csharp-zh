@@ -1,4 +1,4 @@
-# c#中的访问修饰符
+# c# 中的访问修饰符
 
 > 原文:[https://www.geeksforgeeks.org/access-modifiers-in-c-sharp/](https://www.geeksforgeeks.org/access-modifiers-in-c-sharp/)
 

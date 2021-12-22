@@ -1,8 +1,8 @@
-# c#中的 ValueTuple 结构
+# c# 中的 ValueTuple 结构
 
 > 原文:[https://www.geeksforgeeks.org/valuetuple-struct-in-c-sharp/](https://www.geeksforgeeks.org/valuetuple-struct-in-c-sharp/)
 
-在 C#中，ValueTuple 结构提供了用于创建 [**值元组**](https://www.geeksforgeeks.org/valuetuple-in-c-sharp/) 的静态方法。它是在*系统*命名空间下定义的。在*中介绍。NET Framework 4.7* 提供 C#中的运行时实现元组。ValueTuple 结构用于表示不包含任何元素的元组。通常，它提供用于创建或比较值元组的静态方法。借助 ValueTuple 结构的 Create 方法，您可以创建一个保存从 0 到 8 的元素的值 Tuple。它在以下方面不同于元组类:
+在 C# 中，ValueTuple 结构提供了用于创建 [**值元组**](https://www.geeksforgeeks.org/valuetuple-in-c-sharp/) 的静态方法。它是在*系统*命名空间下定义的。在*中介绍。NET Framework 4.7* 提供 C# 中的运行时实现元组。ValueTuple 结构用于表示不包含任何元素的元组。通常，它提供用于创建或比较值元组的静态方法。借助 ValueTuple 结构的 Create 方法，您可以创建一个保存从 0 到 8 的元素的值 Tuple。它在以下方面不同于元组类:
 
 *   它属于值类型，而不是引用类型。
 *   它是可变的，而不是只读的。

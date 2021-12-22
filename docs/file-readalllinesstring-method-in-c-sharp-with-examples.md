@@ -1,4 +1,4 @@
-# 文件。C#中的 ReadAllLines(字符串)方法及示例
+# 文件。C# 中的 ReadAllLines(字符串)方法及示例
 
 > 原文:[https://www . geesforgeks . org/file-readalllinestring-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-readalllinesstring-method-in-c-sharp-with-examples/)
 

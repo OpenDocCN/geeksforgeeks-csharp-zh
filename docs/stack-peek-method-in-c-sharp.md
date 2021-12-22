@@ -1,4 +1,4 @@
-# 叠加。C#中的 Peek 方法
+# 叠加。C# 中的 Peek 方法
 
 > 原文:[https://www.geeksforgeeks.org/stack-peek-method-in-c-sharp/](https://www.geeksforgeeks.org/stack-peek-method-in-c-sharp/)
 

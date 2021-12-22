@@ -30,7 +30,7 @@ class GFG {
         try {
 
             // Declaring and initializing address1
-            string address1 = "http://www.contoso.com/index.htm#search";
+            string address1 = "http://www.contoso.com/index.htm# search";
 
             // Converting a string to its 
             // escaped representation
@@ -128,7 +128,7 @@ class GFG {
         try {
 
             // Declaring and initializing address1
-            StringBuilder address1 = new StringBuilder("http://www.contoso.com/index.htm#search");
+            StringBuilder address1 = new StringBuilder("http://www.contoso.com/index.htm# search");
 
             // appending StringBuilder
             for (int i = 1; i <= 3000; i++)

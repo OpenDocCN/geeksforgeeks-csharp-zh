@@ -1,4 +1,4 @@
-# c#中的循环
+# c# 中的循环
 
 > 原文:[https://www.geeksforgeeks.org/loops-in-c-sharp/](https://www.geeksforgeeks.org/loops-in-c-sharp/)
 

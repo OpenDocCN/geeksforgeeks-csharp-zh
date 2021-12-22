@@ -1,4 +1,4 @@
-# 文件。C#中的 WriteAllText(字符串，字符串)方法，示例
+# 文件。C# 中的 WriteAllText(字符串，字符串)方法，示例
 
 > 原文:[https://www . geesforgeks . org/file-writeltextstring-string-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-writealltextstring-string-method-in-c-sharp-with-examples/)
 

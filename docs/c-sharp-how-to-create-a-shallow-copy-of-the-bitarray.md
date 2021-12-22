@@ -81,7 +81,7 @@ False
 ## c sharp . c sharp . c sharp . c sharp
 
 ```cs
-// C#Program to show changes in clone
+// C# Program to show changes in clone
 // don't affect the original BitArray
 using System;
 using System.Collections;

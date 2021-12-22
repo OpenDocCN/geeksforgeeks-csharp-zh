@@ -1,4 +1,4 @@
-# 如何在 C#中改变文本框中出现的字符的大小写？
+# 如何在 C# 中改变文本框中出现的字符的大小写？
 
 > 原文:[https://www . geesforgeks . org/如何更改 c-sharp 文本框中的字符大小写/](https://www.geeksforgeeks.org/how-to-change-the-case-of-the-characters-present-in-the-textbox-in-c-sharp/)
 

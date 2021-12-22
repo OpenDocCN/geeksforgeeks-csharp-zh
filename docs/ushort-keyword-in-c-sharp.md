@@ -1,4 +1,4 @@
-# c#中的 ushort 关键字
+# c# 中的 ushort 关键字
 
 > 原文:[https://www.geeksforgeeks.org/ushort-keyword-in-c-sharp/](https://www.geeksforgeeks.org/ushort-keyword-in-c-sharp/)
 

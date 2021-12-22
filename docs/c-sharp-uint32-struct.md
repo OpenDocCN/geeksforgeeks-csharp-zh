@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-uint32-struct/](https://www.geeksforgeeks.org/c-sharp-uint32-struct/)
 
-在 C#中，UInt32 结构用于表示从 0 到 4，294，967，295 范围内的 32 位无符号整数(也称为 **uint** 数据类型)。它还提供了不同类型的方法来比较这种类型的实例，将实例的值转换为其字符串表示形式，将数字的字符串表示形式转换为这种类型的实例，等等。该结构在**系统**命名空间下定义。UInt32 结构继承了继承[对象类](https://www.geeksforgeeks.org/c-sharp-object-class/)的值类型类。
+在 C# 中，UInt32 结构用于表示从 0 到 4，294，967，295 范围内的 32 位无符号整数(也称为 **uint** 数据类型)。它还提供了不同类型的方法来比较这种类型的实例，将实例的值转换为其字符串表示形式，将数字的字符串表示形式转换为这种类型的实例，等等。该结构在**系统**命名空间下定义。UInt32 结构继承了继承[对象类](https://www.geeksforgeeks.org/c-sharp-object-class/)的值类型类。
 
 #### 菲尔茨
 

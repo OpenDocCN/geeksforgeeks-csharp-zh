@@ -1,4 +1,4 @@
-# 在 C#中实现堆栈
+# 在 C# 中实现堆栈
 
 > 原文:[https://www.geeksforgeeks.org/implementing-stack-c-sharp/](https://www.geeksforgeeks.org/implementing-stack-c-sharp/)
 
@@ -8,7 +8,7 @@
 *   **Eject:** Remove an item from the stack. These items pop up in the reverse order of push. If the stack is empty, it is called a stack underflow condition.
 *   **peek:** Returns the top element of the stack.
 
-下面给出了使用数组实现堆栈的 C#代码
+下面给出了使用数组实现堆栈的 C# 代码
 
 ```cs
 using System;

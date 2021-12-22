@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-tuple-class/](https://www.geeksforgeeks.org/c-sharp-tuple-class/)
 
-在 C#中，Tuple 类用于提供创建 **[元组](https://www.geeksforgeeks.org/c-sharp-tuple/)** 的静态方法，该类定义在*系统*命名空间下。这个类本身并不表示元组，但是它提供了用于创建元组类型实例的静态方法。或者换句话说，tuple 类提供了用于实例化 tuple 对象的辅助方法，而不必显式指定每个 Tuple 组件的类型。在元组中，你只能存储 1 到 8 个元素，如果你试图存储大于 8 的元素而没有嵌套元组，那么编译器会给出一个错误。
+在 C# 中，Tuple 类用于提供创建 **[元组](https://www.geeksforgeeks.org/c-sharp-tuple/)** 的静态方法，该类定义在*系统*命名空间下。这个类本身并不表示元组，但是它提供了用于创建元组类型实例的静态方法。或者换句话说，tuple 类提供了用于实例化 tuple 对象的辅助方法，而不必显式指定每个 Tuple 组件的类型。在元组中，你只能存储 1 到 8 个元素，如果你试图存储大于 8 的元素而没有嵌套元组，那么编译器会给出一个错误。
 
 ***一般使用元组:***
 

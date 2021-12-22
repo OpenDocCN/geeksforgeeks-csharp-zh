@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-flowlayoutpanel-class/](https://www.geeksforgeeks.org/c-sharp-flowlayoutpanel-class/)
 
-在 Windows 窗体中，FlowLayoutPanel 控件用于在水平或垂直流动方向上排列其子控件。或者换句话说，FlowLayoutPanel 是一个容器，用于在其中水平或垂直组织不同或相同类型的控件。FlowLayoutPanel 类用于表示窗口流布局面板，还提供不同类型的属性、方法和事件。在**系统下定义。Windows.Forms** 命名空间。在 C#中，您可以使用两种不同的方法在 windows 窗体中创建一个 FlowLayoutPanel:
+在 Windows 窗体中，FlowLayoutPanel 控件用于在水平或垂直流动方向上排列其子控件。或者换句话说，FlowLayoutPanel 是一个容器，用于在其中水平或垂直组织不同或相同类型的控件。FlowLayoutPanel 类用于表示窗口流布局面板，还提供不同类型的属性、方法和事件。在**系统下定义。Windows.Forms** 命名空间。在 C# 中，您可以使用两种不同的方法在 windows 窗体中创建一个 FlowLayoutPanel:
 
 **1。设计时:**创建 FlowLayoutPanel 控件的最简单方法如下所示:
 

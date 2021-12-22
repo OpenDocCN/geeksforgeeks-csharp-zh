@@ -1,4 +1,4 @@
-# 列表。C#中的 FindIndex()方法，示例
+# 列表。C# 中的 FindIndex()方法，示例
 
 > 原文:[https://www . geesforgeks . org/list-find index-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/list-findindex-method-in-c-sharp-with-examples/)
 

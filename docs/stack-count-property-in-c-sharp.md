@@ -1,4 +1,4 @@
-# 叠加。C#中的计数属性
+# 叠加。C# 中的计数属性
 
 > 原文:[https://www . geesforgeks . org/stack-count-property-in-c-sharp/](https://www.geeksforgeeks.org/stack-count-property-in-c-sharp/)
 

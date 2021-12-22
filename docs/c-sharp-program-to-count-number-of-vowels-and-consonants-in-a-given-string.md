@@ -1,8 +1,8 @@
-# 计算给定字符串中元音和辅音数量的 C#程序
+# 计算给定字符串中元音和辅音数量的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-count-number-to-number-number-to-number-to-number-to-number-to-number-to-number-to-number-to-number-to-number-to-number-to-number-number-to-number](https://www.geeksforgeeks.org/c-sharp-program-to-count-number-of-vowels-and-consonants-in-a-given-string/)
 
-C#是一种通用编程语言，用于创建移动应用程序、桌面应用程序、网站和游戏。因为我们知道 a、e、I、o、u 是元音，剩下的字母表在英语中被称为辅音，所以现在使用 C#语言，我们将创建一个程序，该程序将返回给定字符串中存在的元音和辅音的总数。
+C# 是一种通用编程语言，用于创建移动应用程序、桌面应用程序、网站和游戏。因为我们知道 a、e、I、o、u 是元音，剩下的字母表在英语中被称为辅音，所以现在使用 C# 语言，我们将创建一个程序，该程序将返回给定字符串中存在的元音和辅音的总数。
 
 **示例:**
 

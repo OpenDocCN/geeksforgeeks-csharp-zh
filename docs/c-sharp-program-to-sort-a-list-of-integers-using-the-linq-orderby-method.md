@@ -1,4 +1,4 @@
-# 使用 LINQ 排序比()方法对整数列表进行排序的 C#程序
+# 使用 LINQ 排序比()方法对整数列表进行排序的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-程序使用-linq-order by-方法对整数列表进行排序/](https://www.geeksforgeeks.org/c-sharp-program-to-sort-a-list-of-integers-using-the-linq-orderby-method/)
 

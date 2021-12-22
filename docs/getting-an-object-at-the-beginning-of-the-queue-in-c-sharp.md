@@ -1,4 +1,4 @@
-# 在 C#中获取队列开头的对象
+# 在 C# 中获取队列开头的对象
 
 > 原文:[https://www . geeksforgeeks . org/在 c-sharp 队列开始处获取对象/](https://www.geeksforgeeks.org/getting-an-object-at-the-beginning-of-the-queue-in-c-sharp/)
 

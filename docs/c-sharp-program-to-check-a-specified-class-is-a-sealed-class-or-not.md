@@ -1,4 +1,4 @@
-# 检查指定类是否为密封类的 C#程序
+# 检查指定类是否为密封类的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-check-a-specified-class-is-a-sealed-class-or-not/](https://www.geeksforgeeks.org/c-sharp-program-to-check-a-specified-class-is-a-sealed-class-or-not/)
 

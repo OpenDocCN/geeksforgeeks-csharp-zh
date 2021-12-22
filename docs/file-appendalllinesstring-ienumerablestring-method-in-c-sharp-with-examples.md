@@ -1,4 +1,4 @@
-# 文件。C#中的 AppendAllLines(String，IEnumerable <string>)方法，示例</string>
+# 文件。C# 中的 AppendAllLines(String，IEnumerable <string>)方法，示例</string>
 
 > 原文:[https://www . geeksforgeeks . org/file-appendalllinestring-ienumerablesting-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-appendalllinesstring-ienumerablestring-method-in-c-sharp-with-examples/)
 

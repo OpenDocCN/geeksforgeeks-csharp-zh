@@ -1,4 +1,4 @@
-# 使用 LINQ 打印包含“MAN”子串的名称的 C#程序
+# 使用 LINQ 打印包含“MAN”子串的名称的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-print-the-name-contain-man-substring-use-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-print-the-names-that-contain-man-substring-using-linq/)
 

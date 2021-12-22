@@ -29,7 +29,7 @@ join 子句总是取两个数据源，呈现数据源的元素必须包含一些
 
     ```
 
-*   它支持 C#和 VB.Net 语言中方法语法。这里，join 方法以两种不同的方式重载:
+*   它支持 C# 和 VB.Net 语言中方法语法。这里，join 方法以两种不同的方式重载:
     1.  **加入< TOuter、TInner、TKey、tre sult>(IEnumerable<TOuter>、IEnumerable < TInner >、Func < TOuter、TKey >、Func < TInner、TKey >、Func < TOuter、TInner、TResult > ):** 此方法允许您根据给定的匹配关键字关联两个序列的元素。这里，默认的相等比较器用于比较键。
     2.  **加入< TOuter、TInner、TKey、tre sult>(IEnumerable<TOuter>、IEnumerable < TInner >、Func < TOuter、TKey >、Func < TInner、TKey >、Func < TOuter、TInner、TResult >、iequality comparer<TKey>):**这个方法可以让你关联两个元素指定的 IEqualityComparer < T >用于比较按键。
 *   可查询类和可枚举类中都存在联接方法。

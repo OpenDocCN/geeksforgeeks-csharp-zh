@@ -1,8 +1,8 @@
-# 如何在 C#中设置 MaskedTextBox 的边框样式？
+# 如何在 C# 中设置 MaskedTextBox 的边框样式？
 
 > 原文:[https://www . geeksforgeeks . org/how-style-of-the-maskedtxbox-in-c-sharp/](https://www.geeksforgeeks.org/how-to-style-the-border-of-the-maskedtextbox-in-c-sharp/)
 
-在 C#中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在掩码文本框控件中，可以使用**边框样式属性**设置掩码文本框的边框样式。此属性有三个不同的值，在 BorderStyle 枚举下定义，这些值是:
+在 C# 中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在掩码文本框控件中，可以使用**边框样式属性**设置掩码文本框的边框样式。此属性有三个不同的值，在 BorderStyle 枚举下定义，这些值是:
 
 *   无值表示无边框。
 *   三维边框的固定三维值。

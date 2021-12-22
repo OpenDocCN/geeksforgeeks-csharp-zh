@@ -1,4 +1,4 @@
-# 文件。C#中存在()方法，示例
+# 文件。C# 中存在()方法，示例
 
 > 原文:[https://www . geesforgeks . org/file-exists-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-exists-method-in-c-sharp-with-examples/)
 

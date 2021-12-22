@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-string-vs-string builder/](https://www.geeksforgeeks.org/c-sharp-string-vs-stringbuilder/)
 
-#### 先决条件:[c#中的字符串](https://www.geeksforgeeks.org/c-string/)
+#### 先决条件:[c# 中的字符串](https://www.geeksforgeeks.org/c-string/)
 
 StringBuilder 用于表示字符的*可变字符串*。可变是指可以改变的字符串。所以字符串对象是不可变的，但是字符串生成器是可变的字符串类型。它不会创建当前字符串对象的新修改实例，而是在现有字符串对象中进行修改。StringBuilder 的完整功能由出现在`System.Text`命名空间中的 StringBuilder 类提供。
 

@@ -1,4 +1,4 @@
-# 小数。C#中的 GetHashCode 方法及示例
+# 小数。C# 中的 GetHashCode 方法及示例
 
 > 原文:[https://www . geesforgeks . org/decimal-gethashcode-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/decimal-gethashcode-method-in-c-sharp-with-examples/)
 

@@ -1,8 +1,8 @@
-# MathF。C#中的天花板()方法，示例
+# MathF。C# 中的天花板()方法，示例
 
 > 原文:[https://www . geesforgeks . org/mathf-天花板-c-in-method-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-ceiling-method-in-c-sharp-with-examples/)
 
-在 C#中 ***MathF。*上限(单)**是一个 MathF 类的方法。此方法用于查找*最小整数*，该整数大于或等于自变量列表中指定的单值或浮点值。
+在 C# 中 ***MathF。*上限(单)**是一个 MathF 类的方法。此方法用于查找*最小整数*，该整数大于或等于自变量列表中指定的单值或浮点值。
 
 > **语法:**公共静态浮动天花板(float x)；
 > 这里，x 是必须计算其上限值的浮动(单一)值。

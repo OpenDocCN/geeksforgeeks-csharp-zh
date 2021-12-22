@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-math-log10-method/](https://www.geeksforgeeks.org/c-sharp-math-log10-method/)
 
-在 C#中 ***数学。*log10()**是一种数学类方法。它用于返回指定数字的以 10 为底的对数。
+在 C# 中 ***数学。*log10()**是一种数学类方法。它用于返回指定数字的以 10 为底的对数。
 
 **语法:**
 

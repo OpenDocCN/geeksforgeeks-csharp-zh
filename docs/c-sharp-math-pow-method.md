@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-math-pow-method/](https://www.geeksforgeeks.org/c-sharp-math-pow-method/)
 
-在 C#中 ***数学。*pow()**是一种数学类方法。这种方法用来计算一个数与另一个数的幂的乘积。
+在 C# 中 ***数学。*pow()**是一种数学类方法。这种方法用来计算一个数与另一个数的幂的乘积。
 
 **语法:**
 

@@ -1,4 +1,4 @@
-# 用于编写函数以获取链表中第 n 个节点的 C#程序
+# 用于编写函数以获取链表中第 n 个节点的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-写程序-函数-获取链表中的第 n 个节点-2/](https://www.geeksforgeeks.org/c-program-for-writing-a-function-to-get-nth-node-in-a-linked-list-2/)
 

@@ -1,4 +1,4 @@
-# 如何在 C#中求数组的秩
+# 如何在 C# 中求数组的秩
 
 > 原文:[https://www . geeksforgeeks . org/如何找到 c-sharp 中的数组秩/](https://www.geeksforgeeks.org/how-to-find-the-rank-of-an-array-in-c-sharp/)
 

@@ -155,4 +155,4 @@ Trying to add new element into myList2:
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . ArrayList . readonly？view = net framework-4 . 7 . 2 # System _ Collections _ ArrayList _ ReadOnly _ System _ Collections _ ArrayList _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.arraylist.readonly?view=netframework-4.7.2#System_Collections_ArrayList_ReadOnly_System_Collections_ArrayList_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . ArrayList . readonly？view = net framework-4 . 7 . 2 # System _ Collections _ ArrayList _ ReadOnly _ System _ Collections _ ArrayList _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.arraylist.readonly?view=netframework-4.7.2# System_Collections_ArrayList_ReadOnly_System_Collections_ArrayList_)

@@ -1,4 +1,4 @@
-# Int32。C#中的方法与示例的比较
+# Int32。C# 中的方法与示例的比较
 
 > 原文:[https://www . geeksforgeeks . org/int 32-compare to-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/int32-compareto-method-in-c-sharp-with-examples/)
 

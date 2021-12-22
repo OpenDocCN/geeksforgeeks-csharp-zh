@@ -1,4 +1,4 @@
-# 如何在 C#中设置文本框中文本的对齐方式？
+# 如何在 C# 中设置文本框中文本的对齐方式？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 文本框中文本的对齐方式/](https://www.geeksforgeeks.org/how-to-set-the-alignment-of-the-text-in-the-textbox-in-c-sharp/)
 

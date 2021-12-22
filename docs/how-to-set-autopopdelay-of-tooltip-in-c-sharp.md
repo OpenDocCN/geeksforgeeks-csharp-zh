@@ -1,4 +1,4 @@
-# 如何在 C#中设置工具提示的自动操作延迟？
+# 如何在 C# 中设置工具提示的自动操作延迟？
 
 > 原文:[https://www . geesforgeks . org/how-set-autoopdelay-of-tooltip-in-c-sharp/](https://www.geeksforgeeks.org/how-to-set-autopopdelay-of-tooltip-in-c-sharp/)
 

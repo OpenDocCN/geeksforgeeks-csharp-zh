@@ -14,7 +14,7 @@ public int GetUpperBound (int dimension);
 
 **返回值:**该方法的返回类型为**系统。Int32** 。此方法返回数组中指定维度的最后一个元素的索引，如果指定维度为空，则返回-1。
 
-**异常:**如果*维度*的值小于零，或者等于或大于[等级](https://docs.microsoft.com/en-us/dotnet/api/system.array.rank?view=netcore-2.1#System_Array_Rank)，该方法将给出*指数。*
+**异常:**如果*维度*的值小于零，或者等于或大于[等级](https://docs.microsoft.com/en-us/dotnet/api/system.array.rank?view=netcore-2.1# System_Array_Rank)，该方法将给出*指数。*
 
 **注意:*****getuperbound(0)***返回数组第一维的最后一个索引，**getuperbound(Rank–1)**返回数组最后一个维的最后一个索引。这个方法是一个 O(1)运算。
 

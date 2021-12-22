@@ -1,6 +1,6 @@
 # 从对象列表中找到整数并使用 LINQ
 
-对其进行排序的 C#程序
+对其进行排序的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-find-numbers-from-list-of-objects-and-sort-use-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-find-integer-numbers-from-the-list-of-objects-and-sort-them-using-linq/)
 

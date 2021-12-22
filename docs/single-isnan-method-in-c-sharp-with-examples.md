@@ -1,8 +1,8 @@
-# 单身。C#中的 IsNaN()方法及示例
+# 单身。C# 中的 IsNaN()方法及示例
 
 > 原文:[https://www . geesforgeks . org/single-isnan-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/single-isnan-method-in-c-sharp-with-examples/)
 
-在 C#中 ***单。*IsNaN(Single)**是单结构方法。此方法用于检查指定的浮点值是否不是数字(NaN)。
+在 C# 中 ***单。*IsNaN(Single)**是单结构方法。此方法用于检查指定的浮点值是否不是数字(NaN)。
 
 > **语法:**公共静态 bool IsNaN(float f)；
 > 

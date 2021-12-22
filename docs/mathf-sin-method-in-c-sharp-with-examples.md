@@ -1,4 +1,4 @@
-# MathF。C#中的 Sin()方法，带示例
+# MathF。C# 中的 Sin()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/mathf-sin-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-sin-method-in-c-sharp-with-examples/)
 

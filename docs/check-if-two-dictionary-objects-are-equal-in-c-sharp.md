@@ -1,4 +1,4 @@
-# 检查两个字典对象在 C#中是否相等
+# 检查两个字典对象在 C# 中是否相等
 
 > 原文:[https://www . geesforgeks . org/check-if-two-dictionary-objects-in-c-sharp/](https://www.geeksforgeeks.org/check-if-two-dictionary-objects-are-equal-in-c-sharp/)
 

@@ -1,8 +1,8 @@
-# MathF。C#中的 Sign()方法，示例
+# MathF。C# 中的 Sign()方法，示例
 
 > 原文:[https://www . geesforgeks . org/mathf-sign-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-sign-method-in-c-sharp-with-examples/)
 
-在 C#中 ***MathF。符号(单)*** 是一个 MathF 类方法，它返回一个指定数字符号的整数。
+在 C# 中 ***MathF。符号(单)*** 是一个 MathF 类方法，它返回一个指定数字符号的整数。
 
 > **语法:**公共静态 int Sign(float x)；
 > 这里， **x** 是需要计算符号的单精度浮点数。

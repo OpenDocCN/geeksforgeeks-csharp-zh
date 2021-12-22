@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-foreach-loop/](https://www.geeksforgeeks.org/c-sharp-foreach-loop/)
 
-**先决条件:*[c#中的循环](https://www.geeksforgeeks.org/loops-in-c-sharp/)*T5】**
+**先决条件:*[c# 中的循环](https://www.geeksforgeeks.org/loops-in-c-sharp/)*T5】**
 
 编程语言中的循环是一种根据要评估的条件的结果多次执行一条语句或一组语句的方法。结果条件应该为真，以便在循环中执行语句。 **foreach 循环**用于迭代集合的元素。集合可以是数组或列表。它对数组中的每个元素执行。
 

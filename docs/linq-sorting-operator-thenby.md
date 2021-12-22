@@ -14,8 +14,8 @@
 
 ThenBy 运算符用于实现升序的二级排序。运算符支持多重排序。通常，排序方法与排序方法一起使用。 [OrderBy()方法](https://www.geeksforgeeks.org/linq-sorting-operator-orderby/)，首先对序列或集合的元素进行升序排序，然后使用 By()方法再次对 OrderBy()方法的结果进行升序排序。或者换句话说，在 LINQ，集合是按照 [OrderBy 方法](https://www.geeksforgeeks.org/linq-sorting-operator-orderby/)给出的主字段进行的第一次排序，之后主排序的结果再次按照 ThenBy 方法给出的次字段进行排序。
 
-*   它不支持 C#和 VB.Net 语言中的查询语法。
-*   它支持 C#和 VB.Net 语言中方法语法。
+*   它不支持 C# 和 VB.Net 语言中的查询语法。
+*   它支持 C# 和 VB.Net 语言中方法语法。
 *   它同时出现在可查询类和可枚举类中。
 *   查询语法中的二级排序是用逗号分隔的，如示例 1 所示。
 *   它通过使用延迟执行来实现。

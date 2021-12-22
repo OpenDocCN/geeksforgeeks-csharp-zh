@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-substring-method/](https://www.geeksforgeeks.org/c-sharp-substring-method/)
 
-在 C#中， ***Substring()*** 是一个字符串方法。它用于从字符串的当前实例中检索子字符串。通过向该方法传递不同数量的参数，可以重载该方法，如下所示:
+在 C# 中， ***Substring()*** 是一个字符串方法。它用于从字符串的当前实例中检索子字符串。通过向该方法传递不同数量的参数，可以重载该方法，如下所示:
 
 *   **字符串。子串(Int32)方法***   **String.Substring(Int32, Int32) Method
 

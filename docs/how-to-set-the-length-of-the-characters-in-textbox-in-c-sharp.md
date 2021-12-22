@@ -1,4 +1,4 @@
-# 如何在 C#中设置文本框中字符的长度？
+# 如何在 C# 中设置文本框中字符的长度？
 
 > 原文:[https://www . geesforgeks . org/如何设置 c-sharp 文本框中的字符长度/](https://www.geeksforgeeks.org/how-to-set-the-length-of-the-characters-in-textbox-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# 如何在 C#中获取 ValueTuple 的第二个元素？
+# 如何在 C# 中获取 ValueTuple 的第二个元素？
 
 > 原文:[https://www . geeksforgeeks . org/如何获取 c-sharp 中的第二个值元素 tuple/](https://www.geeksforgeeks.org/how-to-get-second-element-of-the-valuetuple-in-c-sharp/)
 

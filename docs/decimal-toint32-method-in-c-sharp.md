@@ -1,4 +1,4 @@
-# 小数。C#中的 ToInt32()方法
+# 小数。C# 中的 ToInt32()方法
 
 > 原文:[https://www . geesforgeks . org/decimal-to int 32-method-in-c-sharp/](https://www.geeksforgeeks.org/decimal-toint32-method-in-c-sharp/)
 

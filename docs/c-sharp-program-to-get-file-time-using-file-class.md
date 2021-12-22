@@ -1,4 +1,4 @@
-# 使用文件类获取文件时间的 C#程序
+# 使用文件类获取文件时间的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-程序获取文件-时间-使用文件-类/](https://www.geeksforgeeks.org/c-sharp-program-to-get-file-time-using-file-class/)
 

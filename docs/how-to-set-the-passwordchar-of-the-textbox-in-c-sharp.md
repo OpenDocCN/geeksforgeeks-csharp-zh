@@ -1,4 +1,4 @@
-# 如何在 C#中设置文本框的 PasswordChar？
+# 如何在 C# 中设置文本框的 PasswordChar？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中文本框的密码字符/](https://www.geeksforgeeks.org/how-to-set-the-passwordchar-of-the-textbox-in-c-sharp/)
 

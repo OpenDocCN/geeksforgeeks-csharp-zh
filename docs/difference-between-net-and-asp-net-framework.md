@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/net 与 ASP.NET 框架的区别/](https://www.geeksforgeeks.org/difference-between-net-and-asp-net-framework/)
 
-[**。NET Framework**](https://www.geeksforgeeks.org/introduction-to-net-framework/) 用于开发基于表单的应用程序、基于网络的应用程序和网络服务。它用于开发桌面和基于服务器的应用程序。上有多种编程语言。Net 平台，VB.Net 和 C#是最常见的。它用于为 Windows、电话、web 等构建应用程序。它提供了很多功能，也支持行业标准。
+[**。NET Framework**](https://www.geeksforgeeks.org/introduction-to-net-framework/) 用于开发基于表单的应用程序、基于网络的应用程序和网络服务。它用于开发桌面和基于服务器的应用程序。上有多种编程语言。Net 平台，VB.Net 和 C# 是最常见的。它用于为 Windows、电话、web 等构建应用程序。它提供了很多功能，也支持行业标准。
 
 ![Difference-Between-.NET-and-ASP.NET-Framework](img/a1946d3c0fa2ff880bdb670b98c839a3.png)
 

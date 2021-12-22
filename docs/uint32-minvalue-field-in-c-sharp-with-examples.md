@@ -1,4 +1,4 @@
-# UInt32。C#中的最小值字段，示例
+# UInt32。C# 中的最小值字段，示例
 
 > 原文:[https://www . geeksforgeeks . org/uint 32-min value-field-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/uint32-minvalue-field-in-c-sharp-with-examples/)
 

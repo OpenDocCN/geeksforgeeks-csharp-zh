@@ -1,9 +1,9 @@
-# 在 C#中使用这个关键字调用重载的构造函数
+# 在 C# 中使用这个关键字调用重载的构造函数
 
 > 原文:[https://www . geeksforgeeks . org/调用重载构造函数-使用 c-sharp 中的 this-关键字/](https://www.geeksforgeeks.org/invoking-an-overloaded-constructor-using-this-keyword-in-c-sharp/)
 
-**先决条件:**[**c#中的构造函数**](https://www.geeksforgeeks.org/c-sharp-constructors/)
-C#提供了一个强大的关键字称为[这个关键字](https://www.geeksforgeeks.org/c-this-keyword/)，这个关键字有很多用法。这里我们使用这个关键字从另一个构造函数调用一个[重载构造函数](https://www.geeksforgeeks.org/c-constructor-overloading/)。
+**先决条件:**[**c# 中的构造函数**](https://www.geeksforgeeks.org/c-sharp-constructors/)
+C# 提供了一个强大的关键字称为[这个关键字](https://www.geeksforgeeks.org/c-this-keyword/)，这个关键字有很多用法。这里我们使用这个关键字从另一个构造函数调用一个[重载构造函数](https://www.geeksforgeeks.org/c-constructor-overloading/)。
 **要点:**
 
 *   当使用此关键字调用构造函数时，该构造函数应该属于同一个类。

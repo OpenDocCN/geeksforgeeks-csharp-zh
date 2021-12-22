@@ -18,7 +18,7 @@ Visual Studio 是微软开发的**集成开发环境(IDE)** ，用于开发 GUI(
 
 #### Visual Studio 2017 入门
 
-*   首先，您必须下载并安装 Visual Studio。具体可参考 **[下载安装 Visual Studio 2017](https://www.geeksforgeeks.org/setting-environment-c/)** 。别忘了选择。VS 2017 安装期间的 NET 核心工作负载。如果你忘记了那么你必须 **[修改](https://tutorials.visualstudio.com/vs-get-started/customizing#installing-additional-languages-and-tools)** 的安装。
+*   首先，您必须下载并安装 Visual Studio。具体可参考 **[下载安装 Visual Studio 2017](https://www.geeksforgeeks.org/setting-environment-c/)** 。别忘了选择。VS 2017 安装期间的 NET 核心工作负载。如果你忘记了那么你必须 **[修改](https://tutorials.visualstudio.com/vs-get-started/customizing# installing-additional-languages-and-tools)** 的安装。
 *   You can see a number of tool windows when you will open the Visual Studio and start writing your first program as follows:
 
     [![](img/2253532bbb2464d36e267db2bae3e2f5.png)](https://media.geeksforgeeks.org/wp-content/uploads/VS2017.jpg)

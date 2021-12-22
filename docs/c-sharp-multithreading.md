@@ -1,4 +1,4 @@
-# C#多线程
+# C# 多线程
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-multithreading/](https://www.geeksforgeeks.org/c-sharp-multithreading/)
 

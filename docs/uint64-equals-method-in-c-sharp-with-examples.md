@@ -1,4 +1,4 @@
-# UInt64。C#中的 Equals 方法及示例
+# UInt64。C# 中的 Equals 方法及示例
 
 > 原文:[https://www . geesforgeks . org/uint 64-equals-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/uint64-equals-method-in-c-sharp-with-examples/)
 

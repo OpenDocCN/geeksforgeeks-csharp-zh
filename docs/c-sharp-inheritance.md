@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-inheritance/](https://www.geeksforgeeks.org/c-sharp-inheritance/)
 
-继承是面向对象编程的重要支柱。这是 C#中允许一个类继承另一个类的特性(字段和方法)的机制。
+继承是面向对象编程的重要支柱。这是 C# 中允许一个类继承另一个类的特性(字段和方法)的机制。
 
 **重要术语:**
 
@@ -87,9 +87,9 @@ My Favorite Subject is: C#
 
 ```
 
-**c#中的遗传类型**
+**c# 中的遗传类型**
 
-下面是 C#在不同组合中支持的不同类型的继承。
+下面是 C# 在不同组合中支持的不同类型的继承。
 
 1.  **Single Inheritance:** In single inheritance, subclasses inherit the features of one superclass. In image below, the class A serves as a base class for the derived class B.
 
@@ -111,9 +111,9 @@ My Favorite Subject is: C#
 
     [![](img/b2ca0d0bcb03a4f8fc936a27acaf9b0b.png)](https://media.geeksforgeeks.org/wp-content/uploads/Hybrid.jpg)
 
-**c#中关于继承的重要事实**
+**c# 中关于继承的重要事实**
 
 *   **默认超类**:除了 Object 类没有超类之外，每个类都有且只有一个直接超类(单继承)。在没有任何其他显式超类的情况下，每个类都隐式地是对象类的子类。
-*   **超类只能是一个:**超类可以有任意数量的子类。但是一个子类只能有一个**超类。这是因为 C#不支持类的多重继承。虽然有接口，但是 C#支持多重继承。**
+*   **超类只能是一个:**超类可以有任意数量的子类。但是一个子类只能有一个**超类。这是因为 C# 不支持类的多重继承。虽然有接口，但是 C# 支持多重继承。**
 *   **继承构造函数:**子类从其超类继承所有成员(字段、方法)。构造函数不是成员，所以它们不会被子类继承，但是超类的构造函数可以从子类中调用。
 *   **私有成员继承:**子类不继承其父类的私有成员。但是，如果超类具有用于访问其私有字段的属性(get 和 set 方法)，那么子类可以继承。

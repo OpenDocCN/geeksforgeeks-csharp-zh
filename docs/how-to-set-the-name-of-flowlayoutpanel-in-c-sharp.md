@@ -1,4 +1,4 @@
-# 如何在 C#中设置 FlowLayoutPanel 的名称？
+# 如何在 C# 中设置 FlowLayoutPanel 的名称？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的 flowlayoutpanel 的名称/](https://www.geeksforgeeks.org/how-to-set-the-name-of-flowlayoutpanel-in-c-sharp/)
 

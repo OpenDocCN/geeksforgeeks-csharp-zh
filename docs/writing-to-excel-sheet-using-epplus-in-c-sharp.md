@@ -1,4 +1,4 @@
-# 用 C#中的 EPPlus 写入 Excel 工作表
+# 用 C# 中的 EPPlus 写入 Excel 工作表
 
 > 原文:[https://www . geeksforgeeks . org/writing-to-excel-sheet-using-epplus-in-c-sharp/](https://www.geeksforgeeks.org/writing-to-excel-sheet-using-epplus-in-c-sharp/)
 
@@ -11,7 +11,7 @@ Install-Package EPPlus
 
 ```
 
-让我们看看如何使用 C#创建和写入 excel 工作表。
+让我们看看如何使用 C# 创建和写入 excel 工作表。
 
 ```cs
 using System;

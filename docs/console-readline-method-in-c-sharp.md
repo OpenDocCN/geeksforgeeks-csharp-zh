@@ -1,4 +1,4 @@
-# 控制台。C#中的 ReadLine()方法
+# 控制台。C# 中的 ReadLine()方法
 
 > 原文:[https://www . geesforgeks . org/console-readline-method-in-c-sharp/](https://www.geeksforgeeks.org/console-readline-method-in-c-sharp/)
 

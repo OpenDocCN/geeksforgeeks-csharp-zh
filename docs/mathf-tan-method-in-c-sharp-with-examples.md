@@ -1,4 +1,4 @@
-# MathF。C#中的 Tan()方法及示例
+# MathF。C# 中的 Tan()方法及示例
 
 > 原文:[https://www . geesforgeks . org/mathf-tan-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-tan-method-in-c-sharp-with-examples/)
 

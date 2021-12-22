@@ -1,4 +1,4 @@
-# 文件。用例子在 C#中创建(字符串)方法
+# 文件。用例子在 C# 中创建(字符串)方法
 
 > 原文:[https://www . geesforgeks . org/file-createstring-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-createstring-method-in-c-sharp-with-examples/)
 

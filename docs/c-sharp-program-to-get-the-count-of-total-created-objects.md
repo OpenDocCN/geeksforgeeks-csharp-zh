@@ -1,8 +1,8 @@
-# C#程序获取创建对象总数
+# C# 程序获取创建对象总数
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-get-count-total-created-objects/](https://www.geeksforgeeks.org/c-sharp-program-to-get-the-count-of-total-created-objects/)
 
-C#是一种通用编程语言，用于创建移动应用程序、桌面应用程序、网站和游戏。在 C#中，对象是真实世界的实体。或者换句话说，对象是在运行时创建的运行时实体。它是一个类的实例。在本文中，我们将创建一个类的多个实例或对象，并计算在 C#中创建的对象的数量。
+C# 是一种通用编程语言，用于创建移动应用程序、桌面应用程序、网站和游戏。在 C# 中，对象是真实世界的实体。或者换句话说，对象是在运行时创建的运行时实体。它是一个类的实例。在本文中，我们将创建一个类的多个实例或对象，并计算在 C# 中创建的对象的数量。
 
 **进场:**
 

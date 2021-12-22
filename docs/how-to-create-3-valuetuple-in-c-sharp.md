@@ -1,8 +1,8 @@
-# 如何在 C#中创建 3 值元组？
+# 如何在 C# 中创建 3 值元组？
 
 > 原文:[https://www . geesforgeks . org/how-create-3-value tuple-in-c-sharp/](https://www.geeksforgeeks.org/how-to-create-3-valuetuple-in-c-sharp/)
 
-在 C#中，三值或三值元组是包含三个元素的值类型元组。您可以使用两种不同的方法创建三值元组:
+在 C# 中，三值或三值元组是包含三个元素的值类型元组。您可以使用两种不同的方法创建三值元组:
 
 1.  **使用 ValueTuple < T1、T2、T3 > (T1、T2、T3)建造师**
 2.  **使用创建< T1、T2、T3 > (T1、T2、T3)方法**
@@ -115,4 +115,4 @@ Component 3: 56
 **参考:**
 
 *   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple-3。-克托？视图=netframework-4.8](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple-3.-ctor?view=netframework-4.8)
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple . create？view = net framework-4.8 # System _ ValueTuple _ Create _ _ 3 _ _ 0 _ _ 1 _ _ 2 _](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple.create?view=netframework-4.8#System_ValueTuple_Create__3___0___1___2_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple . create？view = net framework-4.8 # System _ ValueTuple _ Create _ _ 3 _ _ 0 _ _ 1 _ _ 2 _](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple.create?view=netframework-4.8# System_ValueTuple_Create__3___0___1___2_)

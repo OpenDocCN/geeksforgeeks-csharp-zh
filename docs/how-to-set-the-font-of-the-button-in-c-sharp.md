@@ -1,4 +1,4 @@
-# 如何在 C#中设置按钮的字体？
+# 如何在 C# 中设置按钮的字体？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中按钮的字体/](https://www.geeksforgeeks.org/how-to-set-the-font-of-the-button-in-c-sharp/)
 

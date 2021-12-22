@@ -16,8 +16,8 @@ DefaultIfEmpty 运算符用于将空集合或序列替换为缺省值的单例�
 *   该运算符以两种不同的方式重载:
     *   **defaultifmpty<t source>(IEnumerable<t source>，t source:**如果序列为空，此方法用于返回单例集合中指定序列或指定值的元素。
     *   **defaultifmpty<t source>(IEnumerable<t source>):**如果序列为空，此方法用于返回单例集合中指定序列的元素或类型参数的默认值。
-*   它不支持 C#和 VB.Net 语言中的查询语法。
-*   它支持 C#和 VB.Net 语言中方法语法。
+*   它不支持 C# 和 VB.Net 语言中的查询语法。
+*   它支持 C# 和 VB.Net 语言中方法语法。
 *   它同时出现在可查询类和可枚举类中。
 *   它通过使用延迟执行来实现。
 *   如果给定的源为空，defaultifmpty<tsource>(IEnumerable<tsource>)将返回 *ArgumentNullException* 。</tsource></tsource>

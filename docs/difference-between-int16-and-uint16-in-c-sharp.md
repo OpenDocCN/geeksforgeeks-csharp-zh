@@ -1,4 +1,4 @@
-# c#中 Int16 和 UInt16 的区别
+# c# 中 Int16 和 UInt16 的区别
 
 > 原文:[https://www . geeksforgeeks . org/in-int 16-和-uint16-in-c-sharp/](https://www.geeksforgeeks.org/difference-between-int16-and-uint16-in-c-sharp/) 之间的差异
 
@@ -106,7 +106,7 @@ Maximum value of UInt16: 65535
 
 ```
 
-【Int16 和 UInt16in C#的区别
+【Int16 和 UInt16in C# 的区别
 
 <figure class="table">
 

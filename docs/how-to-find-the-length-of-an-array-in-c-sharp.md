@@ -1,4 +1,4 @@
-# 如何在 C#中找到数组的长度
+# 如何在 C# 中找到数组的长度
 
 > 原文:[https://www . geeksforgeeks . org/如何找到 c-sharp 中的数组长度/](https://www.geeksforgeeks.org/how-to-find-the-length-of-an-array-in-c-sharp/)
 

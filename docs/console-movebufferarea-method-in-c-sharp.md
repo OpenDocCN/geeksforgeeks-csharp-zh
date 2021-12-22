@@ -1,4 +1,4 @@
-# 控制台。C#中的 MoveBufferArea 方法
+# 控制台。C# 中的 MoveBufferArea 方法
 
 > 原文:[https://www . geesforgeks . org/console-movebuferarea-method-in-c-sharp/](https://www.geeksforgeeks.org/console-movebufferarea-method-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# 如何在 C#中创建 StringBuilder
+# 如何在 C# 中创建 StringBuilder
 
 > 原文:[https://www . geeksforgeeks . org/如何创建 c-sharp 中的 stringbuilder/](https://www.geeksforgeeks.org/how-to-create-the-stringbuilder-in-c-sharp/)
 

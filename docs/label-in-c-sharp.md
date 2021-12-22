@@ -1,4 +1,4 @@
-# c#中的标签
+# c# 中的标签
 
 > 原文:[https://www.geeksforgeeks.org/label-in-c-sharp/](https://www.geeksforgeeks.org/label-in-c-sharp/)
 

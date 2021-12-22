@@ -85,4 +85,4 @@ class GFG {
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . generic . hashset-1 . count？view = net framework-4 . 7 . 2 # System _ Collections _ Generic _ HashSet _ 1 _ Count](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.hashset-1.count?view=netframework-4.7.2#System_Collections_Generic_HashSet_1_Count)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . generic . hashset-1 . count？view = net framework-4 . 7 . 2 # System _ Collections _ Generic _ HashSet _ 1 _ Count](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.hashset-1.count?view=netframework-4.7.2# System_Collections_Generic_HashSet_1_Count)

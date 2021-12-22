@@ -1,4 +1,4 @@
-# 如何在 C#中设置列表框边框的样式？
+# 如何在 C# 中设置列表框边框的样式？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中列表框的边框样式/](https://www.geeksforgeeks.org/how-to-style-the-border-of-listbox-in-c-sharp/)
 

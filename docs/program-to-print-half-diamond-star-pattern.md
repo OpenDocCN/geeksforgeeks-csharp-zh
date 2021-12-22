@@ -67,7 +67,7 @@ Output:
     // C++ implementation to print the
     // half diamond star pattern
 
-    #include <iostream>
+    # include <iostream>
 
     using namespace std;
 

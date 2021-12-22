@@ -1,8 +1,8 @@
-# 计算字符串行数的 C#程序
+# 计算字符串行数的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-for-program-counting-in-line-in-a-string/](https://www.geeksforgeeks.org/c-sharp-program-for-counting-lines-in-a-string/)
 
-在 C#中，[字符串](https://www.geeksforgeeks.org/c-sharp-string/)是 Unicode 字符序列或字符数组。Unicode 字符的范围是从 U+0000 到 U+FFFF。字符串是文本的表示形式。在本文中，我们将创建一个 C#程序来计算给定字符串中的行数。
+在 C# 中，[字符串](https://www.geeksforgeeks.org/c-sharp-string/)是 Unicode 字符序列或字符数组。Unicode 字符的范围是从 U+0000 到 U+FFFF。字符串是文本的表示形式。在本文中，我们将创建一个 C# 程序来计算给定字符串中的行数。
 
 **示例:**
 

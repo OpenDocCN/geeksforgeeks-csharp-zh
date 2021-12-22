@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-params/](https://www.geeksforgeeks.org/c-sharp-params/)
 
-Params 是 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中的重要关键词。它被用作一个参数，可以采用**可变参数数**。
+Params 是 [C# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中的重要关键词。它被用作一个参数，可以采用**可变参数数**。
 
 **关于参数关键词的要点:**
 

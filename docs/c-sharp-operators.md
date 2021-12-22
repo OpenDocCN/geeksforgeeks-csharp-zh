@@ -2,16 +2,16 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-operators/](https://www.geeksforgeeks.org/c-sharp-operators/)
 
-运算符是任何编程语言的基础。因此[**【c#**](https://www.geeksforgeeks.org/introduction-to-c-sharp/)语言的功能性在没有使用运算符的情况下是不完整的。运算符允许我们对**操作数**执行不同类型的运算。在 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中，操作员可以根据其不同的**功能**进行分类**:**
+运算符是任何编程语言的基础。因此[**【c#**](https://www.geeksforgeeks.org/introduction-to-c-sharp/)语言的功能性在没有使用运算符的情况下是不完整的。运算符允许我们对**操作数**执行不同类型的运算。在 [C# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中，操作员可以根据其不同的**功能**进行分类**:**
 
-*   [算术运算符](#Arithmetic Operators)
-*   [关系运算符](#Relational Operators)
-*   [逻辑运算符](#Logical Operators)
-*   [按位运算符](#Bitwise Operators)
-*   [分配操作员](#Assignment Operators)
-*   [条件运算符](#Conditional Operator)
+*   [算术运算符](# Arithmetic Operators)
+*   [关系运算符](# Relational Operators)
+*   [逻辑运算符](# Logical Operators)
+*   [按位运算符](# Bitwise Operators)
+*   [分配操作员](# Assignment Operators)
+*   [条件运算符](# Conditional Operator)
 
-在 C#中，操作符也可以根据操作数的数量来分类【T0:
+在 C# 中，操作符也可以根据操作数的数量来分类【T0:
 
 *   **一元运算符:**取**一个**操作数进行运算的运算符。
 *   **二元运算符:**取**两个**操作数进行运算的运算符。
@@ -271,7 +271,7 @@ NOT Operator: False
 
 **按位运算符**
 
-在 C#中，有 6 个按位运算符，它们在位级别工作或用于执行逐位操作。以下是按位运算符:
+在 C# 中，有 6 个按位运算符，它们在位级别工作或用于执行逐位操作。以下是按位运算符:
 
 *   **&(按位“与”)**将两个数字作为操作数，并对两个数字的每一位进行“与”。仅当两位都为 1 时，“与”的结果才为 1。
 *   **|(按位“或”)**将两个数字作为操作数，并对两个数字的每一位进行“或”。“或”的结果是 1，两位中的任何一位都是 1。

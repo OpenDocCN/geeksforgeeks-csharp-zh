@@ -1,4 +1,4 @@
-# 单身。C#中的 GetTypeCode 方法及示例
+# 单身。C# 中的 GetTypeCode 方法及示例
 
 > 原文:[https://www . geesforgeks . org/single-gettypecode-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/single-gettypecode-method-in-c-sharp-with-examples/)
 

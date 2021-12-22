@@ -1,4 +1,4 @@
-# 如何在 C#中设置 NumericUpDown 中的最小值？
+# 如何在 C# 中设置 NumericUpDown 中的最小值？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的最小值/numeric up down/](https://www.geeksforgeeks.org/how-to-set-minimum-value-in-numericupdown-in-c-sharp/)
 

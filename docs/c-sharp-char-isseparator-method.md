@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-char-is separator-method/](https://www.geeksforgeeks.org/c-sharp-char-isseparator-method/)
 
-在 C#中，***Char。*** 是一个*系统。Char* 结构方法，用于检查 Unicode 字符是否可以归类为分隔符。通过向该方法传递不同类型和数量的参数，可以重载该方法。
+在 C# 中，***Char。*** 是一个*系统。Char* 结构方法，用于检查 Unicode 字符是否可以归类为分隔符。通过向该方法传递不同类型和数量的参数，可以重载该方法。
 
 1.  **Char。独立(充电)方法**
 2.  **Char。是一种分离(字符串，Int32)方法**

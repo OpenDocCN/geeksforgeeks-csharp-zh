@@ -1,4 +1,4 @@
-# 用时间跨度法获取昨天日期的 C#程序
+# 用时间跨度法获取昨天日期的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-get-date-of-day-use-timespan-method/](https://www.geeksforgeeks.org/c-sharp-program-to-get-the-date-of-yesterday-using-timespan-method/)
 

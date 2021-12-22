@@ -1,4 +1,4 @@
-# BitArray。C#中的 LeftShift()方法，示例
+# BitArray。C# 中的 LeftShift()方法，示例
 
 > 原文:[https://www . geesforgeks . org/bitarray-left shift-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/bitarray-leftshift-method-in-c-sharp-with-examples/)
 

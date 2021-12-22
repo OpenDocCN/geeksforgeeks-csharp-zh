@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-多维-索引器/](https://www.geeksforgeeks.org/c-sharp-multidimensional-indexers/)
 
-#### 先决条件:[c#中的索引器](https://www.geeksforgeeks.org/c-indexers/)
+#### 先决条件:[c# 中的索引器](https://www.geeksforgeeks.org/c-indexers/)
 
 多维索引器几乎类似于多维数组。为了高效的基于内容的数据检索，使用了多维索引器。要创建多维索引器，您必须在索引器声明的参数列表中至少传递两个参数。若要访问多维索引器的单个元素，请使用整数下标。每个下标索引一个维度，就像第一个下标索引行维度，第二个下标索引列维度等等。
 

@@ -1,4 +1,4 @@
-# 小数。C#中的 FromOACurrency()方法
+# 小数。C# 中的 FromOACurrency()方法
 
 > 原文:[https://www . geesforgeks . org/decimal-from oacurrency-method-in-c-sharp/](https://www.geeksforgeeks.org/decimal-fromoacurrency-method-in-c-sharp/)
 

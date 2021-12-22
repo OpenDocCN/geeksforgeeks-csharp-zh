@@ -224,4 +224,4 @@ string 2:  GEEKS
 Comparison of string 1 and string 2: True
 ```
 
-**参考:**[https://docs.microsoft.com/en-us/dotnet/api/system.string?视图= net framework-4 . 7 . 2 #操作员](https://docs.microsoft.com/en-us/dotnet/api/system.string?view=netframework-4.7.2#operators)
+**参考:**[https://docs.microsoft.com/en-us/dotnet/api/system.string?视图= net framework-4 . 7 . 2 # 操作员](https://docs.microsoft.com/en-us/dotnet/api/system.string?view=netframework-4.7.2# operators)

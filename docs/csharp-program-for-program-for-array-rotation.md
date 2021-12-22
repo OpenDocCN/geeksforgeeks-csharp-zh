@@ -1,4 +1,4 @@
-# 数组旋转程序的 C#程序
+# 数组旋转程序的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/cs harp-program-for-program-for-array-rotation/](https://www.geeksforgeeks.org/csharp-program-for-program-for-array-rotation/)
 

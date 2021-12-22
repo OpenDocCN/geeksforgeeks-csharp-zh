@@ -1,8 +1,8 @@
-# c#中的开关语句
+# c# 中的开关语句
 
 > 原文:[https://www.geeksforgeeks.org/switch-statement-in-c-sharp/](https://www.geeksforgeeks.org/switch-statement-in-c-sharp/)
 
-在 C#中，Switch 语句是一个多路分支语句。它提供了一种基于表达式值将执行转移到代码不同部分的有效方法。开关表达式是整数类型，如 int、char、byte 或 short，或者是枚举类型，或者是字符串类型。检查表达式的不同情况，并执行一个匹配。
+在 C# 中，Switch 语句是一个多路分支语句。它提供了一种基于表达式值将执行转移到代码不同部分的有效方法。开关表达式是整数类型，如 int、char、byte 或 short，或者是枚举类型，或者是字符串类型。检查表达式的不同情况，并执行一个匹配。
 
 **语法:**
 
@@ -27,11 +27,11 @@ default:    // default statement sequence
 
 **流程图:**
 
-![switch statement in C#](img/4c6649db6b6b352044e6df153ac27122.png)
+![switch statement in C# ](img/4c6649db6b6b352044e6df153ac27122.png)
 
 **需要记住的要点:**
 
-*   在 C#中，不允许出现重复的大小写值。
+*   在 C# 中，不允许出现重复的大小写值。
 *   开关中变量的数据类型和案例的值必须属于同一类型。
 *   大小写的值必须是常量或文字。不允许变量。
 *   break in switch 语句用于终止当前序列。
@@ -210,7 +210,7 @@ Category is OOPS Concept
 
 #### 在 Switch 语句中使用 goto
 
-也可以用**[【goto】](https://www.geeksforgeeks.org/c-sharp-jump-statements-break-continue-goto-return-and-throw/)**语句代替 switch 语句中的 break。通常，我们使用 break 语句退出 switch 语句。但是在某些情况下，需要执行默认语句，所以我们使用 goto 语句。它允许在 switch 语句中执行默认条件。goto 语句也用于跳转到 C#程序中的标记位置。
+也可以用**[【goto】](https://www.geeksforgeeks.org/c-sharp-jump-statements-break-continue-goto-return-and-throw/)**语句代替 switch 语句中的 break。通常，我们使用 break 语句退出 switch 语句。但是在某些情况下，需要执行默认语句，所以我们使用 goto 语句。它允许在 switch 语句中执行默认条件。goto 语句也用于跳转到 C# 程序中的标记位置。
 
 **示例:**
 

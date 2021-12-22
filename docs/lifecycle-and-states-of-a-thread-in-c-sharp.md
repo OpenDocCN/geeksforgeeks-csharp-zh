@@ -1,8 +1,8 @@
-# c#中线程的生命周期和状态
+# c# 中线程的生命周期和状态
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp 中线程的生命周期和状态/](https://www.geeksforgeeks.org/lifecycle-and-states-of-a-thread-in-c-sharp/)
 
-C#中的线程在任何时间点都处于以下任何一种状态。线程在任何时刻都只处于所示状态之一:
+C# 中的线程在任何时间点都处于以下任何一种状态。线程在任何时刻都只处于所示状态之一:
 
 **流程图:**
 
@@ -27,9 +27,9 @@ Thread thr = new Thread();
     *   调用了 Suspend()方法。
 5.  **Dead 状态:**当线程完成任务后，则线程进入 Dead、终止、中止状态。
 
-在 C#中实现线程状态
+在 C# 中实现线程状态
 
-在 C#中，要获取线程的当前状态，使用 thread 类提供的 *ThreadState* 或 *IsAlive* 属性。
+在 C# 中，要获取线程的当前状态，使用 thread 类提供的 *ThreadState* 或 *IsAlive* 属性。
 **语法:**
 
 ```cs

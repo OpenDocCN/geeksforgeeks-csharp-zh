@@ -1,4 +1,4 @@
-# 文件。C#中的 GetLastAccessTime()方法，带示例
+# 文件。C# 中的 GetLastAccessTime()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/file-getlasaccesstime-method-in-csharp-with-examples/](https://www.geeksforgeeks.org/file-getlastaccesstime-method-in-csharp-with-examples/)
 

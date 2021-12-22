@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-finally-keyword/](https://www.geeksforgeeks.org/c-sharp-finally-keyword/)
 
-在编程中，有时异常可能会导致错误，从而结束当前方法。但是，该方法可能打开了需要关闭的文件或网络。因此，为了克服这类问题，C#提供了一个特殊的关键字，命名为 finally 关键字。这是 C#中的保留关键字。
+在编程中，有时异常可能会导致错误，从而结束当前方法。但是，该方法可能打开了需要关闭的文件或网络。因此，为了克服这类问题，C# 提供了一个特殊的关键字，命名为 finally 关键字。这是 C# 中的保留关键字。
 当 try/catch 块离开执行时，finally 块将执行，不管是什么条件导致的。**无论 try 块正常终止还是由于异常而终止，它总是执行。**finally block 的主要目的是释放系统资源。最后一个块跟随 try/catch 块。
 
 **语法:**
@@ -28,7 +28,7 @@ finally
 
 **要点:**
 
-*   在 C#中，不允许在同一个程序中有多个 finally 块。
+*   在 C# 中，不允许在同一个程序中有多个 finally 块。
 *   final 块不包含任何 return、continue、break 语句，因为它不允许控件离开 final 块。
 *   您也可以使用 finally block，只使用 try block，这意味着不使用 catch block，但是在这种情况下，不会处理任何异常。
 *   finally 块将在 try 和 catch 块之后，但在控制转移回其原点之前执行。

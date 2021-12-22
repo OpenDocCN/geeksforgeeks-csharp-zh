@@ -123,4 +123,4 @@ class GFG {
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . string . is interned？view = net framework-4 . 7 . 2 # System _ String _ IsInterned _ System _ String _](https://docs.microsoft.com/en-us/dotnet/api/system.string.isinterned?view=netframework-4.7.2#System_String_IsInterned_System_String_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . string . is interned？view = net framework-4 . 7 . 2 # System _ String _ IsInterned _ System _ String _](https://docs.microsoft.com/en-us/dotnet/api/system.string.isinterned?view=netframework-4.7.2# System_String_IsInterned_System_String_)

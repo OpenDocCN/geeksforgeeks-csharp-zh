@@ -1,4 +1,4 @@
-# C#程序，用于在排序和旋转的数组中搜索元素
+# C# 程序，用于在排序和旋转的数组中搜索元素
 
 > 原文:[https://www . geeksforgeeks . org/cs harp-program-for-search-a-element-in-a-sorted-and-rotated-array/](https://www.geeksforgeeks.org/csharp-program-for-search-an-element-in-a-sorted-and-rotated-array/)
 

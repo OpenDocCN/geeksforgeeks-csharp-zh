@@ -1,8 +1,8 @@
-# 使用 C#中的 If-else 和 Switch 语句获取一个月的总天数
+# 使用 C# 中的 If-else 和 Switch 语句获取一个月的总天数
 
 > 原文:[https://www . geeksforgeeks . org/get-每月使用 if-else-and-switch-statement-in-c-sharp/](https://www.geeksforgeeks.org/getting-the-total-number-of-days-in-a-month-using-if-else-and-switch-statements-in-c-sharp/)
 
-给定一个数字 **N** ，任务是写一个 C#程序来 p 打印月中的天数 **N** 。
+给定一个数字 **N** ，任务是写一个 C# 程序来 p 打印月中的天数 **N** 。
 
 **示例:**
 
@@ -14,7 +14,7 @@
 
 这项任务可以通过以下方法完成:
 
-**1。** [**使用 else** **语句****:**](https://www.geeksforgeeks.org/c-sharp-decision-making-else-else-ladder-nested-switch-nested-switch/#ifelse)**适当的月号被勾选然后一个月中的天数被打印使用 else if 语句。天数如下:**
+**1。** [**使用 else** **语句****:**](https://www.geeksforgeeks.org/c-sharp-decision-making-else-else-ladder-nested-switch-nested-switch/# ifelse)**适当的月号被勾选然后一个月中的天数被打印使用 else if 语句。天数如下:**
 
 ```cs
 Month = [1, 3, 5, 7, 8, 10, 12] , Number of days = 31

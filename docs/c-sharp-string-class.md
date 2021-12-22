@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-string-class/](https://www.geeksforgeeks.org/c-sharp-string-class/)
 
-在 C#中， **[字符串](https://www.geeksforgeeks.org/c-string/)** 是一个 Unicode 字符序列或字符数组。
+在 C# 中， **[字符串](https://www.geeksforgeeks.org/c-string/)** 是一个 Unicode 字符序列或字符数组。
 
 Unicode 字符的范围将是 **U+0000 到 U+FFFF** 。字符数组也被称为文本。所以字符串是文本的表示。字符串由类**系统表示。弦**。
 字符串类在*中定义。NET 基类*库。换句话说，字符串对象是*系统的顺序集合。代表字符串的对象。内存中 String 对象的最大大小可以是 *2GB 或约 10 亿个字符*。*

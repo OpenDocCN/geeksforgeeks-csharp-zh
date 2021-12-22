@@ -13,8 +13,8 @@
 
 空运算符用于返回空集合。或者换句话说，我们可以说它返回了一个包含指定类型参数的空 IEnumerable <t>。</t>
 
-*   它不支持 C#和 VB.Net 语言中的查询语法。
-*   它支持 C#和 VB.Net 语言中方法语法。
+*   它不支持 C# 和 VB.Net 语言中的查询语法。
+*   它支持 C# 和 VB.Net 语言中方法语法。
 *   它只出现在可枚举类中。
 
 **示例:**
@@ -58,8 +58,8 @@ Type is: String[]
 
 Range 运算符用于生成包含一系列数字的集合。或者换句话说，它是用来返回一个带有给定范围内整数序列的 IEnumerable <t>类型的集合。</t>
 
-*   它不支持 C#和 VB.Net 语言中的查询语法。
-*   它支持 C#和 VB.Net 语言中方法语法。
+*   它不支持 C# 和 VB.Net 语言中的查询语法。
+*   它支持 C# 和 VB.Net 语言中方法语法。
 *   它只出现在可枚举类中。
 *   如果计数值小于零或 *start+count-1* 大于最大值，它将抛出 ArgumentOutOfRangeException。
 *   它通过使用延迟执行来实现。
@@ -120,8 +120,8 @@ How many elements present in the collection?: 10
 
 repeat 运算符用于创建保存一个重复值的集合。或者换句话说，我们可以说它是用来创建带有重复项目数的 IEnumerable <t>类型。</t>
 
-*   它不支持 C#和 VB.Net 语言中的查询语法。
-*   它支持 C#和 VB.Net 语言中方法语法。
+*   它不支持 C# 和 VB.Net 语言中的查询语法。
+*   它支持 C# 和 VB.Net 语言中方法语法。
 *   它只出现在可枚举类中。
 *   如果计数值小于零，它将引发 ArgumentOutOfRangeException。
 *   它通过使用延迟执行来实现。

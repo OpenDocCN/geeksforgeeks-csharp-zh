@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-padleft-method/](https://www.geeksforgeeks.org/c-sharp-padleft-method/)
 
-在 C#中 ***PadLeft()*** 是一个 **[串](https://www.geeksforgeeks.org/c-string/)** 的方法。此方法用于将字符串中的字符右对齐，方法是在指定的总长度内用空格或左边的指定字符填充它们。这个方法可以通过传递不同的参数来重载。
+在 C# 中 ***PadLeft()*** 是一个 **[串](https://www.geeksforgeeks.org/c-string/)** 的方法。此方法用于将字符串中的字符右对齐，方法是在指定的总长度内用空格或左边的指定字符填充它们。这个方法可以通过传递不同的参数来重载。
 
 *   字符串。PadLeft 方法(Int32)
 *   字符串。左对齐方法(Int32，Char)

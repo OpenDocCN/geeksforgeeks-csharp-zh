@@ -1,4 +1,4 @@
-# 寻找两个链表交点的 C#程序
+# 寻找两个链表交点的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-寻找两个链表交叉点的程序-2/](https://www.geeksforgeeks.org/c-program-for-finding-intersection-point-of-two-linked-lists-2/)
 

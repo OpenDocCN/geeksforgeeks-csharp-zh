@@ -1,4 +1,4 @@
-# 翻倍。C#中的 IsFinite()方法
+# 翻倍。C# 中的 IsFinite()方法
 
 > 原文:[https://www . geesforgeks . org/double-is inite-method-in-c-sharp/](https://www.geeksforgeeks.org/double-isfinite-method-in-c-sharp/)
 

@@ -18,8 +18,8 @@ Any 运算符用于检查序列或集合中的任何元素是否满足给定的�
     *   **任意<源> (IEnumerable <源> ):** 此方法用于检查序列是否包含任何元素。
     *   **Any<t source>(IEnumerable<t source>，Func < TSource，Boolean > ):** 此方法用于检查序列中的任意元素是否满足条件。
 *   它通常与 where 子句一起使用。
-*   它不支持 C#和 VB.Net 语言中的查询语法。
-*   它支持 C#和 VB.Net 语言中方法语法。
+*   它不支持 C# 和 VB.Net 语言中的查询语法。
+*   它支持 C# 和 VB.Net 语言中方法语法。
 *   它同时出现在可查询类和可枚举类中。
 *   如果给定的源为空，它将引发 ArgumentNullException。
 *   它不返回值，而是返回真或假。

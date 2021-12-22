@@ -1,4 +1,4 @@
-# 如何使用数组。C#中的 BinarySearch()方法| Set -1
+# 如何使用数组。C# 中的 BinarySearch()方法| Set -1
 
 > 原文:[https://www . geesforgeks . org/如何使用-数组-binary search-method-in-c-sharp-set-1/](https://www.geeksforgeeks.org/how-to-use-array-binarysearch-method-in-c-sharp-set-1/)
 
@@ -14,10 +14,10 @@
 
 *该方法重载列表中共有 8 种方法，如下:*
 
-*   [二元搜索(数组、对象)](https://www.geeksforgeeks.org/how-to-use-array-binarysearch-method-in-c-sharp-set-1/#1st)
-*   [二元搜索(数组、对象、比较器)](https://www.geeksforgeeks.org/how-to-use-array-binarysearch-method-in-c-sharp-set-1/#2nd)
-*   [BinarySearch(数组，Int32，Int32，Object)](https://www.geeksforgeeks.org/how-to-use-array-binarysearch-method-in-c-sharp-set-1/#3rd)
-*   [二进制搜索(数组，Int32，Int32，对象，IComparer)](https://www.geeksforgeeks.org/how-to-use-array-binarysearch-method-in-c-sharp-set-1/#4th)
+*   [二元搜索(数组、对象)](https://www.geeksforgeeks.org/how-to-use-array-binarysearch-method-in-c-sharp-set-1/# 1st)
+*   [二元搜索(数组、对象、比较器)](https://www.geeksforgeeks.org/how-to-use-array-binarysearch-method-in-c-sharp-set-1/# 2nd)
+*   [BinarySearch(数组，Int32，Int32，Object)](https://www.geeksforgeeks.org/how-to-use-array-binarysearch-method-in-c-sharp-set-1/# 3rd)
+*   [二进制搜索(数组，Int32，Int32，对象，IComparer)](https://www.geeksforgeeks.org/how-to-use-array-binarysearch-method-in-c-sharp-set-1/# 4th)
 *   BinarySearch <t>(T[]，T)</t>
 *   BinarySearch <t>(T[]，t，icomparer】)</t>
 *   BinarySearch <t>(T[]，Int32，Int32，T)</t>

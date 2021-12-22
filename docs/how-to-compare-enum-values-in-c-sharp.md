@@ -1,4 +1,4 @@
-# 如何在 C#中比较枚举值？
+# 如何在 C# 中比较枚举值？
 
 > 原文:[https://www . geesforgeks . org/如何比较-enum-values-in-c-sharp/](https://www.geeksforgeeks.org/how-to-compare-enum-values-in-c-sharp/)
 

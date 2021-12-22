@@ -1,8 +1,8 @@
-# 如何在 C#中设置 RichTextBox 中出现的内容的字体？
+# 如何在 C# 中设置 RichTextBox 中出现的内容的字体？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中 richtextbox-present 的内容字体/](https://www.geeksforgeeks.org/how-to-set-the-font-of-the-content-present-in-the-richtextbox-in-c-sharp/)
 
-在 C#中，RichTextBox 控件是一个文本框，它为您提供富文本编辑控件和高级格式功能，还包括加载富文本格式(RTF)文件。或者换句话说，RichTextBox 控件允许您显示或编辑流内容，包括段落、图像、表格等。在 RichTextBox 中，您可以设置 RichTextBox 控件中内容的字体。您可以通过两种不同的方式设置此属性:
+在 C# 中，RichTextBox 控件是一个文本框，它为您提供富文本编辑控件和高级格式功能，还包括加载富文本格式(RTF)文件。或者换句话说，RichTextBox 控件允许您显示或编辑流内容，包括段落、图像、表格等。在 RichTextBox 中，您可以设置 RichTextBox 控件中内容的字体。您可以通过两种不同的方式设置此属性:
 
 **1。设计时:**设置 RichTextBox 中显示的内容的字体是最简单的方法，如以下步骤所示:
 

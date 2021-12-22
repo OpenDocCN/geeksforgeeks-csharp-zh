@@ -1,4 +1,4 @@
-# 阵列。C#中方法的最后一个索引|集合–1
+# 阵列。C# 中方法的最后一个索引|集合–1
 
 > 原文:[https://www . geesforgeks . org/array-last indexof-method-in-c-sharp-set-1/](https://www.geeksforgeeks.org/array-lastindexof-method-in-c-sharp-set-1/)
 

@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-indexers/](https://www.geeksforgeeks.org/c-sharp-indexers/)
 
-#### 先决条件:[c#中的属性](https://www.geeksforgeeks.org/c-properties/)
+#### 先决条件:[c# 中的属性](https://www.geeksforgeeks.org/c-properties/)
 
 索引器允许将类或结构的实例作为数组进行索引。如果用户将为一个类定义索引器，那么这个类将表现得像一个虚拟数组。数组访问运算符(即 **[ ]** )用于访问使用索引器的类的实例。用户可以在不指向实例或类型成员的情况下检索或设置索引值。索引器几乎类似于 [**属性**](https://www.geeksforgeeks.org/c-properties/) 。*索引器与* [*属性*](https://www.geeksforgeeks.org/c-properties/) 的主要区别在于索引器的[取值器](https://www.geeksforgeeks.org/c-properties/)会取参数。
 

@@ -1,4 +1,4 @@
-# 如何在 C#中设置标签上的文本？
+# 如何在 C# 中设置标签上的文本？
 
 > 原文:[https://www . geeksforgeeks . org/如何在 c-sharp 标签上设置文本/](https://www.geeksforgeeks.org/how-to-set-text-on-the-label-in-c-sharp/)
 

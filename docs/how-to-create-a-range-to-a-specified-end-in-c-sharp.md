@@ -1,4 +1,4 @@
-# 如何在 C#中创建一个到指定终点的范围？
+# 如何在 C# 中创建一个到指定终点的范围？
 
 > 原文:[https://www . geeksforgeeks . org/如何创建一个范围到一个指定的 c-sharp-end/](https://www.geeksforgeeks.org/how-to-create-a-range-to-a-specified-end-in-c-sharp/)
 

@@ -4,15 +4,15 @@
 
 [C# |数学。Abs()方法|设置–1](https://www.geeksforgeeks.org/c-math-abs-method-set-1/)
 
-在 C#中，***【Abs()***是一个 Math 类方法，用来返回指定数字的绝对值。这个方法可以通过传递不同类型的参数来重载。它的重载列表中总共有 7 个方法。
+在 C# 中，***【Abs()***是一个 Math 类方法，用来返回指定数字的绝对值。这个方法可以通过传递不同类型的参数来重载。它的重载列表中总共有 7 个方法。
 
 2.  **数学。Abs(十进制)**
 3.  **数学。腹肌(双)**
 4.  **数学。Abs(Int16)**
 5.  **数学。Abs(Int32)**
-6.  **[数学。Abs(Int64)](#Math.Abs(Int64))**
-7.  **[数学. Abs(SByte)](#Math.Abs(SByte))**
-8.  **[Math.Abs(Single)](#Math.Abs(Single))
+6.  **[数学。Abs(Int64)](# Math.Abs(Int64))**
+7.  **[数学. Abs(SByte)](# Math.Abs(SByte))**
+8.  **[Math.Abs(Single)](# Math.Abs(Single))
 
     #### 数学。Abs(Int64)
 

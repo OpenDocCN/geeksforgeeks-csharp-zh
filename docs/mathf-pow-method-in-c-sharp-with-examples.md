@@ -1,8 +1,8 @@
-# MathF。C#中的 Pow()方法，带示例
+# MathF。C# 中的 Pow()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/mathf-pow-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-pow-method-in-c-sharp-with-examples/)
 
-在 C#中 ***MathF。***pow(Single，Single)是一个 MathF 类方法。这种方法用来计算一个数与另一个数的幂的乘积。
+在 C# 中 ***MathF。***pow(Single，Single)是一个 MathF 类方法。这种方法用来计算一个数与另一个数的幂的乘积。
 
 > **语法:**公共静态 float Pow (float x，float y)；
 > 

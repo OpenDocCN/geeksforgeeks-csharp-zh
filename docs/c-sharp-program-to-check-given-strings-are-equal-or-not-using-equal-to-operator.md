@@ -1,4 +1,4 @@
-# 使用等于(==)运算符检查给定字符串是否相等的 C#程序
+# 使用等于(==)运算符检查给定字符串是否相等的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-程序检查给定字符串是否等于运算符/](https://www.geeksforgeeks.org/c-sharp-program-to-check-given-strings-are-equal-or-not-using-equal-to-operator/)
 

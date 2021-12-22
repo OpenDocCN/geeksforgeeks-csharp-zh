@@ -1,4 +1,4 @@
-# DateTimeOffset。C#中的 ToFileTime()方法
+# DateTimeOffset。C# 中的 ToFileTime()方法
 
 > 原文:[https://www . geesforgeks . org/datetime offset-tofiletime-method-in-c-sharp/](https://www.geeksforgeeks.org/datetimeoffset-tofiletime-method-in-c-sharp/)
 

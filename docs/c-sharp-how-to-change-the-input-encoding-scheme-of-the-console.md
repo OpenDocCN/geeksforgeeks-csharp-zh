@@ -2,9 +2,9 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-如何更改控制台的输入编码方案/](https://www.geeksforgeeks.org/c-sharp-how-to-change-the-input-encoding-scheme-of-the-console/)
 
-给定 C#中的正常控制台，任务是更改控制台的输入编码方案。
+给定 C# 中的正常控制台，任务是更改控制台的输入编码方案。
 
-**方法:**这可以使用 C#中系统包的**控制台**类中的**输入编码**属性来完成。控制台。InputEncoding 属性获取或设置控制台用来读取输入的编码。
+**方法:**这可以使用 C# 中系统包的**控制台**类中的**输入编码**属性来完成。控制台。InputEncoding 属性获取或设置控制台用来读取输入的编码。
 
 **程序 1:** 获取输入编码方案的值
 

@@ -1,4 +1,4 @@
-# Int16。C#中的 CompareTo()方法
+# Int16。C# 中的 CompareTo()方法
 
 > 原文:[https://www . geesforgeks . org/int 16-compare to-method-in-c-sharp/](https://www.geeksforgeeks.org/int16-compareto-method-in-c-sharp/)
 

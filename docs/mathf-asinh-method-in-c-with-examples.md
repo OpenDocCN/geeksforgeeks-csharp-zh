@@ -1,4 +1,4 @@
-# MathF。C#中的 Asinh()方法，带示例
+# MathF。C# 中的 Asinh()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/mathf-asinh-method-in-c-with-examples/](https://www.geeksforgeeks.org/mathf-asinh-method-in-c-with-examples/)
 

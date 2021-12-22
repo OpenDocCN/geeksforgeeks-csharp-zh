@@ -1,4 +1,4 @@
-# 在 C#中列出 FindLastIndex()方法| Set -1
+# 在 C# 中列出 FindLastIndex()方法| Set -1
 
 > 原文:[https://www . geesforgeks . org/list-findlastindex-method-in-c-sharp-set-1/](https://www.geeksforgeeks.org/list-findlastindex-method-in-c-sharp-set-1/)
 
@@ -142,4 +142,4 @@
 
     **参考:**
 
-    *   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . generic . list-1 . findlastindex？view = net framework-4 . 7 . 2 # System _ Collections _ Generic _ List _ 1 _ FindLastIndex _ System _ Predicate _ 0 _ _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1.findlastindex?view=netframework-4.7.2#System_Collections_Generic_List_1_FindLastIndex_System_Predicate__0__)**
+    *   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . generic . list-1 . findlastindex？view = net framework-4 . 7 . 2 # System _ Collections _ Generic _ List _ 1 _ FindLastIndex _ System _ Predicate _ 0 _ _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1.findlastindex?view=netframework-4.7.2# System_Collections_Generic_List_1_FindLastIndex_System_Predicate__0__)**

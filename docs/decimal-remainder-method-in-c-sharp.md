@@ -1,4 +1,4 @@
-# 小数。C#中的余数()方法
+# 小数。C# 中的余数()方法
 
 > 原文:[https://www . geesforgeks . org/decimal-余数-in-c-sharp 方法/](https://www.geeksforgeeks.org/decimal-remainder-method-in-c-sharp/)
 

@@ -1,8 +1,8 @@
-# C#排序列表及示例
+# C# 排序列表及示例
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-sorted list-with-examples/](https://www.geeksforgeeks.org/c-sharp-sortedlist-with-examples/)
 
-在 C#中，SortedList 是根据键排序的键/值对的集合。默认情况下，此集合按升序对键/值对进行排序。它是泛型和非泛型集合类型。通用排序列表在系统中定义。集合。通用命名空间，而非通用排序列表在系统下定义。集合命名空间，这里我们将讨论非泛型类型 SortedList。
+在 C# 中，SortedList 是根据键排序的键/值对的集合。默认情况下，此集合按升序对键/值对进行排序。它是泛型和非泛型集合类型。通用排序列表在系统中定义。集合。通用命名空间，而非通用排序列表在系统下定义。集合命名空间，这里我们将讨论非泛型类型 SortedList。
 **要点:**
 
 *   SortedList 类实现了 *IEnumerable* 、 *ICollection* 、 *IDictionary* 和*I lonely*接口。

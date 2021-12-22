@@ -11,7 +11,7 @@ public int GetLength (int dimension);
 
 这里*维*是需要确定长度的数组的从零开始的维。
 **返回值:**该方法的返回类型为**系统。Int32** 。此方法返回一个 32 位整数，表示指定维度中的元素数量。
-**异常:**如果*维度*的值小于零或者*维度*的值等于或大于[等级](https://docs.microsoft.com/en-us/dotnet/api/system.array.rank?view=netcore-2.1#System_Array_Rank)，该方法将给出*indexout of range Exception*。
+**异常:**如果*维度*的值小于零或者*维度*的值等于或大于[等级](https://docs.microsoft.com/en-us/dotnet/api/system.array.rank?view=netcore-2.1# System_Array_Rank)，该方法将给出*indexout of range Exception*。
 下面给出一些例子，以便更好地理解实现:
 **例子 1:**
 

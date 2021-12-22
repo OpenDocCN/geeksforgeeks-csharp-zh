@@ -1,4 +1,4 @@
-# DateTimeOffset。C#中的 AddDays()方法
+# DateTimeOffset。C# 中的 AddDays()方法
 
 > 原文:[https://www . geesforgeks . org/datetime offset-adddays-method-in-c-sharp/](https://www.geeksforgeeks.org/datetimeoffset-adddays-method-in-c-sharp/)
 

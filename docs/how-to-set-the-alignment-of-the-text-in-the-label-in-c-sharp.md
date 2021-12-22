@@ -1,4 +1,4 @@
-# 如何在 C#中设置标签中文本的对齐方式？
+# 如何在 C# 中设置标签中文本的对齐方式？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 标签中文本的对齐方式/](https://www.geeksforgeeks.org/how-to-set-the-alignment-of-the-text-in-the-label-in-c-sharp/)
 

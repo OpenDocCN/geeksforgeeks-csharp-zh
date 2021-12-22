@@ -4,7 +4,7 @@
 
 **阵列。排序方法**用于对一维数组中的元素进行排序。此方法的重载列表中有 17 种方法，如下所示:
 
-*   **[排序< T > (T[])方法](#m1)***   **[排序< T > (T[]，我比较< T >)方法](#m2)***   **[排序< T > (T[]，Int32，Int32)方法](#m3)***   **[排序< T > (T[]，比较< T >)方法](#m4)***   **排序(数组，Int32，Int32，IComparer)方法***   **排序(数组，数组，Int32，Int32，IComparer)方法***   **排序(数组，Int32，Int32)方法***   **排序(数组，数组，Int32，Int32)方法***   **排序(数组、比较器)方法***   **排序(数组、数组、比较器)方法***   **排序(数组，数组)方法***   **排序(数组)方法***   **排序 <t>(T[]，Int32，Int32，IComparer <t>)方法</t></t>***   **排序 <tkey>(TKey[]，tvvalue[])方法</tkey>***   **排序 <tkey>(TKey[]，tvvalue[]，IComparer <tkey>)方法</tkey></tkey>***   **排序 <tkey>(TKey[]，TValue[]，Int32，Int32)方法</tkey>***   **Sort<TKey,TValue>(TKey[], TValue[], Int32, Int32, IComparer<TKey>) Method
+*   **[排序< T > (T[])方法](# m1)***   **[排序< T > (T[]，我比较< T >)方法](# m2)***   **[排序< T > (T[]，Int32，Int32)方法](# m3)***   **[排序< T > (T[]，比较< T >)方法](# m4)***   **排序(数组，Int32，Int32，IComparer)方法***   **排序(数组，数组，Int32，Int32，IComparer)方法***   **排序(数组，Int32，Int32)方法***   **排序(数组，数组，Int32，Int32)方法***   **排序(数组、比较器)方法***   **排序(数组、数组、比较器)方法***   **排序(数组，数组)方法***   **排序(数组)方法***   **排序 <t>(T[]，Int32，Int32，IComparer <t>)方法</t></t>***   **排序 <tkey>(TKey[]，tvvalue[])方法</tkey>***   **排序 <tkey>(TKey[]，tvvalue[]，IComparer <tkey>)方法</tkey></tkey>***   **排序 <tkey>(TKey[]，TValue[]，Int32，Int32)方法</tkey>***   **Sort<TKey,TValue>(TKey[], TValue[], Int32, Int32, IComparer<TKey>) Method
 
     这里我们将讨论前 4 种方法。
 

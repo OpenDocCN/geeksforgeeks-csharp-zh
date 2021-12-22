@@ -1,10 +1,10 @@
-# c#中的私有构造函数
+# c# 中的私有构造函数
 
 > 原文:[https://www . geesforgeks . org/private-constructors-in-c-sharp/](https://www.geeksforgeeks.org/private-constructors-in-c-sharp/)
 
-**先决条件:[C#中的构造函数](https://www.geeksforgeeks.org/c-sharp-constructors/)**
+**先决条件:[C# 中的构造函数](https://www.geeksforgeeks.org/c-sharp-constructors/)**
 
-私有构造函数是 c#语言中存在的特殊实例构造函数。基本上，私有构造函数用在只包含静态成员的类中。私有构造函数总是使用`private` 关键字声明的。
+私有构造函数是 c# 语言中存在的特殊实例构造函数。基本上，私有构造函数用在只包含静态成员的类中。私有构造函数总是使用`private` 关键字声明的。
 
 **重要点:**
 

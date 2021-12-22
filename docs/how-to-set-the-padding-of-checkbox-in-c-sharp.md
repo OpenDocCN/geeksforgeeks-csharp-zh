@@ -1,4 +1,4 @@
-# 如何设置 C#中 CheckBox 的填充？
+# 如何设置 C# 中 CheckBox 的填充？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中复选框的填充符/](https://www.geeksforgeeks.org/how-to-set-the-padding-of-checkbox-in-c-sharp/)
 

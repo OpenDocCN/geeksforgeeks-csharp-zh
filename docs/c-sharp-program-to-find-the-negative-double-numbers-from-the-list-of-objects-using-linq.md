@@ -1,4 +1,4 @@
-# 使用 LINQ 从对象列表中找到双负数的 C#程序
+# 使用 LINQ 从对象列表中找到双负数的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-find-the-negative-double-numbers-from-list-of-objects-use-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-find-the-negative-double-numbers-from-the-list-of-objects-using-linq/)
 

@@ -1,8 +1,8 @@
-# c#中的析构函数
+# c# 中的析构函数
 
 > 原文:[https://www.geeksforgeeks.org/destructors-in-c-sharp/](https://www.geeksforgeeks.org/destructors-in-c-sharp/)
 
-C#中的析构函数是类内的方法，用于在不再需要时销毁[类](https://www.geeksforgeeks.org/c-class-and-object/)的实例。析构函数由[隐式调用。NET Framework 的](https://www.geeksforgeeks.org/introduction-to-net-framework/)垃圾收集器，因此程序员无法控制何时调用析构函数。当实例变量或对象不再可达时，它有资格被销毁。
+C# 中的析构函数是类内的方法，用于在不再需要时销毁[类](https://www.geeksforgeeks.org/c-class-and-object/)的实例。析构函数由[隐式调用。NET Framework 的](https://www.geeksforgeeks.org/introduction-to-net-framework/)垃圾收集器，因此程序员无法控制何时调用析构函数。当实例变量或对象不再可达时，它有资格被销毁。
 
 **要点:**
 

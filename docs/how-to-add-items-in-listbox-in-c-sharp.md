@@ -1,4 +1,4 @@
-# 如何用 C#在 ListBox 中添加项目？
+# 如何用 C# 在 ListBox 中添加项目？
 
 > 原文:[https://www . geesforgeks . org/如何在 c-sharp 列表框中添加项目/](https://www.geeksforgeeks.org/how-to-add-items-in-listbox-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# 如何在 C#中创建数组列表
+# 如何在 C# 中创建数组列表
 
 > 原文:[https://www . geeksforgeeks . org/如何创建 c-sharp 中的数组列表/](https://www.geeksforgeeks.org/how-to-create-the-arraylist-in-c-sharp/)
 

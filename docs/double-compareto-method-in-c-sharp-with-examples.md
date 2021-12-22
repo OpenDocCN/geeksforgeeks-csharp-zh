@@ -1,4 +1,4 @@
-# 翻倍。C#中的方法与示例的比较
+# 翻倍。C# 中的方法与示例的比较
 
 > 原文:[https://www . geeksforgeeks . org/double-compare to-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/double-compareto-method-in-c-sharp-with-examples/)
 

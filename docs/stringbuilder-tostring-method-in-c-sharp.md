@@ -1,4 +1,4 @@
-# StringBuilder。C#中的 ToString 方法
+# StringBuilder。C# 中的 ToString 方法
 
 > 原文:[https://www . geeksforgeeks . org/stringbuilder-tostring-method-in-c-sharp/](https://www.geeksforgeeks.org/stringbuilder-tostring-method-in-c-sharp/)
 

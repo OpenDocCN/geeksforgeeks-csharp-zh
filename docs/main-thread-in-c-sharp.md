@@ -1,12 +1,12 @@
-# c#中的主线程
+# c# 中的主线程
 
 > 原文:[https://www.geeksforgeeks.org/main-thread-in-c-sharp/](https://www.geeksforgeeks.org/main-thread-in-c-sharp/)
 
-C#为多线程编程提供内置支持。多线程程序包含两个或多个可以并发运行的部分。这种程序的每个部分被称为*线程*，每个线程定义一个单独的执行路径。
+C# 为多线程编程提供内置支持。多线程程序包含两个或多个可以并发运行的部分。这种程序的每个部分被称为*线程*，每个线程定义一个单独的执行路径。
 
 **Main Thread**
 
-当 C#程序启动时，一个线程立即开始运行。这通常被称为我们程序的主线。
+当 C# 程序启动时，一个线程立即开始运行。这通常被称为我们程序的主线。
 
 **属性:**
 
@@ -121,7 +121,7 @@ The name of main thread is: Main Thread
 
 **Deadlocking by using Main Thread**
 
-我们可以通过只使用 Main 线程来创建死锁，即只使用一个线程。下面的 C#程序演示了这一点。
+我们可以通过只使用 Main 线程来创建死锁，即只使用一个线程。下面的 C# 程序演示了这一点。
 
 **示例:**
 

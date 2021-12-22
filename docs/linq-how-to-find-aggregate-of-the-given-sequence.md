@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/linq-如何找到给定序列的聚合/](https://www.geeksforgeeks.org/linq-how-to-find-aggregate-of-the-given-sequence/)
 
-在 LINQ，您可以使用聚合方法创建自己的自定义聚合操作。此方法允许您对集合或序列的值执行自定义聚合操作。它不支持 C#和 VB.Net 语言的查询语法，但可以支持两种语言的[方法语法](https://www.geeksforgeeks.org/linq-method-syntax/)。它同时出现在可查询类和可枚举类中。这种方法在 **3** 中以不同的方式超载:
+在 LINQ，您可以使用聚合方法创建自己的自定义聚合操作。此方法允许您对集合或序列的值执行自定义聚合操作。它不支持 C# 和 VB.Net 语言的查询语法，但可以支持两种语言的[方法语法](https://www.geeksforgeeks.org/linq-method-syntax/)。它同时出现在可查询类和可枚举类中。这种方法在 **3** 中以不同的方式超载:
 
 1.  **聚合<t 源，t 累计，t 结果>(IEnumerable<t 源>，t 累计，Func<t 累计，t 源，t 累计>，Func<t 累计，t 结果> ):** 此方法用于对序列应用累加器函数。指定的种子值用作初始累加器值，指定的函数用于选择结果值。
 2.  **聚合<源，累计> (IEnumerable <源>，累计，函数<累计，源，累计> ):** 此方法对序列应用一个累加器函数。指定的种子值用作初始累加器值。

@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/ref-in-c-sharp/](https://www.geeksforgeeks.org/ref-in-c-sharp/)
 
-C#中的 ref 关键字用于传递或返回对[方法](https://www.geeksforgeeks.org/c-sharp-methods/)的值的引用。基本上，这意味着对引用传递的值所做的任何更改都将反映这种更改，因为您修改的是地址上的值，而不仅仅是值。可以在以下情况下实施:
+C# 中的 ref 关键字用于传递或返回对[方法](https://www.geeksforgeeks.org/c-sharp-methods/)的值的引用。基本上，这意味着对引用传递的值所做的任何更改都将反映这种更改，因为您修改的是地址上的值，而不仅仅是值。可以在以下情况下实施:
 
 *   通过引用将参数传递给方法。
 *   定义方法签名以返回变量的引用。

@@ -1,8 +1,8 @@
-# c#中抽象类和接口的区别
+# c# 中抽象类和接口的区别
 
 > 原文:[https://www . geesforgeks . org/抽象类与 c-sharp 中接口的区别/](https://www.geeksforgeeks.org/difference-between-abstract-class-and-interface-in-c-sharp/)
 
-一个[抽象类](https://www.geeksforgeeks.org/c-abstract-classes/)是用 C#实现抽象的一种方式。抽象类从来不打算被直接实例化。该类必须包含至少一个抽象方法，在类定义中用关键字或修饰符*抽象*标记。抽象类通常用于定义类层次结构中的基类。
+一个[抽象类](https://www.geeksforgeeks.org/c-abstract-classes/)是用 C# 实现抽象的一种方式。抽象类从来不打算被直接实例化。该类必须包含至少一个抽象方法，在类定义中用关键字或修饰符*抽象*标记。抽象类通常用于定义类层次结构中的基类。
 
 **示例:**
 

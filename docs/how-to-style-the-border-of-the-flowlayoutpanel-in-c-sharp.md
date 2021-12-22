@@ -1,4 +1,4 @@
-# 如何在 C#中设置 FlowLayoutPanel 的边框样式？
+# 如何在 C# 中设置 FlowLayoutPanel 的边框样式？
 
 > 原文:[https://www . geeksforgeeks . org/how-style-the-flowlayoutpanel-in-c-sharp/](https://www.geeksforgeeks.org/how-to-style-the-border-of-the-flowlayoutpanel-in-c-sharp/)
 

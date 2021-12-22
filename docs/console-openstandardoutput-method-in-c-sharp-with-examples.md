@@ -1,8 +1,8 @@
-# 控制台。C#中的 OpenStandardOutput()方法，带示例
+# 控制台。C# 中的 OpenStandardOutput()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/console-open standard output-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/console-openstandardoutput-method-in-c-sharp-with-examples/)
 
-**控制台。OpenStandardOutput 方法**用于获取标准输出流。C#中有两种 OpenStandardOutput 方法重载，如下所示:
+**控制台。OpenStandardOutput 方法**用于获取标准输出流。C# 中有两种 OpenStandardOutput 方法重载，如下所示:
 
 *   **OpenStandardOutput()方法**
 *   **OpenStandardOutput(int32)方法**

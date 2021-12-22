@@ -1,4 +1,4 @@
-# 使用字符串添加带浮点数的文本。C#中的 Format()方法
+# 使用字符串添加带浮点数的文本。C# 中的 Format()方法
 
 > 原文:[https://www . geesforgeks . org/add-text-with-float-number-use-string-format-method-in-c-sharp/](https://www.geeksforgeeks.org/adding-text-with-a-float-number-using-string-format-method-in-c-sharp/)
 

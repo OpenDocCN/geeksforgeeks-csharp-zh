@@ -1,4 +1,4 @@
-# 演示环境类 GetCommandLineArgs()方法使用的 C#程序
+# 演示环境类 GetCommandLineArgs()方法使用的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-演示-使用-getcommandlineargs-method-of-environment-class/](https://www.geeksforgeeks.org/c-sharp-program-to-demonstrate-the-use-of-getcommandlineargs-method-of-environment-class/)
 

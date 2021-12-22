@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-enumeration-or-enum/](https://www.geeksforgeeks.org/c-sharp-enumeration-or-enum/)
 
-***枚举(或枚举)*** 是 C#中的一个[值数据类型](https://www.geeksforgeeks.org/c-data-types-2/)。它主要用于将名称或字符串值赋给整型常量，这使得程序易于阅读和维护。例如，一副扑克牌中的 4 套花色可能是 4 个名为 Club、Diamond、Heart 和 Spade 的枚举数，属于名为花色的枚举类型。其他例子包括自然列举的类型(如行星、星期几、颜色、方向等。).枚举的主要目的是定义我们自己的数据类型(枚举数据类型)。枚举是直接在命名空间、类或结构中使用 ***enum*** 关键字声明的。
+***枚举(或枚举)*** 是 C# 中的一个[值数据类型](https://www.geeksforgeeks.org/c-data-types-2/)。它主要用于将名称或字符串值赋给整型常量，这使得程序易于阅读和维护。例如，一副扑克牌中的 4 套花色可能是 4 个名为 Club、Diamond、Heart 和 Spade 的枚举数，属于名为花色的枚举类型。其他例子包括自然列举的类型(如行星、星期几、颜色、方向等。).枚举的主要目的是定义我们自己的数据类型(枚举数据类型)。枚举是直接在命名空间、类或结构中使用 ***enum*** 关键字声明的。
 
 **语法:**
 

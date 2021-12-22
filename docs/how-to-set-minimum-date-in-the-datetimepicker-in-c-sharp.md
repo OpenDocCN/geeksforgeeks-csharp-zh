@@ -1,4 +1,4 @@
-# 如何在 C#的 DateTimePicker 中设置最小日期？
+# 如何在 C# 的 DateTimePicker 中设置最小日期？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的最小日期时间选择器/](https://www.geeksforgeeks.org/how-to-set-minimum-date-in-the-datetimepicker-in-c-sharp/)
 

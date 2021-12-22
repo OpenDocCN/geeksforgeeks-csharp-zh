@@ -1,4 +1,4 @@
-# 如何在 C#中设置 CheckBox 的自动大小？
+# 如何在 C# 中设置 CheckBox 的自动大小？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中复选框的自动大小/](https://www.geeksforgeeks.org/how-to-set-the-autosize-of-the-checkbox-in-c-sharp/)
 

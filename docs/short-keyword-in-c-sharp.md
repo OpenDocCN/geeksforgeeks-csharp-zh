@@ -1,4 +1,4 @@
-# c#中的短关键字
+# c# 中的短关键字
 
 > 原文:[https://www.geeksforgeeks.org/short-keyword-in-c-sharp/](https://www.geeksforgeeks.org/short-keyword-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# 使用 LINQ 估算文件大小的 C#程序
+# 使用 LINQ 估算文件大小的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-预估文件大小-使用-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-estimate-the-size-of-file-using-linq/)
 

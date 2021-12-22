@@ -1,4 +1,4 @@
-# C#程序打印链表的反转而不实际反转
+# C# 程序打印链表的反转而不实际反转
 
 > 原文:[https://www . geesforgeks . org/c-打印程序-链表的反向而不实际反向-2/](https://www.geeksforgeeks.org/c-program-for-printing-reverse-of-a-linked-list-without-actually-reversing-2/)
 

@@ -2,9 +2,9 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-operator-overloading/](https://www.geeksforgeeks.org/c-sharp-operator-overloading/)
 
-#### 前提条件:[c#中的操作符](https://www.geeksforgeeks.org/c-operators/)
+#### 前提条件:[c# 中的操作符](https://www.geeksforgeeks.org/c-operators/)
 
-函数重载的概念也可以应用于 [**操作符**](https://www.geeksforgeeks.org/c-operators/) 。运算符重载提供了使用同一个运算符进行各种操作的能力。当应用于用户定义的数据类型时，它为 [**C#**](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 运算符提供了额外的功能。它支持用户定义各种操作的实现，其中一个或两个操作数属于用户定义的类。只能重载预定义的一组 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 操作符。对用户定义的数据类型进行操作不像对内置数据类型进行操作那么简单。要将运算符用于用户定义的数据类型，需要根据程序员的要求重载它们。通过给运算符定义一个函数，它可以被重载。使用**运算符关键字**来声明运算符的功能。
+函数重载的概念也可以应用于 [**操作符**](https://www.geeksforgeeks.org/c-operators/) 。运算符重载提供了使用同一个运算符进行各种操作的能力。当应用于用户定义的数据类型时，它为 [**C#**](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 运算符提供了额外的功能。它支持用户定义各种操作的实现，其中一个或两个操作数属于用户定义的类。只能重载预定义的一组 [C# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 操作符。对用户定义的数据类型进行操作不像对内置数据类型进行操作那么简单。要将运算符用于用户定义的数据类型，需要根据程序员的要求重载它们。通过给运算符定义一个函数，它可以被重载。使用**运算符关键字**来声明运算符的功能。
 
 **语法:**
 
@@ -15,9 +15,9 @@ access specifier  className  operator Operator_symbol (parameters)
 }
 ```
 
-**注意:**运算符重载基本上是为理想的 C#运算符 w.r.t .提供特殊含义的机制，这是一种用户定义的数据类型，如结构或类。
+**注意:**运算符重载基本上是为理想的 C# 运算符 w.r.t .提供特殊含义的机制，这是一种用户定义的数据类型，如结构或类。
 
-**下表描述了 C#中可用的各种运算符的重载能力:**
+**下表描述了 C# 中可用的各种运算符的重载能力:**
 
 <figure class="table">
 
@@ -26,7 +26,7 @@ access specifier  className  operator Operator_symbol (parameters)
 | **+、-、！、~、++、––** | 一元运算符取一个操作数，可以重载。 |
 | **+、-、*、/、%** | 二元运算符取两个操作数，可以重载。 |
 | **==，！=，=** | 比较运算符可以重载。 |
-| **&&、&#124;&#124;** | 条件逻辑运算符不能直接重载 |
+| **&&、&# 124;&# 124;** | 条件逻辑运算符不能直接重载 |
 | **+=、-+、*=、/=、%=、=** | 赋值运算符不能重载。 |
 
 </figure>
@@ -118,7 +118,7 @@ Number2 = 25
 
 ### 重载二进制运算符
 
-二进制运算符将使用两个操作数。二进制运算符的例子包括 [**算术运算符**](https://www.geeksforgeeks.org/c-operators/#Arithmetic%20Operators) (+、-、*、/、%)、算术赋值运算符(+=、-+、*=、/+、%=)和 [**关系运算符**](https://www.geeksforgeeks.org/c-operators/#Relational%20Operators) 等。重载二元运算符类似于重载一元运算符，只是二元运算符需要一个附加参数。
+二进制运算符将使用两个操作数。二进制运算符的例子包括 [**算术运算符**](https://www.geeksforgeeks.org/c-operators/# Arithmetic%20Operators) (+、-、*、/、%)、算术赋值运算符(+=、-+、*=、/+、%=)和 [**关系运算符**](https://www.geeksforgeeks.org/c-operators/# Relational%20Operators) 等。重载二元运算符类似于重载一元运算符，只是二元运算符需要一个附加参数。
 
 **语法:**
 

@@ -1,4 +1,4 @@
-# 如何在 C#中使用 TextBox 的 AcceptsReturn 属性？
+# 如何在 C# 中使用 TextBox 的 AcceptsReturn 属性？
 
 > 原文:[https://www . geeksforgeeks . org/how-用法-accepts return-property-of-textbox-in-c-sharp/](https://www.geeksforgeeks.org/how-to-use-acceptsreturn-property-of-textbox-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# c#中的垃圾收集|。NET 框架
+# c# 中的垃圾收集|。NET 框架
 
 > 原文:[https://www . geesforgeks . org/垃圾收集-in-c-sharp-dot-net-framework/](https://www.geeksforgeeks.org/garbage-collection-in-c-sharp-dot-net-framework/)
 

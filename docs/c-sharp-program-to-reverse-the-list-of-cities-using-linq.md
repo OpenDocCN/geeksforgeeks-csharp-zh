@@ -1,4 +1,4 @@
-# 使用 LINQ 逆转城市名单的 C#程序
+# 使用 LINQ 逆转城市名单的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-reverse-list-city-use-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-reverse-the-list-of-cities-using-linq/)
 

@@ -1,8 +1,8 @@
-# C#程序不使用 Reverse()方法反转字符串
+# C# 程序不使用 Reverse()方法反转字符串
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-reverse-a-string-not-use-reverse-method/](https://www.geeksforgeeks.org/c-sharp-program-to-reverse-a-string-without-using-reverse-method/)
 
-C#有一个反转字符串的内置函数。首先，使用 ToCharArray()将字符串转换为字符数组，然后使用 Reverse()将字符数组反转，但是在本文中，我们将了解如何在不使用 Reverse()的情况下反转字符串。
+C# 有一个反转字符串的内置函数。首先，使用 ToCharArray()将字符串转换为字符数组，然后使用 Reverse()将字符数组反转，但是在本文中，我们将了解如何在不使用 Reverse()的情况下反转字符串。
 
 **例**T0】
 

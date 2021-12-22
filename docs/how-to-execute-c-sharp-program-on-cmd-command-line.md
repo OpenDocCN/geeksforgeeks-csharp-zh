@@ -1,13 +1,13 @@
-# 如何在 cmd(命令行)上执行 C#程序？
+# 如何在 cmd(命令行)上执行 C# 程序？
 
 > 原文:[https://www . geesforgeks . org/如何执行-c-sharp-program on-cmd-命令行/](https://www.geeksforgeeks.org/how-to-execute-c-sharp-program-on-cmd-command-line/)
 
-C#是一种通用、现代和面向对象的编程语言，发音为**“C sharp”**。C#是公共语言基础设施的语言之一，当前版本的 [C#](https://www.geeksforgeeks.org/csharp-programming-language/) 是 8.0 版本。C#在语法上与 Java 有很多相似之处，对于了解 [C](https://www.geeksforgeeks.org/c-programming-language/) 、 [C++](https://www.geeksforgeeks.org/c-plus-plus/) 或 [Java](https://www.geeksforgeeks.org/java/) 的用户来说很容易。
+C# 是一种通用、现代和面向对象的编程语言，发音为**“C sharp”**。C# 是公共语言基础设施的语言之一，当前版本的 [C# ](https://www.geeksforgeeks.org/csharp-programming-language/) 是 8.0 版本。C# 在语法上与 Java 有很多相似之处，对于了解 [C](https://www.geeksforgeeks.org/c-programming-language/) 、 [C++](https://www.geeksforgeeks.org/c-plus-plus/) 或 [Java](https://www.geeksforgeeks.org/java/) 的用户来说很容易。
 
-由于 C#在语法上与其他广泛使用的语言非常相似，所以用 C#进行编码和学习更容易。
-程序可以在任何广泛使用的文本编辑器中用 C#编写，如 Notepad++、gedit 等。或者在任何编译器上。写完程序后保存扩展名为**的文件。cs** 。网上有各种各样的 ide，比如[极客 forGeeks ide](https://ide.geeksforgeeks.org/) ，CodeChef ide 等。它可以用来运行 C#程序而无需安装。还可以使用命令行选项来运行 C#程序。
+由于 C# 在语法上与其他广泛使用的语言非常相似，所以用 C# 进行编码和学习更容易。
+程序可以在任何广泛使用的文本编辑器中用 C# 编写，如 Notepad++、gedit 等。或者在任何编译器上。写完程序后保存扩展名为**的文件。cs** 。网上有各种各样的 ide，比如[极客 forGeeks ide](https://ide.geeksforgeeks.org/) ，CodeChef ide 等。它可以用来运行 C# 程序而无需安装。还可以使用命令行选项来运行 C# 程序。
 
-**命令行执行的 C#程序示例:**
+**命令行执行的 C# 程序示例:**
 
 ```cs
 // C# program to print Hello World!
@@ -35,7 +35,7 @@ class Geeks {
 }
 ```
 
-### 为 C#编译器设置环境
+### 为 C# 编译器设置环境
 
 **第一步:**转到**控制面板- >系统和安全- >系统**。在**高级系统设置**选项下，点击**环境变量**，如下图:
 
@@ -55,13 +55,13 @@ class Geeks {
 
 ![CSharp-Command-Prompt-02](img/c619bf772a8a413374f0ddc788666e31.png)
 
-### 在 cmd 上执行 C#程序的步骤
+### 在 cmd 上执行 C# 程序的步骤
 
 **第一步:**像记事本或 Notepad++一样打开文本编辑器，写下想要执行的代码。现在用**保存文件。cs** 分机。
 
 ![CSharp-Command-Prompt-00](img/ab00efd6c92f89a67be4331e29c24381.png)
 
-**步骤 2:** 使用命令编译 C#源代码:
+**步骤 2:** 使用命令编译 C# 源代码:
 
 ```cs
 csc File_name.cs

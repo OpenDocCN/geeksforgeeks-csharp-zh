@@ -1,8 +1,8 @@
-# 如何在 C#中用前导零填充整数？
+# 如何在 C# 中用前导零填充整数？
 
 > 原文:[https://www . geesforgeks . org/如何在 c-sharp 中用前导零填充整数/](https://www.geeksforgeeks.org/how-to-pad-an-integer-number-with-leading-zeroes-in-c-sharp/)
 
-给定一个**数字 N** ，任务是用 C#中的 **P** 前导零的数字填充这个数字。
+给定一个**数字 N** ，任务是用 C# 中的 **P** 前导零的数字填充这个数字。
 
 **示例:**
 

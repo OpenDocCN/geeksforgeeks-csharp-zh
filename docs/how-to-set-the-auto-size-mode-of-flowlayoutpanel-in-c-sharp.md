@@ -1,4 +1,4 @@
-# 如何在 C#中设置 FlowLayoutPanel 的自动大小模式？
+# 如何在 C# 中设置 FlowLayoutPanel 的自动大小模式？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的自动调整大小模式/](https://www.geeksforgeeks.org/how-to-set-the-auto-size-mode-of-flowlayoutpanel-in-c-sharp/)
 

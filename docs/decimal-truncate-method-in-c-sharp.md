@@ -1,4 +1,4 @@
-# 小数。C#中的 Truncate()方法
+# 小数。C# 中的 Truncate()方法
 
 > 原文:[https://www . geesforgeks . org/decimal-truncate-in-method-in-c-sharp/](https://www.geeksforgeeks.org/decimal-truncate-method-in-c-sharp/)
 

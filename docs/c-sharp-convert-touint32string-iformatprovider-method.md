@@ -260,4 +260,4 @@ Exception Thrown: System.OverflowException
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . convert . touint 32？view = net framework-4 . 7 . 2 # System _ Convert _ ToUInt32 _ System _ String _ System _ IFormatProvider _](https://docs.microsoft.com/en-us/dotnet/api/system.convert.touint32?view=netframework-4.7.2#System_Convert_ToUInt32_System_String_System_IFormatProvider_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . convert . touint 32？view = net framework-4 . 7 . 2 # System _ Convert _ ToUInt32 _ System _ String _ System _ IFormatProvider _](https://docs.microsoft.com/en-us/dotnet/api/system.convert.touint32?view=netframework-4.7.2# System_Convert_ToUInt32_System_String_System_IFormatProvider_)

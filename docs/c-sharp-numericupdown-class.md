@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-numericupdown-class/](https://www.geeksforgeeks.org/c-sharp-numericupdown-class/)
 
-在 Windows 窗体中，NumericUpDown 控件用于提供显示数值的 Windows 旋转框或上下控件。或者换句话说，NumericUpDown 控件提供了一个使用上下箭头移动并保存一些预定义数值的界面。NumericUpDown 类用于表示窗口数字上下框，还提供不同类型的属性、方法和事件。在**系统下定义。Windows.Forms** 命名空间。在 C#中，您可以使用两种不同的方法在 windows 窗体中创建 NumericUpDown:
+在 Windows 窗体中，NumericUpDown 控件用于提供显示数值的 Windows 旋转框或上下控件。或者换句话说，NumericUpDown 控件提供了一个使用上下箭头移动并保存一些预定义数值的界面。NumericUpDown 类用于表示窗口数字上下框，还提供不同类型的属性、方法和事件。在**系统下定义。Windows.Forms** 命名空间。在 C# 中，您可以使用两种不同的方法在 windows 窗体中创建 NumericUpDown:
 
 **1。设计时:**创建 NumericUpDown 的最简单方法如下步骤所示:
 

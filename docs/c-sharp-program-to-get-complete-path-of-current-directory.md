@@ -1,4 +1,4 @@
-# C#程序获取当前目录的完整路径
+# C# 程序获取当前目录的完整路径
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-get-complete-path-of-current-directory/](https://www.geeksforgeeks.org/c-sharp-program-to-get-complete-path-of-current-directory/)
 

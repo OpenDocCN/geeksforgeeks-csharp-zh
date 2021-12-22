@@ -1,4 +1,4 @@
-# 带示例的 C#哈希表
+# 带示例的 C# 哈希表
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-hashtable-with-examples/](https://www.geeksforgeeks.org/c-sharp-hashtable-with-examples/)
 

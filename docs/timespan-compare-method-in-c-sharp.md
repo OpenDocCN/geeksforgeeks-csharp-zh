@@ -1,4 +1,4 @@
-# 时间跨度。C#中的 Compare()方法
+# 时间跨度。C# 中的 Compare()方法
 
 > 原文:[https://www . geesforgeks . org/timespan-compare-method-in-c-sharp/](https://www.geeksforgeeks.org/timespan-compare-method-in-c-sharp/)
 

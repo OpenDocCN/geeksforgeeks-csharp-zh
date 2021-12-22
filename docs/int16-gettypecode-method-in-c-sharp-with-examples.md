@@ -1,4 +1,4 @@
-# Int16。C#中的 GetTypeCode 方法及示例
+# Int16。C# 中的 GetTypeCode 方法及示例
 
 > 原文:[https://www . geesforgeks . org/int 16-gettypecode-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/int16-gettypecode-method-in-c-sharp-with-examples/)
 

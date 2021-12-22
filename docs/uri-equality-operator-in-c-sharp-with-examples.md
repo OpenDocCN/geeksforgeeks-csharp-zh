@@ -1,4 +1,4 @@
-# 乌利。C#中的等式()运算符及示例
+# 乌利。C# 中的等式()运算符及示例
 
 > 原文:[https://www . geesforgeks . org/uri-equality-operator-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/uri-equality-operator-in-c-sharp-with-examples/)
 
@@ -37,7 +37,7 @@ class GFG { 
     public static void Main() 
     { 
         // Declaring and initializing address1 
-        Uri address1 = new Uri("http://www.abcs.com/index.htm#search"); 
+        Uri address1 = new Uri("http://www.abcs.com/index.htm# search"); 
 
         // Declaring and intializing address2 
         Uri address2 = new Uri("http://www.abcd.com/index.htm"); 

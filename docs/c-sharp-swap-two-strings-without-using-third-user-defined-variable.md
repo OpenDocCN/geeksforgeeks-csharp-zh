@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-swap-不使用第三用户定义变量的两个字符串/](https://www.geeksforgeeks.org/c-sharp-swap-two-strings-without-using-third-user-defined-variable/)
 
-给定两个字符串变量 a 和 b，在 C#中交换这些变量而不使用临时变量或第三个变量。允许使用库方法。
+给定两个字符串变量 a 和 b，在 C# 中交换这些变量而不使用临时变量或第三个变量。允许使用库方法。
 
 **示例:**
 

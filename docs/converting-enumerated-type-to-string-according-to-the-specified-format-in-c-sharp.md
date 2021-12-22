@@ -1,4 +1,4 @@
-# 根据 C#中指定的格式将枚举类型转换为字符串
+# 根据 C# 中指定的格式将枚举类型转换为字符串
 
 > 原文:[https://www . geesforgeks . org/converting-enumerated-type-to-string-按照 c-sharp 中指定的格式/](https://www.geeksforgeeks.org/converting-enumerated-type-to-string-according-to-the-specified-format-in-c-sharp/)
 

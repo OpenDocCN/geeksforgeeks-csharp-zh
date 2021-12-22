@@ -1,6 +1,6 @@
 # 使用环境类
 
-获取当前机器处理器数量的 C#程序
+获取当前机器处理器数量的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-程序获取当前机器使用环境类的处理器数量/](https://www.geeksforgeeks.org/c-sharp-program-to-get-the-number-of-processors-of-the-current-machine-using-environment-class/)
 

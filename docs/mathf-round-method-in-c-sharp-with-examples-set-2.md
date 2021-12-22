@@ -1,8 +1,8 @@
-# MathF。C#中的 Round()方法，带示例| Set–2
+# MathF。C# 中的 Round()方法，带示例| Set–2
 
 > 原文:[https://www . geesforgeks . org/mathf-round-method-in-c-sharp-with-examples-set-2/](https://www.geeksforgeeks.org/mathf-round-method-in-c-sharp-with-examples-set-2/)
 
-在 C#中 ***MathF。Round()*** 是一个 MathF 类方法，用于将一个值舍入到最接近的整数或小数位数。它返回数字的最近值，精度等于传递的第二个参数。如果要舍入的值正好介于偶数和奇数之间，则返回偶数。*马瑟夫。第*轮适用于 IEEE 标准 754，第 4 节。通过更改传递的参数的数量和类型，可以重载此方法。 *MathF 的过载列表中有 4 种方法。回合()*方法如下:
+在 C# 中 ***MathF。Round()*** 是一个 MathF 类方法，用于将一个值舍入到最接近的整数或小数位数。它返回数字的最近值，精度等于传递的第二个参数。如果要舍入的值正好介于偶数和奇数之间，则返回偶数。*马瑟夫。第*轮适用于 IEEE 标准 754，第 4 节。通过更改传递的参数的数量和类型，可以重载此方法。 *MathF 的过载列表中有 4 种方法。回合()*方法如下:
 
 *   **MathF。圆(单)法***   **MathF。圆形(单一，整数 32)方法***   **MathF。舍入(单一、整数 32、中点舍入)方法***   **MathF.Round(Single, MidpointRounding) Method
 

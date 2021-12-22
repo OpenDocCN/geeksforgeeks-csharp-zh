@@ -1,4 +1,4 @@
-# UInt16。C#中的最小值字段，示例
+# UInt16。C# 中的最小值字段，示例
 
 > 原文:[https://www . geesforgeks . org/uint 16-min value-field-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/uint16-minvalue-field-in-c-sharp-with-examples/)
 

@@ -2,9 +2,9 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-type-casting/](https://www.geeksforgeeks.org/c-sharp-type-casting/)
 
-### 先决条件: [C#数据类型](https://www.geeksforgeeks.org/c-data-types-2/)
+### 先决条件: [C# 数据类型](https://www.geeksforgeeks.org/c-data-types-2/)
 
-当我们将一种数据类型的值赋给另一种数据类型时，就会发生类型转换。如果数据类型兼容，则 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 进行**自动类型转换**。如果不可比，则需要显式转换，称为**显式类型转换**。例如，给长变量赋值。
+当我们将一种数据类型的值赋给另一种数据类型时，就会发生类型转换。如果数据类型兼容，则 [C# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 进行**自动类型转换**。如果不可比，则需要显式转换，称为**显式类型转换**。例如，给长变量赋值。
 
 ### 
 
@@ -15,11 +15,11 @@
 *   这两种数据类型是兼容的。
 *   当我们将较小数据类型的值赋给较大数据类型时。
 
-例如，在 C#中，数字数据类型相互兼容，但不支持从数字类型到 char 或 boolean 的自动转换。此外，char 和 boolean 彼此不兼容。在转换之前，编译器首先根据下图检查兼容性，然后决定它是正常的还是有错误。
+例如，在 C# 中，数字数据类型相互兼容，但不支持从数字类型到 char 或 boolean 的自动转换。此外，char 和 boolean 彼此不兼容。在转换之前，编译器首先根据下图检查兼容性，然后决定它是正常的还是有错误。
 
 ![](img/a22bc14a6adf01831e3cf037250151a5.png)
 
-**下表显示了 C#支持的隐式转换类型:**
+**下表显示了 C# 支持的隐式转换类型:**
 
 | 从数据类型转换 | 转换为数据类型 |
 | 字节 | 短，整数，长，浮点，双精度 |
@@ -145,7 +145,7 @@ Value of i is 765
 **说明:**
 这里由于有损转换，I 的值变成了 765，损失了 0.12 的值。
 
-#### C#为类型转换提供了如下内置方法:
+#### C# 为类型转换提供了如下内置方法:
 
 | 方法 | 描述 |
 | ToBoolean | 它会将类型转换为布尔值 |

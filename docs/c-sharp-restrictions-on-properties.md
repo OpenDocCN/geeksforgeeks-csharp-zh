@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-对属性的限制/](https://www.geeksforgeeks.org/c-sharp-restrictions-on-properties/)
 
-### 先决条件:[c#中的属性](https://www.geeksforgeeks.org/c-sharp-properties/)
+### 先决条件:[c# 中的属性](https://www.geeksforgeeks.org/c-sharp-properties/)
 
 属性是一种特殊类型的类成员，它提供了一种灵活的机制来读取、写入或计算私有字段的值。属性可以像公共数据成员一样使用，但它们实际上是称为访问器的特殊方法。这使得数据易于访问，并有助于提高方法的灵活性和安全性。信息的封装和隐藏也可以使用属性来实现。它使用预定义的方法，即“获取”和“设置”方法，帮助访问和修改属性。
 

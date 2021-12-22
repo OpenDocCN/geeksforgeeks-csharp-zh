@@ -1,4 +1,4 @@
-# UInt16。C#中的 ToString 方法，带示例| Set–2
+# UInt16。C# 中的 ToString 方法，带示例| Set–2
 
 > 原文:[https://www . geesforgeks . org/uint 16-tostring-method-in-c-sharp-with-examples-set-2/](https://www.geeksforgeeks.org/uint16-tostring-method-in-c-sharp-with-examples-set-2/)
 

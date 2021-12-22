@@ -63,7 +63,7 @@ class GFG {
     public static void Main()
     {
         // Declaring and initializing Uri
-        Uri uri = new Uri("https://www.pierobon.org/iis/review1.htm.html#one");
+        Uri uri = new Uri("https://www.pierobon.org/iis/review1.htm.html# one");
 
         // Determining the Scheme of the Uri
         string scheme = uri.Scheme;

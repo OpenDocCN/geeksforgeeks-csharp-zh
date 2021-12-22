@@ -1,8 +1,8 @@
-# 弦。用例子格式化 C#中的()方法|集合–1
+# 弦。用例子格式化 C# 中的()方法|集合–1
 
 > 原文:[https://www . geesforgeks . org/string-format-method-in-c-sharp-with-examples-set-1/](https://www.geeksforgeeks.org/string-format-method-in-c-sharp-with-examples-set-1/)
 
-在 C#中， ***格式()*** 是一种 [**串**](https://www.geeksforgeeks.org/c-string/) 的方法。此方法 用于将指定字符串中的一个或多个格式项替换为指定对象的字符串表示。换句话说，这个方法是用来将变量或对象或表达式的值插入到另一个字符串**中。**
+在 C# 中， ***格式()*** 是一种 [**串**](https://www.geeksforgeeks.org/c-string/) 的方法。此方法 用于将指定字符串中的一个或多个格式项替换为指定对象的字符串表示。换句话说，这个方法是用来将变量或对象或表达式的值插入到另一个字符串**中。**
 
 这个方法可以通过传递不同类型的参数来重载。格式()方法的重载列表中总共有 **8** 方法，其中 **3** 在本文中讨论，其余在 **Set-2 和 Set-3** 中讨论。
 

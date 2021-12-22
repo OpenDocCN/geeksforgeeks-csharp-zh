@@ -1,4 +1,4 @@
-# 物体。用例子在 C#中克隆方法
+# 物体。用例子在 C# 中克隆方法
 
 > 原文:[https://www . geeksforgeeks . org/object-memberwiseclone-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/object-memberwiseclone-method-in-c-sharp-with-examples/)
 

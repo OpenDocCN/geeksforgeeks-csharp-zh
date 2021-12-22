@@ -1,4 +1,4 @@
-# 在 C#中比较两个值元组
+# 在 C# 中比较两个值元组
 
 > 原文:[https://www . geesforgeks . org/comparising-two-value tuple-3 in-c-sharp/](https://www.geeksforgeeks.org/comparing-two-valuetuple-3-in-c-sharp/)
 

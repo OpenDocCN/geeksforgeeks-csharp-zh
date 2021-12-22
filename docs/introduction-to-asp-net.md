@@ -56,8 +56,8 @@ ASP.NET 在开发商中受欢迎有很多原因。下面列出了一些原因:
 
 **性能:**比市面上其他可用的 web 框架都要快。
 
-**后端代码:**在 ASP.NET 的帮助下，你可以用 [C#](https://www.geeksforgeeks.org/csharp-programming-language/) 编写数据访问和任何逻辑的后端代码。
+**后端代码:**在 ASP.NET 的帮助下，你可以用 [C# ](https://www.geeksforgeeks.org/csharp-programming-language/) 编写数据访问和任何逻辑的后端代码。
 
-**动态网页:**在 ASP.NET，Razor 提供了借助 C#和 HTML 开发动态网页的语法。ASP.NET 可以与 [JS(JavaScript)](https://www.geeksforgeeks.org/javascript-tutorial/) 集成，它还包括了像 SPA(单页应用)的 React 和 Angular 这样的框架。)
+**动态网页:**在 ASP.NET，Razor 提供了借助 C# 和 HTML 开发动态网页的语法。ASP.NET 可以与 [JS(JavaScript)](https://www.geeksforgeeks.org/javascript-tutorial/) 集成，它还包括了像 SPA(单页应用)的 React 和 Angular 这样的框架。)
 
 **支持不同的操作系统:**可以在 Windows、Linux、Docker、MacOS 上开发执行 ASP.NET 应用。Visual Studio 提供了构建工具。NET 应用不同的操作系统。

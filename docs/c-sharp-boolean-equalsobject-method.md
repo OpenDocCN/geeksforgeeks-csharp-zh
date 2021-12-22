@@ -100,4 +100,4 @@ True is equal to True
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . boolean . equals？view = net framework-4.8 # System _ Boolean _ Equals _ System _ Object _](https://docs.microsoft.com/en-us/dotnet/api/system.boolean.equals?view=netframework-4.8#System_Boolean_Equals_System_Object_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . boolean . equals？view = net framework-4.8 # System _ Boolean _ Equals _ System _ Object _](https://docs.microsoft.com/en-us/dotnet/api/system.boolean.equals?view=netframework-4.8# System_Boolean_Equals_System_Object_)

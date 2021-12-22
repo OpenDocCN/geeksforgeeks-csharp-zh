@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-is-operator-keyword/](https://www.geeksforgeeks.org/c-sharp-is-operator-keyword/)
 
-在软件开发中，类型转换是一件不可避免的事情。在许多情况下，需要将一个对象(类型)转换成另一个对象(类型)，有时会得到 *InvalidCastException* 。所以，要克服这类异常 C#提供的**就是**运算符。
+在软件开发中，类型转换是一件不可避免的事情。在许多情况下，需要将一个对象(类型)转换成另一个对象(类型)，有时会得到 *InvalidCastException* 。所以，要克服这类异常 C# 提供的**就是**运算符。
 是运算符，用于检查对象的运行时类型是否与给定类型兼容。如果给定对象是同一类型，则返回*真*，否则返回*假*。对于*空*对象，也返回*假*。
 **语法:**
 

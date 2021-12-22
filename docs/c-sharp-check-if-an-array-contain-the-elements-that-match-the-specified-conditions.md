@@ -128,4 +128,4 @@ Is element start with O letter is present in array: False
 
 **注:**此法为 O(n)运算，其中 **n** 为数组长度。
 
-**参考:**[https://docs . Microsoft . com/en-us/dotnet/API/system . array . exists？视图= netcore-2.1 #定义](https://docs.microsoft.com/en-us/dotnet/api/system.array.exists?view=netcore-2.1#definition)
+**参考:**[https://docs . Microsoft . com/en-us/dotnet/API/system . array . exists？视图= netcore-2.1 # 定义](https://docs.microsoft.com/en-us/dotnet/api/system.array.exists?view=netcore-2.1# definition)

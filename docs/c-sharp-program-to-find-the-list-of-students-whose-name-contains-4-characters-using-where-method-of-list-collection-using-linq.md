@@ -1,4 +1,4 @@
-# 使用 LINQ 列表收集的 Where()方法查找姓名包含 4 个字符的学生列表的 C#程序
+# 使用 LINQ 列表收集的 Where()方法查找姓名包含 4 个字符的学生列表的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-find-the-list-list-collection-use-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-find-the-list-of-students-whose-name-contains-4-characters-using-where-method-of-list-collection-using-linq/)
 

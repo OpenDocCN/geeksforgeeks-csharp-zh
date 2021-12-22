@@ -1,4 +1,4 @@
-# 控制台。C#中的 SetIn()方法
+# 控制台。C# 中的 SetIn()方法
 
 > 原文:[https://www . geesforgeks . org/console-setin-method-in-c-sharp/](https://www.geeksforgeeks.org/console-setin-method-in-c-sharp/)
 
@@ -71,4 +71,4 @@ class GFG {
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . console . setin？view = net framework-4 . 7 . 2 # System _ Console _ SetIn _ System _ IO _ TextReader _](https://docs.microsoft.com/en-us/dotnet/api/system.console.setin?view=netframework-4.7.2#System_Console_SetIn_System_IO_TextReader_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . console . setin？view = net framework-4 . 7 . 2 # System _ Console _ SetIn _ System _ IO _ TextReader _](https://docs.microsoft.com/en-us/dotnet/api/system.console.setin?view=netframework-4.7.2# System_Console_SetIn_System_IO_TextReader_)

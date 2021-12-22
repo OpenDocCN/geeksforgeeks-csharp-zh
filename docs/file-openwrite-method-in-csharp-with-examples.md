@@ -1,4 +1,4 @@
-# 文件。C#中的 OpenWrite()方法，示例
+# 文件。C# 中的 OpenWrite()方法，示例
 
 > 原文:[https://www . geesforgeks . org/file-open write-method-in-csharp-with-examples/](https://www.geeksforgeeks.org/file-openwrite-method-in-csharp-with-examples/)
 

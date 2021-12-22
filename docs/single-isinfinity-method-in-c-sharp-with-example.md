@@ -1,8 +1,8 @@
-# 单身。C#中的 IsInfinity()方法，示例
+# 单身。C# 中的 IsInfinity()方法，示例
 
 > 原文:[https://www . geesforgeks . org/single-is finity-method-in-c-sharp-with-example/](https://www.geeksforgeeks.org/single-isinfinity-method-in-c-sharp-with-example/)
 
-在 C#中 ***单。*是一个单一结构的方法。此方法用于检查指定的浮点值是否计算为正无穷大或负无穷大。在执行一些数学运算时，有可能获得正无穷大或负无穷大的结果。*例如:*如果任何正值被零除，就会产生正无穷大。**
+在 C# 中 ***单。*是一个单一结构的方法。此方法用于检查指定的浮点值是否计算为正无穷大或负无穷大。在执行一些数学运算时，有可能获得正无穷大或负无穷大的结果。*例如:*如果任何正值被零除，就会产生正无穷大。**
 
 > **语法:**公共静态 bool is infinity(float f)；
 > 

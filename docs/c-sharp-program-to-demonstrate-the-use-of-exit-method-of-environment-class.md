@@ -1,4 +1,4 @@
-# 演示环境类 Exit()方法使用的 C#程序
+# 演示环境类 Exit()方法使用的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-程序演示-使用退出环境方法-类/](https://www.geeksforgeeks.org/c-sharp-program-to-demonstrate-the-use-of-exit-method-of-environment-class/)
 

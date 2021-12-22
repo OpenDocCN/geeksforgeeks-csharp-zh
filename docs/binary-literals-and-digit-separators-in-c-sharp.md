@@ -1,4 +1,4 @@
-# c#中的二进制文字和数字分隔符
+# c# 中的二进制文字和数字分隔符
 
 > 原文:[https://www . geesforgeks . org/二进制文字和数字分隔符-in-c-sharp/](https://www.geeksforgeeks.org/binary-literals-and-digit-separators-in-c-sharp/)
 

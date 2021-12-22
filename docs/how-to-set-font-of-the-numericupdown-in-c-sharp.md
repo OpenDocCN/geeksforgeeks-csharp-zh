@@ -1,4 +1,4 @@
-# 如何在 C#中设置 NumericUpDown 的字体？
+# 如何在 C# 中设置 NumericUpDown 的字体？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的 numericupdown 字体/](https://www.geeksforgeeks.org/how-to-set-font-of-the-numericupdown-in-c-sharp/)
 

@@ -1,8 +1,8 @@
-# MathF。C#中的 Floor()方法，示例
+# MathF。C# 中的 Floor()方法，示例
 
 > 原文:[https://www . geesforgeks . org/mathf-floor-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-floor-method-in-c-sharp-with-examples/)
 
-在 C#中 ***MathF。*楼(单)**是一个 MathF 类的方法。此方法用于查找*最大整数*，该整数小于或等于参数列表中指定的浮点值。
+在 C# 中 ***MathF。*楼(单)**是一个 MathF 类的方法。此方法用于查找*最大整数*，该整数小于或等于参数列表中指定的浮点值。
 
 > **语法:**公共静态 Floor Floor(float x)；
 > 这里，x 是必须计算其最低值的浮动(单一)值。

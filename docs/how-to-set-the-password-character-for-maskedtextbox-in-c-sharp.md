@@ -1,8 +1,8 @@
-# 如何在 C#中设置 MaskedTextBox 的密码字符？
+# 如何在 C# 中设置 MaskedTextBox 的密码字符？
 
 > 原文:[https://www . geeksforgeeks . org/如何为 maskedtxbox-in-c-sharp 设置密码字符/](https://www.geeksforgeeks.org/how-to-set-the-password-character-for-maskedtextbox-in-c-sharp/)
 
-在 C#中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在掩码文本框控件中，您可以使用掩码文本框控件提供的**密码字符属性**设置当我们在掩码文本框中输入密码等敏感数据时显示的字符。
+在 C# 中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在掩码文本框控件中，您可以使用掩码文本框控件提供的**密码字符属性**设置当我们在掩码文本框中输入密码等敏感数据时显示的字符。
 如果这个属性的值被设置为非空字符，那么 masketextbox 将为所有输入显示这个字符，如果这个属性的值被设置为空，那么它将不会在 masketextbox 控件中显示任何内容。您可以通过两种不同的方式设置此属性:
 
 **1。设计时:**最简单的方法是设置 MaskedTextBox 控件的 PasswordChar 属性值，如下步骤所示:

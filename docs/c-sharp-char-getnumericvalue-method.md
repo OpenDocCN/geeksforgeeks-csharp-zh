@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-char-getnumericvalue-method/](https://www.geeksforgeeks.org/c-sharp-char-getnumericvalue-method/)
 
-在 C#中， ***Char。*** 是一个*系统。Char* 结构方法，用于将一个数字 Unicode 字符转换为双精度浮点数。数值必须属于 *UnicodeCategory* ，即*十进制数字*、*字母数字*或*其他数字*。通过向该方法传递不同类型和数量的参数，可以重载该方法。
+在 C# 中， ***Char。*** 是一个*系统。Char* 结构方法，用于将一个数字 Unicode 字符转换为双精度浮点数。数值必须属于 *UnicodeCategory* ，即*十进制数字*、*字母数字*或*其他数字*。通过向该方法传递不同类型和数量的参数，可以重载该方法。
 
 *   **夏尔。GetNumericValue(字符串，Int32)方法***   **Char.GetNumericValue(Char) Method
 

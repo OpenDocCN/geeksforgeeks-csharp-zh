@@ -242,4 +242,4 @@ Exception Thrown: System.ArgumentOutOfRangeException
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . char . islowsurrogate？view = net framework-4 . 7 . 2 # System _ Char _ IsLowSurrogate _ System _ String _ System _ int 32 _](https://docs.microsoft.com/en-us/dotnet/api/system.char.islowsurrogate?view=netframework-4.7.2#System_Char_IsLowSurrogate_System_String_System_Int32_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . char . islowsurrogate？view = net framework-4 . 7 . 2 # System _ Char _ IsLowSurrogate _ System _ String _ System _ int 32 _](https://docs.microsoft.com/en-us/dotnet/api/system.char.islowsurrogate?view=netframework-4.7.2# System_Char_IsLowSurrogate_System_String_System_Int32_)

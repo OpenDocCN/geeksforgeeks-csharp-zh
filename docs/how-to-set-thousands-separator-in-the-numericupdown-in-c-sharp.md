@@ -1,4 +1,4 @@
-# 如何在 C#的 NumericUpDown 中设置千位分隔符？
+# 如何在 C# 的 NumericUpDown 中设置千位分隔符？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置千位分隔符-in-numeric pdown-in-c-sharp/](https://www.geeksforgeeks.org/how-to-set-thousands-separator-in-the-numericupdown-in-c-sharp/)
 

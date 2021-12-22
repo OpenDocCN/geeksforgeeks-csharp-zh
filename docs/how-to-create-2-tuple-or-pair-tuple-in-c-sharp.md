@@ -1,11 +1,11 @@
-# 如何在 C#中创建 2 元组或对元组？
+# 如何在 C# 中创建 2 元组或对元组？
 
 > 原文:[https://www . geeksforgeeks . org/如何在 c-sharp 中创建 2 元组或对元组/](https://www.geeksforgeeks.org/how-to-create-2-tuple-or-pair-tuple-in-c-sharp/)
 
-在 C#中，2 元组是包含两个元素的[元组](https://www.geeksforgeeks.org/c-sharp-tuple/)，也称为**对**。您可以使用两种不同的方法创建二元组:
+在 C# 中，2 元组是包含两个元素的[元组](https://www.geeksforgeeks.org/c-sharp-tuple/)，也称为**对**。您可以使用两种不同的方法创建二元组:
 
-*   **[使用元组< T1，T2 > (T1，T2)构造器](#Using Tuple<T1,T2>(T1, T2) Constructor)**
-*   **[使用创建方法](#Using the Create method)**
+*   **[使用元组< T1，T2 > (T1，T2)构造器](# Using Tuple<T1,T2>(T1, T2) Constructor)**
+*   **[使用创建方法](# Using the Create method)**
 
 ### **使用元组< T1，T2 > (T1，T2)构造器**
 
@@ -109,4 +109,4 @@ Element 2: 20
 ****参考文献:****
 
 *   **[https://docs.microsoft.com/en-us/dotnet/api/system.tuple-2.-克托？视图=netframework-4.8](https://docs.microsoft.com/en-us/dotnet/api/system.tuple-2.-ctor?view=netframework-4.8)**
-*   **[https://docs . Microsoft . com/en-us/dotnet/API/system . tuple . create？view = net framework-4.8 # System _ Tuple _ Create _ _ 2 _ _ 0 _ _ 1 _](https://docs.microsoft.com/en-us/dotnet/api/system.tuple.create?view=netframework-4.8#System_Tuple_Create__2___0___1_)**
+*   **[https://docs . Microsoft . com/en-us/dotnet/API/system . tuple . create？view = net framework-4.8 # System _ Tuple _ Create _ _ 2 _ _ 0 _ _ 1 _](https://docs.microsoft.com/en-us/dotnet/api/system.tuple.create?view=netframework-4.8# System_Tuple_Create__2___0___1_)**

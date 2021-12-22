@@ -1,4 +1,4 @@
-# 小数。C#中的乘法()方法
+# 小数。C# 中的乘法()方法
 
 > 原文:[https://www . geeksforgeeks . org/decimal-乘法-in-c-sharp/](https://www.geeksforgeeks.org/decimal-multiply-method-in-c-sharp/)
 

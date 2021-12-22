@@ -1,4 +1,4 @@
-# 时间跨度。C#中的 FromDays()方法
+# 时间跨度。C# 中的 FromDays()方法
 
 > 原文:[https://www . geesforgeks . org/timespan-from days-method-in-c-sharp/](https://www.geeksforgeeks.org/timespan-fromdays-method-in-c-sharp/)
 

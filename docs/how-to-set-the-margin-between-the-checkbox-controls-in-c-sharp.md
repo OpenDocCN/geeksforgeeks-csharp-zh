@@ -1,4 +1,4 @@
-# 如何在 C#中设置 CheckBox 控件之间的边距？
+# 如何在 C# 中设置 CheckBox 控件之间的边距？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 控件中复选框的边距/](https://www.geeksforgeeks.org/how-to-set-the-margin-between-the-checkbox-controls-in-c-sharp/)
 

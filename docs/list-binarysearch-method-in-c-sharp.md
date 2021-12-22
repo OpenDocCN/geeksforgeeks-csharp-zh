@@ -1,4 +1,4 @@
-# 在 C#中列出 BinarySearch()方法
+# 在 C# 中列出 BinarySearch()方法
 
 > 原文:[https://www . geesforgeks . org/list-binary search-method-in-c-sharp/](https://www.geeksforgeeks.org/list-binarysearch-method-in-c-sharp/)
 

@@ -1,8 +1,8 @@
-# 控制台。C#中的 OpenStandardInput 方法
+# 控制台。C# 中的 OpenStandardInput 方法
 
 > 原文:[https://www . geesforgeks . org/console-openstandard input-method-in-c-sharp/](https://www.geeksforgeeks.org/console-openstandardinput-method-in-c-sharp/)
 
-控制台。OpenStandardInput 方法用于获取标准输入流。C#中有两种可用的 OpenStandardInput 方法重载，如下所示:
+控制台。OpenStandardInput 方法用于获取标准输入流。C# 中有两种可用的 OpenStandardInput 方法重载，如下所示:
 
 *   **OpenStandardInput()方法***   **OpenStandardInput(int32) Method
 

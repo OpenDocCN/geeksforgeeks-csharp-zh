@@ -1,4 +1,4 @@
-# 时间跨度。C#中的 from 毫秒()方法
+# 时间跨度。C# 中的 from 毫秒()方法
 
 > 原文:[https://www . geeksforgeeks . org/timespan-from 毫秒-method-in-c-sharp/](https://www.geeksforgeeks.org/timespan-frommilliseconds-method-in-c-sharp/)
 

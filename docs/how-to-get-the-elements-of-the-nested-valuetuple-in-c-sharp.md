@@ -1,4 +1,4 @@
-# 如何在 C#中获取嵌套 ValueTuple 的元素？
+# 如何在 C# 中获取嵌套 ValueTuple 的元素？
 
 > 原文:[https://www . geeksforgeeks . org/如何获取 c-sharp 中嵌套值元组的元素/](https://www.geeksforgeeks.org/how-to-get-the-elements-of-the-nested-valuetuple-in-c-sharp/)
 

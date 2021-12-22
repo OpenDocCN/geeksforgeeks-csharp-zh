@@ -1,4 +1,4 @@
-# 演示多级继承抽象类的 C#程序
+# 演示多级继承抽象类的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-程序-演示-抽象-类-多级继承/](https://www.geeksforgeeks.org/c-sharp-program-to-demonstrate-abstract-class-with-multiple-level-inheritance/)
 

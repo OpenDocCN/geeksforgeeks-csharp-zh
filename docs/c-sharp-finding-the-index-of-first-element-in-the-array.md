@@ -14,7 +14,7 @@ public int GetLowerBound (int dimension);
 
 **返回值:**该方法的返回类型为**系统。Int32** 。此方法返回数组中指定维度的第一个元素的索引。
 
-**异常:**如果*维度*的值小于零，或者等于或大于[等级](https://docs.microsoft.com/en-us/dotnet/api/system.array.rank?view=netcore-2.1#System_Array_Rank)，该方法将给出*指数。*
+**异常:**如果*维度*的值小于零，或者等于或大于[等级](https://docs.microsoft.com/en-us/dotnet/api/system.array.rank?view=netcore-2.1# System_Array_Rank)，该方法将给出*指数。*
 
 **注意:**
 

@@ -86,4 +86,4 @@ class Geeks {
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . text . string builder-ctor？view = net framework-4 . 7 . 2 # System _ Text _ StringBuilder _ ctor _ System _ int 32 _](https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder.-ctor?view=netframework-4.7.2#System_Text_StringBuilder__ctor_System_Int32_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . text . string builder-ctor？view = net framework-4 . 7 . 2 # System _ Text _ StringBuilder _ ctor _ System _ int 32 _](https://docs.microsoft.com/en-us/dotnet/api/system.text.stringbuilder.-ctor?view=netframework-4.7.2# System_Text_StringBuilder__ctor_System_Int32_)

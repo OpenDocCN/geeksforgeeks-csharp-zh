@@ -1,4 +1,4 @@
-# C#程序查看文件的访问日期和时间
+# C# 程序查看文件的访问日期和时间
 
 > 原文:[https://www . geesforgeks . org/c-sharp-程序查看文件的访问日期和时间/](https://www.geeksforgeeks.org/c-sharp-program-to-view-the-access-date-and-time-of-a-file/)
 

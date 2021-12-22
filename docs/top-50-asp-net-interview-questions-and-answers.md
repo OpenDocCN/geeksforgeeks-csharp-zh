@@ -18,8 +18,8 @@ ASP.NET 在开发商中受欢迎有很多原因。下面列出了一些原因:
 
 *   **延伸。NET 框架:**ASP.NET 是。NET 框架，因为它扩展了。NET 框架和一些开发网络应用的库和工具。它给。NET Framework 是用于常见 web 模式的*库，如 MVC* 、*编辑器扩展*、*处理 web 请求的基础框架*和*网页模板语法，如 Razor* 等。
 *   **性能:**比市面上其他可用的 web 框架都要快。
-*   **后端代码:**在 ASP.NET 的帮助下，你可以用 C#编写数据访问和任何逻辑的后端代码。
-*   **动态页面:**在 ASP.NET，Razor 借助 C#和 HTML 提供了开发动态网页的语法。ASP.NET 可以和 JavaScript 集成在一起，它还包括了像“反应”和“角度”这样的框架。)
+*   **后端代码:**在 ASP.NET 的帮助下，你可以用 C# 编写数据访问和任何逻辑的后端代码。
+*   **动态页面:**在 ASP.NET，Razor 借助 C# 和 HTML 提供了开发动态网页的语法。ASP.NET 可以和 JavaScript 集成在一起，它还包括了像“反应”和“角度”这样的框架。)
 *   **支持不同的操作系统:**可以在 Windows、Linux、Docker、macOS 上开发执行 ASP.NET 应用。Visual Studio 提供了构建工具。不同操作系统的. NET 应用。
 
 **3。什么是公共语言运行时？**
@@ -252,12 +252,12 @@ CodeBehind="WebForm1.aspx.cs" Inherits="WebApplication10.WebForm1" %>
             Welcome To GeeksForGeeks<br />
 
             <asp:LoginStatus ID="LoginStatus1" runat="server"
-             ForeColor="#CC0000" LoginText="Click here for Login" />
+             ForeColor="# CC0000" LoginText="Click here for Login" />
             <br />
             <br />
 
             <asp:LoginStatus ID="LoginStatus2" runat="server" 
-            ForeColor="#CC0000" LoginText="Click here to Logout" />
+            ForeColor="# CC0000" LoginText="Click here to Logout" />
             <br />
             </div>
     </form>
@@ -287,7 +287,7 @@ CodeBehind="WebForm1.aspx.cs" Inherits="WebApplication10.WebForm1" %>
 <head runat="server">
     <title></title>
     <style type="text/css">
-        #form1 {}
+        # form1 {}
     </style>
 </head>
 <body>
@@ -352,9 +352,9 @@ CodeBehind="WebForm1.aspx.cs" Inherits="WebApplication10.WebForm1" %>
 
 ***28。什么是 LINQ？***
 
-*LINQ 被称为**语言综合查询**，在*引进。NET 3.5* 和 Visual Studio 2008。LINQ 的美在于它提供了*的能力。NET* 语言(如 C#，VB.NET 等。)生成查询以从数据源检索数据。例如，程序可以从学生记录或访问员工记录等获取信息。在过去的几年中，这种类型的数据存储在与应用程序分开的数据库中，您需要学习不同类型的查询语言来访问这种类型的数据，如 SQL、XML 等。此外，您不能使用 C#语言或任何其他*创建查询。NET* 语言。*
+*LINQ 被称为**语言综合查询**，在*引进。NET 3.5* 和 Visual Studio 2008。LINQ 的美在于它提供了*的能力。NET* 语言(如 C#，VB.NET 等。)生成查询以从数据源检索数据。例如，程序可以从学生记录或访问员工记录等获取信息。在过去的几年中，这种类型的数据存储在与应用程序分开的数据库中，您需要学习不同类型的查询语言来访问这种类型的数据，如 SQL、XML 等。此外，您不能使用 C# 语言或任何其他*创建查询。NET* 语言。*
 
-*为了克服这类问题，微软开发了 LINQ。它给 C#或*增加了一个，更多的能量。NET* 语言来为任何 LINQ 兼容的数据源生成查询。最棒的是创建查询所用的语法是相同的无论使用哪种类型的数据源都意味着在关系数据库中创建查询数据的语法与创建存储在数组中的查询数据的语法相同没有必要使用 SQL 或任何其他 *non-。NET* 语言机制。您还可以将 LINQ 与 SQL、XML 文件、ADO.NET、web 服务以及任何其他数据库一起使用。*
+*为了克服这类问题，微软开发了 LINQ。它给 C# 或*增加了一个，更多的能量。NET* 语言来为任何 LINQ 兼容的数据源生成查询。最棒的是创建查询所用的语法是相同的无论使用哪种类型的数据源都意味着在关系数据库中创建查询数据的语法与创建存储在数组中的查询数据的语法相同没有必要使用 SQL 或任何其他 *non-。NET* 语言机制。您还可以将 LINQ 与 SQL、XML 文件、ADO.NET、web 服务以及任何其他数据库一起使用。*
 
 ***29。什么是 ASP.Net 的永久居留权？***
 
@@ -383,7 +383,7 @@ CodeBehind="WebForm1.aspx.cs" Inherits="WebApplication10.WebForm1" %>
 
 ***33。ASP.NET 的剃刀是什么？***
 
-*在 ASP.NET，Razor 在 C#和 HTML 的帮助下提供了开发动态网页的语法。ASP.NET 可以与 <u>JS(JavaScript)</u> 集成，它还包括了像 SPA(单页应用)的 React 和 Angular 这样的框架。)*
+*在 ASP.NET，Razor 在 C# 和 HTML 的帮助下提供了开发动态网页的语法。ASP.NET 可以与 <u>JS(JavaScript)</u> 集成，它还包括了像 SPA(单页应用)的 React 和 Angular 这样的框架。)*
 
 ***34。什么是 REST 架构？***
 
@@ -506,8 +506,8 @@ Inherits="WebApplication9.WebForm4" %>
 
 **启用追踪有两种不同的方式:**
 
-*   *在 C#或 C++的托管扩展中，/d: TRACE 标志可以添加到编译器命令行中。在 Visual Basic 中，/d: TRACE=True 标志可以添加到编译器命令行中*
-*   *#define TRACE 可以添加到文件的顶部。该语法是编译器特定的。如果用户使用的编译器不是上面指定的编译器，则必须参考编译器的文档来启用条件编译*
+*   *在 C# 或 C++的托管扩展中，/d: TRACE 标志可以添加到编译器命令行中。在 Visual Basic 中，/d: TRACE=True 标志可以添加到编译器命令行中*
+*   *# define TRACE 可以添加到文件的顶部。该语法是编译器特定的。如果用户使用的编译器不是上面指定的编译器，则必须参考编译器的文档来启用条件编译*
 
 ***45。写下 ASP.NET 提供的不同追踪方法？***
 

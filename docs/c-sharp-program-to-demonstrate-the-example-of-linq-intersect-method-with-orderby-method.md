@@ -1,4 +1,4 @@
-# 用 OrderBy()方法演示 LINQ 相交()方法示例的 C#程序
+# 用 OrderBy()方法演示 LINQ 相交()方法示例的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-演示-linq-intersect-method-with-order by-method/](https://www.geeksforgeeks.org/c-sharp-program-to-demonstrate-the-example-of-linq-intersect-method-with-orderby-method/)
 

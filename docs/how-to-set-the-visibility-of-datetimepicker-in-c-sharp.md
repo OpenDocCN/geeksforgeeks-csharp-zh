@@ -1,4 +1,4 @@
-# 如何在 C#中设置 DateTimePicker 的可见性？
+# 如何在 C# 中设置 DateTimePicker 的可见性？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中 datetimepicker 的可见性/](https://www.geeksforgeeks.org/how-to-set-the-visibility-of-datetimepicker-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# 获取在 C#中遍历堆栈的枚举器
+# 获取在 C# 中遍历堆栈的枚举器
 
 > 原文:[https://www . geeksforgeeks . org/get-一个在 c-sharp 中迭代堆栈的枚举器/](https://www.geeksforgeeks.org/getting-an-enumerator-that-iterates-through-the-stack-in-c-sharp/)
 

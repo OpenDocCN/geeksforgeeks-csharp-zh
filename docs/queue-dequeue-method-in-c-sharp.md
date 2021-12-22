@@ -1,4 +1,4 @@
-# 排队。C#中的出列方法
+# 排队。C# 中的出列方法
 
 > 原文:[https://www . geesforgeks . org/queue-queue-method-in-c-sharp/](https://www.geeksforgeeks.org/queue-dequeue-method-in-c-sharp/)
 

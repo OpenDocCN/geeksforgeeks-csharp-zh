@@ -1,4 +1,4 @@
-# 文件。用例子在 C#中创建 Text()方法
+# 文件。用例子在 C# 中创建 Text()方法
 
 > 原文:[https://www . geesforgeks . org/file-create text-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-createtext-method-in-c-sharp-with-examples/)
 

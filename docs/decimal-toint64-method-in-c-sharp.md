@@ -1,4 +1,4 @@
-# 小数。C#中的 ToInt64()方法
+# 小数。C# 中的 ToInt64()方法
 
 > 原文:[https://www . geesforgeks . org/decimal-to int 64-method-in-c-sharp/](https://www.geeksforgeeks.org/decimal-toint64-method-in-c-sharp/)
 

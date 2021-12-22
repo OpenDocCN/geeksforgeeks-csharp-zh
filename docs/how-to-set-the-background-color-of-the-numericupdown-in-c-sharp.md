@@ -1,4 +1,4 @@
-# 如何在 C#中设置 NumericUpDown 的背景色？
+# 如何在 C# 中设置 NumericUpDown 的背景色？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的数字背景色/](https://www.geeksforgeeks.org/how-to-set-the-background-color-of-the-numericupdown-in-c-sharp/)
 

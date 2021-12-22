@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-isnullorhitespace-method/](https://www.geeksforgeeks.org/c-sharp-isnullorwhitespace-method/)
 
-在 C#中， ***是一个字符串方法。用于检查指定的字符串是**空**还是只包含**空格**字符。如果一个字符串没有被赋值或者被显式赋值为 null，那么它将为 null。***
+在 C# 中， ***是一个字符串方法。用于检查指定的字符串是**空**还是只包含**空格**字符。如果一个字符串没有被赋值或者被显式赋值为 null，那么它将为 null。***
 
 **语法:**
 

@@ -1,8 +1,8 @@
-# c#中的组合框
+# c# 中的组合框
 
 > 原文:[https://www.geeksforgeeks.org/combobox-in-c-sharp/](https://www.geeksforgeeks.org/combobox-in-c-sharp/)
 
-在 Windows 窗体中，组合框在单个控件中提供了两种不同的功能，这意味着组合框同时作为[文本框](https://www.geeksforgeeks.org/c-sharp-textbox-controls/)和列表框工作。在组合框中，一次只显示一个项目，其余项目出现在下拉菜单中。组合框是 C#中的一个类，在*系统下定义。Windows.Forms* 命名空间。您可以使用两种不同的方式创建组合框:
+在 Windows 窗体中，组合框在单个控件中提供了两种不同的功能，这意味着组合框同时作为[文本框](https://www.geeksforgeeks.org/c-sharp-textbox-controls/)和列表框工作。在组合框中，一次只显示一个项目，其余项目出现在下拉菜单中。组合框是 C# 中的一个类，在*系统下定义。Windows.Forms* 命名空间。您可以使用两种不同的方式创建组合框:
 
 **1。设计时:**使用以下步骤创建组合框控件是最简单的方法:
 

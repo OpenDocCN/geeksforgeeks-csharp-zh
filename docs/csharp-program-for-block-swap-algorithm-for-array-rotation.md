@@ -1,4 +1,4 @@
-# 用于数组旋转的块交换算法的 C#程序
+# 用于数组旋转的块交换算法的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/csharp-程序换块-交换-算法换阵列-旋转/](https://www.geeksforgeeks.org/csharp-program-for-block-swap-algorithm-for-array-rotation/)
 

@@ -1,4 +1,4 @@
-# 如何在 C#的 ComboBox 中添加项目？
+# 如何在 C# 的 ComboBox 中添加项目？
 
 > 原文:[https://www . geesforgeks . org/how-add-items-in-combobox-in-c-sharp/](https://www.geeksforgeeks.org/how-to-add-items-in-combobox-in-c-sharp/)
 

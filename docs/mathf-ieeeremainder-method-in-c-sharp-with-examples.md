@@ -1,8 +1,8 @@
-# MathF。C#中的 IEEERemainder()方法及示例
+# MathF。C# 中的 IEEERemainder()方法及示例
 
 > 原文:[https://www . geesforgeks . org/mathf-ieeereminder-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-ieeeremainder-method-in-c-sharp-with-examples/)
 
-在 C#中，***ieeereminder(Single)***是一个 MathF 类方法，用于返回一个指定数除以另一个指定数所得的余数。
+在 C# 中，***ieeereminder(Single)***是一个 MathF 类方法，用于返回一个指定数除以另一个指定数所得的余数。
 
 > **语法:**公共静态 float ieeereminder(float x，float y)；
 > 

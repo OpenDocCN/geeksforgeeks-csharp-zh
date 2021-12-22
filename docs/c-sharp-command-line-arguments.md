@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-命令行-参数/](https://www.geeksforgeeks.org/c-sharp-command-line-arguments/)
 
-用户或程序员传递给 **Main()** 方法的参数称为命令行参数。Main()方法是程序执行的入口点。Main()方法接受字符串数组。但是它从不接受程序中任何其他方法的参数。在 **[C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/)** 中，命令行参数通过如下方式传递给 Main()方法:
+用户或程序员传递给 **Main()** 方法的参数称为命令行参数。Main()方法是程序执行的入口点。Main()方法接受字符串数组。但是它从不接受程序中任何其他方法的参数。在 **[C# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/)** 中，命令行参数通过如下方式传递给 Main()方法:
 
 ```cs
 static void Main(string[] args)
@@ -78,6 +78,6 @@ long num = long.Parse(args[0]);
 
 ```
 
-这将通过使用 Parse 方法将字符串更改为长类型。也可以使用 C#类型 long，它别名 Int64。类似地，可以使用 C#中预定义的解析方法进行解析。
+这将通过使用 Parse 方法将字符串更改为长类型。也可以使用 C# 类型 long，它别名 Int64。类似地，可以使用 C# 中预定义的解析方法进行解析。
 
 **参考:**[https://docs . Microsoft . com/en-us/dotnet/csharp/编程指南/main-and-command-args/命令行参数](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/main-and-command-args/command-line-arguments)

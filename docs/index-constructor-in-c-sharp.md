@@ -1,4 +1,4 @@
-# c#中的索引构造器
+# c# 中的索引构造器
 
 > 原文:[https://www.geeksforgeeks.org/index-constructor-in-c-sharp/](https://www.geeksforgeeks.org/index-constructor-in-c-sharp/)
 

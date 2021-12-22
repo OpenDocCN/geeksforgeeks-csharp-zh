@@ -1,4 +1,4 @@
-# c#中的对象和动态数组
+# c# 中的对象和动态数组
 
 > 原文:[https://www . geesforgeks . org/object-and-dynamic-array-in-c-sharp/](https://www.geeksforgeeks.org/object-and-dynamic-array-in-c-sharp/)
 
@@ -6,7 +6,7 @@
 
 #### 对象数组
 
-对象数组用于在单个数组中存储不同类型的元素。在 C#中，对象引用可以指向任何派生类型实例。
+对象数组用于在单个数组中存储不同类型的元素。在 C# 中，对象引用可以指向任何派生类型实例。
 
 **对象数组的缺点:**
 

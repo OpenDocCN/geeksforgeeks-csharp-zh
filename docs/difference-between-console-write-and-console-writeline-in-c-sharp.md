@@ -1,4 +1,4 @@
-# 控制台之间的区别。写和控制台。C#中的 WriteLine
+# 控制台之间的区别。写和控制台。C# 中的 WriteLine
 
 > 原文:[https://www . geeksforgeeks . org/console-write-and-console-write line-in-c-sharp/](https://www.geeksforgeeks.org/difference-between-console-write-and-console-writeline-in-c-sharp/)
 
@@ -6,7 +6,7 @@
 
 **Write()**和 **WriteLine()** 唯一的区别就是控制台。Write 用于打印数据不打印新行，而控制台。WriteLine 用于打印数据以及打印新行。
 
-**程序 1:** 控制台示例。用 C#写()
+**程序 1:** 控制台示例。用 C# 写()
 
 ## C#
 
@@ -36,7 +36,7 @@ GeeksForGeeks
 
 ```
 
-**程序 2:** 控制台示例。C#中的 WriteLine()。
+**程序 2:** 控制台示例。C# 中的 WriteLine()。
 
 ## C#
 

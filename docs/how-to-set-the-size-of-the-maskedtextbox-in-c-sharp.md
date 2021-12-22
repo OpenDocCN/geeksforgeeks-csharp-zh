@@ -1,8 +1,8 @@
-# 如何在 C#中设置 MaskedTextBox 的大小？
+# 如何在 C# 中设置 MaskedTextBox 的大小？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中 maskedtextbox 的大小/](https://www.geeksforgeeks.org/how-to-set-the-size-of-the-maskedtextbox-in-c-sharp/)
 
-在 C#中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在掩码文本框控件中，可以使用**大小属性**设置表单上掩码文本框的大小。该属性以像素为单位表示 MaskedTextBox 控件的高度和宽度。您可以通过两种不同的方式设置此属性:
+在 C# 中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在掩码文本框控件中，可以使用**大小属性**设置表单上掩码文本框的大小。该属性以像素为单位表示 MaskedTextBox 控件的高度和宽度。您可以通过两种不同的方式设置此属性:
 
 **1。设计时:**设置掩码文本框的大小是最简单的方法，如下步骤所示:
 

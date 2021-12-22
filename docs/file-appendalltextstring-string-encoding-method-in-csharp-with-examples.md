@@ -1,4 +1,4 @@
-# 文件。C#中的 AppendAllText(字符串、字符串、编码)方法，示例
+# 文件。C# 中的 AppendAllText(字符串、字符串、编码)方法，示例
 
 > 原文:[https://www . geesforgeks . org/file-appendalltextstring-string-encoding-method-in-csharp-with-examples/](https://www.geeksforgeeks.org/file-appendalltextstring-string-encoding-method-in-csharp-with-examples/)
 

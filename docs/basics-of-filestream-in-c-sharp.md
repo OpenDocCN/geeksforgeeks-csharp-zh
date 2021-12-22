@@ -1,8 +1,8 @@
-# c#中文件流的基础知识
+# c# 中文件流的基础知识
 
 > 原文:[https://www . geesforgeks . org/basic-of-filestream-in-c-sharp/](https://www.geeksforgeeks.org/basics-of-filestream-in-c-sharp/)
 
-FileStream 是一个用于在 C#中读写文件的类。它是系统的一部分。IO 命名空间。要使用 FileStream 操作文件，需要创建一个 FileStream 类的对象。该对象有四个参数；文件名、文件模式、文件访问和文件共享。
+FileStream 是一个用于在 C# 中读写文件的类。它是系统的一部分。IO 命名空间。要使用 FileStream 操作文件，需要创建一个 FileStream 类的对象。该对象有四个参数；文件名、文件模式、文件访问和文件共享。
 
 声明文件流对象的语法如下
 
@@ -107,4 +107,4 @@ class GFG {
 
 **输出:**
 
-![filetstream read and write in C#](img/6c7f333158b363e30a70e12a89c54707.png)
+![filetstream read and write in C# ](img/6c7f333158b363e30a70e12a89c54707.png)

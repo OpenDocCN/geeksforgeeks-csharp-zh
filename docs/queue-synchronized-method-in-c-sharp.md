@@ -1,4 +1,4 @@
-# 排队。C#中的 Synchronized()方法
+# 排队。C# 中的 Synchronized()方法
 
 > 原文:[https://www . geesforgeks . org/queue-synchronized-method-in-c-sharp/](https://www.geeksforgeeks.org/queue-synchronized-method-in-c-sharp/)
 

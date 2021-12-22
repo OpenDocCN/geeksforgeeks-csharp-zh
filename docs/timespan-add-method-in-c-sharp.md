@@ -1,4 +1,4 @@
-# 时间跨度。在 C#中添加()方法
+# 时间跨度。在 C# 中添加()方法
 
 > 原文:[https://www . geesforgeks . org/timespan-add-method-in-c-sharp/](https://www.geeksforgeeks.org/timespan-add-method-in-c-sharp/)
 

@@ -1,9 +1,9 @@
-# c#中的控制台类
+# c# 中的控制台类
 
 > 原文:[https://www.geeksforgeeks.org/console-class-in-c-sharp/](https://www.geeksforgeeks.org/console-class-in-c-sharp/)
 
 控制台是一个操作系统窗口，用户可以通过它与操作系统进行通信，或者我们可以说控制台是一个应用程序，在其中我们可以从键盘给出文本作为输入，并从计算机端获得文本作为输出。命令提示符是窗口中控制台的一个示例，它接受 MS-DOS 命令。控制台包含两个名为屏幕缓冲区和控制台窗口的属性。
-在 C#中，Console 类用于表示控制台应用程序的标准输入、输出和错误流。不允许您继承控制台类。该类在*系统*命名空间下定义。此类不包含任何构造函数。此类提供不同类型的属性和方法来执行操作，而不是构造函数。
+在 C# 中，Console 类用于表示控制台应用程序的标准输入、输出和错误流。不允许您继承控制台类。该类在*系统*命名空间下定义。此类不包含任何构造函数。此类提供不同类型的属性和方法来执行操作，而不是构造函数。
 
 #### 性能
 
@@ -127,4 +127,4 @@ This is a tutorial of Console Class
 
 **参考:**
 
-*   [https://docs.microsoft.com/en-us/dotnet/api/system.console?视图= net framework-4 . 7 . 2 #定义](https://docs.microsoft.com/en-us/dotnet/api/system.console?view=netframework-4.7.2#definition)
+*   [https://docs.microsoft.com/en-us/dotnet/api/system.console?视图= net framework-4 . 7 . 2 # 定义](https://docs.microsoft.com/en-us/dotnet/api/system.console?view=netframework-4.7.2# definition)

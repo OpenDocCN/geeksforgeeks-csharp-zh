@@ -1,4 +1,4 @@
-# 如何在 C#中设置 CheckBox 的外观？
+# 如何在 C# 中设置 CheckBox 的外观？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中复选框的外观/](https://www.geeksforgeeks.org/how-to-set-the-appearance-of-the-checkbox-in-c-sharp/)
 

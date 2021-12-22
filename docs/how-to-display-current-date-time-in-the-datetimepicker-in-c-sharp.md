@@ -1,4 +1,4 @@
-# 如何在 C#的 DateTimePicker 中显示当前日期/时间？
+# 如何在 C# 的 DateTimePicker 中显示当前日期/时间？
 
 > 原文:[https://www . geeksforgeeks . org/how-display-current-date-time-in-datetime picker-in-c-sharp/](https://www.geeksforgeeks.org/how-to-display-current-date-time-in-the-datetimepicker-in-c-sharp/)
 

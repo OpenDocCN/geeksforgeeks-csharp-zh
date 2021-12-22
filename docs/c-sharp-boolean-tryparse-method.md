@@ -38,7 +38,7 @@ public static void Main() {
         checkParse("true");
         checkParse("false");
         checkParse("'     true     '");
-        checkParse(" {content}#xA0; ");
+        checkParse(" {content}# xA0; ");
         checkParse("1");
     }
 

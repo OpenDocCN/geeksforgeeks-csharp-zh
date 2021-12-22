@@ -1,4 +1,4 @@
-# 如何在 C#的文本框中设置默认密码字符？
+# 如何在 C# 的文本框中设置默认密码字符？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置默认密码-c-sharp 中的文本框字符/](https://www.geeksforgeeks.org/how-to-set-default-password-character-in-textbox-in-c-sharp/)
 

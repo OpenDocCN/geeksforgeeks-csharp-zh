@@ -1,8 +1,8 @@
-# c#中 Ref 和 Out 关键字的区别
+# c# 中 Ref 和 Out 关键字的区别
 
 > 原文:[https://www . geeksforgeeks . org/ref-and-out-difference-关键字-in-c-sharp/](https://www.geeksforgeeks.org/difference-between-ref-and-out-keywords-in-c-sharp/)
 
-**out** 是 C#中的一个关键字，用于将参数作为引用类型传递给方法。它通常在一个方法返回多个值时使用。out 参数不传递属性。
+**out** 是 C# 中的一个关键字，用于将参数作为引用类型传递给方法。它通常在一个方法返回多个值时使用。out 参数不传递属性。
 
 **例:**
 
@@ -47,7 +47,7 @@ class GFG {
 The sum of the value is: 160
 ```
 
-**引用**是 C#中的一个关键字，用于通过引用传递参数。或者我们可以说，当控件返回到调用方法时，如果在方法的这个参数中进行了任何更改，这些更改将反映在该变量中。*参考*参数没有通过[属性](https://www.geeksforgeeks.org/c-properties/)。
+**引用**是 C# 中的一个关键字，用于通过引用传递参数。或者我们可以说，当控件返回到调用方法时，如果在方法的这个参数中进行了任何更改，这些更改将反映在该变量中。*参考*参数没有通过[属性](https://www.geeksforgeeks.org/c-properties/)。
 
 **例:**
 

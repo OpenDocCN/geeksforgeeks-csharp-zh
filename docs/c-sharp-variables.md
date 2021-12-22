@@ -31,7 +31,7 @@ int a, b, c; // Declaring variables a, b and c of int type
 
 *   变量名可以包含字母“a-z”或“A-Z”或数字 0-9 以及字符“_”。
 *   变量的名称不能以数字开头。
-*   变量的名称不能是任何 C#关键字，比如 int、float、null、String 等。
+*   变量的名称不能是任何 C# 关键字，比如 int、float、null、String 等。
 
 **示例:**
 
@@ -70,7 +70,7 @@ float interest;
 
 #### 初始化变量
 
-术语**初始化**意味着给变量赋值。基本上，变量的实际使用属于初始化部分。在 [C#](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中，每个数据类型都有一些[默认值](https://www.geeksforgeeks.org/c-data-types-2/)，当给定变量没有显式设置值时使用。初始化可以单独完成，也可以通过声明完成。
+术语**初始化**意味着给变量赋值。基本上，变量的实际使用属于初始化部分。在 [C# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/) 中，每个数据类型都有一些[默认值](https://www.geeksforgeeks.org/c-data-types-2/)，当给定变量没有显式设置值时使用。初始化可以单独完成，也可以通过声明完成。
 
 **例:**
 

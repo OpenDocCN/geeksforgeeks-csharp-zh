@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-compare ordinal-method/](https://www.geeksforgeeks.org/c-sharp-compareordinal-method/)
 
-在 C#中 ***CompareOrdinal()*** 是一个字符串方法。此方法用于使用每个字符串或子字符串中相应 Char 对象的数值来比较两个指定的字符串对象或子字符串。这个方法可以通过传递不同的参数来重载。
+在 C# 中 ***CompareOrdinal()*** 是一个字符串方法。此方法用于使用每个字符串或子字符串中相应 Char 对象的数值来比较两个指定的字符串对象或子字符串。这个方法可以通过传递不同的参数来重载。
 
 *   字符串，字符串
 *   比较部分(字符串，Int32，字符串，Int32，Int32)

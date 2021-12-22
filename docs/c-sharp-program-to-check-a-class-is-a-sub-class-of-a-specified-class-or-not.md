@@ -1,4 +1,4 @@
-# C#程序检查一个类是否是指定类的子类
+# C# 程序检查一个类是否是指定类的子类
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-check-a-class-is-sub-class-of-specified-class-or-not/](https://www.geeksforgeeks.org/c-sharp-program-to-check-a-class-is-a-sub-class-of-a-specified-class-or-not/)
 

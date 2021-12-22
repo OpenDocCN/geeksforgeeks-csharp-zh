@@ -1,4 +1,4 @@
-# 小数。C#中的减法()方法
+# 小数。C# 中的减法()方法
 
 > 原文:[https://www . geesforgeks . org/decimal-减法-in-c-sharp/](https://www.geeksforgeeks.org/decimal-subtract-method-in-c-sharp/)
 

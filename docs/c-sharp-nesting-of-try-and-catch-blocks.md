@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-试捕块嵌套/](https://www.geeksforgeeks.org/c-sharp-nesting-of-try-and-catch-blocks/)
 
-在 C#中，允许嵌套 try & catch 块。try 块的嵌套意味着一个 try 块可以嵌套到另一个 try 块中。不同的程序员使用外部 try 块处理严重的异常，而内部块处理正常的异常。
+在 C# 中，允许嵌套 try & catch 块。try 块的嵌套意味着一个 try 块可以嵌套到另一个 try 块中。不同的程序员使用外部 try 块处理严重的异常，而内部块处理正常的异常。
 
 **注:**
 

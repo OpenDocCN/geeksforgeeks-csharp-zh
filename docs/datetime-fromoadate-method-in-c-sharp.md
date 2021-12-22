@@ -1,4 +1,4 @@
-# 日期时间。C#中的 FromOADate()方法
+# 日期时间。C# 中的 FromOADate()方法
 
 > 原文:[https://www . geesforgeks . org/datetime-from oadate-method-in-c-sharp/](https://www.geeksforgeeks.org/datetime-fromoadate-method-in-c-sharp/)
 

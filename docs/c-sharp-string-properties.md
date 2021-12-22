@@ -6,7 +6,7 @@
 
 字符串类有**两个属性**:
 
-1.  **Chars[Int32]** :用于获取当前字符串对象中指定位置的 Char 对象。在 C#中，Chars 属性是一个索引器。
+1.  **Chars[Int32]** :用于获取当前字符串对象中指定位置的 Char 对象。在 C# 中，Chars 属性是一个索引器。
 2.  **长度**:用于获取当前 String 对象中的字符数。
 
 #### 
@@ -118,7 +118,7 @@ public int Length
 
 *   **返回值:**返回字符串实例中字符对象的数量。
 
-**注意:**在 C 和 C++中，空字符表示字符串的结尾，但在 C#中，空字符可以嵌入到字符串中。当一个字符串包含一个或多个空字符时，它也会考虑该字符串的总长度。例如，如果在字符串中，子字符串“xyz”和“abc”由空字符分隔，如字符串值为“xyz\0abc”，则 Length 属性返回 7，其中包括六个字母字符和空字符。
+**注意:**在 C 和 C++中，空字符表示字符串的结尾，但在 C# 中，空字符可以嵌入到字符串中。当一个字符串包含一个或多个空字符时，它也会考虑该字符串的总长度。例如，如果在字符串中，子字符串“xyz”和“abc”由空字符分隔，如字符串值为“xyz\0abc”，则 Length 属性返回 7，其中包括六个字母字符和空字符。
 
 以下是说明长度属性的程序:
 
@@ -191,5 +191,5 @@ public int Length
 
 **参考文献:**
 
-*   [https://msdn . Microsoft . com/en-us/library/system . string . chars](https://msdn.microsoft.com/en-us/library/system.string.chars(v=vs.110).aspx?cs-save-lang=1&cs-lang=csharp#code-snippet-1)
-*   [https://msdn . Microsoft . com/en-us/library/system . string . length](https://msdn.microsoft.com/en-us/library/system.string.length(v=vs.110).aspx?cs-save-lang=1&cs-lang=csharp#code-snippet-2)
+*   [https://msdn . Microsoft . com/en-us/library/system . string . chars](https://msdn.microsoft.com/en-us/library/system.string.chars(v=vs.110).aspx?cs-save-lang=1&cs-lang=csharp# code-snippet-1)
+*   [https://msdn . Microsoft . com/en-us/library/system . string . length](https://msdn.microsoft.com/en-us/library/system.string.length(v=vs.110).aspx?cs-save-lang=1&cs-lang=csharp# code-snippet-2)

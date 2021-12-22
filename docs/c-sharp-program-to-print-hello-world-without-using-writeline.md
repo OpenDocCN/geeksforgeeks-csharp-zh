@@ -1,4 +1,4 @@
-# C#程序不使用写线打印 Hello World】
+# C# 程序不使用写线打印 Hello World】
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-print-hello-world-无需使用-writeline/](https://www.geeksforgeeks.org/c-sharp-program-to-print-hello-world-without-using-writeline/)
 

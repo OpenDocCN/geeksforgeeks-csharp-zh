@@ -1,8 +1,8 @@
-# C #中的哈希集，带示例
+# C # 中的哈希集，带示例
 
 > 原文:[https://www . geesforgeks . org/hashset-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/hashset-in-c-sharp-with-examples/)
 
-在 C#中，HashSet 是唯一元素的无序集合。本集在*中介绍。NET 3.5* 。它支持集合的实现，并使用哈希表进行存储。该集合属于泛型集合，在*系统下定义。集合.通用*命名空间。当我们想要防止集合中放置重复的元素时，通常会使用它。与列表相比，HashSet 的性能要好得多。
+在 C# 中，HashSet 是唯一元素的无序集合。本集在*中介绍。NET 3.5* 。它支持集合的实现，并使用哈希表进行存储。该集合属于泛型集合，在*系统下定义。集合.通用*命名空间。当我们想要防止集合中放置重复的元素时，通常会使用它。与列表相比，HashSet 的性能要好得多。
 
 **要点:**
 

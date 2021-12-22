@@ -14,7 +14,7 @@ MSIL 被 [JIT 编译器](https://www.geeksforgeeks.org/what-is-just-in-time-jit-
 *   然后，JIT 编译器将微软中间语言(MSIL)转换成特定于 JIT 编译器运行的计算机环境的机器代码。MSIL 在需求的基础上被转换成机器代码，即 JIT 编译器根据需求编译 MSIL，而不是全部编译。
 *   然后，使用 JIT 编译器获得的机器代码由计算机的处理器执行。
 
-**示例:**MSIL 是由特定于语言的编译器根据下面给出的源代码生成的。为了详细了解 MSIL，打印“ *GeeksforGeeks* 的类 Demo 的简单 C#源代码如下:
+**示例:**MSIL 是由特定于语言的编译器根据下面给出的源代码生成的。为了详细了解 MSIL，打印“ *GeeksforGeeks* 的类 Demo 的简单 C# 源代码如下:
 
 ```cs
 using System;
@@ -27,7 +27,7 @@ public class Demo {
 }
 ```
 
-C#编译器为上面提供的代码创建的 MSIL 如下所示:
+C# 编译器为上面提供的代码创建的 MSIL 如下所示:
 
 ```cs
 // =============== CLASS MEMBERS DECLARATION ===================

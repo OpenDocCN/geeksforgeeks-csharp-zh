@@ -1,4 +1,4 @@
-# 文件。C#中的复制(字符串，字符串)方法，示例
+# 文件。C# 中的复制(字符串，字符串)方法，示例
 
 > 原文:[https://www . geesforgeks . org/file-copy string-string-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-copystring-string-method-in-c-sharp-with-examples/)
 

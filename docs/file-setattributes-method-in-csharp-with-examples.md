@@ -1,4 +1,4 @@
-# 文件。C#中的 SetAttributes()方法，示例
+# 文件。C# 中的 SetAttributes()方法，示例
 
 > 原文:[https://www . geesforgeks . org/file-set attributes-method-in-csharp-with-examples/](https://www.geeksforgeeks.org/file-setattributes-method-in-csharp-with-examples/)
 

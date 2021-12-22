@@ -1,4 +1,4 @@
-# 控制台之间的区别。阅读并控制台。C#中的 ReadLine
+# 控制台之间的区别。阅读并控制台。C# 中的 ReadLine
 
 > 原文:[https://www . geeksforgeeks . org/console-read-and-console-read line-in-c-sharp/](https://www.geeksforgeeks.org/difference-between-console-read-and-console-readline-in-c-sharp/)
 
@@ -6,7 +6,7 @@
 
 **Read()**和 **ReadLine()** 唯一的区别就是控制台。Read 用于从标准输出设备只读单个字符，而控制台。ReadLine 用于从标准输出设备读取一行或一串。
 
-**程序 1:** 控制台示例。用 C#阅读()。
+**程序 1:** 控制台示例。用 C# 阅读()。
 
 ## C#
 
@@ -43,7 +43,7 @@ Gee
 
 ```
 
-**程序 2:** 控制台示例。C#中的 ReadLine()。
+**程序 2:** 控制台示例。C# 中的 ReadLine()。
 
 ## C#
 

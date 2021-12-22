@@ -230,4 +230,4 @@ Exception Thrown: System.ArgumentOutOfRangeException
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . char . is control？view = net framework-4 . 7 . 2 # System _ Char _ IsControl _ System _ String _ System _ int 32 _](https://docs.microsoft.com/en-us/dotnet/api/system.char.iscontrol?view=netframework-4.7.2#System_Char_IsControl_System_String_System_Int32_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . char . is control？view = net framework-4 . 7 . 2 # System _ Char _ IsControl _ System _ String _ System _ int 32 _](https://docs.microsoft.com/en-us/dotnet/api/system.char.iscontrol?view=netframework-4.7.2# System_Char_IsControl_System_String_System_Int32_)

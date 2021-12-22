@@ -51,7 +51,7 @@ class Geeks {
             Console.WriteLine(str1);
         }
 
-        Console.Write("\nLast Occurrence of C#: ");
+        Console.Write("\nLast Occurrence of C# : ");
 
         // printing the last index of C#
         // using Array.LastIndexOf<T>(T[],
@@ -83,7 +83,7 @@ C++
 C#
 CSS
 
-Last Occurrence of C#: 7
+Last Occurrence of C# : 7
 Last Occurrence of C++: 6
 ```
 

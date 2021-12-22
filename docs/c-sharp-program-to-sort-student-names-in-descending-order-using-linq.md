@@ -1,4 +1,4 @@
-# 使用 LINQ 对学生姓名进行降序排序的 C#程序
+# 使用 LINQ 对学生姓名进行降序排序的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-sort-student-name-in-降序-use-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-sort-student-names-in-descending-order-using-linq/)
 

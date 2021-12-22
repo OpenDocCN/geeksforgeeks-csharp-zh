@@ -1,4 +1,4 @@
-# 给定链表成对交换元素的 C#程序
+# 给定链表成对交换元素的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-程序对成对交换给定链表的元素-2/](https://www.geeksforgeeks.org/c-program-for-pairwise-swapping-elements-of-a-given-linked-list-2/)
 

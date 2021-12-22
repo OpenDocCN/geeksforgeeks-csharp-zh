@@ -1,4 +1,4 @@
-# 螺纹。C#中的 CurrentThread 属性
+# 螺纹。C# 中的 CurrentThread 属性
 
 > 原文:[https://www . geesforgeks . org/thread-currentthread-property-in-c-sharp/](https://www.geeksforgeeks.org/thread-currentthread-property-in-c-sharp/)
 

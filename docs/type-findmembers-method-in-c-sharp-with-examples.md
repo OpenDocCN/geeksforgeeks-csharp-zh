@@ -1,4 +1,4 @@
-# 类型。C#中的 FindMembers()方法及示例
+# 类型。C# 中的 FindMembers()方法及示例
 
 > 原文:[https://www . geesforgeks . org/type-find members-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/type-findmembers-method-in-c-sharp-with-examples/)
 

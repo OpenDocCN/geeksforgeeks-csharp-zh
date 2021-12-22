@@ -1,4 +1,4 @@
-# c#中组合框的元素如何排序？
+# c# 中组合框的元素如何排序？
 
 > 原文:[https://www . geeksforgeeks . org/如何对 c-sharp 中的组合框元素进行排序/](https://www.geeksforgeeks.org/how-to-sort-the-elements-of-the-combobox-in-c-sharp/)
 

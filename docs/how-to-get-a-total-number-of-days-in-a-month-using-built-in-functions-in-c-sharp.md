@@ -1,8 +1,8 @@
-# 如何使用 C#中的内置函数获取一个月的总天数？
+# 如何使用 C# 中的内置函数获取一个月的总天数？
 
 > 原文:[https://www . geeksforgeeks . org/如何使用内置 c-sharp 函数获得每月总天数/](https://www.geeksforgeeks.org/how-to-get-a-total-number-of-days-in-a-month-using-built-in-functions-in-c-sharp/)
 
-给定一年 **Y** 和月 **M** ，任务是在 C#中 g et 一个月的总天数。
+给定一年 **Y** 和月 **M** ，任务是在 C# 中 g et 一个月的总天数。
 
 **示例:**
 

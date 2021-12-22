@@ -14,7 +14,7 @@
 
 OrderBy 运算符用于按升序重新排列给定序列的元素。默认情况下，该运算符将给定序列的顺序转换为升序。不需要在查询表达式中添加额外的升序条件，这意味着升序关键字是可选的。您也可以使用降序关键字以降序更改给定序列的顺序。
 
-**查询语法中的 order by:**order by 运算符支持 [C#](https://www.geeksforgeeks.org/csharp-programming-language/) 和 VB.Net 语言中的查询语法。在查询语法中，orderby 词的用法如下例所示:
+**查询语法中的 order by:**order by 运算符支持 [C# ](https://www.geeksforgeeks.org/csharp-programming-language/) 和 VB.Net 语言中的查询语法。在查询语法中，orderby 词的用法如下例所示:
 
 **示例:**
 
@@ -117,7 +117,7 @@ Employee Name: Supriya
 *   **OrderBy < TSource，TKey>(IEnumerable<t source>，Func < TSource，TKey > ):** 该方法根据关键字对给定顺序的项目进行升序排序。
 *   **OrderBy < TSource，TKey>(IEnumerable<t source>，Func < TSource，TKey >，IComparer < TKey > ):** 此方法使用指定的比较器按升序对给定序列的项目进行排序。
 
-它同时出现在可查询类和可枚举类中。并支持 C#和 VB.NET 语言中的方法语法。如下例所示:
+它同时出现在可查询类和可枚举类中。并支持 C# 和 VB.NET 语言中的方法语法。如下例所示:
 
 **示例:**
 

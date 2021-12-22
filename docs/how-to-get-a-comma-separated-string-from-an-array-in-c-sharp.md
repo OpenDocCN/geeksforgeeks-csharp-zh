@@ -1,4 +1,4 @@
-# 如何在 C#中从数组中获取逗号分隔的字符串？
+# 如何在 C# 中从数组中获取逗号分隔的字符串？
 
 > 原文:[https://www . geesforgeks . org/如何从 c-sharp 数组中获取逗号分隔字符串/](https://www.geeksforgeeks.org/how-to-get-a-comma-separated-string-from-an-array-in-c-sharp/)
 

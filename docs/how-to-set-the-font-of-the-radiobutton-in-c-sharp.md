@@ -1,4 +1,4 @@
-# 如何在 C#中设置单选按钮的字体？
+# 如何在 C# 中设置单选按钮的字体？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的 radiobutton 字体/](https://www.geeksforgeeks.org/how-to-set-the-font-of-the-radiobutton-in-c-sharp/)
 

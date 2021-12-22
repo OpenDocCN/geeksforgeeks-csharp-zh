@@ -1,4 +1,4 @@
-# 不使用预定义方法计算余弦(X)的 C#程序
+# 不使用预定义方法计算余弦(X)的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-不使用预定义方法计算余弦的程序/](https://www.geeksforgeeks.org/c-sharp-program-to-calculate-the-cosinex-without-using-a-predefined-method/)
 

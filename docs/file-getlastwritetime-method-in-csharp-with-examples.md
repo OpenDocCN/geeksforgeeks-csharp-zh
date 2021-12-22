@@ -1,4 +1,4 @@
-# 文件。C#中的 GetLastWriteTime()方法，带示例
+# 文件。C# 中的 GetLastWriteTime()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/file-getlastwritetime-method-in-csharp-with-examples/](https://www.geeksforgeeks.org/file-getlastwritetime-method-in-csharp-with-examples/)
 

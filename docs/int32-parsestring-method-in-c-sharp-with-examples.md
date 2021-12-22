@@ -1,4 +1,4 @@
-# Int32。用例子解析 C#中的(字符串)方法
+# Int32。用例子解析 C# 中的(字符串)方法
 
 > 原文:[https://www . geesforgeks . org/int 32-parse string-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/int32-parsestring-method-in-c-sharp-with-examples/)
 
@@ -128,4 +128,4 @@ Exception Thrown: System.ArgumentNullException
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . int 32 . parse？view = net framework-4 . 7 . 2 # System _ int 32 _ Parse _ System _ String _](https://docs.microsoft.com/en-us/dotnet/api/system.int32.parse?view=netframework-4.7.2#System_Int32_Parse_System_String_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . int 32 . parse？view = net framework-4 . 7 . 2 # System _ int 32 _ Parse _ System _ String _](https://docs.microsoft.com/en-us/dotnet/api/system.int32.parse?view=netframework-4.7.2# System_Int32_Parse_System_String_)

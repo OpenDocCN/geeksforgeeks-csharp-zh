@@ -1,8 +1,8 @@
-# C#程序创建目录
+# C# 程序创建目录
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-create-a-directory/](https://www.geeksforgeeks.org/c-sharp-program-to-create-a-directory/)
 
-目录是存储文件的文件系统。现在我们的任务是用 C#创建一个目录。我们可以使用目录类的 CreateDirectory()方法创建一个目录。此方法用于在指定路径中创建目录和子目录。如果指定的目录存在或给定的路径无效，则此方法不会创建目录。要使用 CreateDirectory()方法，我们必须导入系统。程序中的 IO 命名空间。
+目录是存储文件的文件系统。现在我们的任务是用 C# 创建一个目录。我们可以使用目录类的 CreateDirectory()方法创建一个目录。此方法用于在指定路径中创建目录和子目录。如果指定的目录存在或给定的路径无效，则此方法不会创建目录。要使用 CreateDirectory()方法，我们必须导入系统。程序中的 IO 命名空间。
 
 **语法:**
 

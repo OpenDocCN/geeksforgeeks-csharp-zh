@@ -1,4 +1,4 @@
-# 如何在 C#中将 ToolTip 设置为 active？
+# 如何在 C# 中将 ToolTip 设置为 active？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置-工具提示-在 c-sharp 中激活/](https://www.geeksforgeeks.org/how-to-set-tooltip-to-active-in-c-sharp/)
 

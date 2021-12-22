@@ -1,8 +1,8 @@
-# 如何在 C#中设置 MaskedTextBox 的可见性？
+# 如何在 C# 中设置 MaskedTextBox 的可见性？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中 maskedtextbox 的可见性/](https://www.geeksforgeeks.org/how-to-set-the-visibility-of-maskedtextbox-in-c-sharp/)
 
-在 C#中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在掩码文本框控件中，您可以使用掩码文本框控件提供的**可见属性**来设置掩码文本框的可见性。
+在 C# 中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在掩码文本框控件中，您可以使用掩码文本框控件提供的**可见属性**来设置掩码文本框的可见性。
 如果这个属性的值被设置为 true，那么 MaskedTextBox 控件及其子控件在屏幕上是可见的。如果这个属性的值被设置为 false，那么 MaskedTextBox 控件及其子控件在屏幕上是不可见的。您可以通过两种不同的方式设置此属性:
 
 **1。设计时:**最简单的方法是设置 MaskedTextBox 控件的 Visible 属性值，如下步骤所示:

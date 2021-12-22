@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-int-64-struct/](https://www.geeksforgeeks.org/c-sharp-int-64-struct/)
 
-在 C#中，Int64 Struct 用于表示从范围 **-9，223，372，036，854，775，808 到+9，223，372，036，775，807** 的 64 位有符号整数(也称为**长的**数据类型)。它提供不同类型的方法来执行各种操作。用户可以进行加法、减法、乘法等数学运算。在 Int64 类型上。它支持“与”、“或”、“异或”等按位运算。它完全支持标准和自定义数字格式字符串。用户也可以调用[转换](https://www.geeksforgeeks.org/c-sharp-convert-class/)和[数学类](https://www.geeksforgeeks.org/c-sharp-math-class/)的方法对 Int64 值进行运算。Int64 结构继承了继承[对象类](https://www.geeksforgeeks.org/c-sharp-object-class/)的 ValueType 类。
+在 C# 中，Int64 Struct 用于表示从范围 **-9，223，372，036，854，775，808 到+9，223，372，036，775，807** 的 64 位有符号整数(也称为**长的**数据类型)。它提供不同类型的方法来执行各种操作。用户可以进行加法、减法、乘法等数学运算。在 Int64 类型上。它支持“与”、“或”、“异或”等按位运算。它完全支持标准和自定义数字格式字符串。用户也可以调用[转换](https://www.geeksforgeeks.org/c-sharp-convert-class/)和[数学类](https://www.geeksforgeeks.org/c-sharp-math-class/)的方法对 Int64 值进行运算。Int64 结构继承了继承[对象类](https://www.geeksforgeeks.org/c-sharp-object-class/)的 ValueType 类。
 
 #### 菲尔茨
 

@@ -1,4 +1,4 @@
-# 演示环境类 FailFast()方法使用的 C#程序
+# 演示环境类 FailFast()方法使用的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-explain-of-fail fast-of-environment-method-class/](https://www.geeksforgeeks.org/c-sharp-program-to-demonstrate-the-use-of-failfast-method-of-environment-class/)
 

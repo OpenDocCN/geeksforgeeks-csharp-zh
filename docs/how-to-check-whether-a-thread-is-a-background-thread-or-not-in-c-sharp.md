@@ -1,4 +1,4 @@
-# 如何在 C#中检查一个线程是否是后台线程
+# 如何在 C# 中检查一个线程是否是后台线程
 
 > 原文:[https://www . geesforgeks . org/how-to-check-thread-thread-in-c-sharp/](https://www.geeksforgeeks.org/how-to-check-whether-a-thread-is-a-background-thread-or-not-in-c-sharp/)
 

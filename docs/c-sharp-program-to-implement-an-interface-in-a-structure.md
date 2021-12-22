@@ -1,8 +1,8 @@
-# 在结构中实现接口的 C#程序
+# 在结构中实现接口的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-程序到实现结构中的接口/](https://www.geeksforgeeks.org/c-sharp-program-to-implement-an-interface-in-a-structure/)
 
-[**【结构】**](https://www.geeksforgeeks.org/c-sharp-structures-set-1/#:~:text=Defining%20Structure%3A%20In%20C%23%2C%20structure,properties%2C%20indexers%20and%20events%20etc.) 是一个值类型和单个单元下不同数据类型的变量集合。它几乎类似于一个类，因为两者都是用户定义的数据类型，并且都持有一堆不同的数据类型。我们可以使用 struct 关键字创建一个结构。结构还可以保存构造函数、常数、字段、方法、属性、索引器和事件等。
+[**【结构】**](https://www.geeksforgeeks.org/c-sharp-structures-set-1/# :~:text=Defining%20Structure%3A%20In%20C%23%2C%20structure,properties%2C%20indexers%20and%20events%20etc.) 是一个值类型和单个单元下不同数据类型的变量集合。它几乎类似于一个类，因为两者都是用户定义的数据类型，并且都持有一堆不同的数据类型。我们可以使用 struct 关键字创建一个结构。结构还可以保存构造函数、常数、字段、方法、属性、索引器和事件等。
 
 **语法:**
 

@@ -1,4 +1,4 @@
-# 如何在 C#中给文本框提供名称？
+# 如何在 C# 中给文本框提供名称？
 
 > 原文:[https://www . geeksforgeeks . org/如何向 c-sharp 中的文本框提供名称/](https://www.geeksforgeeks.org/how-to-provide-name-to-the-textbox-in-c-sharp/)
 

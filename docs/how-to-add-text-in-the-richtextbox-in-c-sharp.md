@@ -1,8 +1,8 @@
-# 如何在 C#的 RichTextBox 中添加文本？
+# 如何在 C# 的 RichTextBox 中添加文本？
 
 > 原文:[https://www . geeksforgeeks . org/how-add-text-in-richtextbox-in-c-sharp/](https://www.geeksforgeeks.org/how-to-add-text-in-the-richtextbox-in-c-sharp/)
 
-在 C#中，RichTextBox 控件是一个文本框，它为您提供富文本编辑控件和高级格式功能，还包括加载富文本格式(RTF)文件。或者换句话说，RichTextBox 控件允许您显示或编辑流内容，包括段落、图像、表格等。在 RichTextBox 中，您可以使用**文本属性**在屏幕上显示的 RichTextBox 控件中添加文本。您可以通过两种不同的方式设置此属性:
+在 C# 中，RichTextBox 控件是一个文本框，它为您提供富文本编辑控件和高级格式功能，还包括加载富文本格式(RTF)文件。或者换句话说，RichTextBox 控件允许您显示或编辑流内容，包括段落、图像、表格等。在 RichTextBox 中，您可以使用**文本属性**在屏幕上显示的 RichTextBox 控件中添加文本。您可以通过两种不同的方式设置此属性:
 
 **1。设计时:**在 RichTextBox 中添加文本是最简单的方法，如以下步骤所示:
 

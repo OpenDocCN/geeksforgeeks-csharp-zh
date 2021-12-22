@@ -1,4 +1,4 @@
-# C#动态编码–深度属性
+# C# 动态编码–深度属性
 
 > 原文:[https://www . geesforgeks . org/c-sharp-dynamic-coding-attributes-in-deep/](https://www.geeksforgeeks.org/c-sharp-dynamic-coding-attributes-in-depth/)
 
@@ -12,7 +12,7 @@
 [type: attributeName(parameter1, parameter2, ………n)]
 ```
 
-那个。NET 构造为属性的使用指定了两种类型的属性:预定义属性和自定义属性。属性通常可以有零个或多个参数。因此，下面的 C#代码提出了属性的执行，其中使用过时的 as 将方法声明为不推荐使用；
+那个。NET 构造为属性的使用指定了两种类型的属性:预定义属性和自定义属性。属性通常可以有零个或多个参数。因此，下面的 C# 代码提出了属性的执行，其中使用过时的 as 将方法声明为不推荐使用；
 
 ## C#
 

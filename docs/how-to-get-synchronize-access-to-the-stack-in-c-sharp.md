@@ -1,4 +1,4 @@
-# 如何在 C#中同步访问堆栈
+# 如何在 C# 中同步访问堆栈
 
 > 原文:[https://www . geesforgeks . org/如何同步访问 c-sharp 中的堆栈/](https://www.geeksforgeeks.org/how-to-get-synchronize-access-to-the-stack-in-c-sharp/)
 

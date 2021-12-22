@@ -1,8 +1,8 @@
-# 将一个字符转换成 C#中的字符串
+# 将一个字符转换成 C# 中的字符串
 
 > 原文:[https://www . geesforgeks . org/convert-a-character-to-string-in-c-sharp/](https://www.geeksforgeeks.org/convert-a-character-to-the-string-in-c-sharp/)
 
-给定一个字符，任务是在 C#中将字符转换为字符串。
+给定一个字符，任务是在 C# 中将字符转换为字符串。
 
 **例:**
 

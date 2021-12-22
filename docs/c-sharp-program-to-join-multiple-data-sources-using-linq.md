@@ -1,4 +1,4 @@
-# 使用 LINQ 连接多个数据源的 C#程序
+# 使用 LINQ 连接多个数据源的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-join-multi-data-sources-use-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-join-multiple-data-sources-using-linq/)
 

@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-replace-method/](https://www.geeksforgeeks.org/c-sharp-replace-method/)
 
-在 C#中， ***替换()*** 的方法是一个字符串方法。此方法用于替换当前字符串对象中所有指定的 Unicode 字符或指定的字符串，并返回新的修改后的字符串。这个方法可以通过传递参数来重载。
+在 C# 中， ***替换()*** 的方法是一个字符串方法。此方法用于替换当前字符串对象中所有指定的 Unicode 字符或指定的字符串，并返回新的修改后的字符串。这个方法可以通过传递参数来重载。
 
 **语法:**
 

@@ -1,4 +1,4 @@
-# 叠加。在 C#中包含()方法
+# 叠加。在 C# 中包含()方法
 
 > 原文:[https://www . geesforgeks . org/stack-contains-method-in-c-sharp/](https://www.geeksforgeeks.org/stack-contains-method-in-c-sharp/)
 

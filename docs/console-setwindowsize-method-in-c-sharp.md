@@ -1,4 +1,4 @@
-# 控制台。C#中的 SetWindowSize()方法
+# 控制台。C# 中的 SetWindowSize()方法
 
 > 原文:[https://www . geesforgeks . org/console-setwindowsize-method-in-c-sharp/](https://www.geeksforgeeks.org/console-setwindowsize-method-in-c-sharp/)
 

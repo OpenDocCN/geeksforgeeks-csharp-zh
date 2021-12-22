@@ -1,4 +1,4 @@
-# 小数。C#中的 ToInt16()方法
+# 小数。C# 中的 ToInt16()方法
 
 > 原文:[https://www . geesforgeks . org/decimal-to int 16-method-in-c-sharp/](https://www.geeksforgeeks.org/decimal-toint16-method-in-c-sharp/)
 

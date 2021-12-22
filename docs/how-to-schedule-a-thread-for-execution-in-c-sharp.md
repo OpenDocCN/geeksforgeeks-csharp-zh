@@ -1,4 +1,4 @@
-# 如何在 C#中调度线程执行
+# 如何在 C# 中调度线程执行
 
 > 原文:[https://www . geeksforgeeks . org/如何调度 c-sharp 中的线程执行/](https://www.geeksforgeeks.org/how-to-schedule-a-thread-for-execution-in-c-sharp/)
 

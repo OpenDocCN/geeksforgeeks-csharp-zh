@@ -1,4 +1,4 @@
-# 如何在 C#中用 NumericUpDown 显示十六进制值？
+# 如何在 C# 中用 NumericUpDown 显示十六进制值？
 
 > 原文:[https://www . geeksforgeeks . org/如何显示十六进制数值-in-numeric pdown-in-c-sharp/](https://www.geeksforgeeks.org/how-to-display-hexadecimal-values-in-numericupdown-in-c-sharp/)
 

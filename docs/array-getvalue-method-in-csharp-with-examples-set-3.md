@@ -1,8 +1,8 @@
-# 阵列。C#中的 GetValue()方法，带示例| Set–3
+# 阵列。C# 中的 GetValue()方法，带示例| Set–3
 
 > 原文:[https://www . geesforgeks . org/array-getvalue-method-in-csharp-with-examples-set-3/](https://www.geeksforgeeks.org/array-getvalue-method-in-csharp-with-examples-set-3/)
 
-数组。C#中的 GetValue()方法用于获取当前[数组](https://www.geeksforgeeks.org/c-sharp-arrays/)中指定元素的值。该方法的重载列表中共有 8 种方法，如下所示:
+数组。C# 中的 GetValue()方法用于获取当前[数组](https://www.geeksforgeeks.org/c-sharp-arrays/)中指定元素的值。该方法的重载列表中共有 8 种方法，如下所示:
 
 *   [**阵。GetValue(Int32，Int32)**](https://www.geeksforgeeks.org/array-getvalue-method-in-csharp-with-examples-set-1/)
 *   [**阵。GetValue(Int64，Int64)**](https://www.geeksforgeeks.org/array-getvalue-method-in-csharp-with-examples-set-1/)

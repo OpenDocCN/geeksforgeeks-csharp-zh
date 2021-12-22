@@ -1,4 +1,4 @@
-# 布尔。C#中的 GetHashCode()方法及示例
+# 布尔。C# 中的 GetHashCode()方法及示例
 
 > 原文:[https://www . geesforgeks . org/boolean-gethashcode-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/boolean-gethashcode-method-in-c-sharp-with-examples/)
 

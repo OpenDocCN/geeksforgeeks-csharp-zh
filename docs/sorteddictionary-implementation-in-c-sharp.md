@@ -1,8 +1,8 @@
-# c#中的 SortedDictionary 实现
+# c# 中的 SortedDictionary 实现
 
 > 原文:[https://www . geeksforgeeks . org/sorted dictionary-implementation-in-c-sharp/](https://www.geeksforgeeks.org/sorteddictionary-implementation-in-c-sharp/)
 
-在 C#中，SortedDictionary 是一个通用集合，用于以排序的形式存储键/值对，并且对键进行排序。排序字典在*系统下定义。集合.泛型*命名空间。它本质上是动态的，意味着排序后的字典的大小会根据需要而增长。
+在 C# 中，SortedDictionary 是一个通用集合，用于以排序的形式存储键/值对，并且对键进行排序。排序字典在*系统下定义。集合.泛型*命名空间。它本质上是动态的，意味着排序后的字典的大小会根据需要而增长。
 
 **要点:**
 

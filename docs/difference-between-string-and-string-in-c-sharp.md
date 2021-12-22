@@ -1,4 +1,4 @@
-# 字符串和 C#中字符串的区别
+# 字符串和 C# 中字符串的区别
 
 > 原文:[https://www . geesforgeks . org/c-sharp 中字符串与字符串的区别/](https://www.geeksforgeeks.org/difference-between-string-and-string-in-c-sharp/)
 

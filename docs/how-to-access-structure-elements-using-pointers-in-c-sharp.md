@@ -1,8 +1,8 @@
-# 如何在 C#中使用指针访问结构元素
+# 如何在 C# 中使用指针访问结构元素
 
 > 原文:[https://www . geeksforgeeks . org/如何访问结构元素-使用 c-sharp 中的指针/](https://www.geeksforgeeks.org/how-to-access-structure-elements-using-pointers-in-c-sharp/)
 
-与 C/C++不同，C#中的[结构](https://www.geeksforgeeks.org/c-sharp-structures-set-1/)可以有方法、字段、索引器、运算符方法、属性或事件等成员。成员可以有公共、私有和内部访问说明符。
+与 C/C++不同，C# 中的[结构](https://www.geeksforgeeks.org/c-sharp-structures-set-1/)可以有方法、字段、索引器、运算符方法、属性或事件等成员。成员可以有公共、私有和内部访问说明符。
 指针是存储同一类型变量的地址的变量，即 int 指针可以存储整数的地址，char 指针可以存储 char 的地址，类似地，对于所有其他数据类型，无论是基本的还是用户定义的。
 
 您可以使用指针访问结构成员，类型为结构，方法如下:

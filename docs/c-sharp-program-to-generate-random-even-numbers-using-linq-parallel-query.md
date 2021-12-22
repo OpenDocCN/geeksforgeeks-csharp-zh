@@ -1,4 +1,4 @@
-# 使用 LINQ 并行查询生成随机偶数的 C#程序
+# 使用 LINQ 并行查询生成随机偶数的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-程序生成-随机-偶数-使用-linq-parallel-query/](https://www.geeksforgeeks.org/c-sharp-program-to-generate-random-even-numbers-using-linq-parallel-query/)
 

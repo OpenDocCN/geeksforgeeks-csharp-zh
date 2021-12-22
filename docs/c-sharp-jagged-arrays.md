@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-jagged-arrays/](https://www.geeksforgeeks.org/c-sharp-jagged-arrays/)
 
-#### 先决条件:[c#中的数组](https://www.geeksforgeeks.org/c-sharp-arrays/)
+#### 先决条件:[c# 中的数组](https://www.geeksforgeeks.org/c-sharp-arrays/)
 
 交错数组是数组的**数组，这样成员数组可以有不同的大小。换句话说，每个数组索引的长度可以不同。交错数组的元素是引用类型，默认情况下初始化为空。交错数组也可以与多维数组混合使用。这里，行数在声明时是固定的，但是您可以改变列数。**
 

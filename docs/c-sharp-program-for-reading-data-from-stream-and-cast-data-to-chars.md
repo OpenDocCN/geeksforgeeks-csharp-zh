@@ -1,8 +1,8 @@
-# 从流中读取数据并将数据转换为字符的 C#程序
+# 从流中读取数据并将数据转换为字符的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-for-reading-data-from-stream-cast-data-to-chars/](https://www.geeksforgeeks.org/c-sharp-program-for-reading-data-from-stream-and-cast-data-to-chars/)
 
-给定数据，现在我们的任务是从流中读取数据，并将数据转换为 C#中的字符。为此，我们使用以下类和方法:
+给定数据，现在我们的任务是从流中读取数据，并将数据转换为 C# 中的字符。为此，我们使用以下类和方法:
 
 *   [**【FileStream】**](https://www.geeksforgeeks.org/basics-of-filestream-in-c-sharp/)**:是一个用来读写文件的类。因此，要使用 FileStream 操作文件，需要创建一个 FileStream 类的对象。**
 

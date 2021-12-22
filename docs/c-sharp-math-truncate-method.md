@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-math-truncate-method/](https://www.geeksforgeeks.org/c-sharp-math-truncate-method/)
 
-在 C#中 ***数学。Truncate()*** 是一种数学类方法，用于计算指定十进制数或双精度浮点数的整数部分。通过向该方法传递不同类型的参数，可以重载该方法，如下所示:
+在 C# 中 ***数学。Truncate()*** 是一种数学类方法，用于计算指定十进制数或双精度浮点数的整数部分。通过向该方法传递不同类型的参数，可以重载该方法，如下所示:
 
 *   **数学。截断(十进制)**
 *   **数学。截断(双)**

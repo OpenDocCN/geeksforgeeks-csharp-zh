@@ -1,4 +1,4 @@
-# 演示多级继承接口实现的 C#程序
+# 演示多级继承接口实现的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-程序-演示-接口-实现-多级继承/](https://www.geeksforgeeks.org/c-sharp-program-to-demonstrate-interface-implementation-with-multi-level-inheritance/)
 

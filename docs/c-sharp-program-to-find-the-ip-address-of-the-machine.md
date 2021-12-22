@@ -1,8 +1,8 @@
-# C#程序查找机器的 IP 地址
+# C# 程序查找机器的 IP 地址
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-find-the-IP-address-of-machine/](https://www.geeksforgeeks.org/c-sharp-program-to-find-the-ip-address-of-the-machine/)
 
-IP 地址被称为互联网协议地址。它是通过网络识别设备的唯一地址。它几乎就像一套规则，管理通过互联网或本地网络发送的数据。它有助于互联网区分路由器、计算机、网站等。在本文中，我们将学习如何使用 C#查找机器的 IP 地址。
+IP 地址被称为互联网协议地址。它是通过网络识别设备的唯一地址。它几乎就像一套规则，管理通过互联网或本地网络发送的数据。它有助于互联网区分路由器、计算机、网站等。在本文中，我们将学习如何使用 C# 查找机器的 IP 地址。
 
 ### 使用 GetHostByName()方法
 

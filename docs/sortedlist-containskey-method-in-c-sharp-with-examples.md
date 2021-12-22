@@ -1,4 +1,4 @@
-# 排序列表包含 C#中的 Key()方法，并附有示例
+# 排序列表包含 C# 中的 Key()方法，并附有示例
 
 > 原文:[https://www . geesforgeks . org/sorted list-contains key-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/sortedlist-containskey-method-in-c-sharp-with-examples/)
 

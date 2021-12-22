@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-switch-statement 中的字符串使用方法/](https://www.geeksforgeeks.org/c-sharp-how-to-use-strings-in-switch-statement/)
 
-**[开关语句](https://www.geeksforgeeks.org/c-sharp-decision-making-else-else-ladder-nested-switch-nested-switch/#switch)** 是多路分支语句。它提供了一种简单的方法，可以根据表达式的值将执行转发到代码的不同部分。*字符串是开关语句中唯一可以使用的非整数类型*。
+**[开关语句](https://www.geeksforgeeks.org/c-sharp-decision-making-else-else-ladder-nested-switch-nested-switch/# switch)** 是多路分支语句。它提供了一种简单的方法，可以根据表达式的值将执行转发到代码的不同部分。*字符串是开关语句中唯一可以使用的非整数类型*。
 
 **重要点:**
 

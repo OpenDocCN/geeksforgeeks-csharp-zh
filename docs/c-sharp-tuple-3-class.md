@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-tuple-3-class/](https://www.geeksforgeeks.org/c-sharp-tuple-3-class/)
 
-元组<t1 t2="" t3="">类用于创建三元组或三元组。它表示一个包含三个元素的元组。您可以通过调用 [**元组< T1、T2、T3 > (T1、T2、T3)构造函数**](https://www.geeksforgeeks.org/how-to-create-3-tuple-or-triple-tuple-in-c-sharp/#Using%20Tuple%3CT1,T2,T3%3E(T1,%20T2,%20T3)%20Constructor) 或静态的 [**元组来实例化元组<t1 t2="" t3="">对象。创建</t1>**](https://www.geeksforgeeks.org/how-to-create-3-tuple-or-triple-tuple-in-c-sharp/#Using%20the%20Create%20method) 方法。您可以使用只读的*项目 1* 、*项目 2* 和*项目 3* 实例属性来检索元组元素的值。
+元组<t1 t2="" t3="">类用于创建三元组或三元组。它表示一个包含三个元素的元组。您可以通过调用 [**元组< T1、T2、T3 > (T1、T2、T3)构造函数**](https://www.geeksforgeeks.org/how-to-create-3-tuple-or-triple-tuple-in-c-sharp/# Using%20Tuple%3CT1,T2,T3%3E(T1,%20T2,%20T3)%20Constructor) 或静态的 [**元组来实例化元组<t1 t2="" t3="">对象。创建</t1>**](https://www.geeksforgeeks.org/how-to-create-3-tuple-or-triple-tuple-in-c-sharp/# Using%20the%20Create%20method) 方法。您可以使用只读的*项目 1* 、*项目 2* 和*项目 3* 实例属性来检索元组元素的值。
 **要点:**</t1>
 
 *   它实现了*结构可比较*、*结构可比较*、*我可比较*接口。
@@ -20,7 +20,7 @@
 <figure class="table">
 
 | 构造器 | 描述 |
-| [**元组< T1、T2、T3 > (T1、T2、T3)**](https://www.geeksforgeeks.org/how-to-create-3-tuple-or-triple-tuple-in-c-sharp/#Using%20Tuple%3CT1,T2,T3%3E(T1,%20T2,%20T3)%20Constructor) | 初始化元组<t1 t2="" t3="">类的新实例。</t1> |
+| [**元组< T1、T2、T3 > (T1、T2、T3)**](https://www.geeksforgeeks.org/how-to-create-3-tuple-or-triple-tuple-in-c-sharp/# Using%20Tuple%3CT1,T2,T3%3E(T1,%20T2,%20T3)%20Constructor) | 初始化元组<t1 t2="" t3="">类的新实例。</t1> |
 
 </figure>
 

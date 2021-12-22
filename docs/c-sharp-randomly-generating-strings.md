@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-随机生成字符串/](https://www.geeksforgeeks.org/c-sharp-randomly-generating-strings/)
 
-在 C#中，[字符串](https://www.geeksforgeeks.org/c-sharp-string/)是 Unicode 字符序列或字符数组。Unicode 字符的范围是从 U+0000 到 U+FFFF。字符串是文本的表示形式。在本文中，我们将学习如何随机生成字符串和字母数字字符串。因此，为了完成这项任务，我们使用了 Random 类，尽管它生成整数，但我们可以使用它们来创建随机字符串。Random 类提供了不同类型的方法来生成随机字符串。随机字符串通常用于验证码验证等。
+在 C# 中，[字符串](https://www.geeksforgeeks.org/c-sharp-string/)是 Unicode 字符序列或字符数组。Unicode 字符的范围是从 U+0000 到 U+FFFF。字符串是文本的表示形式。在本文中，我们将学习如何随机生成字符串和字母数字字符串。因此，为了完成这项任务，我们使用了 Random 类，尽管它生成整数，但我们可以使用它们来创建随机字符串。Random 类提供了不同类型的方法来生成随机字符串。随机字符串通常用于验证码验证等。
 
 **示例:**
 

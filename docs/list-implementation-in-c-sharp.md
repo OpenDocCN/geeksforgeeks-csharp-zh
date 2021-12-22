@@ -1,8 +1,8 @@
-# c#中的列表实现
+# c# 中的列表实现
 
 > 原文:[https://www . geesforgeks . org/list-implementation-in-c-sharp/](https://www.geeksforgeeks.org/list-implementation-in-c-sharp/)
 
-在 C#中，**列表**是一个通用集合，用于以列表的形式存储元素或对象，它是在*系统下定义的。集合.泛型*命名空间。它提供了与[数组列表](https://www.geeksforgeeks.org/arraylist-in-c-sharp/)相同的功能，但是只有一个区别，即列表是通用的，而数组列表是非通用的集合。它本质上是动态的，意味着列表的大小会根据需要而增长。
+在 C# 中，**列表**是一个通用集合，用于以列表的形式存储元素或对象，它是在*系统下定义的。集合.泛型*命名空间。它提供了与[数组列表](https://www.geeksforgeeks.org/arraylist-in-c-sharp/)相同的功能，但是只有一个区别，即列表是通用的，而数组列表是非通用的集合。它本质上是动态的，意味着列表的大小会根据需要而增长。
 
 **要点:**
 

@@ -1,4 +1,4 @@
-# MathF。C#中的 Atanh()方法，带示例
+# MathF。C# 中的 Atanh()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/mathf-atanh-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-atanh-method-in-c-sharp-with-examples/)
 

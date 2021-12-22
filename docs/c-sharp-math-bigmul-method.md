@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-math-bigmul-method/](https://www.geeksforgeeks.org/c-sharp-math-bigmul-method/)
 
-在 C#中 ***BigMul()*** 是一个方法类的方法。此方法用于计算两个 32 位数字的全积。
+在 C# 中 ***BigMul()*** 是一个方法类的方法。此方法用于计算两个 32 位数字的全积。
 **语法:**
 
 ```cs

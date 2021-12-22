@@ -2,9 +2,9 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-索引器过载/](https://www.geeksforgeeks.org/c-sharp-overloading-of-indexers/)
 
-#### 先决条件:[c#中的索引器](https://www.geeksforgeeks.org/c-indexers/)
+#### 先决条件:[c# 中的索引器](https://www.geeksforgeeks.org/c-indexers/)
 
-像函数一样，索引器也可以重载。在 C#中，我们可以在一个类中有多个索引器。若要重载索引器，请用多个参数声明它，并且每个参数都应有不同的数据类型。索引器通过传递两种不同类型的参数来重载。这与 [**方法重载**](https://www.geeksforgeeks.org/c-method-overloading/) 颇为相似。
+像函数一样，索引器也可以重载。在 C# 中，我们可以在一个类中有多个索引器。若要重载索引器，请用多个参数声明它，并且每个参数都应有不同的数据类型。索引器通过传递两种不同类型的参数来重载。这与 [**方法重载**](https://www.geeksforgeeks.org/c-method-overloading/) 颇为相似。
 
 **示例 1:** 在下面的程序中 ***int*** 和 ***float*** 类型用于重载索引器。这里，“ *Hello* ”这个词是使用 *int* 索引器分配的，而 float 参数是用来给字符串赋予值“ *Geeks* ”。
 

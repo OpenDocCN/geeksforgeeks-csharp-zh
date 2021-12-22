@@ -1,4 +1,4 @@
-# MathF。C#中的 Cos()方法，带示例
+# MathF。C# 中的 Cos()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/mathf-cos-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-cos-method-in-c-sharp-with-examples/)
 

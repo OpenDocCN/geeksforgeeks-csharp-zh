@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-string-indexof-method-set-1/](https://www.geeksforgeeks.org/c-sharp-string-indexof-method-set-1/)
 
-在 C#中， ***IndexOf()*** 法是一种 **[串](https://www.geeksforgeeks.org/c-string/)** 法。此方法用于在字符串的当前实例中查找指定字符或字符串的第一个匹配项的从零开始的索引。如果找不到字符或字符串，该方法返回-1。这个方法可以通过传递不同的参数来重载。
+在 C# 中， ***IndexOf()*** 法是一种 **[串](https://www.geeksforgeeks.org/c-string/)** 法。此方法用于在字符串的当前实例中查找指定字符或字符串的第一个匹配项的从零开始的索引。如果找不到字符或字符串，该方法返回-1。这个方法可以通过传递不同的参数来重载。
 
 *   **弦。IndexOf(char x)**
 *   **弦。IndexOf(char x，int start1)**

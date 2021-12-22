@@ -1,8 +1,8 @@
-# 用于在目录中列出文件的 C#程序
+# 用于在目录中列出文件的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-for-list-in-a-a-directory 中的文件/](https://www.geeksforgeeks.org/c-sharp-program-for-listing-the-files-in-a-directory/)
 
-给定文件，现在我们的任务是使用 C#列出目录中的所有这些文件。为此，我们使用以下函数和类:
+给定文件，现在我们的任务是使用 C# 列出目录中的所有这些文件。为此，我们使用以下函数和类:
 
 **目录信息:**它是一个提供不同类型的方法来移动、创建和枚举目录及其子目录的类。你不能继承它。
 

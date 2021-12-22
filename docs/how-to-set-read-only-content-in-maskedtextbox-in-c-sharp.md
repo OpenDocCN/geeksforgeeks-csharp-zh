@@ -1,8 +1,8 @@
-# 如何在 C#中设置 MaskedTextBox 中的只读内容？
+# 如何在 C# 中设置 MaskedTextBox 中的只读内容？
 
 > 原文:[https://www . geesforgeks . org/how-set-read-only-content-in-masketextbox-in-c-sharp/](https://www.geeksforgeeks.org/how-to-set-read-only-content-in-maskedtextbox-in-c-sharp/)
 
-在 C#中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在掩码文本框控件中，可以使用 **ReadOnly 属性**将掩码文本框中的文本设置为只读。如果该属性的值为真，则掩码文本框中的文本是只读的。否则，假的。此属性的默认值为 false。您可以通过两种不同的方式设置此属性:
+在 C# 中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在掩码文本框控件中，可以使用 **ReadOnly 属性**将掩码文本框中的文本设置为只读。如果该属性的值为真，则掩码文本框中的文本是只读的。否则，假的。此属性的默认值为 false。您可以通过两种不同的方式设置此属性:
 
 **1。设计时:**最简单的方法是设置 MaskedTextBox 控件的 ReadOnly 属性值，如下步骤所示:
 

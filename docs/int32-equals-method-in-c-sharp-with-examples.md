@@ -1,4 +1,4 @@
-# Int32。C#中的 Equals 方法及示例
+# Int32。C# 中的 Equals 方法及示例
 
 > 原文:[https://www . geesforgeks . org/int 32-equals-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/int32-equals-method-in-c-sharp-with-examples/)
 

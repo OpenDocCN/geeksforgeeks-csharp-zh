@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-char-islower-method/](https://www.geeksforgeeks.org/c-sharp-char-islower-method/)
 
-在 C#中， ***Char。*** 是一个*系统。Char* 结构方法，用于检查 Unicode 字符是否可以归类为小写字母。有效的小写字母将是*unicode category:lowercarseleter*的成员。通过向该方法传递不同类型和数量的参数，可以重载该方法。
+在 C# 中， ***Char。*** 是一个*系统。Char* 结构方法，用于检查 Unicode 字符是否可以归类为小写字母。有效的小写字母将是*unicode category:lowercarseleter*的成员。通过向该方法传递不同类型和数量的参数，可以重载该方法。
 
 ***   Char.T4【查尔】法。IsLower(String，Int32)方法**
 

@@ -1,4 +1,4 @@
-# 在 C#中找到指定序列的第一个元素的索引
+# 在 C# 中找到指定序列的第一个元素的索引
 
 > 原文:[https://www . geeksforgeeks . org/find-c-sharp 中指定序列的第一个元素的索引/](https://www.geeksforgeeks.org/finding-the-index-of-first-element-of-the-specified-sequence-in-c-sharp/)
 

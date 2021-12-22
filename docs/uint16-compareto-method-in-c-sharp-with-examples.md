@@ -1,4 +1,4 @@
-# UInt16。将 C#中的()方法与示例进行比较
+# UInt16。将 C# 中的()方法与示例进行比较
 
 > 原文:[https://www . geeksforgeeks . org/uint 16-compare to-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/uint16-compareto-method-in-c-sharp-with-examples/)
 

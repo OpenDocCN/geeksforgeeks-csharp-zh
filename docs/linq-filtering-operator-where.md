@@ -11,7 +11,7 @@
 
 其中运算符根据谓词函数筛选值。或者换句话说，我们可以说它根据给定的条件或标准从序列中返回值。Where 子句不是查询中的强制子句。
 
-**查询语法中的 Where 子句:**Where 子句用于根据给定的条件过滤查询。您可以使用 lambda 表达式或使用[函数委托](https://www.geeksforgeeks.org/c-sharp-func-delegate/)类型为 where 子句提供条件。Where 子句支持 [C#](https://www.geeksforgeeks.org/csharp-programming-language/) 和 VB.Net 语言中的查询语法。Where 子句的查询语法如下例所示。
+**查询语法中的 Where 子句:**Where 子句用于根据给定的条件过滤查询。您可以使用 lambda 表达式或使用[函数委托](https://www.geeksforgeeks.org/c-sharp-func-delegate/)类型为 where 子句提供条件。Where 子句支持 [C# ](https://www.geeksforgeeks.org/csharp-programming-language/) 和 VB.Net 语言中的查询语法。Where 子句的查询语法如下例所示。
 
 **例:**
 

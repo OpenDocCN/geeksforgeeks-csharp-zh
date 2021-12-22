@@ -1,8 +1,8 @@
-# 检查指定类型是否为数组的 C#程序
+# 检查指定类型是否为数组的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-check-a-specified-type-is-a-array-or-not/](https://www.geeksforgeeks.org/c-sharp-program-to-check-a-specified-type-is-an-array-or-not/)
 
-在 C#中，数组是一组由通用名称引用的同构元素。因此，在本文中，我们将讨论如何检查变量是否为数组类型。为了完成这个任务，我们使用类型类的 **IsArray** 属性。此属性用于确定指定的类型是否为数组。如果指定的类型是数组，IsArray 属性将返回 true。否则，它将返回 false。
+在 C# 中，数组是一组由通用名称引用的同构元素。因此，在本文中，我们将讨论如何检查变量是否为数组类型。为了完成这个任务，我们使用类型类的 **IsArray** 属性。此属性用于确定指定的类型是否为数组。如果指定的类型是数组，IsArray 属性将返回 true。否则，它将返回 false。
 
 **语法:**
 

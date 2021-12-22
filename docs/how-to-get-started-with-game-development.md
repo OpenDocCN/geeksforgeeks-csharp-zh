@@ -41,7 +41,7 @@
 
 *现在您已经了解了游戏开发中涉及的所有组件，这里提供的主题是一个路线图，足以让您了解学习游戏开发的基础知识。在学习了这些之后，你可以做一个不错的游戏，然后随着你的进步，继续创造越来越复杂的世界。*
 
-***1。学习计算机编程:**游戏中有趣的世界观都是用计算机编程创造的。所以，你有理由知道编程，以防你想进入这个世界！现在如果你有一些编程语言的编码基础知识，比如**[c#](https://www.geeksforgeeks.org/csharp-programming-language/)[Python](https://www.geeksforgeeks.org/python-programming-language/)[Java](https://www.geeksforgeeks.org/java/)**等。那就太好了，否则最好先学编程，再继续前进。*
+***1。学习计算机编程:**游戏中有趣的世界观都是用计算机编程创造的。所以，你有理由知道编程，以防你想进入这个世界！现在如果你有一些编程语言的编码基础知识，比如**[c# ](https://www.geeksforgeeks.org/csharp-programming-language/)[Python](https://www.geeksforgeeks.org/python-programming-language/)[Java](https://www.geeksforgeeks.org/java/)**等。那就太好了，否则最好先学编程，再继续前进。*
 
 *没有专门用于游戏开发的特定编程语言。但是 *C++* 是游戏开发中最流行的，也是编写游戏引擎最常用的语言。用 C++制作的热门游戏有《反击》、《王者任务》、《魔兽世界》等。另一种流行的语言是 *Java* ，因为它有多线程和套接字。一款用 Java 制作的流行游戏是愤怒的小鸟 Chrome。*
 

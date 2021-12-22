@@ -1,4 +1,4 @@
-# 如何在 C#中创建字符串集合
+# 如何在 C# 中创建字符串集合
 
 > 原文:[https://www . geesforgeks . org/how-create-a-string collection-in-c-sharp/](https://www.geeksforgeeks.org/how-to-create-a-stringcollection-in-c-sharp/)
 

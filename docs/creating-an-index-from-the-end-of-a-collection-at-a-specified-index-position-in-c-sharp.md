@@ -1,4 +1,4 @@
-# 在 C#中的指定索引位置从集合的末尾创建索引
+# 在 C# 中的指定索引位置从集合的末尾创建索引
 
 > 原文:[https://www . geeksforgeeks . org/从指定索引位置的集合末尾创建索引/](https://www.geeksforgeeks.org/creating-an-index-from-the-end-of-a-collection-at-a-specified-index-position-in-c-sharp/)
 

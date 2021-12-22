@@ -1,8 +1,8 @@
-# c#中哈希表和字典的区别
+# c# 中哈希表和字典的区别
 
 > 原文:[https://www . geesforgeks . org/c-sharp 中 hashtable 和 dictionary 的区别/](https://www.geeksforgeeks.org/difference-between-hashtable-and-dictionary-in-c-sharp/)
 
-在 C#中，字典是一个通用集合，通常用于存储键/值对。字典在*系统下定义。集合。泛型*命名空间。它本质上是动态的，意味着字典的大小会根据需要而增长。
+在 C# 中，字典是一个通用集合，通常用于存储键/值对。字典在*系统下定义。集合。泛型*命名空间。它本质上是动态的，意味着字典的大小会根据需要而增长。
 
 **例:**
 

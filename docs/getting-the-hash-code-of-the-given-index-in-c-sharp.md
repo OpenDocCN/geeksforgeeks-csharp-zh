@@ -1,4 +1,4 @@
-# 获取 C#中给定索引的哈希码
+# 获取 C# 中给定索引的哈希码
 
 > 原文:[https://www . geeksforgeeks . org/get-c-sharp 中给定索引的哈希代码/](https://www.geeksforgeeks.org/getting-the-hash-code-of-the-given-index-in-c-sharp/)
 

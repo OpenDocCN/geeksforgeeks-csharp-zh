@@ -1,8 +1,8 @@
-# 如何在 C#中设置 MaskedTextBox 的名称？
+# 如何在 C# 中设置 MaskedTextBox 的名称？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的 maskedtxbox/](https://www.geeksforgeeks.org/how-to-set-the-name-of-the-maskedtextbox-in-c-sharp/)
 
-在 C#中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在 masketextbox 控件中，可以使用 **Name 属性**设置表单上 masketextbox 的名称。您可以通过两种不同的方式设置此属性:
+在 C# 中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在 masketextbox 控件中，可以使用 **Name 属性**设置表单上 masketextbox 的名称。您可以通过两种不同的方式设置此属性:
 
 **1。设计时:**设置掩码文本框的名称是最简单的方法，如下步骤所示:
 

@@ -1,4 +1,4 @@
-# 日期时间。在 C#中添加()方法
+# 日期时间。在 C# 中添加()方法
 
 > 原文:[https://www . geesforgeks . org/datetime-add-method-in-c-sharp/](https://www.geeksforgeeks.org/datetime-add-method-in-c-sharp/)
 

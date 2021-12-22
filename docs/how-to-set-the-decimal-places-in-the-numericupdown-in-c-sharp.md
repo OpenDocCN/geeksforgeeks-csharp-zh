@@ -1,4 +1,4 @@
-# 如何在 C#中设置 NumericUpDown 中的小数位数？
+# 如何在 C# 中设置 NumericUpDown 中的小数位数？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的小数位数/](https://www.geeksforgeeks.org/how-to-set-the-decimal-places-in-the-numericupdown-in-c-sharp/)
 

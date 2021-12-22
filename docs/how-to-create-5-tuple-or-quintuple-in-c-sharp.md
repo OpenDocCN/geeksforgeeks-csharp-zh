@@ -1,11 +1,11 @@
-# 如何在 C#中创建五元组或五元组？
+# 如何在 C# 中创建五元组或五元组？
 
 > 原文:[https://www . geeksforgeeks . org/如何创建 5 元组或五元组 in-c-sharp/](https://www.geeksforgeeks.org/how-to-create-5-tuple-or-quintuple-in-c-sharp/)
 
-在 C#中，5 元组是包含 5 个元素的[元组](https://www.geeksforgeeks.org/c-sharp-tuple/)，也称为**五元组**。您可以使用两种不同的方法创建一个 5 元组:
+在 C# 中，5 元组是包含 5 个元素的[元组](https://www.geeksforgeeks.org/c-sharp-tuple/)，也称为**五元组**。您可以使用两种不同的方法创建一个 5 元组:
 
-*   **[使用元组< T1、T2、T3、T4、T5 > (T1、T2、T3、T4、T5)构造器](#Using Tuple<T1,T2,T3,T4,T5>(T1, T2, T3, T4, T5) Constructor)**
-*   **[使用创建方法](#Using the Create method)**
+*   **[使用元组< T1、T2、T3、T4、T5 > (T1、T2、T3、T4、T5)构造器](# Using Tuple<T1,T2,T3,T4,T5>(T1, T2, T3, T4, T5) Constructor)**
+*   **[使用创建方法](# Using the Create method)**
 
 ### **使用元组< T1、T2、T3、T4、T5 > (T1、T2、T3、T4、T5)构造器**
 
@@ -130,4 +130,4 @@ Element 5: GeeksforGeeks
 ****参考:****
 
 *   **[https://docs.microsoft.com/en-us/dotnet/api/system.tuple-5.-克托？视图=netframework-4.8](https://docs.microsoft.com/en-us/dotnet/api/system.tuple-5.-ctor?view=netframework-4.8)**
-*   **[https://docs . Microsoft . com/en-us/dotnet/API/system . tuple . create？view = net framework-4.8 # System _ Tuple _ Create _ _ 5 _ _ 0 _ _ 1 _ _ 2 _ _ 3 _ _ 4 _](https://docs.microsoft.com/en-us/dotnet/api/system.tuple.create?view=netframework-4.8#System_Tuple_Create__5___0___1___2___3___4_)**
+*   **[https://docs . Microsoft . com/en-us/dotnet/API/system . tuple . create？view = net framework-4.8 # System _ Tuple _ Create _ _ 5 _ _ 0 _ _ 1 _ _ 2 _ _ 3 _ _ 4 _](https://docs.microsoft.com/en-us/dotnet/api/system.tuple.create?view=netframework-4.8# System_Tuple_Create__5___0___1___2___3___4_)**

@@ -299,4 +299,4 @@ Exception Thrown: System.ArgumentOutOfRangeException
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . convert . to base64 chararray？view = net framework-4 . 7 . 2 # System _ Convert _ to base64 chararray _ System _ Byte _ _ _ System _ int 32 _ System _ int 32 _ System _ Char _ _ _ System _ int 32 _](https://docs.microsoft.com/en-us/dotnet/api/system.convert.tobase64chararray?view=netframework-4.7.2#System_Convert_ToBase64CharArray_System_Byte___System_Int32_System_Int32_System_Char___System_Int32_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . convert . to base64 chararray？view = net framework-4 . 7 . 2 # System _ Convert _ to base64 chararray _ System _ Byte _ _ _ System _ int 32 _ System _ int 32 _ System _ Char _ _ _ System _ int 32 _](https://docs.microsoft.com/en-us/dotnet/api/system.convert.tobase64chararray?view=netframework-4.7.2# System_Convert_ToBase64CharArray_System_Byte___System_Int32_System_Int32_System_Char___System_Int32_)

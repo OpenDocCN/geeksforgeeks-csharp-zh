@@ -1,4 +1,4 @@
-# 如何在 C#中使用 CheckBox 的 AutoCheck 属性？
+# 如何在 C# 中使用 CheckBox 的 AutoCheck 属性？
 
 > 原文:[https://www . geeksforgeeks . org/如何使用-自动检查-c-sharp 中复选框的属性/](https://www.geeksforgeeks.org/how-to-use-autocheck-property-of-checkbox-in-c-sharp/)
 

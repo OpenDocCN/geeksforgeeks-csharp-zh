@@ -1,8 +1,8 @@
-# c#中的 SortedDictionary 类
+# c# 中的 SortedDictionary 类
 
 > 原文:[https://www . geeksforgeeks . org/sorted dictionary-class-in-c-sharp/](https://www.geeksforgeeks.org/sorteddictionary-class-in-c-sharp/)
 
-在 C#中，SortedDictionary <tkey>类用于表示键/值对的集合。这一对是排序的形式，排序是在键上完成的。该类在*系统下定义。集合.通用*命名空间。在 SortedDictionary 类中，键是不可变的，总是唯一的，并且不能为空。如果值类型是引用类型，则允许在值中使用 null。SortedDictionary 类为未排序的数据提供了最快的插入和移除操作。SortedDictionary 类的键/值对是通过使用 KeyValuePair 结构检索的。</tkey>
+在 C# 中，SortedDictionary <tkey>类用于表示键/值对的集合。这一对是排序的形式，排序是在键上完成的。该类在*系统下定义。集合.通用*命名空间。在 SortedDictionary 类中，键是不可变的，总是唯一的，并且不能为空。如果值类型是引用类型，则允许在值中使用 null。SortedDictionary 类为未排序的数据提供了最快的插入和移除操作。SortedDictionary 类的键/值对是通过使用 KeyValuePair 结构检索的。</tkey>
 
 #### 构造器
 

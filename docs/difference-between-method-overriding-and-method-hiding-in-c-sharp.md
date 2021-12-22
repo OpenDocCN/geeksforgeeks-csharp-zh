@@ -1,4 +1,4 @@
-# c#中方法覆盖和方法隐藏的区别
+# c# 中方法覆盖和方法隐藏的区别
 
 > 原文:[https://www . geeksforgeeks . org/方法覆盖和方法隐藏的区别-in-c-sharp/](https://www.geeksforgeeks.org/difference-between-method-overriding-and-method-hiding-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# 叠加。C#中的 Equals()方法
+# 叠加。C# 中的 Equals()方法
 
 > 原文:[https://www . geesforgeks . org/stack-equals-method-in-c-sharp/](https://www.geeksforgeeks.org/stack-equals-method-in-c-sharp/)
 

@@ -1,8 +1,8 @@
-# c#中的嵌套类
+# c# 中的嵌套类
 
 > 原文:[https://www.geeksforgeeks.org/nested-classes-in-c-sharp/](https://www.geeksforgeeks.org/nested-classes-in-c-sharp/)
 
-一个[类](https://www.geeksforgeeks.org/c-class-and-object/)是一个用户定义的蓝图或原型，从它可以创建对象。基本上，一个类将字段和方法(定义动作的成员函数)组合成一个单元。在 C#中，允许用户在另一个类中定义一个类。这类类被称为嵌套类。该特性使用户能够对仅在一个地方使用的类进行逻辑分组，从而增加了[封装](https://www.geeksforgeeks.org/c-encapsulation/)的使用，并创建了可读性和可维护性更强的代码。
+一个[类](https://www.geeksforgeeks.org/c-class-and-object/)是一个用户定义的蓝图或原型，从它可以创建对象。基本上，一个类将字段和方法(定义动作的成员函数)组合成一个单元。在 C# 中，允许用户在另一个类中定义一个类。这类类被称为嵌套类。该特性使用户能够对仅在一个地方使用的类进行逻辑分组，从而增加了[封装](https://www.geeksforgeeks.org/c-encapsulation/)的使用，并创建了可读性和可维护性更强的代码。
 
 **语法:**
 
@@ -273,7 +273,7 @@ public class GFG {
 
 *   嵌套类的范围由其封闭类的范围限定。
 *   默认情况下，嵌套类是私有的。
-*   在 C#中，允许用户将一个类(包括嵌套类)继承到另一个类中。
+*   在 C# 中，允许用户将一个类(包括嵌套类)继承到另一个类中。
     **例:**
 
 ## C#
@@ -330,4 +330,4 @@ Method of derived class
 Outer class method
 ```
 
-*   在 C#中，允许用户从外部类继承嵌套类。
+*   在 C# 中，允许用户从外部类继承嵌套类。

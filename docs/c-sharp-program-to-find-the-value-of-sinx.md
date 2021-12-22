@@ -1,4 +1,4 @@
-# 求 Sin(x)值的 C#程序
+# 求 Sin(x)值的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-find-value-of-sinx/](https://www.geeksforgeeks.org/c-sharp-program-to-find-the-value-of-sinx/)
 
@@ -18,11 +18,11 @@ sin θ = perpendicular / hypotenuse
 4.  sin 60 <sup>°</sup> = √3 / 2
 5.  罪过 90 = 1
 
-本文主要讨论如何用 C#计算角度的正弦值。
+本文主要讨论如何用 C# 计算角度的正弦值。
 
 ### 方法 1
 
-我们可以使用内置的 [sin()](https://www.geeksforgeeks.org/c-sharp-math-sin-method/#:~:text=Sin()%20is%20an%20inbuilt,value%20argument(specified%20angle).&text=Parameter%3A,of%20this%20parameter%20is%20System.&text=Return%20Value%3A%20Returns%20the%20sine%20of%20num%20of%20type%20System.) 方法来计算角度的正弦。此方法在数学类下定义，是系统命名空间的一部分。数学课非常有用，因为它提供了常数和一些三角函数、对数函数等静态方法。
+我们可以使用内置的 [sin()](https://www.geeksforgeeks.org/c-sharp-math-sin-method/# :~:text=Sin()%20is%20an%20inbuilt,value%20argument(specified%20angle).&text=Parameter%3A,of%20this%20parameter%20is%20System.&text=Return%20Value%3A%20Returns%20the%20sine%20of%20num%20of%20type%20System.) 方法来计算角度的正弦。此方法在数学类下定义，是系统命名空间的一部分。数学课非常有用，因为它提供了常数和一些三角函数、对数函数等静态方法。
 
 **语法:**
 

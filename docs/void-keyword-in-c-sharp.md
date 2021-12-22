@@ -1,8 +1,8 @@
-# 作废 C#中的关键字
+# 作废 C# 中的关键字
 
 > 原文:[https://www.geeksforgeeks.org/void-keyword-in-c-sharp/](https://www.geeksforgeeks.org/void-keyword-in-c-sharp/)
 
-**[关键词](https://www.geeksforgeeks.org/c-sharp-keywords/)** 是一种语言中用于某种内部过程或代表某种预定义动作的词语。 **void** 是一个关键字，是数据类型的引用类型，用于指定 C#中某个方法的返回类型。是**系统的别名。作废**。
+**[关键词](https://www.geeksforgeeks.org/c-sharp-keywords/)** 是一种语言中用于某种内部过程或代表某种预定义动作的词语。 **void** 是一个关键字，是数据类型的引用类型，用于指定 C# 中某个方法的返回类型。是**系统的别名。作废**。
 
 **语法:**
 
@@ -13,7 +13,7 @@ public void function_name([parameters])
 }
 ```
 
-*注意:*如果 C#方法中没有参数，void 不能作为参数。
+*注意:*如果 C# 方法中没有参数，void 不能作为参数。
 
 **示例:**
 

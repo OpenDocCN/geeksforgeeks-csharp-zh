@@ -1,4 +1,4 @@
-# 物体。参考 C#中的 quals()方法
+# 物体。参考 C# 中的 quals()方法
 
 > 原文:[https://www . geeksforgeeks . org/object-referencequals-method-in-c-sharp/](https://www.geeksforgeeks.org/object-referenceequals-method-in-c-sharp/)
 

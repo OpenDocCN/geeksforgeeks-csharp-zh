@@ -1,6 +1,6 @@
 # 乌利。用示例
 
-在 C#中返回属性
+在 C# 中返回属性
 
 > 原文:[https://www . geesforgeks . org/uri-isloop back-property-in-c-sharp-with-example/](https://www.geeksforgeeks.org/uri-isloopback-property-in-c-sharp-with-example/)
 

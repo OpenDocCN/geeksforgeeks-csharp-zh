@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/linq-如何找到给定序列的最小值/](https://www.geeksforgeeks.org/linq-how-to-find-minimum-value-of-the-given-sequence/)
 
-在 LINQ，你可以使用 **Min()函数**找到给定序列的最小元素。此方法提供给定值集中的最小元素。它不支持 C#中的查询语法，但在 VB.NET 支持。它在 C#的可枚举和可查询类中都可用。如果集合中存在的所有元素都为 null，则返回 null。它返回任何类型的数据类型，这意味着您也可以将 Min 用于自定义类型的集合(不包含数值)，但为此，您必须实现 IComparable 接口。它可以处理可空、不可空的十进制、双精度、浮点、int 等。价值观。
+在 LINQ，你可以使用 **Min()函数**找到给定序列的最小元素。此方法提供给定值集中的最小元素。它不支持 C# 中的查询语法，但在 VB.NET 支持。它在 C# 的可枚举和可查询类中都可用。如果集合中存在的所有元素都为 null，则返回 null。它返回任何类型的数据类型，这意味着您也可以将 Min 用于自定义类型的集合(不包含数值)，但为此，您必须实现 IComparable 接口。它可以处理可空、不可空的十进制、双精度、浮点、int 等。价值观。
 
 ![](img/329c9c48cea6eee8e34f3e9c82bc9f50.png)
 

@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-indexers-使用字符串作为索引/](https://www.geeksforgeeks.org/c-sharp-indexers-using-string-as-an-index/)
 
-**先决条件**:c#中[属性](https://www.geeksforgeeks.org/c-sharp-properties/)
+**先决条件**:c# 中[属性](https://www.geeksforgeeks.org/c-sharp-properties/)
 
 [索引器](https://www.geeksforgeeks.org/c-sharp-indexers/)允许类或结构的实例像数组一样被索引。通过使用索引器，类将表现得像一个虚拟数组。可以在不显式指定类型或实例成员的情况下设置或检索索引值。索引器类似于属性，只是它们的访问器接受参数。索引器几乎类似于 [*属性*](https://www.geeksforgeeks.org/c-sharp-properties/) 。索引器和属性的主要区别在于索引器的访问器将接受参数。
 
@@ -45,7 +45,7 @@ ic[1] = "12345";
 **在上面的语法中:**
 
 *   **access_modifier** :可以是公共的、私有的、受保护的，也可以是内部的。
-*   **return_type** :可以是任何有效的 C#类型。在这种情况下，它将是字符串类型。
+*   **return_type** :可以是任何有效的 C# 类型。在这种情况下，它将是字符串类型。
 *   **这个**:是指向当前类的对象的关键字。
 *   **参数 _ 列表**:指定索引器的参数列表。
 *   **获取{ }并设置{** **}** :这些是访问器。

@@ -1,4 +1,4 @@
-# 如何用 C#对 ListBox 中的元素进行排序？
+# 如何用 C# 对 ListBox 中的元素进行排序？
 
 > 原文:[https://www . geeksforgeeks . org/如何对 c-sharp 列表框中的元素进行排序/](https://www.geeksforgeeks.org/how-to-sort-elements-in-the-listbox-in-c-sharp/)
 

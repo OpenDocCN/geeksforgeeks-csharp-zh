@@ -1,6 +1,6 @@
 # 使用 LINQ
 
-根据工资对员工列表进行排序的 C#程序
+根据工资对员工列表进行排序的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-sort-a-list-employees-based-on-pay-use-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-sort-a-list-of-employees-based-on-salary-using-linq/)
 

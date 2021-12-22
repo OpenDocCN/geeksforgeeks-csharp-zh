@@ -1,4 +1,4 @@
-# 在 C#中找到指定范围的起始索引
+# 在 C# 中找到指定范围的起始索引
 
 > 原文:[https://www . geesforgeks . org/find-the-start-index-of-the-specified-in-c-sharp/](https://www.geeksforgeeks.org/finding-the-start-index-of-the-specified-range-in-c-sharp/)
 

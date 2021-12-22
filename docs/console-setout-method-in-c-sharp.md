@@ -1,8 +1,8 @@
-# 控制台。C#中的 SetOut()方法
+# 控制台。C# 中的 SetOut()方法
 
 > 原文:[https://www . geesforgeks . org/console-setout-method-in-c-sharp/](https://www.geeksforgeeks.org/console-setout-method-in-c-sharp/)
 
-***控制台。C#中的 SetOut(TextWriter)*** 方法用于重定向标准输出流。在这个方法的帮助下，用户可以指定一个 StreamWriter 作为输出对象。*控制台。SetOut* 方法将接收一个 TextWriter 类型的对象。流写入器可以传递到*控制台。设置*并隐式转换为文本编写器类型。它只是将标准输出流属性设置为它获取的指定 TextWriter 对象。
+***控制台。C# 中的 SetOut(TextWriter)*** 方法用于重定向标准输出流。在这个方法的帮助下，用户可以指定一个 StreamWriter 作为输出对象。*控制台。SetOut* 方法将接收一个 TextWriter 类型的对象。流写入器可以传递到*控制台。设置*并隐式转换为文本编写器类型。它只是将标准输出流属性设置为它获取的指定 TextWriter 对象。
 
 **语法:**
 

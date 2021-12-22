@@ -1,8 +1,8 @@
-# C#程序在同一个类中实现多个接口
+# C# 程序在同一个类中实现多个接口
 
 > 原文:[https://www . geesforgeks . org/c-sharp-程序到实现-多接口同类/](https://www.geeksforgeeks.org/c-sharp-program-to-implement-multiple-interfaces-in-the-same-class/)
 
-像类一样，[接口](https://www.geeksforgeeks.org/c-interface/) 可以有方法、属性、事件和索引器作为其成员。但是接口将只包含成员的声明。接口成员的实现将由隐式或显式实现接口的类给出。C#允许单个[类](https://www.geeksforgeeks.org/c-class-and-object/)一次可以实现多个接口，并且还可以在该接口中定义方法和变量。
+像类一样，[接口](https://www.geeksforgeeks.org/c-interface/) 可以有方法、属性、事件和索引器作为其成员。但是接口将只包含成员的声明。接口成员的实现将由隐式或显式实现接口的类给出。C# 允许单个[类](https://www.geeksforgeeks.org/c-class-and-object/)一次可以实现多个接口，并且还可以在该接口中定义方法和变量。
 
 **接近**
 

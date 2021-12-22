@@ -1,4 +1,4 @@
-# 日期时间。C#中的 GetDateTimeFormats()方法| Set–1
+# 日期时间。C# 中的 GetDateTimeFormats()方法| Set–1
 
 > 原文:[https://www . geesforgeks . org/datetime-getdatetime formats-method-in-c-sharp-set-1/](https://www.geeksforgeeks.org/datetime-getdatetimeformats-method-in-c-sharp-set-1/)
 

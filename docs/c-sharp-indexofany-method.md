@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-indexofany-method/](https://www.geeksforgeeks.org/c-sharp-indexofany-method/)
 
-在 C#中， ***IndexOfAny()*** 法是一种 [**串**](https://www.geeksforgeeks.org/c-string/) 法。它用于搜索字符串中出现的指定字符索引，这将是从开始索引开始的第一次出现。它以整数值形式返回索引。通过更改传递给该方法的参数数量，可以重载该方法。
+在 C# 中， ***IndexOfAny()*** 法是一种 [**串**](https://www.geeksforgeeks.org/c-string/) 法。它用于搜索字符串中出现的指定字符索引，这将是从开始索引开始的第一次出现。它以整数值形式返回索引。通过更改传递给该方法的参数数量，可以重载该方法。
 
 *   任何方法的索引(字符[])
 *   任何方法的索引(Char[]，Int32)

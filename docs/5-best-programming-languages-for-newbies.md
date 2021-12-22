@@ -29,6 +29,6 @@ Ruby 也是最容易使用的语言之一，它的语法就像正常的英语语
 Java 是最广泛使用的编程语言之一，但坦率地说，它不是孩子们最喜欢的编程语言，也不适合中级程序员。Java 比 Python 或 Ruby 难一点，但是对制作安卓应用程序或游戏引擎感兴趣并希望深入了解编码的孩子可以学习这种语言。
 有一款在 java 上运行的热门游戏[《我的世界》](https://www.minecraft.net/en-us/what-is-minecraft/)吸引了孩子们学习这门语言。在玩这个游戏时，学生了解 java 原理，他们学习如何使用逻辑和解决问题。Java 有静态类型的语言，所以你需要用这种语言为所有东西编写代码，这需要孩子有很大的耐心，所以为你的孩子明智地选择这种语言。
 
-### 5. [C#](https://www.geeksforgeeks.org/csharp-programming-language/)
+### 5. [C# ](https://www.geeksforgeeks.org/csharp-programming-language/)
 
-如果您的孩子对制作 3D 游戏(如 Unity)或 windows 应用程序感兴趣，那么这种语言是最好的开始。C#是公司里工作需求最大的语言之一，它的语法类似于 Java，所以如果你使用过其中一种语言，学习它会变得更容易。C#拥有丰富的类库，强大的内存备份，自动垃圾回收，还支持从[开始。NET](https://www.geeksforgeeks.org/introduction-to-net-framework/) 。如果开发人员想要创建 windows 桌面应用程序，C#是最佳选择。
+如果您的孩子对制作 3D 游戏(如 Unity)或 windows 应用程序感兴趣，那么这种语言是最好的开始。C# 是公司里工作需求最大的语言之一，它的语法类似于 Java，所以如果你使用过其中一种语言，学习它会变得更容易。C# 拥有丰富的类库，强大的内存备份，自动垃圾回收，还支持从[开始。NET](https://www.geeksforgeeks.org/introduction-to-net-framework/) 。如果开发人员想要创建 windows 桌面应用程序，C# 是最佳选择。

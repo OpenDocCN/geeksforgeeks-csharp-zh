@@ -1,8 +1,8 @@
-# 在 C#中暂停当前线程指定的时间量
+# 在 C# 中暂停当前线程指定的时间量
 
 > 原文:[https://www . geeksforgeeks . org/暂停当前线程指定的 c-sharp 时间量/](https://www.geeksforgeeks.org/suspending-the-current-thread-for-the-specified-amount-of-time-in-c-sharp/)
 
-在 C#中，一个 **Sleep()** 方法将线程的当前执行暂时挂起指定的毫秒数，这样其他线程就可以得到开始执行的机会，或者可能得到 CPU 执行。`Thread.Sleep`方法重载列表中有两种方法，如下:
+在 C# 中，一个 **Sleep()** 方法将线程的当前执行暂时挂起指定的毫秒数，这样其他线程就可以得到开始执行的机会，或者可能得到 CPU 执行。`Thread.Sleep`方法重载列表中有两种方法，如下:
 
 *   **睡眠(Int32)**
 *   **睡眠(时间跨度)**

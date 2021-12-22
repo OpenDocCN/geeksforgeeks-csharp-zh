@@ -1,4 +1,4 @@
-# 跨度<t>。C#中的枚举器结构</t>
+# 跨度<t>。C# 中的枚举器结构</t>
 
 > 原文:[https://www . geesforgeks . org/span-enumerator-struct-in-c-sharp/](https://www.geeksforgeeks.org/span-enumerator-struct-in-c-sharp/)
 

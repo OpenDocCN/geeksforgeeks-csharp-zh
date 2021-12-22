@@ -1,4 +1,4 @@
-# 如何在 C#中设置 DateTimePicker 的名称？
+# 如何在 C# 中设置 DateTimePicker 的名称？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的日期时间选择器名称/](https://www.geeksforgeeks.org/how-to-set-the-name-of-the-datetimepicker-in-c-sharp/)
 

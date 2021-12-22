@@ -1,4 +1,4 @@
-# c#中 Int32 和 UInt32 的区别
+# c# 中 Int32 和 UInt32 的区别
 
 > 原文:[https://www . geeksforgeeks . org/in-int 32 和-uint32-in-c-sharp 之间的差异/](https://www.geeksforgeeks.org/difference-between-int32-and-uint32-in-c-sharp/)
 
@@ -106,7 +106,7 @@ Maximum value of UInt32: 4294967295
 
 ```
 
-**c#中 Int32 和 UInt32 的区别**
+**c# 中 Int32 和 UInt32 的区别**
 
 <figure class="table">
 

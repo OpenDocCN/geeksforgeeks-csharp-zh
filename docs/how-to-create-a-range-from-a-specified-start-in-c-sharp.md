@@ -1,4 +1,4 @@
-# 如何在 C#中从指定的起点创建范围？
+# 如何在 C# 中从指定的起点创建范围？
 
 > 原文:[https://www . geeksforgeeks . org/如何从 c-sharp 中指定的起始位置创建范围/](https://www.geeksforgeeks.org/how-to-create-a-range-from-a-specified-start-in-c-sharp/)
 

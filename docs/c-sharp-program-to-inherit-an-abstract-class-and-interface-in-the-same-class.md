@@ -1,4 +1,4 @@
-# C#程序继承同一个类中的抽象类和接口
+# C# 程序继承同一个类中的抽象类和接口
 
 > 原文:[https://www . geesforgeks . org/c-sharp-程序继承抽象类和同类接口/](https://www.geeksforgeeks.org/c-sharp-program-to-inherit-an-abstract-class-and-interface-in-the-same-class/)
 

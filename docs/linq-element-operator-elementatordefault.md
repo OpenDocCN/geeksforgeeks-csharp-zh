@@ -19,8 +19,8 @@ LINQ 标准查询运算符支持 **8 种类型的**元素运算符:
 
 *ElementAtOrDefault* 运算符用于从给定集合或序列的特定索引中返回一个元素，如果索引超出范围，它将提供一个默认值。它克服了*元素在*操作符上的*argumentout of range exception*问题。
 
-*   它不支持 C#和 VB.Net 语言中的查询语法。
-*   它支持 C#和 VB.Net 语言中方法语法。
+*   它不支持 C# 和 VB.Net 语言中的查询语法。
+*   它支持 C# 和 VB.Net 语言中方法语法。
 *   它同时出现在可查询类和可枚举类中。
 *   当索引超出范围时，它不会引发 ArgumentOutOfRangeException。
 *   引用类型和可空类型的默认值为 null。

@@ -1,8 +1,8 @@
-# 用 C#中的异或运算符进行号码交换的程序
+# 用 C# 中的异或运算符进行号码交换的程序
 
 > 原文:[https://www . geesforgeks . org/program-to-swap-numbers-use-xor-operator-in-c-sharp/](https://www.geeksforgeeks.org/program-to-swap-numbers-using-xor-operator-in-c-sharp/)
 
-C#程序使用按位异或运算交换两个数字。给定两个变量，x 和 y，用异或语句交换两个变量。
+C# 程序使用按位异或运算交换两个数字。给定两个变量，x 和 y，用异或语句交换两个变量。
 
 **示例:**
 

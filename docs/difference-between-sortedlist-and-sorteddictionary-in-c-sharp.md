@@ -1,8 +1,8 @@
-# c#中 SortedList 和 SortedDictionary 的区别
+# c# 中 SortedList 和 SortedDictionary 的区别
 
 > 原文:[https://www . geeksforgeeks . org/sorted list-and-sorted dictionary-in-c-sharp/](https://www.geeksforgeeks.org/difference-between-sortedlist-and-sorteddictionary-in-c-sharp/)之间的差异
 
-在 C#中， **[排序列表](https://www.geeksforgeeks.org/c-sharp-sortedlist-with-examples/)** 是根据键排序的键/值对的集合。默认情况下，此集合按升序对键/值对进行排序。它是泛型和非泛型集合类型。通用排序列表在*系统中定义。集合。通用*命名空间，而非通用排序列表在*系统下定义。集合*命名空间。
+在 C# 中， **[排序列表](https://www.geeksforgeeks.org/c-sharp-sortedlist-with-examples/)** 是根据键排序的键/值对的集合。默认情况下，此集合按升序对键/值对进行排序。它是泛型和非泛型集合类型。通用排序列表在*系统中定义。集合。通用*命名空间，而非通用排序列表在*系统下定义。集合*命名空间。
 
 **例:**
 
@@ -49,7 +49,7 @@ class GFG {
 
 ```
 
-在 C#中， **[SortedDictionary](https://www.geeksforgeeks.org/sorteddictionary-implementation-in-c-sharp/)** 是一个泛型集合，用于以排序后的形式存储键/值对，并对键进行排序。分类字典在*系统下定义。集合.泛型*命名空间。它本质上是动态的，意味着排序后的字典的大小会根据需要而增长。
+在 C# 中， **[SortedDictionary](https://www.geeksforgeeks.org/sorteddictionary-implementation-in-c-sharp/)** 是一个泛型集合，用于以排序后的形式存储键/值对，并对键进行排序。分类字典在*系统下定义。集合.泛型*命名空间。它本质上是动态的，意味着排序后的字典的大小会根据需要而增长。
 
 **示例:**
 

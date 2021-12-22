@@ -2,9 +2,9 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-version-history/](https://www.geeksforgeeks.org/c-sharp-version-history/)
 
-C#是一种通用、现代和面向对象的编程语言，发音为“C Sharp”。它是由安德斯·海尔斯伯格和他的团队领导的微软在*内开发的。NET* 倡议并获得了欧洲计算机制造商协会(ECMA)和国际标准组织(ISO)的批准。C#的当前版本是 *C# 7.3* 。
+C# 是一种通用、现代和面向对象的编程语言，发音为“C Sharp”。它是由安德斯·海尔斯伯格和他的团队领导的微软在*内开发的。NET* 倡议并获得了欧洲计算机制造商协会(ECMA)和国际标准组织(ISO)的批准。C# 的当前版本是 *C# 7.3* 。
 
-*下表显示了 C#各个版本中引入的一些重要特性:*
+*下表显示了 C# 各个版本中引入的一些重要特性:*
 
 <figure class="table">
 
@@ -146,5 +146,5 @@ C#是一种通用、现代和面向对象的编程语言，发音为“C Sharp�
 
 **参考文献:**
 
-*   [https://en . Wikipedia . org/wiki/C _ Sharp _(编程 _ 语言)#版本](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#Versions)
+*   [https://en . Wikipedia . org/wiki/C _ Sharp _(编程 _ 语言)# 版本](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)# Versions)
 *   [https://docs . Microsoft . com/en-us/dotnet/cs harp/what-new/cs harp-version-history](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history)

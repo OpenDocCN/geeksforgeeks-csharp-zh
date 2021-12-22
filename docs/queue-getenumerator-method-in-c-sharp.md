@@ -1,4 +1,4 @@
-# 排队。C#中的 GetEnumerator 方法
+# 排队。C# 中的 GetEnumerator 方法
 
 > 原文:[https://www . geesforgeks . org/queue-get enumerator-method-in-c-sharp/](https://www.geeksforgeeks.org/queue-getenumerator-method-in-c-sharp/)
 

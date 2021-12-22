@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-break-statement/](https://www.geeksforgeeks.org/c-break-statement/)
 
-在 C#中，break 语句用于终止循环(for、if、while 等)。)或某个条件下的开关语句。A 在终止控制后，控制将传递给中断语句后出现的语句(如果可用)。如果 break 语句存在于嵌套循环中，那么它将只终止那些包含break 语句的循环。
+在 C# 中，break 语句用于终止循环(for、if、while 等)。)或某个条件下的开关语句。A 在终止控制后，控制将传递给中断语句后出现的语句(如果可用)。如果 break 语句存在于嵌套循环中，那么它将只终止那些包含break 语句的循环。
 
 **语法:**
 

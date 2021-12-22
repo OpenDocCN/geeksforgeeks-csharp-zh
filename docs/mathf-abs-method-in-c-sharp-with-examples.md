@@ -1,4 +1,4 @@
-# MathF。C#中的 Abs()方法，示例
+# MathF。C# 中的 Abs()方法，示例
 
 > 原文:[https://www . geesforgeks . org/mathf-ABS-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-abs-method-in-c-sharp-with-examples/)
 

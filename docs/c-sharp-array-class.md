@@ -101,7 +101,7 @@ class GFG {
                               "Exception, ", "Operators"};
 
         // Displaying Elements of the array
-        Console.WriteLine("Topic of C#:");
+        Console.WriteLine("Topic of C# :");
         Console.WriteLine();
 
         // Here we calculate and print
@@ -118,7 +118,7 @@ class GFG {
 **Output:** 
 
 ```cs
-Topic of C#:
+Topic of C# :
 
 Length of the array: 6
 Array,  
@@ -154,7 +154,7 @@ class GFG {
                               "Exception, ", "Operators" };
 
         // Displaying Elements of array
-        Console.WriteLine("Topic of C#:");
+        Console.WriteLine("Topic of C# :");
         Console.WriteLine();
 
         // Rank property provides the dimension rank
@@ -172,7 +172,7 @@ class GFG {
 **Output:** 
 
 ```cs
-Topic of C#:
+Topic of C# :
 
 Rank of the array: 1
 Array,  

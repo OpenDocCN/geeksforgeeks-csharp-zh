@@ -1,4 +1,4 @@
-# 如何在 C#中设置 CheckBox 中的文本？
+# 如何在 C# 中设置 CheckBox 中的文本？
 
 > 原文:[https://www . geesforgeks . org/如何设置 c-sharp 中的复选框文本/](https://www.geeksforgeeks.org/how-to-set-text-in-the-checkbox-in-c-sharp/)
 

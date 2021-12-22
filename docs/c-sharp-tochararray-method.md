@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-tochararray-method/](https://www.geeksforgeeks.org/c-sharp-tochararray-method/)
 
-在 C#中 ***ToCharArray()*** 是一个字符串方法。此方法用于将当前实例中的*指定字符串*的字符复制到 Unicode 字符数组，或将当前实例中的*指定子字符串*的字符复制到 Unicode 字符数组。通过更改传递给该方法的参数数量，可以重载该方法。
+在 C# 中 ***ToCharArray()*** 是一个字符串方法。此方法用于将当前实例中的*指定字符串*的字符复制到 Unicode 字符数组，或将当前实例中的*指定子字符串*的字符复制到 Unicode 字符数组。通过更改传递给该方法的参数数量，可以重载该方法。
 
 **语法:**
 

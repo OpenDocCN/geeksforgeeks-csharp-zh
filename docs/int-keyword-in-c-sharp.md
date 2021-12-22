@@ -1,4 +1,4 @@
-# c#中的 int 关键字
+# c# 中的 int 关键字
 
 > 原文:[https://www.geeksforgeeks.org/int-keyword-in-c-sharp/](https://www.geeksforgeeks.org/int-keyword-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# c#中 Is vs As 运算符关键字
+# c# 中 Is vs As 运算符关键字
 
 > 原文:[https://www . geesforgeks . org/is-vs-as-operator-关键字 in-c-sharp/](https://www.geeksforgeeks.org/is-vs-as-operator-keyword-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# 如何在 C#的 ComboBox 中设置下拉列表的样式？
+# 如何在 C# 的 ComboBox 中设置下拉列表的样式？
 
 > 原文:[https://www . geesforgeks . org/how-to-style-the-下拉列表-in-combobox-in-c-sharp/](https://www.geeksforgeeks.org/how-to-style-the-drop-down-list-in-combobox-in-c-sharp/)
 

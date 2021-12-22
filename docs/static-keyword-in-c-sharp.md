@@ -1,8 +1,8 @@
-# c#中的静态关键字
+# c# 中的静态关键字
 
 > 原文:[https://www.geeksforgeeks.org/static-keyword-in-c-sharp/](https://www.geeksforgeeks.org/static-keyword-in-c-sharp/)
 
-**static** 是 C#中的修饰符，适用于以下情况:
+**static** 是 C# 中的修饰符，适用于以下情况:
 
 *   [级](https://www.geeksforgeeks.org/c-sharp-class-and-object/)
 *   [variable](https://www.geeksforgeeks.org/c-sharp-variables/)

@@ -1,4 +1,4 @@
-# 文件。C#中的 writellines(String，IEnumerable <string>)方法，示例</string>
+# 文件。C# 中的 writellines(String，IEnumerable <string>)方法，示例</string>
 
 > 原文:[https://www . geesforgeks . org/file-writellinestring-ienumerablesting-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-writealllinesstring-ienumerablestring-method-in-c-sharp-with-examples/)
 

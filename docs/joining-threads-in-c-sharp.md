@@ -1,8 +1,8 @@
-# 在 C#中连接线程
+# 在 C# 中连接线程
 
 > 原文:[https://www.geeksforgeeks.org/joining-threads-in-c-sharp/](https://www.geeksforgeeks.org/joining-threads-in-c-sharp/)
 
-在 C#中，Thread 类提供了 **Join()** 方法，该方法允许一个线程等待另一个线程完成其执行。如果 *t* 是其线程当前正在执行的线程对象，则 *t.Join()* 会导致当前线程暂停其执行，直到其加入的线程完成其执行。
+在 C# 中，Thread 类提供了 **Join()** 方法，该方法允许一个线程等待另一个线程完成其执行。如果 *t* 是其线程当前正在执行的线程对象，则 *t.Join()* 会导致当前线程暂停其执行，直到其加入的线程完成其执行。
 如果有多个线程调用 join()方法，这意味着 Join 上的重载允许程序员指定等待时间。但是，与睡眠一样，join 依赖于操作系统的计时，因此您不应该假设 Join 会等待您指定的时间。
 
 `Thread.Join()`方法重载列表中有 ***三个*** 方法如下:

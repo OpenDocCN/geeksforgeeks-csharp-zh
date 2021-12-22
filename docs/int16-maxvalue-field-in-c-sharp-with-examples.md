@@ -1,4 +1,4 @@
-# Int16。C#中的最大值字段，示例
+# Int16。C# 中的最大值字段，示例
 
 > 原文:[https://www . geesforgeks . org/int 16-maxvalue-field-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/int16-maxvalue-field-in-c-sharp-with-examples/)
 

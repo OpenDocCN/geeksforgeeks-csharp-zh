@@ -1,4 +1,4 @@
-# 排队。是 C#中的同步属性
+# 排队。是 C# 中的同步属性
 
 > 原文:[https://www . geesforgeks . org/queue-is synchronized-property-in-c-sharp/](https://www.geeksforgeeks.org/queue-issynchronized-property-in-c-sharp/)
 

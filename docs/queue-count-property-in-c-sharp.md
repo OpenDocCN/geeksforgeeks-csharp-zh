@@ -1,4 +1,4 @@
-# 排队。C#中的计数属性
+# 排队。C# 中的计数属性
 
 > 原文:[https://www . geesforgeks . org/queue-count-property-in-c-sharp/](https://www.geeksforgeeks.org/queue-count-property-in-c-sharp/)
 

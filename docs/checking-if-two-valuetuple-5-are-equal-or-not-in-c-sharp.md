@@ -1,12 +1,12 @@
-# 检查两个值元组<t1>在 C#中是否相等</t1>
+# 检查两个值元组<t1>在 C# 中是否相等</t1>
 
 > 原文:[https://www . geesforgeks . org/checking-two-value tuple-5-in-c-sharp 是否相等/](https://www.geeksforgeeks.org/checking-if-two-valuetuple-5-are-equal-or-not-in-c-sharp/)
 
 [ValueTuple](https://www.geeksforgeeks.org/valuetuple-in-c-sharp/) 是 C# 7.0 中引入的一个结构，代表值类型 Tuple。它已经包含在中。. NET Framework 4.7 或更高版本。它允许您存储包含多个值的数据集，这些值可能彼此相关，也可能彼此不相关。
 在[值元组< T1、T2、T3、T4、T5 >](https://www.geeksforgeeks.org/c-sharp-valuetuple-5-struct/) 中，可以使用 Equals 方法检查两个值元组是否相同。或者换句话说，我们可以说这个方法将返回一个值，该值指示给定的 ValueTuple < T1、T2、T3、T4、T5 >实例是否等于指定的对象。如果给定值元组相等，它将返回 true，否则返回 false。该方法可以通过两种不同的方式重载:
 
-1.  **[等于(ValueTuple < T1、T2、T3、T4、T5 >)法](#Equals(ValueTuple<T1, T2, T3, T4, T5>) Method)**
-2.  **[等于(对象)法](#Equals(Object) Method)**
+1.  **[等于(ValueTuple < T1、T2、T3、T4、T5 >)法](# Equals(ValueTuple<T1, T2, T3, T4, T5>) Method)**
+2.  **[等于(对象)法](# Equals(Object) Method)**
 
 ### 1.等于(值元组< T1，T2，T3，T4，T5 >)法
 

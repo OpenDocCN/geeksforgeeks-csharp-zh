@@ -1,4 +1,4 @@
-# C#程序检查字符串是否相互旋转
+# C# 程序检查字符串是否相互旋转
 
 > 原文:[https://www . geeksforgeeks . org/cs harp-program-to-check-string-if-rotations-other-or-not/](https://www.geeksforgeeks.org/csharp-program-to-check-if-strings-are-rotations-of-each-other-or-not/)
 

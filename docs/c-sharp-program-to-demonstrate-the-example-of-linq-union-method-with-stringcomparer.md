@@ -1,4 +1,4 @@
-# 用 StringComparer 演示 LINQ 联合()方法示例的 C#程序
+# 用 StringComparer 演示 LINQ 联合()方法示例的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-演示-linq-union-method-with-string comparer/](https://www.geeksforgeeks.org/c-sharp-program-to-demonstrate-the-example-of-linq-union-method-with-stringcomparer/)
 

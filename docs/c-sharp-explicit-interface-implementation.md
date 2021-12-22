@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-explicit-interface-implementation/](https://www.geeksforgeeks.org/c-sharp-explicit-interface-implementation/)
 
-一个 [**界面**](https://www.geeksforgeeks.org/c-sharp-interface/) 是一个松散绑定的项目的集合，这些项目具有共同的功能或属性。接口包含方法签名、属性、事件等。使用接口是为了让一个类或结构可以实现多个行为。C#不支持 [**多重继承**](https://www.geeksforgeeks.org/c-sharp-multiple-inheritance-using-interfaces/) 的概念，因为它会引起歧义。但是很多现实生活中的对象继承的属性不仅仅是一种类型，因此使用接口来代替扩展类。
+一个 [**界面**](https://www.geeksforgeeks.org/c-sharp-interface/) 是一个松散绑定的项目的集合，这些项目具有共同的功能或属性。接口包含方法签名、属性、事件等。使用接口是为了让一个类或结构可以实现多个行为。C# 不支持 [**多重继承**](https://www.geeksforgeeks.org/c-sharp-multiple-inheritance-using-interfaces/) 的概念，因为它会引起歧义。但是很多现实生活中的对象继承的属性不仅仅是一种类型，因此使用接口来代替扩展类。
 
 接口只由签名组成，而不是它的实现，因此，实现它的任何类或结构都必须通过重写来提供实现。
 

@@ -1,4 +1,4 @@
-# MathF。C#中的 Sinh()方法，带示例
+# MathF。C# 中的 Sinh()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/mathf-sinh-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-sinh-method-in-c-sharp-with-examples/)
 

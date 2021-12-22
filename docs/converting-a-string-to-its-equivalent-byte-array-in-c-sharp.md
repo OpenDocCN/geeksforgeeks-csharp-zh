@@ -1,8 +1,8 @@
-# 在 C#中将字符串转换为其等效字节数组
+# 在 C# 中将字符串转换为其等效字节数组
 
 > 原文:[https://www . geeksforgeeks . org/将字符串转换为其等效的 c-sharp 字节数组/](https://www.geeksforgeeks.org/converting-a-string-to-its-equivalent-byte-array-in-c-sharp/)
 
-给定一个[字符串](https://www.geeksforgeeks.org/c-sharp-string/)，任务是将这个字符串转换成 C#中的字节数组。
+给定一个[字符串](https://www.geeksforgeeks.org/c-sharp-string/)，任务是将这个字符串转换成 C# 中的字节数组。
 
 **示例:**
 

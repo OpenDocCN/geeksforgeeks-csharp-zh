@@ -1,4 +1,4 @@
-# 如何在 C#中设置按钮的名称？
+# 如何在 C# 中设置按钮的名称？
 
 > 原文:[https://www . geesforgeks . org/如何设置 c-sharp 中按钮的名称/](https://www.geeksforgeeks.org/how-to-set-the-name-of-the-button-in-c-sharp/)
 

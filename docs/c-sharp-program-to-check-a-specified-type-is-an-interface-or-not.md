@@ -1,4 +1,4 @@
-# 检查指定类型的 C#程序是否是接口
+# 检查指定类型的 C# 程序是否是接口
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-check-a-specified-type-is-a-interface-or-not/](https://www.geeksforgeeks.org/c-sharp-program-to-check-a-specified-type-is-an-interface-or-not/)
 

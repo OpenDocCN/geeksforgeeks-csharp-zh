@@ -1,4 +1,4 @@
-# 控制台。C#中的 SetCursorPosition()方法
+# 控制台。C# 中的 SetCursorPosition()方法
 
 > 原文:[https://www . geesforgeks . org/console-setcursorposition-method-in-c-sharp/](https://www.geeksforgeeks.org/console-setcursorposition-method-in-c-sharp/)
 

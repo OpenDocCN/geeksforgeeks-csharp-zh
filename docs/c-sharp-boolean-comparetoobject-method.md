@@ -130,4 +130,4 @@ Exception Thrown: System.ArgumentException
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . boolean . compare to？视图=网络框架-4.8 #系统 _ 布尔 _ 比较 _ 系统 _ 对象 _](https://docs.microsoft.com/en-us/dotnet/api/system.boolean.compareto?view=netframework-4.8#System_Boolean_CompareTo_System_Object_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . boolean . compare to？视图=网络框架-4.8 # 系统 _ 布尔 _ 比较 _ 系统 _ 对象 _](https://docs.microsoft.com/en-us/dotnet/api/system.boolean.compareto?view=netframework-4.8# System_Boolean_CompareTo_System_Object_)

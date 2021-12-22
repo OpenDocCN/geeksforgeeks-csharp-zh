@@ -224,4 +224,4 @@ class GFG {
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . ArrayList . copy to？view = net framework-4 . 7 . 2 # System _ Collections _ ArrayList _ copy to _ System _ Array _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.arraylist.copyto?view=netframework-4.7.2#System_Collections_ArrayList_CopyTo_System_Array_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . collections . ArrayList . copy to？view = net framework-4 . 7 . 2 # System _ Collections _ ArrayList _ copy to _ System _ Array _](https://docs.microsoft.com/en-us/dotnet/api/system.collections.arraylist.copyto?view=netframework-4.7.2# System_Collections_ArrayList_CopyTo_System_Array_)

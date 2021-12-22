@@ -1,8 +1,8 @@
-# 使用 GetExecutingAssembly()方法打印当前程序集名称的 C#程序
+# 使用 GetExecutingAssembly()方法打印当前程序集名称的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-print-current-assembly-name-use-getexecutingassembly-method/](https://www.geeksforgeeks.org/c-sharp-program-to-print-the-current-assembly-name-using-getexecutingassembly-method/)
 
-在 C#中，GetExecutingAssembly()方法是 Assembly 类的方法。此方法返回包含当前正在执行的代码的程序集。要使用这种方法，我们必须使用系统。我们计划中的反思。
+在 C# 中，GetExecutingAssembly()方法是 Assembly 类的方法。此方法返回包含当前正在执行的代码的程序集。要使用这种方法，我们必须使用系统。我们计划中的反思。
 
 **语法**:
 

@@ -1,4 +1,4 @@
-# C#程序使用递归寻找整数的二进制等价形式
+# C# 程序使用递归寻找整数的二进制等价形式
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-find-整数的二进制等价使用递归/](https://www.geeksforgeeks.org/c-sharp-program-to-find-binary-equivalent-of-an-integer-using-recursion/)
 

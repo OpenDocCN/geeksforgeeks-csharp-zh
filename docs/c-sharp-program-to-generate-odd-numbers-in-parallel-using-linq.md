@@ -1,4 +1,4 @@
-# 使用 LINQ 并行生成奇数的 C#程序
+# 使用 LINQ 并行生成奇数的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-generate-奇数-in-parallel-use-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-generate-odd-numbers-in-parallel-using-linq/)
 

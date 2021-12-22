@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-math-divrem-method/](https://www.geeksforgeeks.org/c-sharp-math-divrem-method/)
 
-在 C#中 ***数学。*div rem()**是一个数学类方法，它将两个数字相除并返回余数。通过使用除法运算符，我们不能在单独的变量中得到余数，但是使用 *DivRem()* 方法，我们可以得到两者。
+在 C# 中 ***数学。*div rem()**是一个数学类方法，它将两个数字相除并返回余数。通过使用除法运算符，我们不能在单独的变量中得到余数，但是使用 *DivRem()* 方法，我们可以得到两者。
 这个方法可以通过传递不同类型和数量的参数来重载。
 
 1.  **数学。DivRem(Int32，Int32，Int32)**

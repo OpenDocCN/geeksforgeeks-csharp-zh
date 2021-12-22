@@ -1,4 +1,4 @@
-# 使用 LINQ 打印工资高于所有员工平均工资的员工的 C#程序
+# 使用 LINQ 打印工资高于所有员工平均工资的员工的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-print-工资高于所有员工平均工资的员工-使用-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-print-employees-whose-salary-is-greater-than-average-of-all-employees-salaries-using-linq/)
 

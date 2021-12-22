@@ -1,8 +1,8 @@
-# 翻倍。C#中的 IsNegativeInfinity()方法
+# 翻倍。C# 中的 IsNegativeInfinity()方法
 
 > 原文:[https://www . geesforgeks . org/double-is negative infinity-method-in-c-sharp/](https://www.geeksforgeeks.org/double-isnegativeinfinity-method-in-c-sharp/)
 
-在 C#中 ***加倍。**是一个双重结构方法。此方法用于检查指定值是否计算为负无穷大。在某些浮点运算中，有可能获得负无穷大的结果。*例如:*如果任何负值被零除，就会产生负无穷大。*
+在 C# 中 ***加倍。**是一个双重结构方法。此方法用于检查指定值是否计算为负无穷大。在某些浮点运算中，有可能获得负无穷大的结果。*例如:*如果任何负值被零除，就会产生负无穷大。*
 
 > **语法:**公共静态 bool isnegative infinity(double d)；
 > **参数:**

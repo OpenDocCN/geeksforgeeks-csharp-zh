@@ -1,4 +1,4 @@
-# StringBuilder。C#中的字符[]属性
+# StringBuilder。C# 中的字符[]属性
 
 > 原文:[https://www . geeksforgeeks . org/stringbuilder-chars-property-in-c-sharp/](https://www.geeksforgeeks.org/stringbuilder-chars-property-in-c-sharp/)
 

@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-textbox-controls/](https://www.geeksforgeeks.org/c-sharp-textbox-controls/)
 
-在 Windows 窗体中，文本框扮演着重要的角色。在文本框的帮助下，用户可以在应用程序中输入数据，可以是单行的，也可以是多行的。文本框是一个类，在*系统下定义。Windows.Forms* 命名空间。在 C#中，可以用两种不同的方式创建文本框:
+在 Windows 窗体中，文本框扮演着重要的角色。在文本框的帮助下，用户可以在应用程序中输入数据，可以是单行的，也可以是多行的。文本框是一个类，在*系统下定义。Windows.Forms* 命名空间。在 C# 中，可以用两种不同的方式创建文本框:
 
 **1。设计时:**创建文本框的最简单方法如下所示:
 

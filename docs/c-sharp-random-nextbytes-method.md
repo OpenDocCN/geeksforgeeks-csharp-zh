@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-random-next bytes-method/](https://www.geeksforgeeks.org/c-sharp-random-nextbytes-method/)
 
-**系统的 **NextBytes(Byte[])** 方法。C#中的 Random** 类用于用随机数填充指定字节数组的元素。此方法将字节数组作为参数，并用随机数填充它。
+**系统的 **NextBytes(Byte[])** 方法。C# 中的 Random** 类用于用随机数填充指定字节数组的元素。此方法将字节数组作为参数，并用随机数填充它。
 
 **语法:**
 

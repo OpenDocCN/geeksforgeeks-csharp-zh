@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-toupper-method/](https://www.geeksforgeeks.org/c-sharp-toupper-method/)
 
-在 **[中 c#](https://www.geeksforgeeks.org/introduction-to-c-sharp/)*****ToUpper()***是一个串法。它将每个字符都转换成大写(如果有大写版本的话)。如果一个字符没有等同的大写字母，它将保持不变。例如，特殊符号保持不变。这个方法可以通过传递不同类型的参数来重载。
+在 **[中 c# ](https://www.geeksforgeeks.org/introduction-to-c-sharp/)*****ToUpper()***是一个串法。它将每个字符都转换成大写(如果有大写版本的话)。如果一个字符没有等同的大写字母，它将保持不变。例如，特殊符号保持不变。这个方法可以通过传递不同类型的参数来重载。
 
 *   **字符串。ToUpper()方法***   **String.ToUpper(CultureInfo) Method
 

@@ -2,9 +2,9 @@
 
 > 原文:[https://www . geesforgeks . org/introduction-to-net-framework/](https://www.geeksforgeeks.org/introduction-to-net-framework/)
 
-**。NET** 是微软设计开发的软件框架。的第一个版本。Net 框架是 2002 年出现的 1.0。简单来说，就是一个虚拟机，用来编译执行像[c#](https://www.geeksforgeeks.org/introduction-to-c/)VB.Net 等不同语言编写的程序。
+**。NET** 是微软设计开发的软件框架。的第一个版本。Net 框架是 2002 年出现的 1.0。简单来说，就是一个虚拟机，用来编译执行像[c# ](https://www.geeksforgeeks.org/introduction-to-c/)VB.Net 等不同语言编写的程序。
 
-它用于开发基于表单的应用程序、基于网络的应用程序和网络服务。上有多种编程语言。网络平台，VB.Net 和 [C#](https://www.geeksforgeeks.org/introduction-to-c/) 是最常见的。它用于为 Windows、电话、web 等构建应用程序。它提供了很多功能，也支持行业标准。
+它用于开发基于表单的应用程序、基于网络的应用程序和网络服务。上有多种编程语言。网络平台，VB.Net 和 [C# ](https://www.geeksforgeeks.org/introduction-to-c/) 是最常见的。它用于为 Windows、电话、web 等构建应用程序。它提供了很多功能，也支持行业标准。
 
 。NET Framework 支持 60 多种编程语言，其中 11 种编程语言由微软设计开发。其余 [**非微软语言**](https://bitbucket.org/brianritchie/wiki/wiki/.NET%20Languages) 支持。NET 框架，但不是由微软设计和开发的。
 

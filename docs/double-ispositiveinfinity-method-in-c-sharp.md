@@ -1,8 +1,8 @@
-# 翻倍。C#中的 IsPositiveInfinity()方法
+# 翻倍。C# 中的 IsPositiveInfinity()方法
 
 > 原文:[https://www . geeksforgeeks . org/double-is positiveinfinity-method-in-c-sharp/](https://www.geeksforgeeks.org/double-ispositiveinfinity-method-in-c-sharp/)
 
-在 C#中 ***加倍。*是一种双重结构方法。此方法用于检查指定值是否计算为正无穷大。在某些浮点运算中，有可能获得正无穷大的结果。*例如:*如果任何正值被零除，就会产生正无穷大。**
+在 C# 中 ***加倍。*是一种双重结构方法。此方法用于检查指定值是否计算为正无穷大。在某些浮点运算中，有可能获得正无穷大的结果。*例如:*如果任何正值被零除，就会产生正无穷大。**
 
 > **语法:**公共静态 bool is positiveinfinity(double d)；
 > 

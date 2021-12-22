@@ -1,4 +1,4 @@
-# 日期时间。C#中的 FromFileTime()方法
+# 日期时间。C# 中的 FromFileTime()方法
 
 > 原文:[https://www . geesforgeks . org/datetime-from file time-method-in-c-sharp/](https://www.geeksforgeeks.org/datetime-fromfiletime-method-in-c-sharp/)
 

@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-char-tryparse-method/](https://www.geeksforgeeks.org/c-sharp-char-tryparse-method/)
 
-在 C#中， ***Char。*** 是 Char 类方法，用于将给定字符串的值转换为其等效的 Unicode 字符。其性能优于 ***Char。Parse()* 方法。**
+在 C# 中， ***Char。*** 是 Char 类方法，用于将给定字符串的值转换为其等效的 Unicode 字符。其性能优于 ***Char。Parse()* 方法。**
 
 ****语法:****
 

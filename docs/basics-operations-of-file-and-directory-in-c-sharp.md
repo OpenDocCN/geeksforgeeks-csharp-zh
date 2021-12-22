@@ -1,4 +1,4 @@
-# c#中文件和目录的基本操作
+# c# 中文件和目录的基本操作
 
 > 原文:[https://www . geesforgeks . org/basic-c-sharp 中文件和目录的操作/](https://www.geeksforgeeks.org/basics-operations-of-file-and-directory-in-c-sharp/)
 
@@ -92,7 +92,7 @@ class GFG {
 
 ![Renaming-Directory-CSharp](img/ef3e7ac57bedc275262dd486fd8924df.png)
 
-您将在特定位置找到更新后的目录名称。没有所谓的重命名()方法，所以我们使用 Move()方法来重命名目录。移动和重命名是 C#中相同的操作。
+您将在特定位置找到更新后的目录名称。没有所谓的重命名()方法，所以我们使用 Move()方法来重命名目录。移动和重命名是 C# 中相同的操作。
 
 #### 删除目录
 

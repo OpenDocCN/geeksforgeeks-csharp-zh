@@ -1,4 +1,4 @@
-# 排队。C#中的 Equals()方法
+# 排队。C# 中的 Equals()方法
 
 > 原文:[https://www . geesforgeks . org/queue-equals-method-in-c-sharp/](https://www.geeksforgeeks.org/queue-equals-method-in-c-sharp/)
 

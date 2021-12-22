@@ -1,8 +1,8 @@
-# 用例子在 C#中排序集合
+# 用例子在 C# 中排序集合
 
 > 原文:[https://www . geeksforgeeks . org/sorted set-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/sortedset-in-c-sharp-with-examples/)
 
-在 C#中，SortedSet 是按排序顺序排列的对象的集合。属于泛型集合，在**系统下定义。集合.通用**命名空间。它还提供了许多数学集合运算，如交集、并集和差集。这是一个动态集合，意味着当添加新元素时，SortedSet 的大小会自动增加。
+在 C# 中，SortedSet 是按排序顺序排列的对象的集合。属于泛型集合，在**系统下定义。集合.通用**命名空间。它还提供了许多数学集合运算，如交集、并集和差集。这是一个动态集合，意味着当添加新元素时，SortedSet 的大小会自动增加。
 **要点:**
 
 *   SortedSet 类实现了 *ICollection* 、 *IEnumerable* 、*ireadonlyccollection*、 *ISet* 、 *ICollection* 、 *IEnumerable* 、*IDeserializationCallback*、 *ISerializable* 接口。

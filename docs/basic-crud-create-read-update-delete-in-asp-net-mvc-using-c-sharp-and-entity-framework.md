@@ -1,4 +1,4 @@
-# 使用 C#和实体框架的 ASP.NET MVC 中的基本 CRUD(创建、读取、更新、删除)
+# 使用 C# 和实体框架的 ASP.NET MVC 中的基本 CRUD(创建、读取、更新、删除)
 
 > 原文:[https://www . geesforgeks . org/basic-crud-create-read-update-delete-in-ASP-net-MVC-using-c-sharp-and-entity-framework/](https://www.geeksforgeeks.org/basic-crud-create-read-update-delete-in-asp-net-mvc-using-c-sharp-and-entity-framework/)
 

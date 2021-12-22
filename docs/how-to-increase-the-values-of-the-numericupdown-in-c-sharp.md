@@ -1,4 +1,4 @@
-# 如何增加 C#中 NumericUpDown 的值？
+# 如何增加 C# 中 NumericUpDown 的值？
 
 > 原文:[https://www . geeksforgeeks . org/如何提高 c-sharp 中 numericupdown 的价值/](https://www.geeksforgeeks.org/how-to-increase-the-values-of-the-numericupdown-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# 使用 LINQ 排序法对字符串名称列表进行排序的 C#程序
+# 使用 LINQ 排序法对字符串名称列表进行排序的 C# 程序
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-program-to-sort-list-string-name-使用-linq-orderby-method/](https://www.geeksforgeeks.org/c-sharp-program-to-sort-a-list-of-string-names-using-the-linq-orderby-method/)
 

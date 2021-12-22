@@ -1,4 +1,4 @@
-# 获取 C#中 ValueTuple 的哈希代码
+# 获取 C# 中 ValueTuple 的哈希代码
 
 > 原文:[https://www . geesforgeks . org/get-the-hash-code-of-value tuple-in-c-sharp/](https://www.geeksforgeeks.org/getting-the-hash-code-of-the-valuetuple-in-c-sharp/)
 

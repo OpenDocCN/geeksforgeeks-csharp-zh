@@ -1,4 +1,4 @@
-# 如何在 C#中将 CheckBox 设置为 CheckBox 状态？
+# 如何在 C# 中将 CheckBox 设置为 CheckBox 状态？
 
 > 原文:[https://www . geeksforgeeks . org/如何将复选框设置为 c-sharp 中的选中状态/](https://www.geeksforgeeks.org/how-to-set-the-checkbox-to-checked-state-in-c-sharp/)
 

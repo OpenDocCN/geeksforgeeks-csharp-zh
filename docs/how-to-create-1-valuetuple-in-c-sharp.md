@@ -1,8 +1,8 @@
-# 如何在 C#中创建 1 值元组？
+# 如何在 C# 中创建 1 值元组？
 
 > 原文:[https://www . geesforgeks . org/how-create-1-value tuple-in-c-sharp/](https://www.geeksforgeeks.org/how-to-create-1-valuetuple-in-c-sharp/)
 
-在 C#中，单值元组或 1 值元组是只包含一个组件的值类型元组。您可以使用两种不同的方法创建单值元组:
+在 C# 中，单值元组或 1 值元组是只包含一个组件的值类型元组。您可以使用两种不同的方法创建单值元组:
 
 1.  **使用值元组< T1 > (T1)构造器**
 2.  **使用创建< T1 > (T1)方法**
@@ -94,4 +94,4 @@ Component: Geeks123
 **参考:**
 
 *   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple-1。-克托？视图=netframework-4.8](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple-1.-ctor?view=netframework-4.8)
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple . create？view = net framework-4.8 # System _ ValueTuple _ Create _ _ 1 _ _ _ 0 _](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple.create?view=netframework-4.8#System_ValueTuple_Create__1___0_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple . create？view = net framework-4.8 # System _ ValueTuple _ Create _ _ 1 _ _ _ 0 _](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple.create?view=netframework-4.8# System_ValueTuple_Create__1___0_)

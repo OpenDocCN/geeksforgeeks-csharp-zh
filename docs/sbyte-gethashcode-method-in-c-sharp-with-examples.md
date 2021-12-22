@@ -1,4 +1,4 @@
-# SByte。C#中的 GetHashCode 方法及示例
+# SByte。C# 中的 GetHashCode 方法及示例
 
 > 原文:[https://www . geesforgeks . org/sbyte-gethashcode-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/sbyte-gethashcode-method-in-c-sharp-with-examples/)
 

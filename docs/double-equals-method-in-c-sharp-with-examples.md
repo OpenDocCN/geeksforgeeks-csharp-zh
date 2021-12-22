@@ -1,4 +1,4 @@
-# 翻倍。C#中的 Equals()方法及示例
+# 翻倍。C# 中的 Equals()方法及示例
 
 > 原文:[https://www . geesforgeks . org/double-equals-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/double-equals-method-in-c-sharp-with-examples/)
 

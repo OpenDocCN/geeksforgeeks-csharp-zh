@@ -26,7 +26,7 @@ class GFG {
     public static void Main()
     {
         // Declaring and initializing address1
-        Uri address1 = new Uri("http://www.contoso.com/index.htm#search");
+        Uri address1 = new Uri("http://www.contoso.com/index.htm# search");
 
         // Declaring and initializing address2
         Uri address2 = new Uri("http://www.contoso.com/index.htm");

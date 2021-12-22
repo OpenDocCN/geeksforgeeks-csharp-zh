@@ -1,4 +1,4 @@
-# 如何在 C#中设置列表框中出现的元素的高度？
+# 如何在 C# 中设置列表框中出现的元素的高度？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 列表框中元素的高度/](https://www.geeksforgeeks.org/how-to-set-the-height-of-the-elements-present-in-the-listbox-in-c-sharp/)
 

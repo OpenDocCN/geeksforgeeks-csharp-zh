@@ -1,8 +1,8 @@
-# c#中的线程类
+# c# 中的线程类
 
 > 原文:[https://www.geeksforgeeks.org/thread-class-in-c-sharp/](https://www.geeksforgeeks.org/thread-class-in-c-sharp/)
 
-在 C#中，多线程系统建立在线程类之上，它封装了线程的执行。这个类包含几个有助于管理和创建线程的方法和属性，这个类是在`System.Threading`命名空间下定义的。
+在 C# 中，多线程系统建立在线程类之上，它封装了线程的执行。这个类包含几个有助于管理和创建线程的方法和属性，这个类是在`System.Threading`命名空间下定义的。
 
 **螺纹类特性:**
 
@@ -237,4 +237,4 @@ public class ThreadExample {
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . threading . thread？视图= net framework-4 . 7 . 2 #线程安全](https://docs.microsoft.com/en-us/dotnet/api/system.threading.thread?view=netframework-4.7.2#thread-safety)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . threading . thread？视图= net framework-4 . 7 . 2 # 线程安全](https://docs.microsoft.com/en-us/dotnet/api/system.threading.thread?view=netframework-4.7.2# thread-safety)

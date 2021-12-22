@@ -1,4 +1,4 @@
-# 时间跨度。C#中的减法()方法
+# 时间跨度。C# 中的减法()方法
 
 > 原文:[https://www . geesforgeks . org/timespan-减法-in-c-sharp/](https://www.geeksforgeeks.org/timespan-subtract-method-in-c-sharp/)
 

@@ -1,4 +1,4 @@
-# 将八进制字符串转换为整数的 C#程序
+# 将八进制字符串转换为整数的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-convert-the-octal-string-to-integer-number/](https://www.geeksforgeeks.org/c-sharp-program-to-convert-the-octal-string-to-an-integer-number/)
 

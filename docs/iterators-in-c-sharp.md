@@ -1,8 +1,8 @@
-# c#中的迭代器
+# c# 中的迭代器
 
 > 原文:[https://www.geeksforgeeks.org/iterators-in-c-sharp/](https://www.geeksforgeeks.org/iterators-in-c-sharp/)
 
-迭代器是 C#中的一种方法，用于数组或集合，如列表等。逐个检索元素。或者换句话说，我们可以说迭代器用于对集合执行迭代。该功能在 ***C# 2.0*** 中介绍。它使用 **yield return** 语句一次从集合中返回元素，并且它总是记住迭代器的当前位置，所以当下一次迭代发生时，它将返回给定集合的下一个元素。如果您想要停止迭代，您将使用**屈服中断**语句。
+迭代器是 C# 中的一种方法，用于数组或集合，如列表等。逐个检索元素。或者换句话说，我们可以说迭代器用于对集合执行迭代。该功能在 ***C# 2.0*** 中介绍。它使用 **yield return** 语句一次从集合中返回元素，并且它总是记住迭代器的当前位置，所以当下一次迭代发生时，它将返回给定集合的下一个元素。如果您想要停止迭代，您将使用**屈服中断**语句。
 
 这个方法的返回类型是 IEnumerable、IEnumerable <t>、IEnumerator 或 IEnumerator <t>。这意味着通过使用迭代器编译器将自动为您创建 IEnumerable 或 IEnumerator 接口，不需要在您的类中实现 IEnumerable 或 IEnumerator 接口来使用 foreach 循环。当编译器在你的类中识别出一个迭代器时，它会自动创建当前的，移动下一个，并释放 IEnumerable 或 IEnumerator 接口的方法。</t></t>
 

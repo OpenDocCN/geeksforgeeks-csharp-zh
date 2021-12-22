@@ -1,4 +1,4 @@
-# c#中的 char 关键字
+# c# 中的 char 关键字
 
 > 原文:[https://www.geeksforgeeks.org/char-keyword-in-c-sharp/](https://www.geeksforgeeks.org/char-keyword-in-c-sharp/)
 

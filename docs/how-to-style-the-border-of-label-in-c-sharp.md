@@ -1,4 +1,4 @@
-# 如何在 C#中设置标签边框的样式？
+# 如何在 C# 中设置标签边框的样式？
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp 中标签边框的样式/](https://www.geeksforgeeks.org/how-to-style-the-border-of-label-in-c-sharp/)
 

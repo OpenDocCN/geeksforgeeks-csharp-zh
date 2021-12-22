@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-using-foreach-loop-in-arrays/](https://www.geeksforgeeks.org/c-sharp-using-foreach-loop-in-arrays/)
 
-C#语言提供了几种读取项目集合的技术。其中一个是**[foreach loop](https://www.geeksforgeeks.org/c-foreach-loop/)T4。foreach 循环提供了一种简单、干净的方式来遍历*集合或项目数组*的元素。有一点我们必须知道，在使用 foreach 循环之前，我们必须在程序中声明数组或集合。因为 foreach 循环只能迭代之前声明的任何数组或任何集合。我们无法像 for loop 一样使用 foreach 循环打印数字或字符序列，请参见下面的:**
+C# 语言提供了几种读取项目集合的技术。其中一个是**[foreach loop](https://www.geeksforgeeks.org/c-foreach-loop/)T4。foreach 循环提供了一种简单、干净的方式来遍历*集合或项目数组*的元素。有一点我们必须知道，在使用 foreach 循环之前，我们必须在程序中声明数组或集合。因为 foreach 循环只能迭代之前声明的任何数组或任何集合。我们无法像 for loop 一样使用 foreach 循环打印数字或字符序列，请参见下面的:**
 
 ```cs
 for(i = 0; i <= 10; i++)

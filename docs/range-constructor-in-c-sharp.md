@@ -1,4 +1,4 @@
-# c#中的范围构造器
+# c# 中的范围构造器
 
 > 原文:[https://www.geeksforgeeks.org/range-constructor-in-c-sharp/](https://www.geeksforgeeks.org/range-constructor-in-c-sharp/)
 

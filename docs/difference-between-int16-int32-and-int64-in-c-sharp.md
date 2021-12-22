@@ -1,4 +1,4 @@
-# c#中 Int16、Int32、Int64 的区别
+# c# 中 Int16、Int32、Int64 的区别
 
 > 原文:[https://www . geeksforgeeks . org/int 16-int 32-和-int64-in-c-sharp/](https://www.geeksforgeeks.org/difference-between-int16-int32-and-int64-in-c-sharp/) 之间的差异
 
@@ -153,7 +153,7 @@ Maximum value of Int64: 9223372036854775807
 
 ```
 
-**c#中 Int16、Int32、Int64 的区别**
+**c# 中 Int16、Int32、Int64 的区别**
 
 <figure class="table">
 

@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-math-round-method-set-1/](https://www.geeksforgeeks.org/c-sharp-math-round-method-set-1/)
 
-在 C#中 ***数学。Round()*** 是一种数学类方法，用于将一个值舍入到最接近的整数或小数位数。通过更改传递的参数的数量和类型，可以重载此方法。数学的重载列表中总共有 8 个方法。Round()方法。这里只讨论 4 种方法，其余 4 种方法在 *[C# | Math 中讨论。Round()方法| Set–2](https://www.geeksforgeeks.org/c-math-round-method-set-2/)*。
+在 C# 中 ***数学。Round()*** 是一种数学类方法，用于将一个值舍入到最接近的整数或小数位数。通过更改传递的参数的数量和类型，可以重载此方法。数学的重载列表中总共有 8 个方法。Round()方法。这里只讨论 4 种方法，其余 4 种方法在 *[C# | Math 中讨论。Round()方法| Set–2](https://www.geeksforgeeks.org/c-math-round-method-set-2/)*。
 
 ***   mathmatics圆形(双)*   数学圆形(双面，国际号码 32)*   mathmatics*   Mathematical rounding (decimal). Round(Decimal，Int32)*   [数学。舍入(双精度，整数 32，中点舍入)](https://www.geeksforgeeks.org/c-math-round-method-set-2/)*   [数学。](https://www.geeksforgeeks.org/c-math-round-method-set-2/)*   [Mathematics. Rounding (decimal, integer 32, midpoint rounding)](https://www.geeksforgeeks.org/c-math-round-method-set-2/)*   [Mathematics. Rounding (decimal, midpoint rounding)](https://www.geeksforgeeks.org/c-math-round-method-set-2/)**
 

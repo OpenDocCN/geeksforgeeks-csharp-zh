@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-tuple-2-class/](https://www.geeksforgeeks.org/c-sharp-tuple-2-class/)
 
-元组<t1 t2="">类用于创建二元组或二元对。它表示一个包含两个元素的元组。您可以通过调用 [**元组< T1、T2>(T2 T1)构造函数**](https://www.geeksforgeeks.org/how-to-create-2-tuple-or-pair-tuple-in-c-sharp/#Using%20Tuple%3CT1,T2%3E(T1,%20T2)%20Constructor) 或静态 [**元组来实例化元组<t1 t2="">对象。创建</t1>**](https://www.geeksforgeeks.org/how-to-create-2-tuple-or-pair-tuple-in-c-sharp/#Using%20the%20Create%20method) 方法。您可以使用只读的*项目 1* 和*项目 2* 实例属性来检索元组元素的值。
+元组<t1 t2="">类用于创建二元组或二元对。它表示一个包含两个元素的元组。您可以通过调用 [**元组< T1、T2>(T2 T1)构造函数**](https://www.geeksforgeeks.org/how-to-create-2-tuple-or-pair-tuple-in-c-sharp/# Using%20Tuple%3CT1,T2%3E(T1,%20T2)%20Constructor) 或静态 [**元组来实例化元组<t1 t2="">对象。创建</t1>**](https://www.geeksforgeeks.org/how-to-create-2-tuple-or-pair-tuple-in-c-sharp/# Using%20the%20Create%20method) 方法。您可以使用只读的*项目 1* 和*项目 2* 实例属性来检索元组元素的值。
 **要点:**</t1>
 
 *   它实现了*结构可比较*、*结构可比较*、*我可比较*接口。
@@ -20,7 +20,7 @@
 <figure class="table">
 
 | 构造器 | 描述 |
-| [**元组< T1，T2 > (T1，T2)**](https://www.geeksforgeeks.org/how-to-create-2-tuple-or-pair-tuple-in-c-sharp/#Using%20Tuple%3CT1,T2%3E(T1,%20T2)%20Constructor) | 初始化元组<t1 t2="">类的新实例。</t1> |
+| [**元组< T1，T2 > (T1，T2)**](https://www.geeksforgeeks.org/how-to-create-2-tuple-or-pair-tuple-in-c-sharp/# Using%20Tuple%3CT1,T2%3E(T1,%20T2)%20Constructor) | 初始化元组<t1 t2="">类的新实例。</t1> |
 
 </figure>
 

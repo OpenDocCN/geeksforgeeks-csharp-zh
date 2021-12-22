@@ -1,4 +1,4 @@
-# 如何在 C#中设置 DateTimePicker 的位置？
+# 如何在 C# 中设置 DateTimePicker 的位置？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中日期时间选择器的位置/](https://www.geeksforgeeks.org/how-to-set-the-location-of-the-datetimepicker-in-c-sharp/)
 

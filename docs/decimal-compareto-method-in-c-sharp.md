@@ -1,4 +1,4 @@
-# 小数。C#中的 CompareTo()方法
+# 小数。C# 中的 CompareTo()方法
 
 > 原文:[https://www . geesforgeks . org/decimal-compare to-method-in-c-sharp/](https://www.geeksforgeeks.org/decimal-compareto-method-in-c-sharp/)
 

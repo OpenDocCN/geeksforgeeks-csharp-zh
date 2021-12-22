@@ -25,7 +25,7 @@ class GFG {
     public static void Main()
     {
         // Declaring and initializing address
-        Uri address1 = new Uri("http://www.contoso.com/index.htm#search");
+        Uri address1 = new Uri("http://www.contoso.com/index.htm# search");
 
         // Validating if Uri is well formed or not
         // using IsWellFormedOriginalString() method

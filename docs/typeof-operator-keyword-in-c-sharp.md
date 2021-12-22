@@ -1,4 +1,4 @@
-# c#中运算符关键字的类型
+# c# 中运算符关键字的类型
 
 > 原文:[https://www . geesforgeks . org/type of-operator-keyword-in-c-sharp/](https://www.geeksforgeeks.org/typeof-operator-keyword-in-c-sharp/)
 

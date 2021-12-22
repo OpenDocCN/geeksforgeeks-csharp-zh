@@ -1,4 +1,4 @@
-# 文件。C#中的 GetAttributes()方法及示例
+# 文件。C# 中的 GetAttributes()方法及示例
 
 > 原文:[https://www . geesforgeks . org/file-getattributes-method-in-csharp-with-examples/](https://www.geeksforgeeks.org/file-getattributes-method-in-csharp-with-examples/)
 

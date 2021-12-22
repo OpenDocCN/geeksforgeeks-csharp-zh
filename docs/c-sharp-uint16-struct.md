@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-uint16-struct/](https://www.geeksforgeeks.org/c-sharp-uint16-struct/)
 
-在 C#中，UInt16 结构用于表示 16 位无符号整数(也称为 **ushort** 数据类型)，从*范围 0 到 65535* 开始。它提供了不同类型的方法来执行各种操作，比如比较这种类型的实例，将实例的值转换成它的字符串表示，将数字的字符串表示转换成这种类型的实例，等等。该结构在**系统**命名空间下定义。UInt16 结构继承了继承[对象类](https://www.geeksforgeeks.org/c-sharp-object-class/)的值类型类。
+在 C# 中，UInt16 结构用于表示 16 位无符号整数(也称为 **ushort** 数据类型)，从*范围 0 到 65535* 开始。它提供了不同类型的方法来执行各种操作，比如比较这种类型的实例，将实例的值转换成它的字符串表示，将数字的字符串表示转换成这种类型的实例，等等。该结构在**系统**命名空间下定义。UInt16 结构继承了继承[对象类](https://www.geeksforgeeks.org/c-sharp-object-class/)的值类型类。
 
 #### 菲尔茨
 

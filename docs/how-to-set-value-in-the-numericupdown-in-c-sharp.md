@@ -1,4 +1,4 @@
-# 如何在 C#的 NumericUpDown 中设置值？
+# 如何在 C# 的 NumericUpDown 中设置值？
 
 > 原文:[https://www . geeksforgeeks . org/如何在 c-sharp 中设置数值/](https://www.geeksforgeeks.org/how-to-set-value-in-the-numericupdown-in-c-sharp/)
 

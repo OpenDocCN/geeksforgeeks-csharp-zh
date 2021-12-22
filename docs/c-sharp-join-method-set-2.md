@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-join-method-set-2/](https://www.geeksforgeeks.org/c-sharp-join-method-set-2/)
 
-在 C#中 ***Join()*** 是一个字符串方法。此方法用于连接集合的成员或指定数组的元素，在每个成员或元素之间使用指定的分隔符。这个方法可以通过传递不同的参数来重载。前三种方法请参考 C# Set -1 中的 **[Join()方法。](https://www.geeksforgeeks.org/c-join-method-set-1/)**
+在 C# 中 ***Join()*** 是一个字符串方法。此方法用于连接集合的成员或指定数组的元素，在每个成员或元素之间使用指定的分隔符。这个方法可以通过传递不同的参数来重载。前三种方法请参考 C# Set -1 中的 **[Join()方法。](https://www.geeksforgeeks.org/c-join-method-set-1/)**
 
 *   **[弦。连接(字符串，Obj [ ])](https://www.geeksforgeeks.org/c-join-method-set-1/)**
 *   **[弦。连接(字符串，字符串[ ])](https://www.geeksforgeeks.org/c-join-method-set-1/)**

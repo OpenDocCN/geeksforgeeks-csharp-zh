@@ -1,4 +1,4 @@
-# 如何在 C#中设置 GroupBox 的前景色？
+# 如何在 C# 中设置 GroupBox 的前景色？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中 groupbox 的前景色/](https://www.geeksforgeeks.org/how-to-set-foreground-color-of-the-groupbox-in-c-sharp/)
 

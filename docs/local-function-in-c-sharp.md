@@ -1,4 +1,4 @@
-# c#中的局部函数
+# c# 中的局部函数
 
 > 原文:[https://www.geeksforgeeks.org/local-function-in-c-sharp/](https://www.geeksforgeeks.org/local-function-in-c-sharp/)
 

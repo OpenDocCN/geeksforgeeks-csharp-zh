@@ -1,4 +1,4 @@
-# 如何在 C#中制作气球工具提示窗口？
+# 如何在 C# 中制作气球工具提示窗口？
 
 > 原文:[https://www . geesforgeks . org/如何制作气球-工具提示-c-sharp 中的窗口/](https://www.geeksforgeeks.org/how-to-make-a-balloon-tooltip-window-in-c-sharp/)
 

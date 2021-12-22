@@ -1,4 +1,4 @@
-# 如何在 C#中设置 NumericUpDown 的上下按钮对齐方式？
+# 如何在 C# 中设置 NumericUpDown 的上下按钮对齐方式？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中 numericupdown 按钮的上下对齐方式/](https://www.geeksforgeeks.org/how-to-set-alignment-of-up-and-down-buttons-of-numericupdown-in-c-sharp/)
 

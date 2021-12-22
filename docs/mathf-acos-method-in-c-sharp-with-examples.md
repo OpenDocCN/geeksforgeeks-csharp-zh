@@ -1,4 +1,4 @@
-# MathF。C#中的 Acos()方法及示例
+# MathF。C# 中的 Acos()方法及示例
 
 > 原文:[https://www . geesforgeks . org/mathf-acos-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-acos-method-in-c-sharp-with-examples/)
 

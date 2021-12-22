@@ -1,4 +1,4 @@
-# 如何在 C#中设置单选按钮的对齐复选框？
+# 如何在 C# 中设置单选按钮的对齐复选框？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中 radiobutton 复选框的对齐方式/](https://www.geeksforgeeks.org/how-to-set-the-alignment-of-checkbox-of-the-radiobutton-in-c-sharp/)
 

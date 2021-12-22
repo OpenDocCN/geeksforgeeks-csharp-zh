@@ -1,4 +1,4 @@
-# 如何在 C#中设置列表框的前景色？
+# 如何在 C# 中设置列表框的前景色？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 列表框的前景色/](https://www.geeksforgeeks.org/how-to-set-the-foreground-color-of-a-listbox-in-c-sharp/)
 

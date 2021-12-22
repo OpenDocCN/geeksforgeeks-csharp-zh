@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-math-ieeereminder-method/](https://www.geeksforgeeks.org/c-sharp-math-ieeeremainder-method/)
 
-在 C#中，***ieeereminder()***是一个数学类方法，用于返回一个指定数除以另一个指定数所得的余数。
+在 C# 中，***ieeereminder()***是一个数学类方法，用于返回一个指定数除以另一个指定数所得的余数。
 
 **语法:**
 

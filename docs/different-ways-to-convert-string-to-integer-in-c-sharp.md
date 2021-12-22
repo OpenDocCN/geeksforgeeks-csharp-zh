@@ -1,8 +1,8 @@
-# c#中字符串转换为整数的不同方式
+# c# 中字符串转换为整数的不同方式
 
 > 原文:[https://www . geesforgeks . org/different-way-to-convert-string-to-integer-in-c-sharp/](https://www.geeksforgeeks.org/different-ways-to-convert-string-to-integer-in-c-sharp/)
 
-像其他编程语言一样，在 C#中，我们可以将字符串转换为 int。有三种方法可以转换它，如下所示:
+像其他编程语言一样，在 C# 中，我们可以将字符串转换为 int。有三种方法可以转换它，如下所示:
 
 *   使用解析方法
 *   使用锥虫法

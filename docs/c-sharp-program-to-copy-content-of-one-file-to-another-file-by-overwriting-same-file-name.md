@@ -1,8 +1,8 @@
-# 通过覆盖相同文件名将一个文件的内容复制到另一个文件的 C#程序
+# 通过覆盖相同文件名将一个文件的内容复制到另一个文件的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-通过覆盖相同文件名将一个文件的内容复制到另一个文件中/](https://www.geeksforgeeks.org/c-sharp-program-to-copy-content-of-one-file-to-another-file-by-overwriting-same-file-name/)
 
-给定一个文件，现在我们的任务是通过使用 C#覆盖相同的文件名，将数据从一个文件复制到另一个文件。因此，我们使用以下方法来执行此任务:
+给定一个文件，现在我们的任务是通过使用 C# 覆盖相同的文件名，将数据从一个文件复制到另一个文件。因此，我们使用以下方法来执行此任务:
 
 **1。** [**Copy(String、String、Boolean)**](https://www.geeksforgeeks.org/file-copystring-string-boolean-method-in-c-sharp-with-examples/?ref=rp)**:**It**用于将一个文件的内容复制到有覆盖的新文件中。**
 

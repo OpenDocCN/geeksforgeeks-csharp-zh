@@ -1,4 +1,4 @@
-# 如何在 C#中设置 CheckBox 的状态？
+# 如何在 C# 中设置 CheckBox 的状态？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中复选框的状态/](https://www.geeksforgeeks.org/how-to-set-the-state-of-the-checkbox-in-c-sharp/)
 

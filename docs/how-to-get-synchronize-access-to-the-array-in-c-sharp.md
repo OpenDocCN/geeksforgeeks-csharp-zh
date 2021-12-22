@@ -1,4 +1,4 @@
-# 如何在 C#中同步访问数组
+# 如何在 C# 中同步访问数组
 
 > 原文:[https://www . geeksforgeeks . org/如何同步访问 c-sharp 中的阵列/](https://www.geeksforgeeks.org/how-to-get-synchronize-access-to-the-array-in-c-sharp/)
 

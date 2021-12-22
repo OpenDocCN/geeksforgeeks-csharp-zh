@@ -1,4 +1,4 @@
-# 如何在 C#中设置组合框中下拉列表的宽度？
+# 如何在 C# 中设置组合框中下拉列表的宽度？
 
 > 原文:[https://www . geesforgeks . org/如何设置 c-sharp 中的下拉列表宽度/](https://www.geeksforgeeks.org/how-to-set-the-width-of-the-drop-down-list-in-the-combobox-in-c-sharp/)
 

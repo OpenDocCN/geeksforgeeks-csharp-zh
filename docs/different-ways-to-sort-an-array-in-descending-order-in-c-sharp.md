@@ -1,4 +1,4 @@
-# 在 C#中对数组进行降序排序的不同方式
+# 在 C# 中对数组进行降序排序的不同方式
 
 > 原文:[https://www . geeksforgeeks . org/不同的排序方式-按 c-sharp 降序排列数组/](https://www.geeksforgeeks.org/different-ways-to-sort-an-array-in-descending-order-in-c-sharp/)
 

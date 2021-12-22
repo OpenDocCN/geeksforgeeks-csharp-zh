@@ -1,4 +1,4 @@
-# 布尔。C#中的 ToString(表单提供者)方法
+# 布尔。C# 中的 ToString(表单提供者)方法
 
 > 原文:[https://www . geeksforgeeks . org/boo clion-tostringiformatprovider-method-in-c-sharp/](https://www.geeksforgeeks.org/booolean-tostringiformatprovider-method-in-c-sharp/)
 
@@ -57,4 +57,4 @@ The Value is True and provider is en-US
 
 **参考:**
 
-*   [https://docs。微软。com/en-us/dotnet/API/system。布尔型。tostring？view = net framework-4.8 # System _ Boolean _ ToString _ System _ IFormatProvider _](https://docs.microsoft.com/en-us/dotnet/api/system.boolean.tostring?view=netframework-4.8#System_Boolean_ToString_System_IFormatProvider_)
+*   [https://docs。微软。com/en-us/dotnet/API/system。布尔型。tostring？view = net framework-4.8 # System _ Boolean _ ToString _ System _ IFormatProvider _](https://docs.microsoft.com/en-us/dotnet/api/system.boolean.tostring?view=netframework-4.8# System_Boolean_ToString_System_IFormatProvider_)

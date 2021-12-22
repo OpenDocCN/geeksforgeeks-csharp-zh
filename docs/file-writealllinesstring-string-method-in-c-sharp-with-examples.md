@@ -1,4 +1,4 @@
-# 文件。C#中的 writellines(String，String[])方法，示例
+# 文件。C# 中的 writellines(String，String[])方法，示例
 
 > 原文:[https://www . geesforgeks . org/file-writellinestring-string-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-writealllinesstring-string-method-in-c-sharp-with-examples/)
 

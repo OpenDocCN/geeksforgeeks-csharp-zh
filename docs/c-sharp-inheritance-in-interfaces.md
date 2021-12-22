@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-接口继承/](https://www.geeksforgeeks.org/c-sharp-inheritance-in-interfaces/)
 
-C#允许用户将一个[界面](https://www.geeksforgeeks.org/c-interface/)继承到另一个界面。当一个类实现继承的接口时，它必须提供接口继承链中定义的所有成员的实现。
+C# 允许用户将一个[界面](https://www.geeksforgeeks.org/c-interface/)继承到另一个界面。当一个类实现继承的接口时，它必须提供接口继承链中定义的所有成员的实现。
 **要点:**
 
 *   如果一个[类](https://www.geeksforgeeks.org/c-class-and-object/)实现了一个接口，那么就需要实现该接口定义的所有方法，包括基本接口方法。否则，编译器会抛出一个错误。

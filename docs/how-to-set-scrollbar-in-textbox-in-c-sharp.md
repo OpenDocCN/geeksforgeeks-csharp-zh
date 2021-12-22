@@ -1,4 +1,4 @@
-# 如何在 C#中设置 TextBox 中的滚动条？
+# 如何在 C# 中设置 TextBox 中的滚动条？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 文本框中的滚动条/](https://www.geeksforgeeks.org/how-to-set-scrollbar-in-textbox-in-c-sharp/)
 

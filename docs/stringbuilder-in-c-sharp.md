@@ -1,8 +1,8 @@
-# c#中的 StringBuilder
+# c# 中的 StringBuilder
 
 > 原文:[https://www.geeksforgeeks.org/stringbuilder-in-c-sharp/](https://www.geeksforgeeks.org/stringbuilder-in-c-sharp/)
 
-C# **StringBuilder** 类似于 [Java StringBuilder](https://www.geeksforgeeks.org/stringbuilder-class-in-java-with-examples/) 。一个*字符串*对象是不可变的，即一个字符串一旦创建就不能改变。每次使用**系统的任何方法时。字符串**类，然后在内存中创建新的**字符串对象**。例如，字符串“geesforgeks”占用堆中的内存，现在，通过将初始字符串“*geesforgeks*”更改为“ *GFG* ”将在内存堆上创建一个新的字符串对象，而不是在相同的内存位置修改初始字符串。在需要对字符串进行重复修改的情况下，我们需要 *StringBuilder* 类。为了避免在初始字符串 C#中替换、追加、移除或插入新字符串，引入 **StringBuilder** 概念。StringBuilder 是一个**动态对象**。它不会在内存中创建新的对象，而是动态扩展所需的内存，以容纳修改后的或新的字符串。
+C# **StringBuilder** 类似于 [Java StringBuilder](https://www.geeksforgeeks.org/stringbuilder-class-in-java-with-examples/) 。一个*字符串*对象是不可变的，即一个字符串一旦创建就不能改变。每次使用**系统的任何方法时。字符串**类，然后在内存中创建新的**字符串对象**。例如，字符串“geesforgeks”占用堆中的内存，现在，通过将初始字符串“*geesforgeks*”更改为“ *GFG* ”将在内存堆上创建一个新的字符串对象，而不是在相同的内存位置修改初始字符串。在需要对字符串进行重复修改的情况下，我们需要 *StringBuilder* 类。为了避免在初始字符串 C# 中替换、追加、移除或插入新字符串，引入 **StringBuilder** 概念。StringBuilder 是一个**动态对象**。它不会在内存中创建新的对象，而是动态扩展所需的内存，以容纳修改后的或新的字符串。
 
 ![](img/7bb464bdcd393cfe2ab8bb9fd36cfc9d.png)
 

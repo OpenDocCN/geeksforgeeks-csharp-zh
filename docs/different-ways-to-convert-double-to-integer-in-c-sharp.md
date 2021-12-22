@@ -1,8 +1,8 @@
-# c#中双精度转换为整数的不同方式
+# c# 中双精度转换为整数的不同方式
 
 > 原文:[https://www . geesforgeks . org/different-way-to-convert-double-to-integer-in-c-sharp/](https://www.geeksforgeeks.org/different-ways-to-convert-double-to-integer-in-c-sharp/)
 
-给定一个双实数，任务是在 [C#](https://www.geeksforgeeks.org/c-sharp-tutorial/) 中将其转换为整数。将 Double 转换为 Integer 的方法主要有以下三种:
+给定一个双实数，任务是在 [C# ](https://www.geeksforgeeks.org/c-sharp-tutorial/) 中将其转换为整数。将 Double 转换为 Integer 的方法主要有以下三种:
 
 *   [使用型铸造](https://www.geeksforgeeks.org/c-sharp-type-casting/)
 *   [使用 Math.round()](https://www.geeksforgeeks.org/c-sharp-math-round-method-set-1/)

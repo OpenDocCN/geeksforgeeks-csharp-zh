@@ -1,4 +1,4 @@
-# 如何在 C#中设置 NumericUpDown 中文本的对齐方式？
+# 如何在 C# 中设置 NumericUpDown 中文本的对齐方式？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中 numericupdown 中文本的对齐方式/](https://www.geeksforgeeks.org/how-to-set-the-alignment-of-the-text-in-numericupdown-in-c-sharp/)
 

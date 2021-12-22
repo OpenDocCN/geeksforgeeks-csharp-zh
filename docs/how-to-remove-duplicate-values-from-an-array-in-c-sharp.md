@@ -1,8 +1,8 @@
-# 如何在 C#中删除数组中的重复值？
+# 如何在 C# 中删除数组中的重复值？
 
 > 原文:[https://www . geeksforgeeks . org/如何从 c-sharp 数组中删除重复值/](https://www.geeksforgeeks.org/how-to-remove-duplicate-values-from-an-array-in-c-sharp/)
 
-数组是一组由公共名称引用的同构元素，可以包含重复的值。在 C#中，我们不能从指定的数组中移除元素，但是我们可以创建一个包含不同元素的新数组。为此，我们使用 [Distinct()](https://www.geeksforgeeks.org/linq-set-operator-distinct/) 函数。该函数给出了给定序列的不同值。如果给定数组为空，此方法将引发 ArgumentNullException。
+数组是一组由公共名称引用的同构元素，可以包含重复的值。在 C# 中，我们不能从指定的数组中移除元素，但是我们可以创建一个包含不同元素的新数组。为此，我们使用 [Distinct()](https://www.geeksforgeeks.org/linq-set-operator-distinct/) 函数。该函数给出了给定序列的不同值。如果给定数组为空，此方法将引发 ArgumentNullException。
 
 **语法**:
 

@@ -234,4 +234,4 @@ Next larger object is at index 5
 
 **参考:**
 
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . array . binary search？view = net framework-4 . 7 . 2 # System _ Array _ binary search _ System _ Array _ System _ Object _ System _ Collections _ IComparer _](https://docs.microsoft.com/en-us/dotnet/api/system.array.binarysearch?view=netframework-4.7.2#System_Array_BinarySearch_System_Array_System_Object_System_Collections_IComparer_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . array . binary search？view = net framework-4 . 7 . 2 # System _ Array _ binary search _ System _ Array _ System _ Object _ System _ Collections _ IComparer _](https://docs.microsoft.com/en-us/dotnet/api/system.array.binarysearch?view=netframework-4.7.2# System_Array_BinarySearch_System_Array_System_Object_System_Collections_IComparer_)

@@ -1,4 +1,4 @@
-# 如何在 C#的工具提示中设置图标？
+# 如何在 C# 的工具提示中设置图标？
 
 > 原文:[https://www . geesforgeks . org/如何设置 c-sharp 工具提示中的图标/](https://www.geeksforgeeks.org/how-to-set-icon-in-the-tooltip-in-c-sharp/)
 

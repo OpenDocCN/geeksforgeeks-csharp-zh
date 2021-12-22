@@ -1,4 +1,4 @@
-# 如何在 C#中设置 GroupBox 的大小？
+# 如何在 C# 中设置 GroupBox 的大小？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中的 groupbox 大小/](https://www.geeksforgeeks.org/how-to-set-the-size-of-the-groupbox-in-c-sharp/)
 

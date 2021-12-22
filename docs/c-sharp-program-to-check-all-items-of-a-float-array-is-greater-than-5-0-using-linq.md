@@ -1,6 +1,6 @@
 # 使用 LINQ
 
-检查浮点数组所有项目大于 5.0 的 C#程序
+检查浮点数组所有项目大于 5.0 的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-check-all-items-of-a-float-array-is-大于-5-0-using-linq/](https://www.geeksforgeeks.org/c-sharp-program-to-check-all-items-of-a-float-array-is-greater-than-5-0-using-linq/)
 

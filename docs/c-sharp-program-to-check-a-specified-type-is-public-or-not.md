@@ -1,4 +1,4 @@
-# 检查指定类型是否公开的 C#程序
+# 检查指定类型是否公开的 C# 程序
 
 > 原文:[https://www . geesforgeks . org/c-sharp-program-to-check-a-specified-type-is-public-or-not/](https://www.geeksforgeeks.org/c-sharp-program-to-check-a-specified-type-is-public-or-not/)
 

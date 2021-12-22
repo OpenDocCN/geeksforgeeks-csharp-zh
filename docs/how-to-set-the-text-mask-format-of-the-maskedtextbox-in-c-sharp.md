@@ -1,8 +1,8 @@
-# 如何在 C#中设置掩码文本框的文本掩码格式？
+# 如何在 C# 中设置掩码文本框的文本掩码格式？
 
 > 原文:[https://www . geeksforgeeks . org/如何设置 c-sharp 中 maskedtextbox 的文本掩码格式/](https://www.geeksforgeeks.org/how-to-set-the-text-mask-format-of-the-maskedtextbox-in-c-sharp/)
 
-在 C#中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在掩码文本框控件中，使用掩码文本框控件提供的**文本掩码格式属性**，设置一个值，该值指示文本和提示字符包含在掩码文本框中的格式化字符串中。这个属性有四个值，这些值是在 MaskFormat 枚举下定义的，这些值是:
+在 C# 中，MaskedTextBox 控件为表单上的用户输入(如日期、电话号码等)提供了一个验证过程。或者换句话说，它被用来提供区分正确和不正确用户输入的屏蔽。在掩码文本框控件中，使用掩码文本框控件提供的**文本掩码格式属性**，设置一个值，该值指示文本和提示字符包含在掩码文本框中的格式化字符串中。这个属性有四个值，这些值是在 MaskFormat 枚举下定义的，这些值是:
 
 *   ExcludePromptAndLiterals 值返回用户提供的文本输入。
 *   IncludeLiterals 值返回用户提供的文本输入和掩码中定义的文字字符。

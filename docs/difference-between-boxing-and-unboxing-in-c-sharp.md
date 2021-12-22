@@ -1,8 +1,8 @@
-# c#中装箱和拆箱的区别
+# c# 中装箱和拆箱的区别
 
 > 原文:[https://www . geesforgeks . org/c-sharp 中装箱和拆箱的区别/](https://www.geeksforgeeks.org/difference-between-boxing-and-unboxing-in-c-sharp/)
 
-**[打拳拆箱](https://www.geeksforgeeks.org/c-sharp-boxing-unboxing/)** 是 C#中的一个重要概念。C# Type 系统包含三种数据类型:*值类型(int、char 等)*、*引用类型(object)* 和*指针类型*。基本上，它将值类型转换为引用类型，反之亦然。装箱和取消装箱实现了类型系统的统一视图，其中任何类型的值都可以被视为对象。
+**[打拳拆箱](https://www.geeksforgeeks.org/c-sharp-boxing-unboxing/)** 是 C# 中的一个重要概念。C# Type 系统包含三种数据类型:*值类型(int、char 等)*、*引用类型(object)* 和*指针类型*。基本上，它将值类型转换为引用类型，反之亦然。装箱和取消装箱实现了类型系统的统一视图，其中任何类型的值都可以被视为对象。
 
 | 拳击 | 取消订阅 |
 | 它将值类型转换为对象类型。 | 它将对象类型转换为值类型。 |

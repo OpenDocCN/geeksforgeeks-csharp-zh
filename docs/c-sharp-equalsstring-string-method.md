@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-equals string-method/](https://www.geeksforgeeks.org/c-sharp-equalsstring-string-method/)
 
-在 C#中， ***等于(String，String)*** 是一个 String 方法。它用于确定两个字符串对象是否具有相同的值。基本上，它检查平等。如果两个字符串具有相同的值，则返回 true，否则返回 false。此方法不同于比较和比较方法。此方法基于内容比较两个字符串。
+在 C# 中， ***等于(String，String)*** 是一个 String 方法。它用于确定两个字符串对象是否具有相同的值。基本上，它检查平等。如果两个字符串具有相同的值，则返回 true，否则返回 false。此方法不同于比较和比较方法。此方法基于内容比较两个字符串。
 **语法:**
 
 ```cs

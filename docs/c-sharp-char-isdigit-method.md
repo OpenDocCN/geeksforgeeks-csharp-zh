@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-char-isdigit-method/](https://www.geeksforgeeks.org/c-sharp-char-isdigit-method/)
 
-在 C#中， ***Char。*是一个*系统。Char* 结构方法，用于检查 Unicode 字符是否可以归类为十进制数字(基数 10)。有效数字将是*统一编码类别的成员。十进制数字*类别。通过向该方法传递不同类型和数量的参数，可以重载该方法。**
+在 C# 中， ***Char。*是一个*系统。Char* 结构方法，用于检查 Unicode 字符是否可以归类为十进制数字(基数 10)。有效数字将是*统一编码类别的成员。十进制数字*类别。通过向该方法传递不同类型和数量的参数，可以重载该方法。**
 
 ***   Char. IsDigit(Char) methodT4【Char】。IsDigit(String，Int32)方法**
 

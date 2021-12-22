@@ -1,8 +1,8 @@
-# 翻倍。C#中的 IsNaN()方法
+# 翻倍。C# 中的 IsNaN()方法
 
 > 原文:[https://www . geesforgeks . org/double-isnan-method-in-c-sharp/](https://www.geeksforgeeks.org/double-isnan-method-in-c-sharp/)
 
-在 C#中 ***加倍。*IsNaN()**是一种双重结构方法。此方法用于检查指定的值是否不是数字(NaN)。
+在 C# 中 ***加倍。*IsNaN()**是一种双重结构方法。此方法用于检查指定的值是否不是数字(NaN)。
 
 > **语法:**公共静态 bool IsNaN(double d)；
 > 

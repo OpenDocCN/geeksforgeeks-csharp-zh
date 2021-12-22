@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-func-delegate/](https://www.geeksforgeeks.org/c-sharp-func-delegate/)
 
-### 先决条件:[c#中的代表](https://www.geeksforgeeks.org/c-sharp-delegates/)
+### 先决条件:[c# 中的代表](https://www.geeksforgeeks.org/c-sharp-delegates/)
 
 创建自定义委托时，我们必须遵循以下步骤:
 
@@ -12,7 +12,7 @@
 
 **第三步:**调用方法。
 
-通过使用这些步骤，我们创建了如下程序所示的自定义委托。但是问题是，为了创建一个委托，我们需要遵循上面的过程。为了克服这种情况，C#提供了一个内置的委托*函数*。使用 Func 委托，您不需要遵循以下过程来创建委托。
+通过使用这些步骤，我们创建了如下程序所示的自定义委托。但是问题是，为了创建一个委托，我们需要遵循上面的过程。为了克服这种情况，C# 提供了一个内置的委托*函数*。使用 Func 委托，您不需要遵循以下过程来创建委托。
 
 **示例:**
 

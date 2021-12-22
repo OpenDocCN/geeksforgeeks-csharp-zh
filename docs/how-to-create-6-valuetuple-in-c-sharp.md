@@ -1,8 +1,8 @@
-# 如何在 C#中创建 6 值元组？
+# 如何在 C# 中创建 6 值元组？
 
 > 原文:[https://www . geesforgeks . org/how-create-6-value tuple-in-c-sharp/](https://www.geeksforgeeks.org/how-to-create-6-valuetuple-in-c-sharp/)
 
-在 C#中，6 值元组或 6 元组是包含 6 个元素的值类型元组。您可以使用两种不同的方法创建一个 6 值元组:
+在 C# 中，6 值元组或 6 元组是包含 6 个元素的值类型元组。您可以使用两种不同的方法创建一个 6 值元组:
 
 1.  **使用 ValueTuple < T1、T2、T3、T4、T5、T6 > (T1、T2、T3、T4、T5、T6)建造师**
 2.  **使用创建< T1、T2、T3、T4、T5、T6 > (T1、T2、T3、T4、T5、T6)方法**
@@ -140,4 +140,4 @@ Component 6: 89
 **参考:**
 
 *   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple-6。-克托？视图=netframework-4.8](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple-6.-ctor?view=netframework-4.8)
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple . create？view = net framework-4.8 # System _ ValueTuple _ Create _ _ 6 _ _ 0 _ _ 1 _ _ 2 _ _ 3 _ _ 4 _ _ 5 _](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple.create?view=netframework-4.8#System_ValueTuple_Create__6___0___1___2___3___4___5_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple . create？view = net framework-4.8 # System _ ValueTuple _ Create _ _ 6 _ _ 0 _ _ 1 _ _ 2 _ _ 3 _ _ 4 _ _ 5 _](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple.create?view=netframework-4.8# System_ValueTuple_Create__6___0___1___2___3___4___5_)

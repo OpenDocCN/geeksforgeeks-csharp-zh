@@ -1,8 +1,8 @@
-# 如何在 C#中创建 5 值元组？
+# 如何在 C# 中创建 5 值元组？
 
 > 原文:[https://www . geesforgeks . org/如何创建-5-valuetuple-in-c-sharp/](https://www.geeksforgeeks.org/how-to-create-5-valuetuple-in-c-sharp/)
 
-在 C#中，5 值元组或五元组是包含五个元素的值类型元组。您可以使用两种不同的方法创建一个 5 值元组:
+在 C# 中，5 值元组或五元组是包含五个元素的值类型元组。您可以使用两种不同的方法创建一个 5 值元组:
 
 1.  **使用 ValueTuple < T1、T2、T3、T4、T5 > (T1、T2、T3、T4、T5)建造师**
 2.  **使用创建< T1、T2、T3、T4、T5 > (T1、T2、T3、T4、T5)方法**
@@ -131,4 +131,4 @@ Component 5: 67
 **参考:**
 
 *   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple-5。-克托？视图=netframework-4.8](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple-5.-ctor?view=netframework-4.8)
-*   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple . create？view = net framework-4.8 # System _ ValueTuple _ Create _ _ 5 _ _ 0 _ _ 1 _ _ 2 _ _ 3 _ _ 4 _](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple.create?view=netframework-4.8#System_ValueTuple_Create__5___0___1___2___3___4_)
+*   [https://docs . Microsoft . com/en-us/dotnet/API/system . value tuple . create？view = net framework-4.8 # System _ ValueTuple _ Create _ _ 5 _ _ 0 _ _ 1 _ _ 2 _ _ 3 _ _ 4 _](https://docs.microsoft.com/en-us/dotnet/api/system.valuetuple.create?view=netframework-4.8# System_ValueTuple_Create__5___0___1___2___3___4_)

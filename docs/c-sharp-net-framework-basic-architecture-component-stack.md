@@ -2,8 +2,8 @@
 
 > 原文:[https://www . geesforgeks . org/c-sharp-net-framework-basic-architecture-component-stack/](https://www.geeksforgeeks.org/c-sharp-net-framework-basic-architecture-component-stack/)
 
-。NET 是由微软设计和开发的软件框架。的第一个版本。Net 框架是 2002 年出现的 1.0。简单来说，就是一个虚拟机，用来编译和执行用 [C#](https://www.geeksforgeeks.org/introduction-to-c/) 、VB.Net 等不同语言编写的程序。
-用于开发基于表单的应用程序、基于网络的应用程序和网络服务。上有多种编程语言。网络平台，VB.Net 和 [C#](https://www.geeksforgeeks.org/introduction-to-c/) 是最常见的。它被用来为视窗、电话、网络等构建应用程序。它提供了很多功能，也支持行业标准。
+。NET 是由微软设计和开发的软件框架。的第一个版本。Net 框架是 2002 年出现的 1.0。简单来说，就是一个虚拟机，用来编译和执行用 [C# ](https://www.geeksforgeeks.org/introduction-to-c/) 、VB.Net 等不同语言编写的程序。
+用于开发基于表单的应用程序、基于网络的应用程序和网络服务。上有多种编程语言。网络平台，VB.Net 和 [C# ](https://www.geeksforgeeks.org/introduction-to-c/) 是最常见的。它被用来为视窗、电话、网络等构建应用程序。它提供了很多功能，也支持行业标准。
 
 ### **的基本架构和组件堆栈。NET 框架**
 
@@ -11,7 +11,7 @@
 
 [![.Net Framework Component Stack](img/f8d90e7d6e35541f9dce12ee5a524930.png)](https://media.geeksforgeeks.org/wp-content/uploads/Net-Framework.jpg)
 
-**1。CLR(公共语言运行时):**它是一个运行时环境，可以执行以任何方式编写的代码。NET 编程语言。。Net 框架为许多语言提供了支持，如 [C#](https://www.geeksforgeeks.org/introduction-to-c/) 、F #[c++](https://www.geeksforgeeks.org/c-plus-plus/)、Cobra、Jscript.Net、VB.Net、Oxygene 等
+**1。CLR(公共语言运行时):**它是一个运行时环境，可以执行以任何方式编写的代码。NET 编程语言。。Net 框架为许多语言提供了支持，如 [C# ](https://www.geeksforgeeks.org/introduction-to-c/) 、F # [c++](https://www.geeksforgeeks.org/c-plus-plus/)、Cobra、Jscript.Net、VB.Net、Oxygene 等
 
 **2。FCL(框架类库):**在这个被称为 FCL 的框架中存在大量类库。
 
@@ -29,7 +29,7 @@
 
 **7。卡空间:**是微软。NET Framework 软件客户端，旨在让用户以安全、简单和可信的方式向在线服务提供其数字身份。
 
-**8。LINQ(语言集成查询):**介绍于。Net 框架 3.5 版。基本上是一种用 VB 或者 [C#](https://www.geeksforgeeks.org/introduction-to-c/) 编程语言对数据源进行查询的查询语言。
+**8。LINQ(语言集成查询):**介绍于。Net 框架 3.5 版。基本上是一种用 VB 或者 [C# ](https://www.geeksforgeeks.org/introduction-to-c/) 编程语言对数据源进行查询的查询语言。
 
 **9。实体框架:**它是基于开源 ORM(对象关系映射)的框架。Net Framework 版。它使。Net 开发人员使用。Net 对象。在实体框架之前。Net 开发人员已经执行了很多与数据库相关的事情。像打开到数据库的连接一样，开发人员必须创建一个数据集来获取数据或将数据提交到数据库，将数据从数据集转换为。NET 对象，反之亦然。这给开发人员带来了困难，也是容易出错的过程，然后**“实体框架”**开始为应用程序自动化所有这些数据库相关的活动。因此，实体框架允许开发人员在更高的抽象层次上工作。
 
@@ -39,6 +39,6 @@
 
 **11 时。TPL(任务并行库):**它是一组公共类型和 API。通过简化向添加并发性和并行性的过程，它允许开发人员提高工作效率。Net 应用程序。
 
-**12 时。。商店/UWP 应用的. NET API:**2012 年，微软增加了一些使用 [C#](https://www.geeksforgeeks.org/introduction-to-c/) 或 VB 为 Windows 创建 **UWP(通用 Windows 平台)**应用的 API。
+**12 时。。商店/UWP 应用的. NET API:**2012 年，微软增加了一些使用 [C# ](https://www.geeksforgeeks.org/introduction-to-c/) 或 VB 为 Windows 创建 **UWP(通用 Windows 平台)**应用的 API。
 
 **13。基于任务的异步模型:**它是用来描述中异步操作和任务的模型。Net 框架。

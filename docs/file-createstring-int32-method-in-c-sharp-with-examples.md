@@ -1,4 +1,4 @@
-# 文件。C#中的 Create(String，Int32)方法，示例
+# 文件。C# 中的 Create(String，Int32)方法，示例
 
 > 原文:[https://www . geesforgeks . org/file-createstring-int 32-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/file-createstring-int32-method-in-c-sharp-with-examples/)
 

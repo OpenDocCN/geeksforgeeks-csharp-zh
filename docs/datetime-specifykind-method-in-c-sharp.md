@@ -1,4 +1,4 @@
-# 日期时间。在 C#中指定 Kind()方法
+# 日期时间。在 C# 中指定 Kind()方法
 
 > 原文:[https://www . geesforgeks . org/datetime-指定 c-sharp 中的 kind-method/](https://www.geeksforgeeks.org/datetime-specifykind-method-in-c-sharp/)
 

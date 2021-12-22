@@ -1,4 +1,4 @@
-# 文件。C#中的 SetLastWriteTime()方法，示例
+# 文件。C# 中的 SetLastWriteTime()方法，示例
 
 > 原文:[https://www . geesforgeks . org/file-setlastwritetime-method-in-csharp-with-examples/](https://www.geeksforgeeks.org/file-setlastwritetime-method-in-csharp-with-examples/)
 

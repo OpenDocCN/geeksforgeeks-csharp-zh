@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-insert-method/](https://www.geeksforgeeks.org/c-sharp-insert-method/)
 
-在 C#中， ***Insert()*** 方法是一个 String 方法。它用于返回一个新字符串，其中指定的字符串被插入到当前字符串实例的指定索引位置。
+在 C# 中， ***Insert()*** 方法是一个 String 方法。它用于返回一个新字符串，其中指定的字符串被插入到当前字符串实例的指定索引位置。
 
 **语法:**
 

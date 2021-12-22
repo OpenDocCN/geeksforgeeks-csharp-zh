@@ -1,8 +1,8 @@
-# MathF。C#中的 Exp()方法，带示例
+# MathF。C# 中的 Exp()方法，带示例
 
 > 原文:[https://www . geesforgeks . org/mathf-exp-method-in-c-sharp-with-examples/](https://www.geeksforgeeks.org/mathf-exp-method-in-c-sharp-with-examples/)
 
-在 C#中， ***Exp(Single)*** 是一个 MathF 类方法，用于将 **e** 提升到指定的幂。这里 *e* 是一个数学常数，其值约为 **2.71828** 。
+在 C# 中， ***Exp(Single)*** 是一个 MathF 类方法，用于将 **e** 提升到指定的幂。这里 *e* 是一个数学常数，其值约为 **2.71828** 。
 
 > **语法:**公共静态浮点 Exp(float x)；
 > 此处， **x** 为*系统类型所需编号。单*指定一个功率。

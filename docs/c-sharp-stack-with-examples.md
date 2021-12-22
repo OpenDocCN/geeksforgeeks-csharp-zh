@@ -1,4 +1,4 @@
-# C#堆栈示例
+# C# 堆栈示例
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-stack-with-examples/](https://www.geeksforgeeks.org/c-sharp-stack-with-examples/)
 

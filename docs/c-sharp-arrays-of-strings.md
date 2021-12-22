@@ -49,7 +49,7 @@
 > 
 > str2 =新字符串[]{“元素 1”、“元素 2”、“元素 3”、“元素 4”、“元素 5”}；
 
-**注意:**未给出大小的初始化在 C#中无效。它会给出编译时错误。
+**注意:**未给出大小的初始化在 C# 中无效。它会给出编译时错误。
 
 **示例:**初始化数组的声明错误
 
@@ -92,7 +92,7 @@ String[] weekDays = new string[3] {"Sun", "Mon", "Tue", "Wed"};
 
 ```
 
-**代码#1:** 字符串数组声明、初始化和访问其元素
+**代码# 1:** 字符串数组声明、初始化和访问其元素
 
 ```cs
 // C# program to illustrate the String array 
@@ -128,7 +128,7 @@ Element 3
 
 ```
 
-**代码#2:** 单行数组声明和初始化
+**代码# 2:** 单行数组声明和初始化
 
 ```cs
 // C# code to illustrate Array declaration
@@ -189,7 +189,7 @@ Noida
 
     ```
 
-*   C#字符串数组基本上是一个 ***数组的对象*** 。
+*   C# 字符串数组基本上是一个 ***数组的对象*** 。
 *   It doesn’t matter whether you are creating an array of string using *string* keyword or *String class object*. Both are same.
 
     **示例:**

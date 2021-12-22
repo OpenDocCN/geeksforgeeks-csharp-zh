@@ -2,7 +2,7 @@
 
 > 原文:[https://www.geeksforgeeks.org/c-sharp-datetimepicker-class/](https://www.geeksforgeeks.org/c-sharp-datetimepicker-class/)
 
-在 Windows 窗体中，DateTimePicker 控件用于选择和显示窗体中特定格式的日期/时间。FlowLayoutPanel 类用于表示窗口日期选择器控件，还提供不同类型的属性、方法和事件。在**系统下定义。Windows.Forms** 命名空间。您可以创建两种不同类型的日期选择器，一种是用文本表示日期的下拉列表，另一种是单击给定列表旁边的向下箭头时出现的日历。在 C#中，您可以使用两种不同的方法在 windows 窗体中创建日期时间选择器:
+在 Windows 窗体中，DateTimePicker 控件用于选择和显示窗体中特定格式的日期/时间。FlowLayoutPanel 类用于表示窗口日期选择器控件，还提供不同类型的属性、方法和事件。在**系统下定义。Windows.Forms** 命名空间。您可以创建两种不同类型的日期选择器，一种是用文本表示日期的下拉列表，另一种是单击给定列表旁边的向下箭头时出现的日历。在 C# 中，您可以使用两种不同的方法在 windows 窗体中创建日期时间选择器:
 
 **1。设计时:**创建日期时间选择器控件是最简单的方法，如以下步骤所示:
 

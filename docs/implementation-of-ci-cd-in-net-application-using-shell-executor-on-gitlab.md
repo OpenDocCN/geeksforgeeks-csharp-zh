@@ -150,13 +150,13 @@ before_script:
 build_job:
  stage: build
  only:
-   - developer #this branch will run on GitLab Runner and can change it.  
+   - developer # this branch will run on GitLab Runner and can change it.  
  script:  
     - '& "$env:MSBUILD_PATH" sourcecode\project.sln /p:DeployOnBuild=true /p:Configuration=Release  /p:Platform="Any CPU" /P:PublishProfile=FolderProfile.pubxml'  
     - '& "$env:MSBUILD_PATH" test\test.sln /p:DeployOnBuild=true /p:Configuration=Release /p:Platform="Any CPU" /P:PublishProfile=FolderProfile.pubxml'  
 
  artifacts:
-   expire_in: 365 days  #artifcats will be stored only 365 days after this it will expire  
+   expire_in: 365 days  # artifcats will be stored only 365 days after this it will expire  
    paths:
      - '.\sourcecode\project.sln\bin\Release\Publish\'
      - '.\sourcecode\project.sln\bin\Publish\'
@@ -166,9 +166,9 @@ build_job:
 test_job:
  stage: test
  only:
-   - developer #this branch will run on GitLab Runner and can change it.  
+   - developer # this branch will run on GitLab Runner and can change it.  
  script:
-   - .\test\test.bat  #This is bat file, if the test are written in script format  
+   - .\test\test.bat  # This is bat file, if the test are written in script format  
 
  dependencies:
    - build_job
@@ -176,11 +176,11 @@ test_job:
 deploy_job:
  stage: deploy
  only:
-   - developer #this branch will run on GitLab Runner and can change it.  
+   - developer # this branch will run on GitLab Runner and can change it.  
  script:
-    - 'xcopy /y /s ".\sourcecode\project.sln\bin\Release\Publish\*.*" "C:\solutionDir"'  #Path where you want to store the solution  
+    - 'xcopy /y /s ".\sourcecode\project.sln\bin\Release\Publish\*.*" "C:\solutionDir"'  # Path where you want to store the solution  
 
- dependencies:    #after successfully build, only test stage will run  
+ dependencies:    # after successfully build, only test stage will run  
    - build_job
    - test_job
 ```

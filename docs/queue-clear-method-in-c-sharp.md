@@ -1,4 +1,4 @@
-# 排队。C#中的清除方法
+# 排队。C# 中的清除方法
 
 > 原文:[https://www . geesforgeks . org/queue-clear-method-in-c-sharp/](https://www.geeksforgeeks.org/queue-clear-method-in-c-sharp/)
 

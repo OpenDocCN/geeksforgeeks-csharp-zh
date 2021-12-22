@@ -2,7 +2,7 @@
 
 > 原文:[https://www . geeksforgeeks . org/c-sharp-method-returning-a-object/](https://www.geeksforgeeks.org/c-sharp-method-returning-an-object/)
 
-在 C#中，方法可以返回任何类型的数据，包括对象。换句话说，允许方法返回对象而没有任何编译时错误。
+在 C# 中，方法可以返回任何类型的数据，包括对象。换句话说，允许方法返回对象而没有任何编译时错误。
 
 **例 1:**
 
